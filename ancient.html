@@ -149,6 +149,45 @@ body {
     box-shadow: 0 0 40px rgba(147, 112, 219, 0.6);
 }
 
+.btn-skylore {
+    width: 100%;
+    padding: 12px 25px;
+    font-size: 1em;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #00ced1, #4169e1);
+    border: 2px solid rgba(0, 206, 209, 0.5);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 30px rgba(0, 206, 209, 0.4);
+    margin-top: 10px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-skylore:before {
+    content: '⭐';
+    position: absolute;
+    left: 20px;
+    font-size: 1.2em;
+    animation: sparkle 2s ease-in-out infinite;
+}
+
+@keyframes sparkle {
+    0%, 100% { transform: scale(1) rotate(0deg); opacity: 1; }
+    50% { transform: scale(1.2) rotate(180deg); opacity: 0.8; }
+}
+
+.btn-skylore:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 40px rgba(0, 206, 209, 0.6);
+    background: linear-gradient(135deg, #4169e1, #00ced1);
+}
+
 .progress-section {
     margin-bottom: 15px;
 }
@@ -392,10 +431,10 @@ body {
         font-size: 0.75em;
     }
 
-    .btn-primary {
+    .btn-primary, .btn-skylore {
         padding: 16px 32px;
         font-size: 1.125em;
-        margin-top: 32px;
+        margin-top: 16px;
     }
 
     .progress-section {
@@ -490,6 +529,7 @@ body {
                 </div>
                 
                 <button id="startButton" class="btn-primary">Begin Your Cosmic Journey</button>
+                <a href="YOUR_WEBSITE_URL_HERE" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
 
@@ -541,6 +581,7 @@ body {
                 </div>
                 
                 <button id="restartButton" class="btn-primary">Restart Journey</button>
+                <a href="https://skylore2025.github.io" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
     </div>
@@ -620,7 +661,7 @@ async function loadQuestions() {
         
     } catch (error) {
         console.error('Error loading questions:', error);
-        alert('Failed to load quiz questions.');
+        alert('Failed to load quiz questions. Please make sure ancient.csv is in the same directory.');
     }
 }
 
@@ -900,15 +941,15 @@ function showResults() {
     incorrectCount.textContent = incorrect;
     
     if (percent >= 90) {
-        resultMessage.textContent = "🌟 Stellar Performance! You're an Ancient Astronomy Master!";
+        resultMessage.textContent = "Stellar Performance! You're an Ancient Astronomy Master!";
     } else if (percent >= 75) {
-        resultMessage.textContent = "🌙 Excellent! You have impressive knowledge of ancient space sciences!";
+        resultMessage.textContent = "Excellent! You have impressive knowledge of ancient space sciences!";
     } else if (percent >= 60) {
-        resultMessage.textContent = "⭐ Good Job! You understand ancient astronomical concepts well!";
+        resultMessage.textContent = "Good Job! You understand ancient astronomical concepts well!";
     } else if (percent >= 45) {
-        resultMessage.textContent = "🪐 Not bad! Keep exploring the cosmos of ancient knowledge!";
+        resultMessage.textContent = "Not bad! Keep exploring the cosmos of ancient knowledge!";
     } else {
-        resultMessage.textContent = "☄️ Keep learning! The universe of ancient astronomy awaits your discovery!";
+        resultMessage.textContent = "Keep learning! The universe of ancient astronomy awaits your discovery!";
     }
 }
 
@@ -929,8 +970,7 @@ restartButton.addEventListener('click', restartQuiz);
 startButton.disabled = true;
 startButton.textContent = 'Loading Questions...';
 loadQuestions();
-</script>
-</body>
-</html>
+
+
 
 
