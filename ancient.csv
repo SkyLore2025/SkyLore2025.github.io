@@ -78,4 +78,665 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 77,"What is the analemma?",Sun's yearly path,Moon's nodes,Planet's retrograde,Star's motion,0,Solar Phenomena
 78,"Which ancient astronomer cataloged nebulae?",Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 79,"What did ancient cultures call the band of the zodiac?",Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
+
 80,"Which civilization first recorded Halley's Comet?",Chinese,Babylonian,Greek,Egyptian,0,Observations
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Ancient Polynesian navigators memorized rising and setting positions of stars to steer their canoes. What is this method commonly called?","Star compass navigation","Stellar triangulation","Epicycle navigation","Lunar triangulation",0,"Celestial Navigation"
+2,"Which device, developed by 9th‑century Arab navigators, measured the angle of the North Star above the horizon to estimate latitude?","Astrolabe","Sextant","Kamal","Quadrant",2,"Celestial Navigation"
+3,"In Polynesian wayfinding, the sky is divided into ‘houses’ where stars rise and set. How many star‑houses are there in the Hawaiian star compass?","16","24","32","40",2,"Celestial Navigation"
+4,"Which ancient civilization is credited with using the North Star for orientation in their river navigation?","Babylonians","Egyptians","Greeks","Chinese",1,"Celestial Navigation"
+5,"What is the principle behind steering by a horizon star?","Follow a star as it crosses the meridian","Constantly adjust course toward the star’s rising azimuth","Use star’s angular height to measure distance","Use the moon to triangulate",1,"Celestial Navigation"
+6,"Which instrument was used by Egyptians (with a plumb line) to align with decans and track night hours, also helping orient north?","Gnomon","Merkhet","Astrolabe","Sundial",1,"Celestial Navigation"
+7,"Polynesian wayfinders often use ocean swells and stars in combination. Which of the following is *not* part of their toolkit?","Bird flight paths","Solar declination tables","Cloud formations","Star positions",1,"Celestial Navigation"
+8,"Which of these cultures developed methods of celestial navigation that heavily influenced later Arab sailors?","Persians","Romans","Indians","Chinese",0,"Celestial Navigation"
+9,"What is the approximate maximum angular distance from the horizon at which a star can still be used for direction in Polynesian navigation?","10°","30–35°","60°","85°",1,"Celestial Navigation"
+10,"Which famous voyaging canoe in Hawaiʻi uses traditional wayfinding (stars, swells, etc.) instead of instruments?","Santa Maria","Hōkūleʻa","Niña","Endeavour",1,"Celestial Navigation"
+11,"Which Greek or Hellenistic astronomer compiled a catalog of stars that aided later navigators?","Aristotle","Hipparchus","Eratosthenes","Ptolemy",1,"Celestial Navigation"
+12,"When using a kamal, what does the navigator align to measure latitude?","Horizon to celestial equator","North Star to southern cross","Star’s cord to ruler edge","Star’s angular height above horizon",3,"Celestial Navigation"
+13,"Which direction did ancient sailors generally use the North Star (Polaris) for?","To find east","To find south","To find north","To find zenith",2,"Celestial Navigation"
+14,"What disadvantage did celestial navigation have compared to modern methods?","Not working during cloudy nights","Too accurate beyond a few miles","Requires telescopes","Cannot find latitude",0,"Celestial Navigation"
+15,"Which sea‑faring people are among the earliest recorded to use stars for open‑sea navigation in the Mediterranean?","Phoenicians","Romans","Persians","Scythians",0,"Celestial Navigation"
+16,"Which constellation’s three stars (the Belt) are used in Polynesian navigation (as part of star lines)?","Scorpius","Orion","Lyra","Ursa Major",1,"Celestial Navigation"
+17,"In celestial navigation, what is an “azimuth”?","Angular height of a star","Direction (compass bearing) to a celestial object","Angular distance between stars","Rate of rising/setting",1,"Celestial Navigation"
+18,"Which tool was adapted for marine use (from astronomical instrument) to measure altitude at sea?","Cross‑staff","Sundial","Astrolabe","Gnomon",2,"Celestial Navigation"
+19,"Which ocean did ancient Arabs and Indians use the kamal most extensively?","Atlantic Ocean","Indian Ocean","Pacific Ocean","Arctic Ocean",1,"Celestial Navigation"
+20,"What is the term for the point directly overhead a navigator on Earth?","Azimuth","Zenith","Nadir","Meridian",1,"Celestial Navigation"
+21,"Which ancient culture used decans (star groups) to divide the night into segments for navigation?","Babylonians","Egyptians","Mayans","Chinese",1,"Celestial Navigation"
+22,"What is one reason the Polynesian method divides the sky into star “families” or lines?","To track planetary orbits","To reduce memorization burden","To adjust for precession","To bypass horizon stars",1,"Celestial Navigation"
+23,"Which method did ancient Mediterranean navigators use to stay on course at night?","Keep a star on the beam (side of ship)","Use the moon’s phases","Use cloud shadows","Use compass alone",0,"Celestial Navigation"
+24,"What did Vikings possibly use to locate the sun on cloudy days during navigation?","Magnetic compass","Astrolabe","Sunstone (polarizing crystal)","GPS",2,"Celestial Navigation"
+25,"Which famous ancient instrument was widely refined in the Islamic world and used to find star altitudes for navigation?","Telescope","Quadrant","Astrolabe","Sextant",2,"Celestial Navigation"
+26,"Which factor limits using stars for navigation close to the equator?","Stars never set","Stars rise perpendicular to horizon","Polaris becomes invisible","No constellations",2,"Celestial Navigation"
+27,"How did Polynesian navigators deal with cloudy nights when stars were obscured?","Wait until dawn","Use known star lines and estimate","Use sun positioning","Use echo soundings",1,"Celestial Navigation"
+28,"Which body of water saw early use of celestial navigation by Egyptians and Greeks?","Atlantic Ocean","Persian Gulf","Mediterranean Sea","Indian Ocean",2,"Celestial Navigation"
+29,"What is a “star line” in the Hawaiian star compass context?","A galaxy arm used for direction","A set of stars that rise and set along known bearings","Meteor shower path","Asterism crossing zenith",1,"Celestial Navigation"
+30,"Which Arabic word refers to the simple star‑latitude measuring device (kamal)?","Alhazen","Khashaba","Zij","Almanac",1,"Celestial Navigation"
+31,"What is ‘dead reckoning’ in navigation, often used along with stars?","Using stars only","Estimating position by previous speed & heading","Using only the sun","Using magnetic variation charts",1,"Celestial Navigation"
+32,"Which of these is *not* a celestial navigation technique?","Using moon for bearing","Using stars for azimuth","Using Polaris altitude","Using sun shadow for direction",0,"Celestial Navigation"
+33,"Which navigational challenge remained unsolved until accurate marine chronometers, despite celestial methods?","Finding latitude","Measuring speed","Estimating longitude","Estimating declination",2,"Celestial Navigation"
+34,"In Greek/Roman navigation, which star was used as a “steering star” on the left or right side of the ship?","Polaris","Dubhe","Antares","Regulus",1,"Celestial Navigation"
+35,"Which modern-day country’s ancient sailors used the kamal method in the Indian Ocean?","China","India","Greece","Rome",1,"Celestial Navigation"
+36,"What was the role of memorizing rising/setting bearings of stars in the night sky?","To predict eclipses","To maintain a constant heading","To find latitude numerically","To compute calendar dates",1,"Celestial Navigation"
+37,"Which factor does **not** influence the apparent rising azimuth of a star?","Observer’s latitude","Precession over centuries","Local horizon shape","Time of year",3,"Celestial Navigation"
+38,"What is the opposite concept of a star’s rising point?","Culmination","Setting point","Transit","Declination",1,"Celestial Navigation"
+39,"Which sea route in ancient times would most likely benefit from nocturnal star navigation?","Coastal river path","Cross‑ocean route","Inland lake crossing","Desert caravan route",1,"Celestial Navigation"
+40,"Which of these is true about using stars to navigate in the southern hemisphere (ancient times)?","Polaris was used there","They used Southern Cross & southern constellations","North Star was always above horizon","No stars visible",1,"Celestial Navigation"
+41,"What is the name of the traditional Polynesian navigation revival master who helped reestablish star wayfinding?","Christopher Columbus","James Cook","Mau Piailug","Magellan",2,"Celestial Navigation"
+42,"Which ancient navigational tool is a modification of the planispheric astrolabe adapted for use at sea?","Mariner’s astrolabe","Cross staff","Backstaff","Sextant",0,"Celestial Navigation"
+43,"What is the main reason a star’s altitude (angle above horizon) changes over a night?","Earth’s rotation","Star’s intrinsic motion","Earth’s revolution around sun","Precession",0,"Celestial Navigation"
+44,"Which navigation method did ancient sailors sometimes combine with celestial navigation to improve accuracy?","Dead reckoning","Radio triangulation","Radar","Satellite GPS",0,"Celestial Navigation"
+45,"Which region’s ancient sailors mastered wayfinding over thousands of miles of open ocean using stars and nature?","Mediterranean","Indian Ocean","Polynesia","Baltic Sea",2,"Celestial Navigation"
+46,"What concept refers to the visible path a star traces across the sky during the night for navigators?","Ecliptic","Diurnal arc","Galactic plane","Meridian",1,"Celestial Navigation"
+47,"What is the benefit of having multiple stars rising in similar azimuths (star families)?","They confuse direction","They provide alternate backup bearings","They obscure the horizon","They cancel each other",1,"Celestial Navigation"
+48,"Which of these was rarely used by ancient celestial navigators because it is difficult to measure at sea?","Star azimuth","Star altitude","Star parallax","Rising/setting azimuth",2,"Celestial Navigation"
+49,"Which ancient civilization made early star catalogs that later aided navigation?","Babylonians","Romans","Aztecs","Incas",0,"Celestial Navigation"
+50,"What is the “star compass” in Polynesian navigation?","A physical compass instrument","A mental map of star azimuths","A sun‑shadow device","A lunar calendar",1,"Celestial Navigation"
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which civilization is credited with one of the earliest lunar calendars?",Sumerians,Romans,Greeks,Chinese,0,Lunar Calendars
+2,"How many days are in a typical lunar month?",28,29,29.5,30,2,Lunar Calendars
+3,"The Islamic calendar is based on what type of cycle?",Solar,Lunar,Lunisolar,Stellar,1,Lunar Calendars
+4,"What is the term for the first visible crescent moon that marks a new month in many lunar calendars?",Full Moon,Blue Moon,New Crescent,Harvest Moon,2,Lunar Calendars
+5,"Which ancient calendar adjusted the lunar cycle with intercalary months to align with the seasons?",Mayan calendar,Egyptian calendar,Hindu calendar,Gregorian calendar,2,Lunar Calendars
+6,"The Hebrew calendar is what type of calendar?",Lunar,Solar,Lunisolar,Stellar,2,Lunar Calendars
+7,"How many months are there typically in a lunar year?",10,11,12,13,2,Lunar Calendars
+8,"Which ancient Chinese calendar was based on lunar and solar cycles?",Zodiac calendar,Qing calendar,Yin-Yang calendar,Traditional Chinese calendar,3,Lunar Calendars
+9,"In ancient Mesopotamia, what event marked the start of a new month?",Full Moon,Eclipse,Sunrise,First crescent moon,3,Lunar Calendars
+10,"Which civilization used a calendar based on the moon phases called the 'Metonic cycle'?",Babylonians,Greeks,Romans,Egyptians,1,Lunar Calendars
+11,"Which ancient festival in Judaism begins on the 15th day of the lunar month of Nisan?",Purim,Hanukkah,Passover,Rosh Hashanah,2,Lunar Calendars
+12,"Why did many ancient calendars struggle with accurate year lengths?",Ignored leap years,Only tracked moon,Didn't consider solar drift,Lacked math skills,2,Lunar Calendars
+13,"Which ancient Roman calendar began as a lunar calendar before Julian reforms?",Colossean calendar,Lunar Roman Calendar,Pre-Julian Calendar,Romulus Calendar,2,Lunar Calendars
+14,"The Hindu lunisolar calendar divides each month into what two phases?",Dark and bright half,North and south,Day and night,Sunrise and sunset,0,Lunar Calendars
+15,"The ancient Egyptian calendar was primarily:",Lunar,Solar,Lunisolar,Mercurial,1,Lunar Calendars
+16,"Which calendar system used by ancient Arabs was replaced by the Islamic lunar calendar?",Zoroastrian calendar,Pre-Islamic lunar calendar,Persian calendar,Babylonian calendar,1,Lunar Calendars
+17,"A lunar month is also called a:",Solar period,Synodic month,Stellar phase,Epicyclic phase,1,Lunar Calendars
+18,"Which Islamic festival marks the end of Ramadan, the 9th month of the Islamic lunar calendar?",Eid al-Fitr,Eid al-Adha,Muharram,Laylat al-Qadr,0,Lunar Calendars
+19,"The Metonic cycle reconciles how many solar years with lunar months?",19 years with 235 lunar months,10 years with 120 lunar months,12 years with 144 lunar months,20 years with 240 lunar months,0,Lunar Calendars
+20,"The Mayans tracked lunar phases for what purpose?",War planning,Astronomy only,Religious festivals,Agricultural timing,2,Lunar Calendars
+21,"In the Chinese calendar, the New Year is based on:",Winter solstice,First full moon of spring,First new moon between Jan 21 and Feb 20,March equinox,2,Lunar Calendars
+22,"Which calendar includes months like Muharram and Safar?",Hebrew calendar,Chinese calendar,Hindu calendar,Islamic calendar,3,Lunar Calendars
+23,"Why do lunar calendars drift from the seasons?",Shorter lunar year,Longer lunar month,No leap years,Sun isn’t tracked,0,Lunar Calendars
+24,"What is the purpose of intercalation in lunisolar calendars?",Track eclipses,Align festivals,Add leap days,Adjust lunar months to match seasons,3,Lunar Calendars
+25,"Which culture’s calendar inspired the Hebrew lunisolar system?",Chinese,Egyptian,Babylonian,Greek,2,Lunar Calendars
+26,"What does the term 'lunation' refer to?",One eclipse cycle,One solar cycle,One lunar orbit,One cycle of moon phases,3,Lunar Calendars
+27,"What kind of calendar did Julius Caesar implement in 45 BCE?",Lunar,Lunisolar,Solar,Metonic,2,Lunar Calendars
+28,"Which Buddhist traditions still use lunar calendars for festival dates?",Mahayana,Theravāda,Vajrayana,All of the above,3,Lunar Calendars
+29,"What caused the months in ancient lunar calendars to shift over years?",Precession,No solar correction,Earthquake cycles,Planetary motion,1,Lunar Calendars
+30,"In Hindu calendars, 'Purnima' refers to:",New moon,Half moon,Full moon,Dark moon,2,Lunar Calendars
+31,"Which festival is celebrated on the 15th day of the 8th lunar month in Chinese culture?",Qingming Festival,Lantern Festival,Mid-Autumn Festival,Dragon Boat Festival,2,Lunar Calendars
+32,"Which empire used a lunisolar calendar but heavily based their months on moon phases?",Roman,Assyrian,Greek,Mayan,2,Lunar Calendars
+33,"What was the Greek name for their lunar calendar months?",Kalends,Nymena,Selēnē,Dekas,1,Lunar Calendars
+34,"What is the average length of a lunar year (in days)?",354,360,365,340,0,Lunar Calendars
+35,"How many lunar months make up a lunar year?",12,13,14,11,0,Lunar Calendars
+36,"What is a blue moon in the lunar calendar context?",Second full moon in a calendar month,First moon after solstice,Eclipse month,First full moon of spring,0,Lunar Calendars
+37,"Which ancient calendar used 12 lunar months and added a 13th month every few years?",Islamic calendar,Babylonian calendar,Mayan calendar,Egyptian calendar,1,Lunar Calendars
+38,"What is the Hebrew intercalary month added 7 times every 19 years?",Adar,Adar II,Tishrei,Nisan,1,Lunar Calendars
+39,"In ancient India, which system divided lunar months based on the full moon’s position?",Nakshatra system,Solar rasi method,Purnimanta system,Amanta system,2,Lunar Calendars
+40,"How did ancient Chinese determine the need for a leap month?",Position of sun and moon,Star positions,Lunar eclipses,Weather patterns,0,Lunar Calendars
+41,"In Mesopotamia, how many days did their typical lunar month have?",30,28,29 or 30 depending on observation,27,2,Lunar Calendars
+42,"Which calendar system replaced the Julian calendar due to solar drift?",Babylonian,Gregorian,Hebrew,Chinese,1,Lunar Calendars
+43,"Which culture celebrated lunar-based festivals like Imbolc and Samhain?",Greek,Indian,Celtic,Mayan,2,Lunar Calendars
+44,"Why are Islamic months not tied to seasons?",They don't use intercalary months,They use solar events,Calendar is fixed,They start each month with a full moon,0,Lunar Calendars
+45,"The term 'waxing moon' refers to:",Moon shrinking,New moon phase,Increasing visible moon,Full moon,2,Lunar Calendars
+46,"Which phase is the moon in during a solar eclipse?",New moon,Full moon,Waning moon,Quarter moon,0,Lunar Calendars
+47,"Why did Babylonians use lunar calendars?",Agriculture,Religion,Astronomy,All of the above,3,Lunar Calendars
+48,"What instrument did ancient Chinese use to observe lunar phases?",Gnomon,Armillary sphere,Sextant,Calendar stick,1,Lunar Calendars
+49,"Which Mayan calendar tracked lunar and eclipse cycles?",Tzolk'in,Haab',Long Count,Lunar Series,3,Lunar Calendars
+50,"Which civilization built temples aligned with lunar events and phases?",Inca,Chinese,Indian,Mayan,3,Lunar Calendars
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which ancient civilization is credited with creating one of the earliest solar calendars?",Babylonians,Egyptians,Romans,Chinese,1,Solar Calendars
+2,"How many days were in the ancient Egyptian solar calendar?",360,364,365,366,2,Solar Calendars
+3,"What was added to the Egyptian calendar to align it with the solar year?",Leap day,Extra week,5 epagomenal days,Intercalary month,2,Solar Calendars
+4,"The ancient Roman calendar before Julius Caesar was primarily:",Solar,Lunar,Lunisolar,Stellar,2,Solar Calendars
+5,"Who reformed the Roman calendar into a solar-based system in 45 BCE?",Augustus,Marcus Aurelius,Julius Caesar,Nero,2,Solar Calendars
+6,"What is the name of the calendar Julius Caesar introduced?",Gregorian calendar,Julian calendar,Imperial calendar,Caesaric calendar,1,Solar Calendars
+7,"Which civilization tracked the heliacal rising of Sirius to predict the Nile flooding?",Greeks,Egyptians,Mesoamericans,Chinese,1,Solar Calendars
+8,"The Mayan Haab' calendar is what type of calendar?",Lunar,Solar,Lunisolar,Stellar,1,Solar Calendars
+9,"How many days were in the Mayan Haab' year?",360,364,365,400,2,Solar Calendars
+10,"Which two components made up the Mayan calendar system?",Tzolk'in and Long Count,Haab' and Gregorian,Tzolk'in and Haab',Julian and Aztec,2,Solar Calendars
+11,"The solar calendar used by the Persians was known as:",Hijri calendar,Nowruz calendar,Khwarazmian calendar,Zoroastrian calendar,3,Solar Calendars
+12,"Which calendar replaced the Julian calendar due to its solar inaccuracy?",Islamic calendar,Gothic calendar,Gregorian calendar,Babylonian calendar,2,Solar Calendars
+13,"What event marks the beginning of the solar year in many ancient cultures?",Winter solstice,Spring equinox,Autumn equinox,Summer solstice,0,Solar Calendars
+14,"The Gregorian calendar was introduced by which pope?",Pope Leo X,Pope Gregory XIII,Pope Innocent III,Pope Urban II,1,Solar Calendars
+15,"What was the key correction made in the Gregorian reform?",Added leap months,Changed week length,Adjusted leap year rule,Added extra days in August,2,Solar Calendars
+16,"Ancient solar calendars were primarily used for what?",Astrology,Weather prediction,Religious rituals,Agricultural planning,3,Solar Calendars
+17,"Which ancient calendar used 12 months of 30 days plus 5 extra days?",Babylonian calendar,Gregorian calendar,Egyptian calendar,Chinese calendar,2,Solar Calendars
+18,"The Inca used a solar calendar closely tied to which activity?",War planning,Agriculture,Religion,Taxation,1,Solar Calendars
+19,"What monument is believed to mark solar alignments during solstices?",Great Wall of China,Stonehenge,Pyramids of Giza,Mount Olympus,1,Solar Calendars
+20,"Which Mesoamerican civilization had a solar calendar with 18 months?",Aztecs,Maya,Olmecs,Toltecs,0,Solar Calendars
+21,"In ancient China, what was used to track the sun’s path for calendar purposes?",Oracle bones,Water clocks,Gnomons,Astrolabes,2,Solar Calendars
+22,"Which Roman festival marked the rebirth of the sun after winter solstice?",Saturnalia,Equinoxia,Lupercalia,Sol Invictus,3,Solar Calendars
+23,"How many days are there in the Gregorian solar year (on average)?",364.25,365,365.25,366,2,Solar Calendars
+24,"Why was the Julian calendar eventually replaced?",Too complex,Didn’t track moon,Drifted from seasons,Religious reasons,2,Solar Calendars
+25,"The Egyptian solar calendar was closely tied to which star?",Betelgeuse,Polaris,Sirius,Rigel,2,Solar Calendars
+26,"How often is a leap year added in the Gregorian calendar?",Every year,Every 2 years,Every 4 years,Every 5 years,2,Solar Calendars
+27,"What structure did the Inca use to observe solar patterns?",Tikal,Stonehenge,Intihuatana,Chichen Itza,2,Solar Calendars
+28,"Which calendar is most widely used around the world today?",Julian,Hebrew,Gregorian,Lunar,2,Solar Calendars
+29,"The Aztec solar calendar divided the year into how many months?",12,13,18,20,2,Solar Calendars
+30,"In ancient India, which solar calendar was used in conjunction with the lunar calendar?",Saka calendar,Dravidian calendar,Julian calendar,Vikram Samvat,0,Solar Calendars
+31,"Which civilization created the first known 365-day calendar?",Romans,Egyptians,Greeks,Maya,1,Solar Calendars
+32,"What did the Mayans call the five ‘nameless’ days at the end of their solar year?",Tzolk’in,Wayeb’,Haab’,Uayeb’,1,Solar Calendars
+33,"What does 'heliacal rising' mean in ancient solar calendars?",First rising of moon,First rising of sun,Star rising just before sunrise,Star rising at midnight,2,Solar Calendars
+34,"The solar calendar used by ancient Persians is still celebrated as which modern holiday?",Ramadan,Nowruz,Diwali,Passover,1,Solar Calendars
+35,"What structure in Egypt is believed to be aligned with solar phenomena?",Obelisks,The Sphinx,Abu Simbel Temple,Karnak Temple,2,Solar Calendars
+36,"Why did ancient civilizations switch from lunar to solar calendars?",More accurate for festivals,Easier math,Matched star charts,Aligned with agriculture,3,Solar Calendars
+37,"What challenge did solar calendars help solve for early farmers?",Moon phases,Daylight prediction,Seasonal drift,Crop rotation,2,Solar Calendars
+38,"Which culture’s solar calendar included solar zenith days due to its equatorial location?",Chinese,Incan,Mayan,Egyptian,2,Solar Calendars
+39,"What device was used by ancient Greeks to measure solar time?",Clepsydra,Astrolabe,Sundial,Chronograph,2,Solar Calendars
+40,"What was the main purpose of aligning temples and monuments with solstices?",Honor deities,Mark seasonal changes,Predict rain,Track constellations,1,Solar Calendars
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which civilization first systematically recorded planetary movements?",Greeks,Egyptians,Babylonians,Romans,2,Babylonian Astronomy
+2,"The Babylonian zodiac consisted of how many signs?",10,12,14,13,1,Babylonian Astronomy
+3,"Which planet was associated with the Babylonian god Marduk?",Venus,Mercury,Jupiter,Saturn,2,Babylonian Astronomy
+4,"Babylonians divided the sky into how many equal sections?",12,24,36,30,0,Babylonian Astronomy
+5,"What is the name of the Babylonian star catalog that recorded over 70 constellations?",Enuma Anu Enlil,Mul.Apin,Shulgi Tablets,Uruk Almanac,1,Babylonian Astronomy
+6,"Which heavenly body was associated with the goddess Ishtar?",Sun,Venus,Moon,Mars,1,Babylonian Astronomy
+7,"Babylonians used which writing system for astronomical records?",Latin,Sanskrit,Cuneiform,Hieroglyphs,2,Babylonian Astronomy
+8,"The 'Mul.Apin' texts are dated to which century BCE?",6th,9th,12th,14th,1,Babylonian Astronomy
+9,"Which planet was called 'Ninurta' in Babylonian astronomy?",Jupiter,Saturn,Mars,Mercury,1,Babylonian Astronomy
+10,"Babylonian astronomers recorded eclipses as part of which omen-based system?",Zij tables,Astrological wheels,Enuma Anu Enlil,Zodiacal catalogues,2,Babylonian Astronomy
+11,"What shape did Babylonians assume planetary orbits followed?",Circles,Ellipses,Straight lines,Zig-zags,0,Babylonian Astronomy
+12,"How did Babylonians represent the zodiac?",Star charts,Clay tablets with symbols,Wall carvings,Metal discs,1,Babylonian Astronomy
+13,"The Babylonian calendar was primarily:",Solar,Lunar,Lunisolar,Stellar,2,Babylonian Astronomy
+14,"Which Babylonian king is linked to the first astronomical observations?",Nebuchadnezzar II,Hammurabi,Nabonassar,Sargon,2,Babylonian Astronomy
+15,"Babylonian astronomy was preserved through which later civilization?",Romans,Greeks,Egyptians,Indians,1,Babylonian Astronomy
+16,"What was the main goal of Babylonian planetary tracking?",Warfare,Navigation,Divination,Agriculture,2,Babylonian Astronomy
+17,"Which number system did Babylonians use in astronomy?",Decimal,Binary,Sexagesimal,Duodecimal,2,Babylonian Astronomy
+18,"Which Babylonian city was a major center for astronomical study?",Ur,Babylon,Nineveh,Assur,1,Babylonian Astronomy
+19,"The Babylonian term for the ecliptic was:",Ziqpu,Mul,lulû,Shamash,0,Babylonian Astronomy
+20,"Which civilization inherited the Babylonian zodiac system?",Romans,Indians,Greeks,Chinese,2,Babylonian Astronomy
+21,"Which astronomical concept did Babylonians understand surprisingly well?",Precession,Lunar nodes,Planetary retrograde motion,Stellar parallax,2,Babylonian Astronomy
+22,"Which planet was often considered 'evil' in Babylonian omen texts?",Jupiter,Saturn,Mars,Venus,2,Babylonian Astronomy
+23,"Babylonians tracked the movements of how many visible planets?",5,6,7,8,0,Babylonian Astronomy
+24,"What did the Babylonians believe about celestial events?",They were random,They had no meaning,They were divine omens,They were weather signs,2,Babylonian Astronomy
+25,"Babylonian astronomers often used what to calculate future positions?",Ephemerides,Trial and error,Mathematical models,Lunar charts,0,Babylonian Astronomy
+26,"The Babylonian calendar had how many months?",10,12,13,14,1,Babylonian Astronomy
+27,"The zodiac sign Aries corresponded with which Babylonian constellation?",Gu-anna,Gud-an-na,Mul-kak-si,Mul-gu,0,Babylonian Astronomy
+28,"Babylonians were the first to notice the periodicity of which lunar cycle?",Tidal force,Synodic month,Saros cycle,Lunar standstill,2,Babylonian Astronomy
+29,"What kind of eclipse records were common in Babylonian texts?",Solar only,Lunar only,Both solar and lunar,Only planetary eclipses,2,Babylonian Astronomy
+30,"What was the typical medium for Babylonian astronomical data?",Papyrus scrolls,Stone tablets,Clay tablets,Bronze plates,2,Babylonian Astronomy
+31,"Which constellation was known to Babylonians as 'The Goat-Fish'?",Aquarius,Capricorn,Pisces,Sagittarius,1,Babylonian Astronomy
+32,"Babylonian astronomy laid foundations for:",Modern physics,Astrology and ephemerides,Astronautics,Alchemy,1,Babylonian Astronomy
+33,"What did Babylonians call the moon god?",Sin,Shamash,Marduk,Nabu,0,Babylonian Astronomy
+34,"The 'Venus Tablets' of Ammisaduqa recorded which planet’s appearances?",Mercury,Mars,Venus,Jupiter,2,Babylonian Astronomy
+35,"Which planet's retrograde motion was most carefully tracked?",Venus,Saturn,Mars,Jupiter,2,Babylonian Astronomy
+36,"Babylonian astronomers often worked in which profession?",Merchants,Clerics,Temple priests,Farmers,2,Babylonian Astronomy
+37,"What mathematical concept did Babylonians apply in astronomy?",Algebra,Geometry,Trigonometry,Logarithms,1,Babylonian Astronomy
+38,"Which god was linked to the sun in Babylonian belief?",Sin,Marduk,Shamash,Nabu,2,Babylonian Astronomy
+39,"Which era is considered the golden age of Babylonian astronomy?",Old Babylonian,Neo-Assyrian,Neo-Babylonian,Akkadian,2,Babylonian Astronomy
+40,"What is the significance of the Saros cycle in Babylonian astronomy?",Used to track eclipses,Used for agriculture,Used for worship,Used for calendars,0,Babylonian Astronomy
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"What is the name of traditional Indian astronomy?",Jyotisha,Vedanga,Vastu,Nakshatra Shastra,0,Indian Vedic Astronomy
+2,"How many Nakshatras (lunar mansions) are used in Vedic astronomy?",12,24,27,30,2,Indian Vedic Astronomy
+3,"Which Veda contains references to early astronomy?",Rigveda,Yajurveda,Samaveda,Atharvaveda,0,Indian Vedic Astronomy
+4,"Which planet is associated with the deity Shani in Vedic astrology?",Mars,Jupiter,Saturn,Venus,2,Indian Vedic Astronomy
+5,"The term 'Nakshatra' refers to:",Solar zodiac,Constellation,Lunar mansion,Ecliptic point,2,Indian Vedic Astronomy
+6,"Which celestial object is considered the ‘King’ among planets in Jyotisha?",Moon,Sun,Jupiter,Mars,1,Indian Vedic Astronomy
+7,"Which ancient text forms the basis of Vedic astronomical principles?",Surya Siddhanta,Vedanga Jyotisha,Brahmasphutasiddhanta,Pancha Siddhantika,1,Indian Vedic Astronomy
+8,"Which deity is associated with the planet Mars?",Agni,Indra,Skanda,Kartikeya,2,Indian Vedic Astronomy
+9,"What does 'sidereal time' measure?",Time based on Moon,Time based on Sun,Time based on stars,Time based on eclipses,2,Indian Vedic Astronomy
+10,"Which Nakshatra is associated with wealth and prosperity?",Ashwini,Bharani,Rohini,Pushya,3,Indian Vedic Astronomy
+11,"The Indian zodiac is primarily:",Tropical,Sidereal,Lunar,Fixed,1,Indian Vedic Astronomy
+12,"What is the full set of Vedic planetary deities called?",Navagraha,Panchamahabhuta,Dashavatara,Ashta Vasus,0,Indian Vedic Astronomy
+13,"Which Graha (planet) is associated with wisdom and learning?",Shukra,Budha,Guru,Chandra,2,Indian Vedic Astronomy
+14,"In Jyotisha, which planet governs communication and intellect?",Shukra,Budha,Guru,Rahu,1,Indian Vedic Astronomy
+15,"How many degrees does each Nakshatra span?",10°,13°20′,15°,30°,1,Indian Vedic Astronomy
+16,"Which mathematical concept was used in Indian astronomy?",Decimal system,Binary,Logarithms,Matrix algebra,0,Indian Vedic Astronomy
+17,"Which ancient Indian astronomer wrote 'Surya Siddhanta'?",Aryabhata,Brahmagupta,Unknown,Lagadh Muni,2,Indian Vedic Astronomy
+18,"Which Graha is not a physical planet?",Rahu,Budha,Shani,Mangal,0,Indian Vedic Astronomy
+19,"Which direction is associated with the Nakshatra Ashwini?",East,North,West,Northeast,0,Indian Vedic Astronomy
+20,"What role do Nakshatras play in Indian astrology?",Predict war,Mark seasons,Timing rituals and births,Weather forecasting,2,Indian Vedic Astronomy
+21,"Which Nakshatra is considered the 'birth star' of Lord Krishna?",Rohini,Pushya,Swati,Revati,0,Indian Vedic Astronomy
+22,"Which text divides the circle into 360 degrees and is used in Jyotisha?",Aryabhatiya,Brahmasphutasiddhanta,Surya Siddhanta,Lagna Sutra,2,Indian Vedic Astronomy
+23,"Which planet is associated with devotion and spirituality in Vedic thought?",Mars,Venus,Saturn,Jupiter,3,Indian Vedic Astronomy
+24,"What does 'Kala' represent in Jyotisha?",Eclipse,Time,Star,Moon,1,Indian Vedic Astronomy
+25,"Which Vedic scholar authored 'Vedanga Jyotisha'?",Lagadha,Panini,Katyayana,Brahmagupta,0,Indian Vedic Astronomy
+26,"How many degrees are there in the sidereal zodiac?",360,365,390,324,0,Indian Vedic Astronomy
+27,"Which Nakshatra is ruled by the Moon?",Ashwini,Pushya,Rohini,Magha,2,Indian Vedic Astronomy
+28,"What is the term for planetary conjunction in Jyotisha?",Yoga,Dosha,Ashtakavarga,Sandhi,0,Indian Vedic Astronomy
+29,"Rahu and Ketu represent:",Planets,Shadow planets,Luminaries,Stars,1,Indian Vedic Astronomy
+30,"Jyotisha divides time into:",Ayanamsas,Dashas,Kaalams,Ritus,1,Indian Vedic Astronomy
+31,"Which planet is considered a benefic and associated with teachers?",Shani,Guru,Budha,Rahu,1,Indian Vedic Astronomy
+32,"What shape is assumed for orbits in traditional Indian astronomy?",Circular,Elliptical,Linear,Zig-zag,0,Indian Vedic Astronomy
+33,"Jyotisha is one of the six limbs of:",Ayurveda,Vedanga,Purana,Dharma Shastra,1,Indian Vedic Astronomy
+34,"Which time unit in Jyotisha is equal to 48 minutes?",Ghatika,Muhurta,Yama,Kala,1,Indian Vedic Astronomy
+35,"Which festival aligns with Nakshatra Pushya?",Diwali,Holi,Guru Purnima,Makar Sankranti,2,Indian Vedic Astronomy
+36,"In Jyotisha, the term ‘Graha’ literally means:",Planet,Star,Seizer,Orbit,2,Indian Vedic Astronomy
+37,"Which ancient Indian astronomer calculated the Earth's circumference?",Bhaskara I,Brahmagupta,Aryabhata,Varahamihira,2,Indian Vedic Astronomy
+38,"Which text explains solar and lunar eclipses using shadow planets?",Surya Siddhanta,Vedanga Jyotisha,Brahmasphutasiddhanta,Pancha Siddhantika,0,Indian Vedic Astronomy
+39,"Which Nakshatra ends the zodiac cycle?",Ashwini,Bharani,Revati,Chitra,2,Indian Vedic Astronomy
+40,"Which Graha is considered most benefic in Jyotisha?",Rahu,Moon,Sun,Jupiter,3,Indian Vedic Astronomy
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which Chinese dynasty is credited with some of the earliest astronomical records?",Tang,Han,Shang,Zhou,2,Ancient Chinese Astronomy
+2,"Ancient Chinese astronomers primarily observed which celestial object?",Moon,Comets,Sun,Stars,1,Ancient Chinese Astronomy
+3,"What is the name of the Chinese system dividing the sky into regions?",Zodiac,Nakshatra,Three Schools,Three Enclosures,3,Ancient Chinese Astronomy
+4,"How many lunar mansions (xiu) are there in traditional Chinese astronomy?",12,24,28,36,2,Ancient Chinese Astronomy
+5,"Who is considered a key figure in early Chinese astronomical observations?",Confucius,Sima Qian,Gan De,Zhang Heng,2,Ancient Chinese Astronomy
+6,"Chinese astronomers were the first to record which type of celestial event?",Meteor showers,Lunar eclipses,Sunspots,Supernova,3,Ancient Chinese Astronomy
+7,"Which book contains one of the oldest known Chinese star maps?",Book of Changes,Book of Songs,Dunhuang Star Chart,Book of Han,2,Ancient Chinese Astronomy
+8,"Ancient Chinese astronomy was closely tied to:",Astrology,Mathematics,Medicine,Politics,3,Ancient Chinese Astronomy
+9,"Which dynasty created official astronomical observatories?",Qin,Zhou,Tang,Han,3,Ancient Chinese Astronomy
+10,"What is the term for the Chinese cosmological cycle of 60 years?",Yin-Yang cycle,Zodiacal cycle,Sexagenary cycle,Lunar cycle,2,Ancient Chinese Astronomy
+11,"Which direction did Chinese star maps traditionally place at the top?",North,East,South,West,2,Ancient Chinese Astronomy
+12,"What shape did the Chinese consider the Earth to be in early astronomy?",Sphere,Flat,Square,Oval,2,Ancient Chinese Astronomy
+13,"Which star system was used to determine agricultural cycles?",Polaris,Big Dipper,Pleiades,Orion,1,Ancient Chinese Astronomy
+14,"What were comets often considered in ancient Chinese texts?",Good omens,Weather signs,Portents of disaster,Cosmic dust,2,Ancient Chinese Astronomy
+15,"The Chinese division of the sky includes Four Symbols. What do they represent?",Months,Seasons,Planets,Elements,1,Ancient Chinese Astronomy
+16,"Which direction is associated with the Azure Dragon in Chinese astronomy?",East,South,West,North,0,Ancient Chinese Astronomy
+17,"The Chinese calendar is what type of calendar?",Lunar,Solar,Lunisolar,Sidereal,2,Ancient Chinese Astronomy
+18,"Which Chinese emperor commissioned the first complete celestial globe?",Qin Shi Huang,Emperor Wu of Han,Emperor Taizong,Zhao Tuo,1,Ancient Chinese Astronomy
+19,"What instrument was used for ancient Chinese solar observations?",Sextant,Water clock,Gnomon,Armillary sphere,2,Ancient Chinese Astronomy
+20,"Which Chinese philosopher contributed to astronomical cosmology?",Laozi,Confucius,Zhang Heng,Mozi,3,Ancient Chinese Astronomy
+21,"What was the ancient Chinese term for supernovae?",Guest stars,Dragon stars,Bright omens,Fire stars,0,Ancient Chinese Astronomy
+22,"How did Chinese astronomers catalog celestial events?",By brightness,By deity,By dynasty and date,By astrology house,2,Ancient Chinese Astronomy
+23,"Which dynasty's astronomers created a 365.25-day year calculation?",Qin,Zhou,Tang,Han,3,Ancient Chinese Astronomy
+24,"The ‘Purple Forbidden Enclosure’ referred to:",A forbidden temple,The emperor’s palace,The north circumpolar sky,A seasonal star group,2,Ancient Chinese Astronomy
+25,"Chinese star names were often associated with:",Numbers,Animals,Social and political roles,Mythology only,2,Ancient Chinese Astronomy
+26,"Which tool helped track star movement in ancient Chinese observatories?",Sundial,Astrolabe,Armillary sphere,Telescope,2,Ancient Chinese Astronomy
+27,"In Chinese cosmology, what concept balanced the universe?",Heaven and Hell,Yin and Yang,Feng and Shui,Light and Dark,1,Ancient Chinese Astronomy
+28,"What type of celestial chart was used at Dunhuang?",Clay tablets,Star scrolls,Painted wall charts,Papyrus maps,2,Ancient Chinese Astronomy
+29,"How many constellations were identified in traditional Chinese astronomy?",88,108,283,300,2,Ancient Chinese Astronomy
+30,"Who was Zhang Heng?",A poet,A physician,An astronomer and inventor,A mathematician,2,Ancient Chinese Astronomy
+31,"What natural event was often predicted using Chinese astronomy?",Earthquakes,Storms,Floods,Eclipses,3,Ancient Chinese Astronomy
+32,"The Chinese 24 solar terms helped determine:",Festival dates,Rainfall,Time zones,Seasonal changes,3,Ancient Chinese Astronomy
+33,"Which comet was recorded by the Chinese as early as 240 BCE?",Encke’s Comet,Halley’s Comet,Comet Hale-Bopp,Comet Swift-Tuttle,1,Ancient Chinese Astronomy
+34,"The earliest Chinese records of astronomical events were inscribed on:",Bronze bells,Silk scrolls,Bamboo slips,Oracle bones,3,Ancient Chinese Astronomy
+35,"Chinese astronomers considered the emperor the 'Son of':",Stars,Heaven,Earth,Dragon,1,Ancient Chinese Astronomy
+36,"What purpose did ancient Chinese astronomy often serve?",Myth writing,Calendar reform,Astrological fortune-telling,Imperial legitimacy,3,Ancient Chinese Astronomy
+37,"Which of the following is a Chinese astronomical treatise?",Tianwen Lun,Book of Skies,Star Code of Qin,Tianjing,0,Ancient Chinese Astronomy
+38,"What was the color associated with the North and the Black Tortoise?",White,Green,Red,Black,3,Ancient Chinese Astronomy
+39,"How were eclipses viewed in ancient Chinese society?",Scientific events,Omens of war,Natural phenomena,Religious signs,1,Ancient Chinese Astronomy
+40,"Why were comet observations meticulously recorded?",Beauty of comets,Navigation aid,Believed to predict dynasty changes,Used for calendars,2,Ancient Chinese Astronomy
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which planet was most sacred to the Maya and Aztecs?",Mars,Venus,Saturn,Jupiter,1,Mayan and Aztec Cosmology
+2,"What is the name of the 260-day ritual calendar used by the Maya?",Tzolk'in,Haab',Tonalpohualli,Chilam Balam,0,Mayan and Aztec Cosmology
+3,"How many days were in the Haab' calendar?",260,360,365,400,2,Mayan and Aztec Cosmology
+4,"The Calendar Round is a combination of which two Mayan calendars?",Haab' and Long Count,Tzolk'in and Haab',Tzolk'in and Tonalpohualli,Long Count and Haab',1,Mayan and Aztec Cosmology
+5,"What is the length of one complete Calendar Round cycle?",52 years,260 years,365 years,104 years,0,Mayan and Aztec Cosmology
+6,"The Mayan Long Count calendar begins in which year of the Gregorian calendar?",0 BCE,3114 BCE,2500 BCE,1000 BCE,1,Mayan and Aztec Cosmology
+7,"Which number system did the Maya use for their calendar?",Binary,Decimal,Vigesimal (base-20),Hexadecimal,2,Mayan and Aztec Cosmology
+8,"The Aztecs called Venus the twin of which god?",Tezcatlipoca,Huitzilopochtli,Quetzalcoatl,Tlaloc,2,Mayan and Aztec Cosmology
+9,"What was the Mayan name for Venus?",Lamat,Chac,Itzamna,Ahau,0,Mayan and Aztec Cosmology
+10,"How many days is Venus visible as a morning star before disappearing?",30,70,90,180,1,Mayan and Aztec Cosmology
+11,"What kind of events did Mayans schedule based on Venus's position?",Harvests,War campaigns,Rain dances,Marriages,1,Mayan and Aztec Cosmology
+12,"What shape did Mayan temples often take to align with celestial cycles?",Pyramids,Circular domes,Flat platforms,Spirals,0,Mayan and Aztec Cosmology
+13,"The Aztec Sun Stone tracks which calendar system?",Gregorian,Tzolk'in,Haab',Tonalpohualli,3,Mayan and Aztec Cosmology
+14,"How many total glyphs are there on the Aztec Sun Stone?",20,52,260,365,0,Mayan and Aztec Cosmology
+15,"What major city is home to the Pyramid of the Sun?",Tikal,Chichen Itza,Teotihuacan,Palenque,2,Mayan and Aztec Cosmology
+16,"The Long Count calendar tracks:",Eclipses,Moon phases,Historical dates,Seasonal shifts,2,Mayan and Aztec Cosmology
+17,"Which culture built observatories such as El Caracol?",Olmec,Maya,Inca,Aztec,1,Mayan and Aztec Cosmology
+18,"What does the term ‘Katun’ represent in the Long Count calendar?",20 years,52 years,100 years,400 years,0,Mayan and Aztec Cosmology
+19,"The Aztec capital Tenochtitlan was aligned to:",The Moon,Equinoxes,Venus rising,Cardinal directions,2,Mayan and Aztec Cosmology
+20,"The Venus cycle tracked by Mayans lasted approximately:",584 days,365 days,260 days,780 days,0,Mayan and Aztec Cosmology
+21,"How did the Maya likely observe celestial events?",Telescopes,Water clocks,Stone observatories,Naked eye,2,Mayan and Aztec Cosmology
+22,"What role did Venus play in Mayan mythology?",God of wisdom,Messenger of the underworld,Warrior omen,Fertility sign,2,Mayan and Aztec Cosmology
+23,"The number 13 was sacred in Mayan cosmology because:",13 months of lunar calendar,13 layers of heaven,13 planetary cycles,13 gods of day,1,Mayan and Aztec Cosmology
+24,"What were the 'Baktun' in Mayan calendars?",Lunar days,Time cycles of 144,000 days,Star charts,Seasons,1,Mayan and Aztec Cosmology
+25,"Which deity was associated with time and calendars in Maya belief?",Itzamna,Chaac,Kinich Ahau,Quetzalcoatl,0,Mayan and Aztec Cosmology
+26,"Which Mesoamerican civilization predated the Maya and influenced their astronomy?",Inca,Olmec,Zapotec,Mixtec,1,Mayan and Aztec Cosmology
+27,"What was used to align buildings with Venus's cycle?",Solar shadows,Star maps,Observation slits,Water mirrors,2,Mayan and Aztec Cosmology
+28,"Why was the number 260 significant in Mayan culture?",Days in a year,Days of war,Gestation cycle,Comet cycles,2,Mayan and Aztec Cosmology
+29,"Which Mayan city contains Venus alignment structures?",Copán,Calakmul,Palenque,Uxmal,0,Mayan and Aztec Cosmology
+30,"The ‘E-group’ structures were primarily used for:",Farming,Defense,Astronomical observation,Burial,2,Mayan and Aztec Cosmology
+31,"The Aztecs believed each cosmic era ended in:",Peace,Rebirth,Disaster,Ascension,2,Mayan and Aztec Cosmology
+32,"How many suns or ages did the Aztecs believe preceded the current one?",3,4,5,6,2,Mayan and Aztec Cosmology
+33,"The Mayan term 'Ahau' refers to:",Star,King,Sun,War,2,Mayan and Aztec Cosmology
+34,"What was the significance of the ball game in Mayan cosmology?",Entertainment,Ritual sacrifice,Symbol of celestial struggle,Harvest game,2,Mayan and Aztec Cosmology
+35,"Which Mayan temple aligns with the setting sun on the equinox?",Temple of Inscriptions,Temple of Kukulcán,Temple of Warriors,Temple of the Jaguar,1,Mayan and Aztec Cosmology
+36,"What shape was the Mayan universe often represented as?",Circle,Square,Tree,Layered levels,3,Mayan and Aztec Cosmology
+37,"Which god was associated with the planet Venus in Aztec belief?",Tlaloc,Quetzalcoatl,Huitzilopochtli,Mictlantecuhtli,1,Mayan and Aztec Cosmology
+38,"Which element was believed to be ruled by Venus?",Earth,Air,Fire,Water,2,Mayan and Aztec Cosmology
+39,"How did the Maya mark time over thousands of years?",Star charts,Long Count calendar,Animal cycles,Eclipse records,1,Mayan and Aztec Cosmology
+40,"Venus cycles were recorded in which famous codex?",Popol Vuh,Dresden Codex,Madrid Codex,Chilam Balam,1,Mayan and Aztec Cosmology
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Who is known for formalizing the geocentric model of the universe?",Aristotle,Ptolemy,Copernicus,Galileo,1,Greek and Roman Theories
+2,"What is the term for the Earth-centered universe?",Heliocentric,Geocentric,Anthropocentric,Geodynamic,1,Greek and Roman Theories
+3,"Which ancient Greek astronomer first proposed a spherical Earth?",Aristotle,Anaximander,Pythagoras,Eratosthenes,0,Greek and Roman Theories
+4,"Ptolemy’s famous work on astronomy is called:",Almagest,Elements,De Revolutionibus,Timaeus,0,Greek and Roman Theories
+5,"In Ptolemaic astronomy, planets move in small circles called:",Epicycles,Deferents,Eccentrics,Rings,0,Greek and Roman Theories
+6,"What is the purpose of epicycles in Ptolemy’s model?",To explain retrograde motion,To explain seasons,To calculate eclipses,To measure star distances,0,Greek and Roman Theories
+7,"Which planet's retrograde motion was a key problem for early astronomers?",Mars,Venus,Jupiter,Saturn,0,Greek and Roman Theories
+8,"Who was the first to suggest a heliocentric model?",Copernicus,Ptolemy,Aristarchus,Kepler,2,Greek and Roman Theories
+9,"Which Roman astronomer improved star catalogs in antiquity?",Ptolemy,Galen,Hipparchus,Pliny,2,Greek and Roman Theories
+10,"What is the name of the circular path around which an epicycle moves?",Deferent,Eccentric,Orbit,Axis,0,Greek and Roman Theories
+11,"Which instrument was used by Greek astronomers to measure angles between stars?",Astrolabe,Armillary sphere,Sextant,Quadrant,1,Greek and Roman Theories
+12,"Hipparchus is credited with discovering which astronomical phenomenon?",Solar eclipse,Lunar eclipse,Precession of the equinoxes,Comet Halley,2,Greek and Roman Theories
+13,"What was Aristotle’s view on the composition of the heavens?",Made of fire,Made of aether,Made of water,Made of earth,1,Greek and Roman Theories
+14,"Which of the following was NOT part of Ptolemy’s planetary system?",Epicycles,Deferents,Heliocentric orbits,Equants,2,Greek and Roman Theories
+15,"What did the 'equant' in Ptolemaic astronomy help to explain?",Variable planetary speed,Retrograde motion,Planetary brightness,Orbital eccentricity,0,Greek and Roman Theories
+16,"Which city was the center of Hellenistic astronomy?",Athens,Alexandria,Rome,Delphi,1,Greek and Roman Theories
+17,"What geometric shape did Ptolemy assume for planetary orbits?",Ellipse,Circle,Parabola,Spiral,1,Greek and Roman Theories
+18,"Which philosopher argued against the heliocentric model for religious reasons?",Aristotle,Plato,St. Augustine,Ptolemy,3,Greek and Roman Theories
+19,"Which Roman scientist wrote 'Naturalis Historia', documenting astronomical knowledge?",Pliny the Elder,Seneca,Galen,Ptolemy,0,Greek and Roman Theories
+20,"What was the main goal of Ptolemy's Almagest?",Catalog stars,Model planetary motion,Describe constellations,Explain eclipses,1,Greek and Roman Theories
+21,"Which celestial body did Greeks believe to be perfect and unchanging?",Moon,Earth,Planets,Stars,3,Greek and Roman Theories
+22,"The term 'retrograde motion' means:",Forward movement,Backward movement,Stationary,Spiral movement,1,Greek and Roman Theories
+23,"How did Ptolemy explain the changing brightness of planets?",Distance from Earth,Planet size,Eccentric orbits,Epicycles,3,Greek and Roman Theories
+24,"Which philosopher taught Alexander the Great and influenced Greek astronomy?",Plato,Aristotle,Euclid,Anaximander,1,Greek and Roman Theories
+25,"What did Eratosthenes famously calculate?",Distance to the Moon,Circumference of the Earth,Distance to the Sun,Length of a year,1,Greek and Roman Theories
+26,"The geocentric model places which body at the center?",Sun,Moon,Earth,Mars,2,Greek and Roman Theories
+27,"How did Greek astronomers measure the Earth's circumference?",Using shadows at different latitudes,Star positions,Sun eclipses,Planet brightness,0,Greek and Roman Theories
+28,"What was the shape of the Earth according to Greek astronomy?",Flat,Spherical,Cylindrical,Conical,1,Greek and Roman Theories
+29,"What was the Ptolemaic system’s main flaw?",Did not predict eclipses,Did not explain retrograde motion,Too complex,Did not accurately predict planetary positions,3,Greek and Roman Theories
+30,"What later astronomer improved on Ptolemy’s epicycles with elliptical orbits?",Copernicus,Kepler,Galileo,Tycho Brahe,1,Greek and Roman Theories
+31,"Who was the first to create a comprehensive star catalog?",Hipparchus,Ptolemy,Aristotle,Pliny,0,Greek and Roman Theories
+32,"The Almagest was originally written in:",Latin,Greek,Arabic,Hebrew,1,Greek and Roman Theories
+33,"Which Roman astronomer supported the geocentric model in the Renaissance?",Ptolemy,Kepler,Galileo,Copernicus,0,Greek and Roman Theories
+34,"What is an epicycle in simple terms?",A planet’s main orbit,A small circle a planet moves on while orbiting Earth,A star's path,The orbit of the Moon,1,Greek and Roman Theories
+35,"Which feature did the Greeks believe celestial spheres had?",Transparent,Solid,Invisible,Fluid,1,Greek and Roman Theories
+36,"How did Ptolemy's model affect astronomy for centuries?",It was quickly replaced,It was largely ignored,It was dominant,It was criticized,2,Greek and Roman Theories
+37,"What was the role of the 'deferent' in Ptolemy's model?",Main orbital path,Small circular motion,Axis tilt,Planetary brightness,0,Greek and Roman Theories
+38,"The term 'Almagest' comes from which language?",Greek,Arabic,Latin,Hebrew,1,Greek and Roman Theories
+39,"Which object did ancient Greeks NOT consider a planet?",Moon,Venus,Mars,Saturn,0,Greek and Roman Theories
+40,"Which planet’s orbit was most complex to explain in the geocentric model?",Mercury,Mars,Venus,Jupiter,0,Greek and Roman Theories
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"In Norse mythology, what is Yggdrasil?",A god,A cosmic tree,A giant serpent,A celestial mountain,1,Cosmology in Mythology
+2,"Which Hindu text describes the creation of the universe through cosmic sound (Om)?",Vedas,Bhagavad Gita,Puranas,Mahabharata,0,Cosmology in Mythology
+3,"According to Egyptian mythology, which god created the world from a cosmic mound?",Ra,Osiris,Atum,Horus,2,Cosmology in Mythology
+4,"In Greek mythology, who was the primordial deity of the sky?",Uranus,Gaia,Chronos,Zeus,0,Cosmology in Mythology
+5,"What role does the serpent play in many ancient cosmologies?",Destroyer,Creator,World bearer,Chaos agent,3,Cosmology in Mythology
+6,"The cosmic egg is a symbol of creation in which culture?",Greek,Chinese,Indian,Mayan,2,Cosmology in Mythology
+7,"In Mesopotamian myth, which goddess represents the primordial waters?",Tiamat,Ishtar,Inanna,Ereshkigal,0,Cosmology in Mythology
+8,"Which Norse god is prophesied to bring about Ragnarok, the end of the world?",Thor,Loki,Odin,Freyr,1,Cosmology in Mythology
+9,"What is the Hindu concept of 'Brahmanda'?",The cosmic egg,The creator god,The world ocean,The underworld,0,Cosmology in Mythology
+10,"In the Mayan creation myth, which god created humans from maize?",Itzamna,Tepeu,Hun Hunahpu,Ah Puch,1,Cosmology in Mythology
+11,"Which creature in Greek mythology holds up the sky?",Atlas,Prometheus,Zeus,Hermes,0,Cosmology in Mythology
+12,"In Chinese mythology, who created the world by separating Yin and Yang?",Pangu,Nüwa,Fuxi,Shennong,0,Cosmology in Mythology
+13,"The Hindu god Vishnu is often associated with which cosmic function?",Creation,Preservation,Destruction,Judgment,1,Cosmology in Mythology
+14,"According to Egyptian myth, what is the 'Nun'?",Primordial chaos,The sun god,The afterlife,The sky goddess,0,Cosmology in Mythology
+15,"Which Norse realm is home to humans?",Asgard,Midgard,Jotunheim,Niflheim,1,Cosmology in Mythology
+16,"In Greek mythology, Chaos is described as:",A void,A monster,A god,A place,0,Cosmology in Mythology
+17,"Who is the Hindu goddess that created the universe from her cosmic dance?",Lakshmi,Saraswati,Kali,Parvati,2,Cosmology in Mythology
+18,"Which celestial body is central to many creation myths worldwide?",The Sun,The Moon,Venus,The Earth,0,Cosmology in Mythology
+19,"In Aztec mythology, which god sacrificed himself to create the sun?",Quetzalcoatl,Tezcatlipoca,Huitzilopochtli,Tlaloc,2,Cosmology in Mythology
+20,"What is the cosmic purpose of the World Tree in many cultures?",Pathway to the heavens,Source of life,Center of the world,All of the above,3,Cosmology in Mythology
+21,"In Hindu cosmology, what does 'Kala' represent?",Time,Space,Light,Darkness,0,Cosmology in Mythology
+22,"Which Greek Titan personifies time?",Cronus,Oceanus,Hyperion,Prometheus,0,Cosmology in Mythology
+23,"In Chinese mythology, what does the goddess Nüwa create to repair the sky?",Dragons,Stones,Serpents,Trees,1,Cosmology in Mythology
+24,"Which Norse god is associated with wisdom and knowledge?",Odin,Thor,Loki,Freyr,0,Cosmology in Mythology
+25,"In Maya cosmology, the universe is often represented as:",A pyramid,A tree,A circle,A jaguar,1,Cosmology in Mythology
+26,"Which ancient culture believed the world rested on a giant turtle?",Greek,Chinese,Hindu,Native American,3,Cosmology in Mythology
+27,"What is the Hindu cosmic cycle called that describes the universe's birth and destruction?",Yuga,Moksha,Karma,Brahma,0,Cosmology in Mythology
+28,"In Egyptian mythology, the god Atum created the world by:",Speaking,Spitting,Breathing,Touching,1,Cosmology in Mythology
+29,"Which Norse figure is considered the world serpent?",Fenrir,Jormungandr,Loki,Odin,1,Cosmology in Mythology
+30,"According to Greek mythology, who is the mother of the gods?",Rhea,Hera,Gaia,Demeter,2,Cosmology in Mythology
+31,"In Hindu belief, what is the cosmic ocean called?",Samudra,Nila,Varuna,Vishnu,0,Cosmology in Mythology
+32,"The Aztec calendar was closely tied to which cosmological concept?",Ritual cycles,Sun’s journey,Moon phases,Venus cycles,0,Cosmology in Mythology
+33,"Which Norse goddess is associated with the earth?",Frigg,Sif,Hel,Nerthus,1,Cosmology in Mythology
+34,"In Greek mythology, the primordial deities Gaia and Uranus represent:",Earth and Sky,Light and Darkness,Life and Death,Fire and Water,0,Cosmology in Mythology
+35,"Which creature is often depicted as the cosmic serpent in Hindu myth?",Vritra,Naga,Garuda,Makara,1,Cosmology in Mythology
+36,"Which Hindu god is known as the 'Destroyer' in the cosmic cycle?",Brahma,Vishnu,Shiva,Indra,2,Cosmology in Mythology
+37,"The concept of multiple worlds or cycles of creation is called:",Samsara,Moksha,Yuga,Karma,0,Cosmology in Mythology
+38,"In many mythologies, what does the ‘cosmic egg’ symbolize?",Creation,Destruction,Chaos,Order,0,Cosmology in Mythology
+39,"Which Norse event marks the end of the world and its rebirth?",Ragnarok,Midsummer,Yule,Midwinter,0,Cosmology in Mythology
+40,"In Hindu cosmology, the universe is cyclically created and destroyed by which god?",Vishnu,Shiva,Brahma,Indra,2,Cosmology in Mythology
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Astrology originally developed from which ancient science?",Mathematics,Astronomy,Philosophy,Alchemy,1,Astrology as Proto-Science
+2,"Which civilization is credited with one of the earliest astrological systems?",Babylonian,Greek,Egyptian,Indian,0,Astrology as Proto-Science
+3,"What is the term for the zodiac signs used in astrology?",Nakshatras,Constellations,Star Clusters,Horoscopes,3,Astrology as Proto-Science
+4,"Which planet is traditionally associated with communication in astrology?",Mars,Venus,Mercury,Jupiter,2,Astrology as Proto-Science
+5,"What was the primary purpose of astrology in ancient societies?",Predict weather,Explain human fate,Calculate time,Map stars,1,Astrology as Proto-Science
+6,"Which ancient text is known for its astrological content in India?",Rigveda,Charaka Samhita,Brihat Samhita,Bhagavad Gita,2,Astrology as Proto-Science
+7,"Who was the Greek philosopher that integrated astrology with astronomy?",Ptolemy,Aristotle,Plato,Democritus,0,Astrology as Proto-Science
+8,"The division of the sky into 12 equal parts in astrology corresponds to:",Months,Zodiac signs,Seasons,Planets,1,Astrology as Proto-Science
+9,"In Babylonian astrology, what did the planet Venus symbolize?",Love and war,Peace and fertility,Death and rebirth,Wealth and power,0,Astrology as Proto-Science
+10,"The word 'horoscope' comes from Greek meaning:",Hour marker,Star watcher,Time observer,Sky watcher,0,Astrology as Proto-Science
+11,"Which body was NOT traditionally included in ancient astrology?",The Moon,The Sun,The Earth,Mars,2,Astrology as Proto-Science
+12,"Which culture is known for combining astrology with medicine?",Babylonian,Egyptian,Greek,Indian,2,Astrology as Proto-Science
+13,"What did ancient astrologers believe planets influenced?",Earthquakes,Human affairs,Natural disasters,Animal behavior,1,Astrology as Proto-Science
+14,"Which planet is linked with expansion and luck in astrology?",Mars,Jupiter,Saturn,Venus,1,Astrology as Proto-Science
+15,"The term 'ascendant' in astrology refers to:",Rising sign,Planet position,Sun's location,Moon phase,0,Astrology as Proto-Science
+16,"Who introduced the idea of the '12 houses' in astrology?",Babylonians,Greeks,Egyptians,Romans,1,Astrology as Proto-Science
+17,"What is the primary difference between astronomy and astrology?",Methods,Goals,Instruments,Locations,1,Astrology as Proto-Science
+18,"Which ancient civilization first recorded planetary movements for astrology?",Babylonian,Chinese,Greek,Indian,0,Astrology as Proto-Science
+19,"Which planet is considered the 'taskmaster' in astrology?",Mars,Jupiter,Saturn,Neptune,2,Astrology as Proto-Science
+20,"Which sign of the zodiac is associated with water?",Leo,Capricorn,Scorpio,Aries,2,Astrology as Proto-Science
+21,"In astrology, what element is associated with the sign Aries?",Fire,Water,Air,Earth,0,Astrology as Proto-Science
+22,"The 'lunar nodes' in astrology are points where:",The Moon crosses the ecliptic,Planets align,Eclipses occur,Stars are brightest,0,Astrology as Proto-Science
+23,"Which planet rules the sign Taurus?",Venus,Mars,Jupiter,Saturn,0,Astrology as Proto-Science
+24,"Astrology was often used to decide:",Political decisions,Rel
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which ancient structure is famously aligned with the solstices?",Stonehenge,The Parthenon,The Colosseum,Machu Picchu,0,Sacred Geometry & Astronomy
+2,"The Great Pyramid of Giza is aligned almost precisely with which direction?",North,South,East,West,0,Sacred Geometry & Astronomy
+3,"Which civilization built the temple complex at Chichen Itza with astronomical alignments?",Maya,Inca,Aztec,Olmec,0,Sacred Geometry & Astronomy
+4,"The term 'sacred geometry' primarily refers to:",Mathematical symbols,Geometric shapes with spiritual meaning,Geometry in nature,Geometry in art,1,Sacred Geometry & Astronomy
+5,"Which celestial event does the ancient monument Newgrange in Ireland mark?",Winter Solstice,Spring Equinox,Autumn Equinox,Summer Solstice,0,Sacred Geometry & Astronomy
+6,"What is the main celestial body aligned with the Parthenon in Athens?",Sun,Moon,Venus,Mars,0,Sacred Geometry & Astronomy
+7,"In ancient Egypt, which star was associated with the goddess Isis and used for alignment?",Sirius,Polaris,Betelgeuse,Canopus,0,Sacred Geometry & Astronomy
+8,"The Nazca Lines in Peru are thought to have which astronomical purpose?",Align with constellations,Mark equinoxes,Track planetary movements,Signal rain,0,Sacred Geometry & Astronomy
+9,"Which ancient Indian monument has architectural alignment with solstices?",Konark Sun Temple,Taj Mahal,Qutub Minar,Ajanta Caves,0,Sacred Geometry & Astronomy
+10,"Which geometric shape is most commonly found in sacred architecture?",Circle,Triangle,Square,All of the above,3,Sacred Geometry & Astronomy
+11,"What is an 'armillary sphere' used for?",Mapping stars,Measuring time,Predicting eclipses,Navigating seas,0,Sacred Geometry & Astronomy
+12,"The city of Teotihuacan’s layout is aligned to which celestial body?",Sun,Moon,Venus,Stars,0,Sacred Geometry & Astronomy
+13,"Which Greek mathematician is famous for early works in sacred geometry?",Pythagoras,Euclid,Archimedes,Plato,0,Sacred Geometry & Astronomy
+14,"What is the golden ratio often associated with in sacred architecture?",Harmony,Strength,Power,Speed,0,Sacred Geometry & Astronomy
+15,"Which ancient temple’s layout is thought to mimic the constellation Orion?",Great Pyramid of Giza,Stonehenge,Parthenon,Angkor Wat,0,Sacred Geometry & Astronomy
+16,"The Mayan calendar is closely linked with which geometric shape?",Circle,Square,Triangle,Hexagon,0,Sacred Geometry & Astronomy
+17,"Which architectural feature often aligns with sunrise on equinoxes?",Doorways,Towers,Altars,Columns,0,Sacred Geometry & Astronomy
+18,"In sacred geometry, the 'Flower of Life' is made up of:",Circles,Squares,Triangles,Stars,0,Sacred Geometry & Astronomy
+19,"Which ancient monument has chambers that illuminate only on solstice days?",Newgrange,Stonehenge,Chichen Itza,Teotihuacan,0,Sacred Geometry & Astronomy
+20,"Which culture believed the number '108' had cosmic significance?",Indian,Mayan,Egyptian,Greek,0,Sacred Geometry & Astronomy
+21,"Which architectural structure is known for its perfect east-west alignment?",Great Pyramid of Giza,Colosseum,Parthenon,Machu Picchu,0,Sacred Geometry & Astronomy
+22,"Sacred geometry often reflects which natural pattern?",Fibonacci sequence,Atomic structure,Weather patterns,Tectonic plates,0,Sacred Geometry & Astronomy
+23,"Which ancient civilization used a 360-degree circle for astronomy and geometry?",Babylonian,Egyptian,Greek,Chinese,0,Sacred Geometry & Astronomy
+24,"The use of right angles in ancient monuments symbolizes:",Order and stability,Chaos,Freedom,Randomness,0,Sacred Geometry & Astronomy
+25,"Which Egyptian structure is aligned with the pole star?",Great Pyramid of Giza,Temple of Karnak,Sphinx,Valley of Kings,0,Sacred Geometry & Astronomy
+26,"The term 'axis mundi' refers to:",World axis,Star axis,Temple axis,Sun axis,0,Sacred Geometry & Astronomy
+27,"Which of these temples aligns with the rising sun on the equinox?",Konark Sun Temple,Angkor Wat,Machu Picchu,Parthenon,0,Sacred Geometry & Astronomy
+28,"Which mathematical constant is frequently found in sacred architecture?",Pi,Euler’s number,Gamma,Delta,0,Sacred Geometry & Astronomy
+29,"Which ancient monument's layout reflects the Milky Way’s position?",Teotihuacan,Machu Picchu,Stonehenge,Newgrange,0,Sacred Geometry & Astronomy
+30,"What does the pentagram often symbolize in sacred geometry?",The five elements,The five planets,The five senses,The five seasons,0,Sacred Geometry & Astronomy
+31,"Which temple in Cambodia is renowned for its astronomical alignments?",Angkor Wat,Machu Picchu,Parthenon,Teotihuacan,0,Sacred Geometry & Astronomy
+32,"What is the significance of the number 7 in ancient astronomy and sacred geometry?",Days of the week,Planets known to ancients,Colors of the rainbow,All of the above,3,Sacred Geometry & Astronomy
+33,"Which culture used the term 'Mandala' for spiritual geometric designs?",Indian,Greek,Egyptian,Chinese,0,Sacred Geometry & Astronomy
+34,"Which tool helped ancient astronomers study celestial alignments?",Gnomon,Astrolabe,Quadrant,All of the above,3,Sacred Geometry & Astronomy
+35,"What feature of Stonehenge aligns with the sunrise on the summer solstice?",Heel Stone,Altar Stone,Station Stones,Blue Stones,0,Sacred Geometry & Astronomy
+36,"The geometric concept of 'sacred space' is based on:",Celestial alignments,Mathematical harmony,Religious symbolism,All of the above,3,Sacred Geometry & Astronomy
+37,"Which ancient culture used geodesic domes in their architecture?",Maya,Egyptian,Greek,Inca,0,Sacred Geometry & Astronomy
+38,"The 'vesica piscis' shape in sacred geometry is formed by:",Two overlapping circles,A triangle and a circle,A square and a circle,Two overlapping triangles,0,Sacred Geometry & Astronomy
+39,"Which star's heliacal rising was significant in Egyptian sacred geometry?",Sirius,Polaris,Betelgeuse,Vega,0,Sacred Geometry & Astronomy
+40,"The use of geometry in astronomy helped ancient cultures to:",Predict seasons,Plan religious ceremonies,Construct monuments,All of the above,3,Sacred Geometry & Astronomy
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"In many ancient cultures, comets were often seen as:",Good luck,Omens of disaster,Signs of harvest,Symbols of peace,1,Ancient Beliefs about Comets and Meteors
+2,"Which ancient civilization recorded comet sightings on clay tablets?",Babylonian,Greek,Egyptian,Chinese,0,Ancient Beliefs about Comets and Meteors
+3,"The ancient Chinese believed comets were:",Dragons in the sky,Birds of the gods,Fires of the heavens,Messengers of doom,3,Ancient Beliefs about Comets and Meteors
+4,"Which Roman historian linked comets with the death of Julius Caesar?",Pliny Tacitus,Suetonius,Pliny the Elder,0,Ancient Beliefs about Comets and Meteors
+5,"In Norse mythology, meteors were believed to be:",Falling stars,Warriors’ swords,Odin’s arrows,Lightning bolts,2,Ancient Beliefs about Comets and Meteors
+6,"Which ancient culture associated meteors with souls or spirits?",Greek,Egyptian,Native American,Mesopotamian,2,Ancient Beliefs about Comets and Meteors
+7,"The appearance of Halley's Comet was historically linked with:",Battle outcomes,Plagues,Political change,All of the above,3,Ancient Beliefs about Comets and Meteors
+8,"Which god was often blamed for sending comets as warnings?",Zeus,Odin,Ra,All of the above,3,Ancient Beliefs about Comets and Meteors
+9,"In ancient Egypt, comets were often interpreted as:",Bad omens,Good harvest signs,Messages from ancestors,Spiritual cleansers,0,Ancient Beliefs about Comets and Meteors
+10,"The Maya recorded meteors in their codices as:",Stars falling,Gods descending,Fire arrows,Heavenly omens,0,Ancient Beliefs about Comets and Meteors
+11,"Which ancient Greek philosopher wrote about the nature of comets?",Aristotle,Plato,Socrates,Democritus,0,Ancient Beliefs about Comets and Meteors
+12,"Comets were sometimes called 'hairy stars' because of:",Their tail,Color,Shape,Movement,0,Ancient Beliefs about Comets and Meteors
+13,"In many cultures, meteors were thought to be:",Angelic messengers,Demonic signs,Omens of death,Portals to other worlds,2,Ancient Beliefs about Comets and Meteors
+14,"Which civilization believed comets signaled the wrath of their gods?",Babylonians,Romans,Aztecs,Chinese,1,Ancient Beliefs about Comets and Meteors
+15,"What natural phenomenon did ancient people often confuse with comets?",Auroras,Meteors,Planets,Solar flares,1,Ancient Beliefs about Comets and Meteors
+16,"In medieval Europe, comets were frequently seen as warnings of:",War,Plague,Famine,All of the above,3,Ancient Beliefs about Comets and Meteors
+17,"Which comet is the most famous and historically significant?",Halley's Comet,Encke's Comet,Hale-Bopp,Hyakutake,0,Ancient Beliefs about Comets and Meteors
+18,"How did ancient astronomers distinguish between comets and planets?",Movement pattern,Color,Brightness,Size,0,Ancient Beliefs about Comets and Meteors
+19,"Which culture’s records helped modern astronomers track Halley’s Comet?",Chinese,Greek,Egyptian,Babylonian,0,Ancient Beliefs about Comets and Meteors
+20,"In Norse tales, the fiery sky serpents were thought to be:",Meteors,Comets,Shooting stars,Planets,1,Ancient Beliefs about Comets and Meteors
+21,"Which ancient text describes comets as celestial warnings?",Rigveda,Bible,Book of Enoch,Epic of Gilgamesh,2,Ancient Beliefs about Comets and Meteors
+22,"The term 'meteor' comes from a Greek word meaning:",High in the air,Falling star,Fireball,Heavenly messenger,0,Ancient Beliefs about Comets and Meteors
+23,"Which celestial event did the Aztecs link to the god Tezcatlipoca?",Comet sighting,Solar eclipse,Lunar eclipse,Meteor shower,0,Ancient Beliefs about Comets and Meteors
+24,"Which European monarch reportedly died shortly after a comet was seen?",Henry VIII,Elizabeth I,Charles I,Queen Victoria,2,Ancient Beliefs about Comets and Meteors
+25,"Ancient Chinese astronomers categorized comets based on their:",Shape,Color,Length,Speed,0,Ancient Beliefs about Comets and Meteors
+26,"What role did priests often play in comet sightings?",Recorders,Interpreters,Observers,All of the above,3,Ancient Beliefs about Comets and Meteors
+27,"Which meteor shower was known to the ancient Greeks?",Perseids,Leonids,Orionids,Geminids,0,Ancient Beliefs about Comets and Meteors
+28,"In ancient times, the sudden appearance of a comet was called a:",Worm star,Hairy star,Fury star,Star of fire,1,Ancient Beliefs about Comets and Meteors
+29,"The ancient Egyptians often associated meteors with:",The afterlife,The Nile floods,Ra’s journey,Osiris’s death,2,Ancient Beliefs about Comets and Meteors
+30,"Which ancient astronomer first suggested comets were atmospheric phenomena?",Aristotle,Ptolemy,Hipparchus,Thales,0,Ancient Beliefs about Comets and Meteors
+31,"In Mesopotamian culture, comets were linked with:",Kingship,Fertility,War,Harvest,2,Ancient Beliefs about Comets and Meteors
+32,"What was a common reaction to comet sightings in medieval Europe?",Celebration,Feasts,Fear and prayers,Ignorance,2,Ancient Beliefs about Comets and Meteors
+33,"The 'Great Comet' of 1066 was famously linked to:",The Norman conquest,The Black Death,The fall of Rome,The discovery of America,0,Ancient Beliefs about Comets and Meteors
+34,"Which ancient culture created detailed star charts that included comets?",Chinese,Aztec,Greek,Inca,0,Ancient Beliefs about Comets and Meteors
+35,"What is a common symbol used to represent meteors in ancient art?",Arrows,Fireballs,Serpents,Waves,1,Ancient Beliefs about Comets and Meteors
+36,"In many cultures, meteors were believed to be:",Falling gods,Souls of the dead,Angelic beings,All of the above,3,Ancient Beliefs about Comets and Meteors
+37,"The appearance of a comet was sometimes interpreted as:",A call to arms,A warning to rulers,A sign of change,All of the above,3,Ancient Beliefs about Comets and Meteors
+38,"Which ancient astronomer differentiated between comets and planets?",Tycho Brahe,Galileo,Kepler,Copernicus,0,Ancient Beliefs about Comets and Meteors
+39,"What was the general ancient belief about meteors and comets’ influence on humans?",No influence,Negative influence,Positive influence,Random influence,1,Ancient Beliefs about Comets and Meteors
+40,"Which planet was sometimes mistaken for a comet in ancient observations?",Venus,Mars,Jupiter,Saturn,0,Ancient Beliefs about Comets and Meteors
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Stonehenge is primarily aligned with which celestial event?",Summer Solstice,Winter Solstice,Spring Equinox,Autumn Equinox,0,Stonehenge and Archaeoastronomy
+2,"The Heel Stone at Stonehenge aligns with the sunrise on the:",Summer Solstice,Winter Solstice,Spring Equinox,Autumn Equinox,0,Stonehenge and Archaeoastronomy
+3,"Which ancient culture is believed to have built Stonehenge?",Neolithic Britons,Roman Empire,Celts,Anglo-Saxons,0,Stonehenge and Archaeoastronomy
+4,"What is the purpose of the Station Stones at Stonehenge?",Mark lunar events,Mark solstices,Mark star positions,Mark seasons,0,Stonehenge and Archaeoastronomy
+5,"Stonehenge’s layout is designed to track movements of:",The Sun,The Moon,Venus,All of the above,3,Stonehenge and Archaeoastronomy
+6,"Which lunar event is Stonehenge also thought to be aligned with?",Lunar standstill,New moon,Full moon,Lunar eclipse,0,Stonehenge and Archaeoastronomy
+7,"What type of stones were used for the inner circle at Stonehenge?",Bluestones,Granite,Marble,Limestone,0,Stonehenge and Archaeoastronomy
+8,"Stonehenge is located in which modern-day country?",England,Scotland,Ireland,Wales,0,Stonehenge and Archaeoastronomy
+9,"The solstice alignments at Stonehenge suggest it was used for:",Religious ceremonies,Astronomical observations,Social gatherings,All of the above,3,Stonehenge and Archaeoastronomy
+10,"The position of which star is thought to have influenced the Stonehenge design?",Polaris,Betelgeuse,Sirius,Orion,2,Stonehenge and Archaeoastronomy
+11,"How many main stones form the outer circle of Stonehenge?",30,60,45,90,1,Stonehenge and Archaeoastronomy
+12,"Which other monument near Stonehenge aligns with it astronomically?",Avebury,Newgrange,Callanish,Carnac,0,Stonehenge and Archaeoastronomy
+13,"The Aubrey Holes at Stonehenge are believed to be related to:",Lunar cycles,Solar eclipses,Star tracking,Planetary positions,0,Stonehenge and Archaeoastronomy
+14,"Which method was used to date Stonehenge’s construction?",Carbon dating,Dendrochronology,Thermoluminescence,Radiometric dating,0,Stonehenge and Archaeoastronomy
+15,"The purpose of Stonehenge remains debated but primarily linked to:",Astronomy and ritual,Agriculture and trade,Defense and warfare,Navigation and travel,0,Stonehenge and Archaeoastronomy
+16,"Which nearby river flows close to Stonehenge?",Avon,Severn,Thames,Cam,0,Stonehenge and Archaeoastronomy
+17,"Stonehenge is thought to have been built over a period of approximately how many years?",1500,500,2500,1000,0,Stonehenge and Archaeoastronomy
+18,"Which famous astronomer studied Stonehenge’s alignments in detail?",Gerald Hawkins,Tycho Brahe,Johannes Kepler,Edmond Halley,0,Stonehenge and Archaeoastronomy
+19,"Stonehenge’s orientation is primarily along which compass direction?",Northeast-Southwest,Northwest-Southeast,East-West,South-North,0,Stonehenge and Archaeoastronomy
+20,"Which type of calendar is Stonehenge often linked to?",Lunar calendar,Solar calendar,Lunisolar calendar,No calendar,1,Stonehenge and Archaeoastronomy
+21,"Which part of Stonehenge may have been used to predict eclipses?",Aubrey Holes,Heel Stone,Altar Stone,Station Stones,0,Stonehenge and Archaeoastronomy
+22,"Stonehenge is classified as which type of monument?",Henge,Dolmen,Tumulus,Menhir,0,Stonehenge and Archaeoastronomy
+23,"The term 'Archaeoastronomy' refers to:",Study of ancient astronomy,Study of stone monuments,Study of ancient rituals,Study of ancient calendars,0,Stonehenge and Archaeoastronomy
+24,"The term 'solstice' means:",Sun standing still,Sun moving fast,Sun eclipsed,Sun in shadow,0,Stonehenge and Archaeoastronomy
+25,"Which astronomical event does the winter solstice mark?",Shortest day of the year,Longest day of the year,Equinox,New year,0,Stonehenge and Archaeoastronomy
+26,"Stonehenge was likely used as a gathering place during:",Seasonal festivals,Daily worship,Ritual sacrifices,Market trading,0,Stonehenge and Archaeoastronomy
+27,"Which type of stone was transported from Wales to build part of Stonehenge?",Bluestone,Granite,Marble,Limestone,0,Stonehenge and Archaeoastronomy
+28,"Which of these is NOT a proposed purpose of Stonehenge?",Burial site,Astronomical observatory,Marketplace,Religious center,2,Stonehenge and Archaeoastronomy
+29,"What do the lintels of Stonehenge refer to?",Horizontal stones on top,Vertical stones on bottom,Entrance stones,Altar stones,0,Stonehenge and Archaeoastronomy
+30,"Stonehenge’s design incorporates which ancient geometric shape?",Circle,Square,Triangle,Hexagon,0,Stonehenge and Archaeoastronomy
+31,"Which celestial body’s rising and setting was Stonehenge designed to observe?",Sun,Moon,Venus,Mars,0,Stonehenge and Archaeoastronomy
+32,"The summer solstice sunrise aligns with which part of Stonehenge?",The Heel Stone,The Altar Stone,The Station Stones,The Bluestones,0,Stonehenge and Archaeoastronomy
+33,"What is the estimated age of Stonehenge?",Around 5000 years,Around 1000 years,Around 2000 years,Around 3000 years,3,Stonehenge and Archaeoastronomy
+34,"Which element of Stonehenge’s architecture is unique among stone circles?",Mortise and tenon joints,Carvings,Lunar markings,Metal reinforcements,0,Stonehenge and Archaeoastronomy
+35,"Which modern-day event attracts thousands of people to Stonehenge annually?",Summer Solstice,Winter Solstice,Equinoxes,Harvest Festival,0,Stonehenge and Archaeoastronomy
+36,"Which other ancient structure shares similarities with Stonehenge’s astronomical alignments?",Newgrange,Great Pyramid of Giza,Machu Picchu,Chichen Itza,0,Stonehenge and Archaeoastronomy
+37,"What evidence supports Stonehenge’s use as an astronomical observatory?",Alignments with solstices,Artifacts of star maps,Written records,All of the above,0,Stonehenge and Archaeoastronomy
+38,"Which ancient society used Stonehenge before the Celts?",Neolithic farmers,Bronze Age warriors,Romans,Anglo-Saxons,0,Stonehenge and Archaeoastronomy
+39,"Which tool did researchers use to verify Stonehenge’s alignments?",Laser scanning,Ruler,Compass,Astrolabe,0,Stonehenge and Archaeoastronomy
+40,"Stonehenge’s alignment helps mark the changing of:",Seasons,Months,Years,Days,0,Stonehenge and Archaeoastronomy
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"The Great Pyramid of Giza is aligned with which constellation according to the Orion Correlation Theory?",Orion,Ursa Major,Scorpius,Leo,0,Pyramids and Stellar Alignments
+2,"Who first proposed the Orion Correlation Theory linking pyramids and stars?",Robert Bauval,Howard Carter,Zahi Hawass,Jean-François Champollion,0,Pyramids and Stellar Alignments
+3,"The 'star shafts' in the Great Pyramid are believed to align with:",Orion and Sirius,Venus and Mars,Polaris and Betelgeuse,Andromeda and Vega,0,Pyramids and Stellar Alignments
+4,"What was the purpose of the star shafts in the pyramids?",Ventilation,Tomb passages,Alignment with stars,Secret escape routes,2,Pyramids and Stellar Alignments
+5,"Which star is associated with the southern shaft of the Queen’s Chamber?",Sirius,Orion,Polaris,Betelgeuse,0,Pyramids and Stellar Alignments
+6,"The layout of the three main pyramids at Giza is thought to mirror the stars of:",Orion’s Belt,The Pleiades,Cassiopeia,The Big Dipper,0,Pyramids and Stellar Alignments
+7,"Which ancient Egyptian god is associated with the Orion constellation?",Osiris,Ra,Anubis,Horus,0,Pyramids and Stellar Alignments
+8,"What is the approximate age of the Great Pyramid of Giza?",4500 years,3500 years,5500 years,2500 years,0,Pyramids and Stellar Alignments
+9,"The alignment of the pyramids also correlates with the Nile River and what other feature?",Milky Way,Sirius,Bennu comet,The Sun,0,Pyramids and Stellar Alignments
+10,"Which pyramid has star shafts aligned toward the star Thuban?",Great Pyramid of Giza,Step Pyramid,Bent Pyramid,Red Pyramid,0,Pyramids and Stellar Alignments
+11,"What is the significance of Thuban in pyramid alignment?",It was the North Star during pyramid construction,It was the brightest star,It marked the summer solstice,It was a constellation’s brightest star,0,Pyramids and Stellar Alignments
+12,"The Orion Correlation Theory suggests pyramids represent the stars in Orion’s Belt to symbolize:",Osiris's resurrection,Ra's journey,Isis’s protection,Horus’s power,0,Pyramids and Stellar Alignments
+13,"Which ancient Egyptian text references stars in relation to pyramids?",The Book of the Dead,The Pyramid Texts,The Coffin Texts,The Rosetta Stone,1,Pyramids and Stellar Alignments
+14,"Which pyramid is known as the first true pyramid built by the Egyptians?",Step Pyramid,Great Pyramid,Bent Pyramid,Red Pyramid,0,Pyramids and Stellar Alignments
+15,"Star shafts are narrow passages found inside:",Pyramids,Tombs,Temples,Megaliths,0,Pyramids and Stellar Alignments
+16,"Which star associated with the star shafts was linked to the afterlife?",Sirius,Orion,Betelgeuse,Polaris,0,Pyramids and Stellar Alignments
+17,"The Great Pyramid’s southern shaft points roughly to:",Sirius,Orion’s belt,Polaris,Canopus,0,Pyramids and Stellar Alignments
+18,"Which celestial phenomenon was crucial to the Egyptians’ religious beliefs reflected in pyramid alignments?",Star risings,Sunsets,Planetary conjunctions,Lunar eclipses,0,Pyramids and Stellar Alignments
+19,"Which ancient city is closest to the Giza pyramids?",Cairo,Memphis,Thebes,Alexandria,0,Pyramids and Stellar Alignments
+20,"The orientation of the pyramids is almost perfectly aligned with:",True north,Magnetic north,South,East,0,Pyramids and Stellar Alignments
+21,"Which of these is NOT part of the Orion Correlation Theory?",Pyramids represent Orion’s Belt,Star shafts point to specific stars,Pyramids were built to trap stars,Pyramids symbolize Osiris,2,Pyramids and Stellar Alignments
+22,"Who discovered the star shafts inside the Great Pyramid?",Howard Vyse,Giovanni Belzoni,Flinders Petrie,Zahi Hawass,0,Pyramids and Stellar Alignments
+23,"The Red Pyramid is located at which ancient Egyptian site?",Dahshur,Giza,Saqqara,Abu Simbel,0,Pyramids and Stellar Alignments
+24,"The star Sirius was important to Egyptians because it:",Signaled the flooding of the Nile,Marked the new year,Represented the goddess Isis,All of the above,3,Pyramids and Stellar Alignments
+25,"The pyramids’ star alignments served primarily to aid:",The Pharaoh’s journey to the afterlife,Agricultural planning,Trade routes,Military navigation,0,Pyramids and Stellar Alignments
+26,"Which of these stars was NOT linked with pyramid alignments?",Betelgeuse,Sirius,Polaris,Vega,3,Pyramids and Stellar Alignments
+27,"The design of pyramids suggests a sophisticated understanding of:",Astronomy,Mathematics,Engineering,All of the above,3,Pyramids and Stellar Alignments
+28,"Which Pharaoh’s reign is most closely associated with the Great Pyramid?",Khufu,Khafre,Menkauure,Tutankhamun,0,Pyramids and Stellar Alignments
+29,"The ancient Egyptians believed the Pharaoh’s soul would join which star after death?",Sirius,Orion’s Belt,Polaris,Venus,1,Pyramids and Stellar Alignments
+30,"What modern tool helped verify pyramid alignments with stars?",Satellite imaging,Telescope,GPS,All of the above,3,Pyramids and Stellar Alignments
+31,"Which ancient text helped decode star myths linked to the pyramids?",Rosetta Stone,Book of Thoth,Pyramid Texts,Book of the Dead,2,Pyramids and Stellar Alignments
+32,"The ‘air shafts’ in the Great Pyramid were initially thought to be for:",Ventilation,Religious purposes,Star observation,Storage,0,Pyramids and Stellar Alignments
+33,"The alignment of pyramids with stars is an example of:",Archaeoastronomy,Astrology,Mythology,Navigation,0,Pyramids and Stellar Alignments
+34,"Which star constellation was most significant to ancient Egyptian cosmology?",Orion,Leo,Scorpius,Cassiopeia,0,Pyramids and Stellar Alignments
+35,"What feature of the pyramids helps study their star alignments today?",Star shafts,Hieroglyphs,Exterior stones,Underground chambers,0,Pyramids and Stellar Alignments
+36,"Which famous pyramid has no star shafts?",Step Pyramid,Great Pyramid,Bent Pyramid,Red Pyramid,2,Pyramids and Stellar Alignments
+37,"What material was primarily used to build the Great Pyramid?",Limestone,Granite,Marble,Basalt,0,Pyramids and Stellar Alignments
+38,"Orion’s Belt is made up of how many stars?",Three,Four,Five,Seven,0,Pyramids and Stellar Alignments
+39,"The concept of aligning monuments with stars is part of which field?",Archaeoastronomy,Astrology,Astronomy,Mythology,0,Pyramids and Stellar Alignments
+40,"Which ancient monument shares a similar star alignment concept with the Egyptian pyramids?",Machu Picchu,Stonehenge,Chichen Itza,Newgrange,1,Pyramids and Stellar Alignments
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Jantar Mantar in India was built by which ruler?",Maharaja Jai Singh II,Akbar,Shah Jahan,Chandragupta Maurya,0,Ancient Observatories
+2,"The primary purpose of Jantar Mantar was to:",Observe celestial events,Serve as a temple,House royal archives,Be a fort,0,Ancient Observatories
+3,"El Caracol is an ancient observatory located in which civilization?",Maya,Aztec,Inca,Olmec,0,Ancient Observatories
+4,"What is the shape of El Caracol observatory?",Circular,Rectangular,Square,Triangular,0,Ancient Observatories
+5,"Nabta Playa observatory is found on which continent?",Africa,Asia,South America,Europe,0,Ancient Observatories
+6,"Which natural phenomenon did Nabta Playa help ancient people track?",Summer Solstice,Winter Solstice,Equinoxes,Lunar cycles,0,Ancient Observatories
+7,"Jantar Mantar has how many main instruments for astronomical observations?",Five,Seven,Ten,Four,1,Ancient Observatories
+8,"The Samrat Yantra at Jantar Mantar is used to measure:",Time,Temperature,Humidity,Wind speed,0,Ancient Observatories
+9,"El Caracol’s windows align with the rise and set of:",Venus,Mercury,Moon,Sirius,2,Ancient Observatories
+10,"The ancient observatory Nabta Playa is approximately how old?",7000 years,5000 years,3000 years,2000 years,0,Ancient Observatories
+11,"Jantar Mantar is located in which Indian city?",Jaipur,Delhi,Udaipur,Varanasi,0,Ancient Observatories
+12,"Which celestial body’s movements were primarily tracked by El Caracol?",Sun,Moon,Venus,Mars,2,Ancient Observatories
+13,"Nabta Playa contains stones aligned to track the position of which star?",Polaris,Sirius,Orion’s Belt,Betelgeuse,1,Ancient Observatories
+14,"The purpose of ancient observatories like Jantar Mantar was to improve:",Calendar accuracy,Agricultural planning,Religious timing,All of the above,3,Ancient Observatories
+15,"El Caracol translates to which word in Spanish?",Snail,Star,Sun,Moon,0,Ancient Observatories
+16,"Jantar Mantar was completed in which century?",18th century,17th century,16th century,19th century,0,Ancient Observatories
+17,"The Vedic calendar system benefited from observations at:",Jantar Mantar,El Caracol,Nabta Playa,All of the above,0,Ancient Observatories
+18,"Nabta Playa is sometimes called the 'African':",Stonehenge,Pyramids,Temple,Calendar,0,Ancient Observatories
+19,"Which instrument at Jantar Mantar measures the altitude of stars?",Samrat Yantra,Rama Yantra,Jaiprakash Yantra,Chakra Yantra,2,Ancient Observatories
+20,"El Caracol is located near which famous Mayan city?",Chichen Itza,Tikal,Palenque,Copan,0,Ancient Observatories
+21,"The stones at Nabta Playa are arranged in a pattern representing:",The Big Dipper,The Summer Solstice sunrise,The Milky Way,The Moon’s cycle,1,Ancient Observatories
+22,"Jantar Mantar’s architectural design combines astronomy and:",Mathematics,Music,Religion,Philosophy,0,Ancient Observatories
+23,"Which of these is NOT an instrument at Jantar Mantar?",Quadrant,Astrolabe,Sundial,Seismograph,3,Ancient Observatories
+24,"El Caracol was likely used to predict:",Eclipses,Solar flares,Comet appearances,Meteor showers,0,Ancient Observatories
+25,"Nabta Playa’s discovery helped reshape ideas about:",Ancient African civilizations,Ancient Greek astronomy,Mesopotamian astronomy,Chinese astronomy,0,Ancient Observatories
+26,"Which feature of El Caracol aids in observing Venus’ cycles?",Windows,Columns,Roof design,Altar,0,Ancient Observatories
+27,"Jantar Mantar’s instruments are primarily made from:",Stone and marble,Wood,Metal and glass,Clay,0,Ancient Observatories
+28,"The alignment of stones at Nabta Playa is evidence of:",Early astronomical knowledge,Ritualistic practices,Artistic expression,Agricultural use,0,Ancient Observatories
+29,"El Caracol is unique among Mayan buildings due to its:",Astronomical function,Size,Decoration,Location,0,Ancient Observatories
+30,"The design of Jantar Mantar influenced:",Modern observatories,Religious temples,Pyramids,Palaces,0,Ancient Observatories
+31,"The discovery of Nabta Playa changed the timeline for:",Ancient astronomy in Africa,Ancient Egyptian history,Mayan calendar,Greek astronomy,0,Ancient Observatories
+32,"Which Indian astronomer inspired the construction of Jantar Mantar?",Varahamihira,Brahmagupta,Aryabhata,Jai Singh II,3,Ancient Observatories
+33,"El Caracol’s circular tower is believed to represent:",The cosmos,The sun,The earth,The moon,0,Ancient Observatories
+34,"Which astronomical event is especially marked by Nabta Playa stones?",Summer Solstice sunrise,Winter Solstice sunset,Lunar eclipse,Venus transit,0,Ancient Observatories
+35,"Jantar Mantar’s Yantras serve as:",Astronomical instruments,Religious idols,Water reservoirs,Defensive weapons,0,Ancient Observatories
+36,"Which modern technology has helped study ancient observatories better?",Satellite imaging,Radio telescopes,X-ray scanning,3D printing,0,Ancient Observatories
+37,"El Caracol’s alignment helped ancient Maya track:",Planetary movements,Lunar eclipses,Comet arrivals,Solar flares,0,Ancient Observatories
+38,"Nabta Playa’s stone circle is thought to be one of the earliest examples of:",Astronomical alignment,Astronomical instruments,Astronomy textbooks,Astronomical myths,0,Ancient Observatories
+39,"Which of the following is NOT true about Jantar Mantar?",It is still operational,It is located in Rajasthan,It contains multiple instruments,It was built in the 20th century,3,Ancient Observatories
+40,"The construction of Nabta Playa’s observatory predates Stonehenge by approximately how many years?",1000 years,2000 years,3000 years,4000 years,1,Ancient Observatories
+id,question,option1,option2,option3,option4,correctAnswer,category
+1,"Which ancient civilization is credited with one of the earliest known star charts?",Babylonians,Egyptians,Greeks,Chinese,0,Ancient Star Charts
+2,"The 'Mul.Apin' tablets from Mesopotamia are examples of:",Star catalogs,Astronomical instruments,Religious texts,Calendars,0,Ancient Star Charts
+3,"Which ancient culture created the Denderah Zodiac, an important celestial map?",Egyptians,Maya,Greeks,Romans,0,Ancient Star Charts
+4,"The Greeks are known for cataloging stars in which famous work?",Almagest,Geographia,Historia Naturalis,Metaphysics,0,Ancient Star Charts
+5,"Ptolemy’s star catalog was compiled in which century?",2nd century BCE,2nd century CE,1st century CE,4th century BCE,1,Ancient Star Charts
+6,"Which Greek astronomer is credited with creating the first comprehensive star catalog?",Hipparchus,Ptolemy,Aristotle,Eratosthenes,0,Ancient Star Charts
+7,"The term 'constellation' comes from which language?",Greek,Latin,Arabic,Sanskrit,1,Ancient Star Charts
+8,"Which ancient culture divided the sky into 28 lunar mansions or nakshatras?",Indian,Chinese,Greek,Babylonian,0,Ancient Star Charts
+9,"The earliest Chinese star maps date back to which dynasty?",Shang,Han,Qin,Zhou,0,Ancient Star Charts
+10,"Which celestial body was often excluded from early star charts due to its changing position?",Planets,Stars,Comets,Meteors,0,Ancient Star Charts
+11,"The Greek star atlas 'Farnese Atlas' depicts the sky as seen in:",Ancient Greece,Rome,Mesopotamia,Egypt,1,Ancient Star Charts
+12,"What was the primary material used for Babylonian star charts?",Clay tablets,Stone walls,Parchment,Metal sheets,0,Ancient Star Charts
+13,"Which constellation was important in Egyptian star charts and associated with Osiris?",Orion,Leo,Scorpio,Aquila,0,Ancient Star Charts
+14,"The ancient Polynesians used star charts primarily for:",Navigation,Farming,Religious rituals,Hunting,0,Ancient Star Charts
+15,"Which constellation is known as the 'Great Bear' and appears in many ancient star charts?",Ursa Major,Orion,Leo,Draco,0,Ancient Star Charts
+16,"In ancient Greek star maps, what symbol was commonly used to denote stars?",Dots,Lines,Circles,Triangles,0,Ancient Star Charts
+17,"Which civilization’s star charts were inscribed on the Nebra Sky Disk?",Bronze Age Europeans,Mesopotamians,Egyptians,Maya,0,Ancient Star Charts
+18,"Which ancient astronomer is known for identifying the precession of the equinoxes using star charts?",Hipparchus,Ptolemy,Galileo,Aristarchus,0,Ancient Star Charts
+19,"The earliest known depiction of constellations comes from:",Lascaux Caves,Egypt,Mesopotamia,Greece,0,Ancient Star Charts
+20,"Which animal figure is prominent in many ancient star charts and myths?",Lion,Dragon,Eagle,Cow,0,Ancient Star Charts
+21,"Ancient Chinese star charts often divided the sky into how many 'Three Enclosures'?",Three,Four,Five,Seven,0,Ancient Star Charts
+22,"Which star is known as the 'Pole Star' and often appears in early star charts?",Polaris,Sirius,Betelgeuse,Vega,0,Ancient Star Charts
+23,"The Babylonian zodiac was divided into how many signs?",12,10,15,16,0,Ancient Star Charts
+24,"Ancient Greek star charts heavily influenced which medieval astronomical work?",Almagest,Book of Enoch,Sidereus Nuncius,Principia,0,Ancient Star Charts
+25,"The term 'asterism' in star charts refers to:",A recognizable star pattern,An individual star,A planet,A comet,0,Ancient Star Charts
+26,"Which ancient civilization used the star Sirius as a marker for the Nile flood?",Egyptians,Babylonians,Greeks,Chinese,0,Ancient Star Charts
+27,"In ancient star charts, the Milky Way was often depicted as:",A river,A road,A tree,A snake,0,Ancient Star Charts
+28,"Which constellation is associated with the myth of the hunter in many ancient cultures?",Orion,Leo,Scorpius,Draco,0,Ancient Star Charts
+29,"The star catalog 'Almagest' was written in which language?",Greek,Latin,Arabic,Hindi,0,Ancient Star Charts
+30,"Early star charts often linked constellations to:",Mythology,Agriculture,Medicine,Architecture,0,Ancient Star Charts
+31,"Which culture is known for star charts that influenced the Islamic Golden Age?",Babylonian,Greek,Chinese,Indian,1,Ancient Star Charts
+32,"The star charts from the Hellenistic period were influenced by:",Egyptian and Babylonian astronomy,Chinese and Indian astronomy,Greek and Roman mythology,Persian and Arab culture,0,Ancient Star Charts
+33,"Which constellation is commonly depicted as a scorpion in ancient star charts?",Scorpius,Leo,Virgo,Taurus,0,Ancient Star Charts
+34,"The oldest known celestial globe was created in:",Ancient Greece,Ancient China,Ancient India,Ancient Egypt,0,Ancient Star Charts
+35,"Which ancient civilization had star charts carved on stone tablets?",Babylonians,Romans,Greeks,Egyptians,0,Ancient Star Charts
+36,"In early star charts, the zodiac signs were used primarily for:",Tracking planetary movements,Predicting weather,Marking seasons,Religious rituals,0,Ancient Star Charts
+37,"Which constellation is linked to the goddess Artemis in Greek mythology?",Orion,Ursa Major,Leo,Virgo,0,Ancient Star Charts
+38,"The Chinese star chart known as the 'Star Manual of Master Gan' was created in which century?",6th century BCE,4th century CE,1st century BCE,3rd century CE,1,Ancient Star Charts
+39,"Which star is the brightest in the night sky and featured in many ancient star charts?",Sirius,Canopus,Polaris,Vega,0,Ancient Star Charts
+40,"Which tool was essential for ancient astronomers to create star charts?",Gnomon,Astrolabe,Telescope,Compass,1,Ancient Star Charts
