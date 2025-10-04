@@ -554,6 +554,7 @@ body {
                 </div>
 
                 <button id="nextButton" class="btn-primary hidden">Next Question</button>
+                <a href="https://skylore2025.github.io" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
 
@@ -581,7 +582,7 @@ body {
                 </div>
                 
                 <button id="restartButton" class="btn-primary">Restart Journey</button>
-                <a href="https://skylore2025.github.io" class="btn-skylore">Return to Skylore</a>
+                <a href="YOUR_WEBSITE_URL_HERE" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
     </div>
@@ -614,12 +615,15 @@ const resultMessage = document.getElementById('resultMessage');
 const correctCount = document.getElementById('correctCount');
 const incorrectCount = document.getElementById('incorrectCount');
 
-// Shuffle array function
+// Shuffle array function (Fisher-Yates shuffle)
 function shuffleArray(array) {
     const shuffled = [...array];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    // Shuffle multiple times for better randomization
+    for (let shuffle = 0; shuffle < 3; shuffle++) {
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
     }
     return shuffled;
 }
@@ -970,6 +974,7 @@ restartButton.addEventListener('click', restartQuiz);
 startButton.disabled = true;
 startButton.textContent = 'Loading Questions...';
 loadQuestions();
+
 
 
 
