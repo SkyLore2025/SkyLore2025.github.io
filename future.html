@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TimeQuest: Futuristic Space</title>
+    <title>SkyLore: Futuristic Space</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
     <style>
         * {
@@ -552,10 +552,11 @@
                 <button class="nav-btn" id="nextBtn">Next</button>
                 <button class="nav-btn hidden" id="submitBtn">Submit Quiz</button>
             </div>
+            <a href="https://skylore2025.github.io" class="return-btn">Return to SkyLore</a>
         </div>
 
         <div class="result-screen hidden" id="resultScreen">
-            <h2>Quiz Completed! 🚀</h2>
+            <h2>Quiz Completed!</h2>
             <div class="final-score" id="finalScore">0/80</div>
             <div class="result-message" id="resultMessage"></div>
             
@@ -575,7 +576,7 @@
             </div>
 
             <button class="start-btn" id="restartBtn">Take Quiz Again</button>
-            <a href="YOUR_GOOGLE_ADDRESS_HERE" class="return-btn">Return to Website</a>
+            <a href="https://skylore2025.github.io" class="return-btn">Return to SkyLore</a>
         </div>
     </div>
 
@@ -589,12 +590,10 @@
         function createStars() {
             const starsContainer = document.getElementById('stars');
             
-            // Add grid overlay
             const gridLines = document.createElement('div');
             gridLines.className = 'grid-lines';
             starsContainer.appendChild(gridLines);
             
-            // Create stars
             for (let i = 0; i < 100; i++) {
                 const star = document.createElement('div');
                 star.className = 'star';
@@ -604,7 +603,6 @@
                 starsContainer.appendChild(star);
             }
             
-            // Create circuit lines
             for (let i = 0; i < 8; i++) {
                 const circuit = document.createElement('div');
                 circuit.className = 'circuit-line';
@@ -615,7 +613,6 @@
                 starsContainer.appendChild(circuit);
             }
             
-            // Create floating particles
             for (let i = 0; i < 30; i++) {
                 const particle = document.createElement('div');
                 particle.className = 'particle';
@@ -628,7 +625,6 @@
                 starsContainer.appendChild(particle);
             }
             
-            // Create hologram rings
             for (let i = 0; i < 5; i++) {
                 const ring = document.createElement('div');
                 ring.className = 'hologram-ring';
@@ -642,7 +638,6 @@
                 starsContainer.appendChild(ring);
             }
             
-            // Create data streams
             const dataChars = '01';
             for (let i = 0; i < 15; i++) {
                 const stream = document.createElement('div');
@@ -659,12 +654,15 @@
             }
         }
 
-        // Shuffle array function
+        // Improved shuffle function (Fisher-Yates with triple pass)
         function shuffleArray(array) {
             const shuffled = [...array];
-            for (let i = shuffled.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+            // Triple shuffle for maximum randomization
+            for (let pass = 0; pass < 3; pass++) {
+                for (let i = shuffled.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+                }
             }
             return shuffled;
         }
@@ -698,6 +696,9 @@
             userAnswers = new Array(questions.length).fill(null);
             currentQuestion = 0;
             score = 0;
+            
+            // Shuffle questions again when starting quiz
+            questions = shuffleArray(questions);
             
             document.getElementById('introScreen').classList.add('hidden');
             document.getElementById('quizScreen').classList.remove('hidden');
@@ -802,15 +803,15 @@
             
             let message = '';
             if (percentage >= 90) {
-                message = 'Outstanding! You are a true space expert! 🌟';
+                message = 'Outstanding! You are a true space expert!';
             } else if (percentage >= 75) {
-                message = 'Excellent work! Your knowledge is stellar! 🚀';
+                message = 'Excellent work! Your knowledge is stellar!';
             } else if (percentage >= 60) {
-                message = 'Good job! Keep exploring the cosmos! 🌌';
+                message = 'Good job! Keep exploring the cosmos!';
             } else if (percentage >= 40) {
-                message = 'Not bad! There is much more to discover! 🪐';
+                message = 'Not bad! There is much more to discover!';
             } else {
-                message = 'Keep learning! The universe awaits! 🌠';
+                message = 'Keep learning! The universe awaits!';
             }
             
             document.getElementById('resultMessage').textContent = message;
@@ -818,6 +819,9 @@
 
         // Restart quiz
         function restartQuiz() {
+            // Shuffle questions again on restart
+            questions = shuffleArray(questions);
+            
             document.getElementById('resultScreen').classList.add('hidden');
             document.getElementById('introScreen').classList.remove('hidden');
             document.getElementById('startBtn').classList.remove('hidden');
@@ -837,5 +841,3 @@
     </script>
 </body>
 </html>
-
-
