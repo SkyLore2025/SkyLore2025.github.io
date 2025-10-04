@@ -1,0 +1,774 @@
+[  
+{
+    "category": "Solar System",
+    "question": "What is the largest moon in our solar system?",
+    "options": ["Titan", "Ganymede", "Moon", "Europa"],
+    "answer": 1,
+    "explanation": "Ganymede, one of Jupiter's moons, is the largest moon in our solar system, even bigger than the planet Mercury."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1,
+    "explanation": "Saturn currently has the most confirmed moons with over 140, surpassing Jupiter's count."
+  },
+  {
+    "category": "Solar System",
+    "question": "What causes Neptune's intense blue color?",
+    "options": ["Water oceans", "Methane in its atmosphere", "Copper deposits", "Solar reflection"],
+    "answer": 1,
+    "explanation": "Methane in Neptune's atmosphere absorbs red light and reflects blue light, giving the planet its distinctive blue appearance."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which dwarf planet is located in the asteroid belt?",
+    "options": ["Pluto", "Eris", "Ceres", "Makemake"],
+    "answer": 2,
+    "explanation": "Ceres is the only dwarf planet located in the main asteroid belt between Mars and Jupiter."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is unusual about Mercury's orbit?",
+    "options": ["It's perfectly circular", "It has the highest eccentricity", "It orbits backwards", "It shares orbit with Venus"],
+    "answer": 1,
+    "explanation": "Mercury has the most eccentric orbit of all planets, meaning it's the most elliptical rather than circular."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which moon has a thick atmosphere primarily composed of nitrogen?",
+    "options": ["Europa", "Titan", "Io", "Callisto"],
+    "answer": 1,
+    "explanation": "Saturn's moon Titan has a dense atmosphere rich in nitrogen, similar to Earth's early atmosphere."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the approximate age of our solar system?",
+    "options": ["2.5 billion years", "4.6 billion years", "7.1 billion years", "1.3 billion years"],
+    "answer": 1,
+    "explanation": "Based on radiometric dating of meteorites and Moon rocks, our solar system formed approximately 4.6 billion years ago."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the strongest magnetic field?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": 1,
+    "explanation": "Jupiter has the strongest magnetic field in our solar system, about 20,000 times stronger than Earth's."
+  },
+  {
+    "category": "Solar System",
+    "question": "What are the Martian polar caps primarily made of?",
+    "options": ["Solid carbon dioxide", "Water ice and frozen carbon dioxide", "Methane ice", "Ammonia crystals"],
+    "answer": 1,
+    "explanation": "Mars has polar caps composed of water ice covered by a layer of frozen carbon dioxide (dry ice)."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the longest day?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": 1,
+    "explanation": "Venus has the longest day of any planet, taking 243 Earth days to complete one rotation."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the main component of Saturn's rings?",
+    "options": ["Rock fragments", "Dust particles", "Ice particles", "Metal chunks"],
+    "answer": 2,
+    "explanation": "Saturn's rings are primarily composed of water ice particles ranging from microscopic dust to boulder-sized chunks."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which moon is the most volcanically active body in our solar system?",
+    "options": ["Europa", "Io", "Titan", "Enceladus"],
+    "answer": 1,
+    "explanation": "Jupiter's moon Io is the most volcanically active body, with hundreds of volcanoes due to tidal heating from Jupiter's gravity."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the approximate distance from Earth to the Sun (1 astronomical unit)?",
+    "options": ["50 million km", "100 million km", "150 million km", "200 million km"],
+    "answer": 2,
+    "explanation": "One astronomical unit (AU) is approximately 150 million kilometers (93 million miles), the average Earth-Sun distance."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the most extreme seasons due to its axial tilt?",
+    "options": ["Earth", "Mars", "Uranus", "Venus"],
+    "answer": 2,
+    "explanation": "Uranus has the most extreme seasons, with each pole getting about 42 years of continuous sunlight followed by 42 years of darkness."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the name of the largest volcano in our solar system?",
+    "options": ["Mauna Loa", "Olympus Mons", "Mount Everest", "Elysium Mons"],
+    "answer": 1,
+    "explanation": "Olympus Mons on Mars is the largest volcano in our solar system, about 2.5 times taller than Mount Everest."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which two planets in our solar system lack natural moons?",
+    "options": ["Mercury and Venus", "Mars and Mercury", "Venus and Mars", "Mercury and Jupiter"],
+    "answer": 0,
+    "explanation": "Mercury and Venus are the only planets in our solar system that do not have any natural moons or satellites."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the approximate temperature of the Sun's surface?",
+    "options": ["2,800°C", "5,500°C", "10,000°C", "15,000°C"],
+    "answer": 1,
+    "explanation": "The Sun's surface temperature (photosphere) is approximately 5,500°C (9,932°F)."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the fastest winds in the solar system?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+    "answer": 2,
+    "explanation": "Neptune has the fastest winds, reaching speeds of over 2,000 km/h (1,200 mph)."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the name of the region between Mars and Jupiter containing numerous asteroids?",
+    "options": ["Kuiper Belt", "Oort Cloud", "Asteroid Belt", "Scattered Disc"],
+    "answer": 2,
+    "explanation": "The Asteroid Belt is located between the orbits of Mars and Jupiter and contains millions of asteroids."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the lowest density and could theoretically float in water?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1,
+    "explanation": "Saturn has the lowest density of all planets - about 0.687 g/cm³ - less than the density of water."
+  },
+  
+  {
+    "category": "Solar System",
+    "question": "What is the primary reason Venus is hotter than Mercury, despite being farther from the Sun?",
+    "options": ["Intense volcanic activity", "Runaway greenhouse effect", "Closer orbital path", "High surface reflectivity"],
+    "answer": 1,
+    "explanation": "Venus's thick atmosphere of carbon dioxide creates a powerful greenhouse effect, trapping heat and raising surface temperatures to about 465°C."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the most extensive ring system in our solar system?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "answer": 0,
+    "explanation": "Saturn's rings are the largest and most visible, composed mainly of ice particles with some rock debris."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the Great Red Spot on Jupiter?",
+    "options": ["A massive volcano", "A giant storm", "A large mineral deposit", "An impact crater"],
+    "answer": 1,
+    "explanation": "The Great Red Spot is a gigantic anticyclonic storm larger than Earth that has been raging for at least 400 years."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which moon in our solar system is known to have active cryovolcanoes (ice volcanoes)?",
+    "options": ["Earth's Moon", "Europa", "Enceladus", "Titan"],
+    "answer": 2,
+    "explanation": "Saturn's moon Enceladus has cryovolcanoes that erupt water ice and organic molecules from its subsurface ocean."
+  },
+  {
+    "category": "Solar System",
+    "question": "What makes Mars appear red in the night sky?",
+    "options": ["Red-colored vegetation", "Iron oxide (rust) on its surface", "Volcanic glass deposits", "Atmospheric light refraction"],
+    "answer": 1,
+    "explanation": "Iron oxide (rust) in the Martian soil gives the planet its characteristic reddish appearance."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet rotates on its side, with an axial tilt of about 98 degrees?",
+    "options": ["Venus", "Uranus", "Pluto", "Neptune"],
+    "answer": 1,
+    "explanation": "Uranus has an extreme axial tilt, causing it to essentially roll around the Sun on its side."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the Kuiper Belt?",
+    "options": ["A type of asteroid", "Jupiter's radiation field", "A region beyond Neptune containing icy bodies", "Saturn's outermost ring"],
+    "answer": 2,
+    "explanation": "The Kuiper Belt is a vast region beyond Neptune's orbit containing numerous icy bodies, including dwarf planets like Pluto."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the shortest day in our solar system?",
+    "options": ["Mercury", "Earth", "Jupiter", "Mars"],
+    "answer": 2,
+    "explanation": "Jupiter has the shortest day, rotating once every approximately 9 hours and 56 minutes."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the Oort Cloud?",
+    "options": ["A storm on Jupiter", "A hypothetical spherical shell of icy objects surrounding the solar system", "A type of nebula", "A cluster of asteroids"],
+    "answer": 1,
+    "explanation": "The Oort Cloud is a theoretical vast sphere of icy objects surrounding our solar system, thought to be the source of long-period comets."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mercury", "Venus", "Mars", "Saturn"],
+    "answer": 1,
+    "explanation": "Venus is often called the Morning Star or Evening Star because it's frequently the brightest object in the sky just before sunrise or after sunset."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the largest moon in our solar system?",
+    "options": ["Titan", "Ganymede", "Moon", "Europa"],
+    "answer": 1,
+    "explanation": "Ganymede, one of Jupiter's moons, is the largest moon in our solar system, even bigger than the planet Mercury."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1,
+    "explanation": "Saturn currently has the most confirmed moons with over 140, surpassing Jupiter's count."
+  },
+  {
+    "category": "Solar System",
+    "question": "What causes Neptune's intense blue color?",
+    "options": ["Water oceans", "Methane in its atmosphere", "Copper deposits", "Solar reflection"],
+    "answer": 1,
+    "explanation": "Methane in Neptune's atmosphere absorbs red light and reflects blue light, giving the planet its distinctive blue appearance."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which dwarf planet is located in the asteroid belt?",
+    "options": ["Pluto", "Eris", "Ceres", "Makemake"],
+    "answer": 2,
+    "explanation": "Ceres is the only dwarf planet located in the main asteroid belt between Mars and Jupiter."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is unusual about Mercury's orbit?",
+    "options": ["It's perfectly circular", "It has the highest eccentricity", "It orbits backwards", "It shares orbit with Venus"],
+    "answer": 1,
+    "explanation": "Mercury has the most eccentric orbit of all planets, meaning it's the most elliptical rather than circular."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which moon has a thick atmosphere primarily composed of nitrogen?",
+    "options": ["Europa", "Titan", "Io", "Callisto"],
+    "answer": 1,
+    "explanation": "Saturn's moon Titan has a dense atmosphere rich in nitrogen, similar to Earth's early atmosphere."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the approximate age of our solar system?",
+    "options": ["2.5 billion years", "4.6 billion years", "7.1 billion years", "1.3 billion years"],
+    "answer": 1,
+    "explanation": "Based on radiometric dating of meteorites and Moon rocks, our solar system formed approximately 4.6 billion years ago."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the strongest magnetic field?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": 1,
+    "explanation": "Jupiter has the strongest magnetic field in our solar system, about 20,000 times stronger than Earth's."
+  },
+  {
+    "category": "Solar System",
+    "question": "What are the Martian polar caps primarily made of?",
+    "options": ["Solid carbon dioxide", "Water ice and frozen carbon dioxide", "Methane ice", "Ammonia crystals"],
+    "answer": 1,
+    "explanation": "Mars has polar caps composed of water ice covered by a layer of frozen carbon dioxide (dry ice)."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the longest day?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": 1,
+    "explanation": "Venus has the longest day of any planet, taking 243 Earth days to complete one rotation."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the main component of Saturn's rings?",
+    "options": ["Rock fragments", "Dust particles", "Ice particles", "Metal chunks"],
+    "answer": 2,
+    "explanation": "Saturn's rings are primarily composed of water ice particles ranging from microscopic dust to boulder-sized chunks."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which moon is the most volcanically active body in our solar system?",
+    "options": ["Europa", "Io", "Titan", "Enceladus"],
+    "answer": 1,
+    "explanation": "Jupiter's moon Io is the most volcanically active body, with hundreds of volcanoes due to tidal heating from Jupiter's gravity."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the approximate distance from Earth to the Sun (1 astronomical unit)?",
+    "options": ["50 million km", "100 million km", "150 million km", "200 million km"],
+    "answer": 2,
+    "explanation": "One astronomical unit (AU) is approximately 150 million kilometers (93 million miles), the average Earth-Sun distance."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the most extreme seasons due to its axial tilt?",
+    "options": ["Earth", "Mars", "Uranus", "Venus"],
+    "answer": 2,
+    "explanation": "Uranus has the most extreme seasons, with each pole getting about 42 years of continuous sunlight followed by 42 years of darkness."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the name of the largest volcano in our solar system?",
+    "options": ["Mauna Loa", "Olympus Mons", "Mount Everest", "Elysium Mons"],
+    "answer": 1,
+    "explanation": "Olympus Mons on Mars is the largest volcano in our solar system, about 2.5 times taller than Mount Everest."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which two planets in our solar system lack natural moons?",
+    "options": ["Mercury and Venus", "Mars and Mercury", "Venus and Mars", "Mercury and Jupiter"],
+    "answer": 0,
+    "explanation": "Mercury and Venus are the only planets in our solar system that do not have any natural moons or satellites."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the approximate temperature of the Sun's surface?",
+    "options": ["2,800°C", "5,500°C", "10,000°C", "15,000°C"],
+    "answer": 1,
+    "explanation": "The Sun's surface temperature (photosphere) is approximately 5,500°C (9,932°F)."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the fastest winds in the solar system?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+    "answer": 2,
+    "explanation": "Neptune has the fastest winds, reaching speeds of over 2,000 km/h (1,200 mph)."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the name of the region between Mars and Jupiter containing numerous asteroids?",
+    "options": ["Kuiper Belt", "Oort Cloud", "Asteroid Belt", "Scattered Disc"],
+    "answer": 2,
+    "explanation": "The Asteroid Belt is located between the orbits of Mars and Jupiter and contains millions of asteroids."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has the lowest density and could theoretically float in water?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1,
+    "explanation": "Saturn has the lowest density of all planets - about 0.687 g/cm³ - less than the density of water."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is the closest star system to our Sun?",
+    "options": ["Sirius", "Alpha Centauri", "Betelgeuse", "Proxima Centauri"],
+    "answer": 1,
+    "explanation": "The Alpha Centauri system, which includes Proxima Centauri, is the closest star system to our Sun at about 4.37 light-years away."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What type of galaxy is the Milky Way?",
+    "options": ["Elliptical galaxy", "Spiral galaxy", "Irregular galaxy", "Lenticular galaxy"],
+    "answer": 1,
+    "explanation": "The Milky Way is a barred spiral galaxy with a central bar-shaped structure composed of stars."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is a neutron star?",
+    "options": ["A star made of neutrons", "The collapsed core of a massive star", "A newly formed star", "A star that emits only neutrons"],
+    "answer": 1,
+    "explanation": "A neutron star is the incredibly dense collapsed core of a massive star that went supernova, composed almost entirely of neutrons."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is the name of the supermassive black hole at the center of our galaxy?",
+    "options": ["Cygnus X-1", "Sagittarius A*", "M87", "Andromeda Core"],
+    "answer": 1,
+    "explanation": "Sagittarius A* is the supermassive black hole at the center of the Milky Way, with a mass of about 4 million suns."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is a light-year?",
+    "options": ["A measure of time", "A measure of distance", "A measure of brightness", "A measure of energy"],
+    "answer": 1,
+    "explanation": "A light-year is the distance that light travels in one year, approximately 9.46 trillion kilometers (5.88 trillion miles)."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "Which of these is NOT a type of galaxy?",
+    "options": ["Spiral", "Elliptical", "Irregular", "Supernova"],
+    "answer": 3,
+    "explanation": "Supernova is a stellar explosion, not a type of galaxy. The main galaxy types are spiral, elliptical, and irregular."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is the main sequence in stellar evolution?",
+    "options": ["The final stage of a star's life", "The stage where stars fuse hydrogen into helium", "The formation stage of a star", "The stage after a supernova"],
+    "answer": 1,
+    "explanation": "The main sequence is the longest stage in a star's life, where it steadily fuses hydrogen into helium in its core."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is a pulsar?",
+    "options": ["A rapidly rotating neutron star", "A type of quasar", "A variable star", "A protostar"],
+    "answer": 0,
+    "explanation": "A pulsar is a highly magnetized, rotating neutron star that emits beams of electromagnetic radiation from its magnetic poles."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "Which star is the brightest in our night sky?",
+    "options": ["Sirius", "Polaris", "Betelgeuse", "Vega"],
+    "answer": 0,
+    "explanation": "Sirius, also known as the Dog Star, is the brightest star in Earth's night sky, located in the constellation Canis Major."
+  },
+  {
+    "category": "Stars & Galaxies",
+    "question": "What is the approximate diameter of the Milky Way galaxy?",
+    "options": ["10,000 light-years", "50,000 light-years", "100,000 light-years", "500,000 light-years"],
+    "answer": 2,
+    "explanation": "The Milky Way has a diameter of approximately 100,000-180,000 light-years and contains 100-400 billion stars."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "Who was the first human to travel into space?",
+    "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
+    "answer": 1,
+    "explanation": "Yuri Gagarin, a Soviet cosmonaut, became the first human in space on April 12, 1961, aboard Vostok 1."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "Which spacecraft was the first to leave our solar system?",
+    "options": ["Voyager 1", "Pioneer 10", "New Horizons", "Voyager 2"],
+    "answer": 0,
+    "explanation": "Voyager 1, launched in 1977, crossed the heliopause in 2012, becoming the first human-made object to enter interstellar space."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "What was the name of the first artificial satellite?",
+    "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Telstar 1"],
+    "answer": 1,
+    "explanation": "Sputnik 1, launched by the Soviet Union on October 4, 1957, was the first artificial Earth satellite."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "Which planet was visited by the Voyager 2 spacecraft first?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 0,
+    "explanation": "Voyager 2 visited Jupiter first in 1979, then Saturn (1981), Uranus (1986), and Neptune (1989)."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "What is the name of NASA's Mars rover that landed in 2021?",
+    "options": ["Curiosity", "Opportunity", "Perseverance", "Spirit"],
+    "answer": 2,
+    "explanation": "Perseverance landed in Jezero Crater on Mars on February 18, 2021, with the Ingenuity helicopter."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "Which telescope was launched in 2021 as the successor to Hubble?",
+    "options": ["Kepler Telescope", "James Webb Space Telescope", "Spitzer Telescope", "Chandra X-ray Observatory"],
+    "answer": 1,
+    "explanation": "The James Webb Space Telescope (JWST) launched on December 25, 2021, and is designed to observe the universe in infrared."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "What was the name of the first reusable spacecraft?",
+    "options": ["Apollo spacecraft", "Space Shuttle", "Soyuz", "Dragon capsule"],
+    "answer": 1,
+    "explanation": "The Space Shuttle, first launched in 1981, was the first partially reusable spacecraft system."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "Which country first landed a spacecraft on the far side of the Moon?",
+    "options": ["United States", "Russia", "China", "India"],
+    "answer": 2,
+    "explanation": "China's Chang'e 4 mission successfully landed on the far side of the Moon on January 3, 2019."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "What is the International Space Station (ISS) primarily used for?",
+    "options": ["Military surveillance", "Space tourism", "Scientific research", "Satellite repair"],
+    "answer": 2,
+    "explanation": "The ISS serves as a microgravity and space environment research laboratory for scientific research in various fields."
+  },
+  {
+    "category": "Space Exploration",
+    "question": "Which Apollo mission first landed humans on the Moon?",
+    "options": ["Apollo 8", "Apollo 11", "Apollo 13", "Apollo 17"],
+    "answer": 1,
+    "explanation": "Apollo 11, with astronauts Neil Armstrong and Buzz Aldrin, made the first crewed Moon landing on July 20, 1969."
+  },
+  {
+    "category": "The Moon",
+    "question": "What causes the phases of the Moon?",
+    "options": ["Earth's shadow on the Moon", "The Moon's rotation", "The changing angle of sunlight on the Moon", "The Moon's elliptical orbit"],
+    "answer": 2,
+    "explanation": "Moon phases are caused by the changing relative positions of the Earth, Moon, and Sun, which affect how much of the Moon's sunlit side we see."
+  },
+  {
+    "category": "The Moon",
+    "question": "How long does it take the Moon to orbit Earth?",
+    "options": ["24 hours", "27.3 days", "29.5 days", "365 days"],
+    "answer": 1,
+    "explanation": "The Moon takes approximately 27.3 days to complete one orbit around Earth (sidereal month)."
+  },
+  {
+    "category": "The Moon",
+    "question": "What are the large, dark areas on the Moon's surface called?",
+    "options": ["Craters", "Highlands", "Maria", "Rilles"],
+    "answer": 2,
+    "explanation": "Maria (Latin for 'seas') are large, dark basaltic plains on the Moon formed by ancient volcanic eruptions."
+  },
+  {
+    "category": "The Moon",
+    "question": "Why does the same side of the Moon always face Earth?",
+    "options": ["The Moon doesn't rotate", "The Moon's rotation and revolution periods are equal", "Earth's gravity locks it", "It's a coincidence"],
+    "answer": 1,
+    "explanation": "The Moon is tidally locked to Earth, meaning its rotation period matches its orbital period, so we always see the same side."
+  },
+  {
+    "category": "The Moon",
+    "question": "What is the approximate distance from Earth to the Moon?",
+    "options": ["38,000 km", "384,000 km", "1 million km", "150 million km"],
+    "answer": 1,
+    "explanation": "The average distance from Earth to the Moon is about 384,400 kilometers (238,855 miles)."
+  },
+  {
+    "category": "The Moon",
+    "question": "What causes a lunar eclipse?",
+    "options": ["The Moon passing through Earth's shadow", "The Moon blocking the Sun", "The Moon's own shadow", "Solar flares"],
+    "answer": 0,
+    "explanation": "A lunar eclipse occurs when Earth passes between the Sun and Moon, casting its shadow on the Moon."
+  },
+  {
+    "category": "The Moon",
+    "question": "What is the gravitational force on the Moon compared to Earth?",
+    "options": ["Same as Earth", "1/2 of Earth's", "1/6 of Earth's", "1/100 of Earth's"],
+    "answer": 2,
+    "explanation": "The Moon's gravity is about 1/6th of Earth's gravity due to its smaller mass."
+  },
+  {
+    "category": "The Moon",
+    "question": "What are the bright, heavily cratered regions of the Moon called?",
+    "options": ["Maria", "Highlands", "Craters", "Basins"],
+    "answer": 1,
+    "explanation": "The lunar highlands are bright, heavily cratered regions that represent the Moon's original crust."
+  },
+  {
+    "category": "The Moon",
+    "question": "How was the Moon likely formed according to the most accepted theory?",
+    "options": ["Capture theory", "Fission theory", "Giant impact hypothesis", "Co-formation theory"],
+    "answer": 2,
+    "explanation": "The giant impact hypothesis suggests the Moon formed from debris after a Mars-sized body collided with early Earth."
+  },
+  {
+    "category": "The Moon",
+    "question": "What is the temperature range on the Moon's surface?",
+    "options": ["Similar to Earth", "Always freezing", "Always hot", "Extreme: -173°C to 127°C"],
+    "answer": 3,
+    "explanation": "Lunar temperatures range from about -173°C (-280°F) at night to 127°C (260°F) during the day due to no atmosphere."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What is the difference between a meteoroid, meteor, and meteorite?",
+    "options": ["They are the same thing", "Size differences", "Location differences", "Composition differences"],
+    "answer": 2,
+    "explanation": "Meteoroid: in space; Meteor: burning in atmosphere; Meteorite: landed on Earth's surface."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What is a comet's tail made of?",
+    "options": ["Fire", "Dust and ionized gas", "Smoke", "Water vapor"],
+    "answer": 1,
+    "explanation": "Comet tails consist of dust and ionized gas that stream away from the comet nucleus, pushed by solar wind and radiation pressure."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "Where do most short-period comets originate?",
+    "options": ["Oort Cloud", "Kuiper Belt", "Asteroid Belt", "Interstellar space"],
+    "answer": 1,
+    "explanation": "Short-period comets (orbits less than 200 years) mainly come from the Kuiper Belt, while long-period comets come from the Oort Cloud."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What is the name of the dwarf planet located in the Kuiper Belt?",
+    "options": ["Ceres", "Eris", "Pluto", "Haumea"],
+    "answer": 2,
+    "explanation": "Pluto is the largest known dwarf planet in the Kuiper Belt, a region of icy bodies beyond Neptune."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What causes a meteor shower?",
+    "options": ["Solar flares", "Comet debris", "Asteroid collisions", "Planetary alignments"],
+    "answer": 1,
+    "explanation": "Meteor showers occur when Earth passes through debris left by comets, causing numerous meteors to appear from the same radiant point."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What is the name of the most famous short-period comet?",
+    "options": ["Hale-Bopp", "Halley's Comet", "Shoemaker-Levy 9", "Comet NEOWISE"],
+    "answer": 1,
+    "explanation": "Halley's Comet is the most famous short-period comet, visible from Earth every 75-76 years."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What is the main difference between asteroids and comets?",
+    "options": ["Size", "Location", "Composition", "Origin"],
+    "answer": 2,
+    "explanation": "Asteroids are rocky or metallic, while comets are icy bodies that develop comas and tails when near the Sun."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "Which comet famously collided with Jupiter in 1994?",
+    "options": ["Halley's Comet", "Comet Hale-Bopp", "Comet Shoemaker-Levy 9", "Comet Hyakutake"],
+    "answer": 2,
+    "explanation": "Comet Shoemaker-Levy 9 broke apart and collided with Jupiter in July 1994, providing the first direct observation of such an event."
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "What is the term for a small Solar System body that enters Earth's atmosphere?",
+    "options": ["Meteoroid", "Meteor", "Meteorite", "Asteroid"],
+    "answer": 1,
+    "explanation": "When a meteoroid enters Earth's atmosphere and vaporizes, creating a streak of light, it's called a meteor or 'shooting star.'"
+  },
+  {
+    "category": "Comets & Asteroids",
+    "question": "Where is the asteroid belt located?",
+    "options": ["Between Earth and Mars", "Between Mars and Jupiter", "Between Jupiter and Saturn", "Beyond Neptune"],
+    "answer": 1,
+    "explanation": "The main asteroid belt is located between the orbits of Mars and Jupiter, containing millions of asteroids."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is a black hole?",
+    "options": ["An empty region of space", "A collapsed star with infinite density", "A dark nebula", "A planet with no light"],
+    "answer": 1,
+    "explanation": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is the event horizon of a black hole?",
+    "options": ["The surface of the black hole", "The point of no return", "The accretion disk", "The singularity"],
+    "answer": 1,
+    "explanation": "The event horizon is the boundary around a black hole beyond which nothing can escape its gravitational pull."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is dark matter?",
+    "options": ["Black holes", "A theoretical form of matter", "Ordinary matter that doesn't emit light", "Anti-matter"],
+    "answer": 1,
+    "explanation": "Dark matter is a hypothetical form of matter that doesn't interact with electromagnetic radiation but exerts gravitational effects."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What causes the Northern Lights (Aurora Borealis)?",
+    "options": ["Moonlight reflection", "Solar particles interacting with Earth's atmosphere", "City light pollution", "Volcanic activity"],
+    "answer": 1,
+    "explanation": "Auroras are caused by charged particles from the Sun interacting with Earth's magnetic field and atmosphere."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is a supernova?",
+    "options": ["A new star forming", "A star's explosive death", "A type of galaxy", "A black hole merger"],
+    "answer": 1,
+    "explanation": "A supernova is a powerful and luminous stellar explosion that occurs during the last evolutionary stages of a massive star."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is redshift in astronomy?",
+    "options": ["A type of star", "The stretching of light waves due to cosmic expansion", "A planetary phenomenon", "A type of galaxy"],
+    "answer": 1,
+    "explanation": "Redshift is the stretching of light to longer wavelengths due to the expansion of the universe, used to measure cosmic distances."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is the cosmic microwave background radiation?",
+    "options": ["Radiation from stars", "Leftover heat from the Big Bang", "Radiation from black holes", "Solar radiation"],
+    "answer": 1,
+    "explanation": "The CMB is remnant radiation from the Big Bang, discovered in 1965, providing strong evidence for the Big Bang theory."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is gravitational lensing?",
+    "options": ["A telescope lens", "Bending of light by gravity", "A type of black hole", "A planetary alignment"],
+    "answer": 1,
+    "explanation": "Gravitational lensing occurs when massive objects bend spacetime, distorting and magnifying light from objects behind them."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is a quasar?",
+    "options": ["A type of star", "An extremely luminous active galactic nucleus", "A dying star", "A planetary nebula"],
+    "answer": 1,
+    "explanation": "Quasars are extremely bright active galactic nuclei powered by supermassive black holes accreting material."
+  },
+  {
+    "category": "Space Phenomena",
+    "question": "What is dark energy?",
+    "options": ["A type of black hole", "A theoretical energy causing universal expansion", "Another name for dark matter", "Energy from dark stars"],
+    "answer": 1,
+    "explanation": "Dark energy is a hypothetical form of energy that permeates space and accelerates the expansion of the universe."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "What is the North Star?",
+    "options": ["Sirius", "Polaris", "Vega", "Betelgeuse"],
+    "answer": 1,
+    "explanation": "Polaris, the North Star, is located nearly above Earth's North Pole and appears stationary in the night sky."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "Which constellation contains the Big Dipper?",
+    "options": ["Orion", "Ursa Major", "Cassiopeia", "Leo"],
+    "answer": 1,
+    "explanation": "The Big Dipper is an asterism within the constellation Ursa Major (the Great Bear)."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "What is the zodiac?",
+    "options": ["A type of telescope", "A band of constellations along the ecliptic", "A galaxy", "A planetary alignment"],
+    "answer": 1,
+    "explanation": "The zodiac is a band of 12 constellations through which the Sun, Moon, and planets appear to move across the sky."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Jupiter", "Mars", "Venus", "Saturn"],
+    "answer": 1,
+    "explanation": "Mars is called the Red Planet due to iron oxide (rust) on its surface giving it a reddish appearance."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "What is the brightest planet in our night sky?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": 2,
+    "explanation": "Venus is the brightest natural object in the night sky after the Moon, due to its proximity and highly reflective clouds."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "Which constellation is known as 'The Hunter'?",
+    "options": ["Ursa Major", "Orion", "Leo", "Scorpius"],
+    "answer": 1,
+    "explanation": "Orion, known as The Hunter, is one of the most recognizable constellations, featuring the stars Betelgeuse and Rigel."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "What is the apparent magnitude of a celestial object?",
+    "options": ["Its actual size", "Its brightness as seen from Earth", "Its distance from Earth", "Its temperature"],
+    "answer": 1,
+    "explanation": "Apparent magnitude measures how bright a celestial object appears from Earth, with lower numbers indicating brighter objects."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "Which planet is visible to the naked eye and has rings?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1,
+    "explanation": "Saturn is the most distant planet visible to the naked eye and is famous for its spectacular ring system."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "What is the celestial sphere?",
+    "options": ["A real sphere around Earth", "An imaginary sphere for mapping objects", "A type of telescope", "A planetary orbit"],
+    "answer": 1,
+    "explanation": "The celestial sphere is an imaginary sphere of arbitrarily large radius, concentric with Earth, used for mapping celestial objects."
+  },
+  {
+    "category": "Constellations & Astronomy",
+    "question": "Which star is closest to our solar system?",
+    "options": ["Sirius", "Alpha Centauri A", "Proxima Centauri", "Betelgeuse"],
+    "answer": 2,
+    "explanation": "Proxima Centauri, part of the Alpha Centauri system, is the closest star to our solar system at about 4.24 light-years away."
+  }
+
+]
