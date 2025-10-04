@@ -507,7 +507,6 @@ body {
     <canvas id="spaceCanvas"></canvas>
     
     <div id="app">
-        <!-- Start Screen -->
         <div id="startScreen" class="screen">
             <div class="card">
                 <h1 class="title">TimeQuest: Ancient Skywatchers</h1>
@@ -529,11 +528,10 @@ body {
                 </div>
                 
                 <button id="startButton" class="btn-primary">Begin Your Cosmic Journey</button>
-                <a href="YOUR_WEBSITE_URL_HERE" class="btn-skylore">Return to Skylore</a>
+                <a href="https://skylore2025.github.io" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
 
-        <!-- Quiz Screen -->
         <div id="quizScreen" class="screen hidden">
             <div class="card">
                 <div class="progress-section">
@@ -550,15 +548,13 @@ body {
                 <h3 id="questionText" class="question-text">Question will appear here</h3>
 
                 <div id="optionsContainer" class="options-grid">
-                    <!-- Options will be inserted here -->
-                </div>
+                    </div>
 
                 <button id="nextButton" class="btn-primary hidden">Next Question</button>
                 <a href="https://skylore2025.github.io" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
 
-        <!-- Result Screen -->
         <div id="resultScreen" class="screen hidden">
             <div class="card">
                 <h2 class="result-title">Quiz Complete!</h2>
@@ -582,7 +578,7 @@ body {
                 </div>
                 
                 <button id="restartButton" class="btn-primary">Restart Journey</button>
-                <a href="YOUR_WEBSITE_URL_HERE" class="btn-skylore">Return to Skylore</a>
+                <a href="https://skylore2025.github.io" class="btn-skylore">Return to Skylore</a>
             </div>
         </div>
     </div>
@@ -963,6 +959,8 @@ function restartQuiz() {
     selectedAnswer = null;
     resultScreen.classList.add('hidden');
     startScreen.classList.remove('hidden');
+    // Re-shuffle the questions for a fresh start
+    quizQuestions = shuffleArray(quizQuestions); 
 }
 
 // Event Listeners
@@ -974,6 +972,10 @@ restartButton.addEventListener('click', restartQuiz);
 startButton.disabled = true;
 startButton.textContent = 'Loading Questions...';
 loadQuestions();
+    </script>
+</body>
+</html>
+
 
 
 
