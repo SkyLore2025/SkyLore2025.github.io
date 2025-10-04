@@ -8,7 +8,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 7,Which Chinese dynasty is credited with some of the earliest astronomical records?,Tang,Han,Shang,Zhou,2,Ancient Chinese Astronomy
 8,Which planet was most sacred to the Maya and Aztecs?,Mars,Venus,Saturn,Jupiter,1,Mayan and Aztec Cosmology
 9,Who is known for formalizing the geocentric model of the universe?,Aristotle,Ptolemy,Copernicus,Galileo,1,Greek and Roman Theories
-10,In Norse mythology, what is Yggdrasil?,A god,A cosmic tree,A giant serpent,A celestial mountain,1,Cosmology in Mythology
+10,In Norse mythology - what is Yggdrasil?,A god,A cosmic tree,A giant serpent,A celestial mountain,1,Cosmology in Mythology
 11,Astrology originally developed from which ancient science?,Mathematics,Astronomy,Philosophy,Alchemy,1,Astrology as Proto-Science
 12,Which ancient structure is famously aligned with the solstices?,Stonehenge,The Parthenon,The Colosseum,Machu Picchu,0,Sacred Geometry & Astronomy
 13,In many ancient cultures, comets were often seen as:,Good luck,Omens of disaster,Signs of harvest,Symbols of peace,1,Ancient Beliefs about Comets and Meteors
@@ -722,3 +722,4 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
 724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
