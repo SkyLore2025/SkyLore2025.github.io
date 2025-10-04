@@ -279,20 +279,20 @@
 
         .quiz-header {
             display: flex;
-            justify-content: space-between;
+            justify-content: flex-end; /* Align elements to the right now */
             align-items: center;
             margin-bottom: 20px;
             flex-wrap: wrap;
             gap: 10px;
         }
-
+        
+        /* Remove the progress-info display */
         .progress-info {
-            font-size: 0.95em;
-            color: #a0b0ff;
+            display: none; 
         }
 
         .score-info {
-            font-size: 1em;
+            font-size: 1.2em; /* Make score info slightly bigger */
             font-weight: bold;
             color: #00ff88;
         }
@@ -304,7 +304,7 @@
             font-size: 0.85em;
             color: #c0d0ff;
             border: 1px solid rgba(123, 47, 247, 0.5);
-            flex-basis: 100%;
+            /* flex-basis: 100%; */ /* Removed to allow inline with score */
             text-align: center;
         }
 
@@ -336,6 +336,8 @@
             cursor: pointer;
             transition: all 0.3s;
             color: white;
+            /* Added opacity change for disabled state */
+            pointer-events: auto;
         }
 
         .option:hover {
@@ -345,23 +347,31 @@
         }
 
         .option.selected {
+            /* This will be the temporary selection before check, or the wrong answer after check */
             background: rgba(123, 47, 247, 0.5);
             border-color: #7b2ff7;
         }
 
         .option.correct {
-            background: rgba(0, 255, 136, 0.3);
+            /* Final correct answer color */
+            background: rgba(0, 255, 136, 0.4);
             border-color: #00ff88;
+            box-shadow: 0 0 15px rgba(0, 255, 136, 0.7);
+            transform: scale(1.02);
         }
 
         .option.wrong {
-            background: rgba(255, 50, 100, 0.3);
+            /* Final wrong answer color */
+            background: rgba(255, 50, 100, 0.4);
             border-color: #ff3264;
+            box-shadow: 0 0 15px rgba(255, 50, 100, 0.7);
         }
 
-        .option.disabled {
+        .option.disabled, .option.correct, .option.wrong {
+            /* Stop hover effects and clicks after selecting an answer */
             cursor: not-allowed;
-            opacity: 0.6;
+            pointer-events: none;
+            transform: none !important;
         }
 
         .nav-buttons {
@@ -384,7 +394,7 @@
             transition: all 0.3s;
         }
 
-        .nav-btn:hover {
+        .nav-btn:hover:not(:disabled) {
             background: rgba(123, 47, 247, 0.9);
             transform: scale(1.05);
         }
@@ -392,6 +402,7 @@
         .nav-btn:disabled {
             opacity: 0.4;
             cursor: not-allowed;
+            transform: none;
         }
 
         .result-screen h2 {
@@ -469,6 +480,14 @@
                 flex-basis: auto;
             }
 
+            .quiz-header {
+                 /* Adjust layout for larger screens */
+                justify-content: space-between; 
+            }
+            .category-tag {
+                order: -1; /* Move category to the left */
+            }
+
             .question-card {
                 padding: 30px 25px;
             }
@@ -538,8 +557,8 @@
                 <div class="progress-info">
                     Question <span id="currentQ">1</span> of <span id="totalQ">80</span>
                 </div>
-                <div class="score-info">Score: <span id="score">0</span></div>
                 <div class="category-tag" id="categoryTag">Category</div>
+                <div class="score-info">Score: <span id="score">0</span></div>
             </div>
 
             <div class="question-card">
@@ -584,9 +603,13 @@
         let questions = [];
         let currentQuestion = 0;
         let score = 0;
-        let userAnswers = [];
+        // Stores the user's selected option index (1-4).
+        let userAnswers = []; 
+        // Stores whether the user has answered the current question (true/false) for instant feedback.
+        let answeredState = []; 
 
-        // Create animated background elements
+        // --- Animated Background Functions (No Change) ---
+
         function createStars() {
             const starsContainer = document.getElementById('stars');
             
@@ -654,7 +677,8 @@
             }
         }
 
-        // Improved shuffle function (Fisher-Yates with triple pass)
+        // --- Utility Functions ---
+
         function shuffleArray(array) {
             const shuffled = [...array];
             // Triple shuffle for maximum randomization
@@ -667,13 +691,15 @@
             return shuffled;
         }
 
-        // Load CSV file
+        // --- Core Quiz Logic ---
+
         function loadQuestions() {
+            // Note: Replace 'future.csv' with your actual CSV file name if different.
             Papa.parse('future.csv', {
                 download: true,
                 header: true,
                 complete: function(results) {
-                    let filteredQuestions = results.data.filter(q => q.question && q.question.trim() !== '');
+                    let filteredQuestions = results.data.filter(q => q.question && q.question.trim() !== '' && q.correct_answer);
                     questions = shuffleArray(filteredQuestions);
                     
                     if (questions.length > 0) {
@@ -681,7 +707,7 @@
                         document.getElementById('loadingText').textContent = 'Ready to start!';
                         document.getElementById('startBtn').classList.remove('hidden');
                     } else {
-                        document.getElementById('loadingText').textContent = 'Error loading questions. Please check future.csv file.';
+                        document.getElementById('loadingText').textContent = 'Error loading questions. Please check future.csv file and ensure correct_answer column exists.';
                     }
                 },
                 error: function(error) {
@@ -691,12 +717,14 @@
             });
         }
 
-        // Start quiz
         function startQuiz() {
+            // Re-initialize state
             userAnswers = new Array(questions.length).fill(null);
+            answeredState = new Array(questions.length).fill(false);
             currentQuestion = 0;
             score = 0;
-            
+            document.getElementById('score').textContent = score;
+
             // Shuffle questions again when starting quiz
             questions = shuffleArray(questions);
             
@@ -707,7 +735,6 @@
             showQuestion();
         }
 
-        // Display question
         function showQuestion() {
             const q = questions[currentQuestion];
             
@@ -718,45 +745,98 @@
             const optionsContainer = document.getElementById('optionsContainer');
             optionsContainer.innerHTML = '';
             
-            const options = [q.option1, q.option2, q.option3, q.option4];
-            options.forEach((option, index) => {
+            const allOptions = [q.option1, q.option2, q.option3, q.option4];
+            const correctOptionIndex = parseInt(q.correct_answer);
+            const isAnswered = answeredState[currentQuestion];
+
+            allOptions.forEach((option, index) => {
+                const optionIndex = index + 1;
                 const optionDiv = document.createElement('div');
                 optionDiv.className = 'option';
                 optionDiv.textContent = option;
-                optionDiv.dataset.index = index + 1;
+                optionDiv.dataset.index = optionIndex;
                 
-                if (userAnswers[currentQuestion] === index + 1) {
-                    optionDiv.classList.add('selected');
+                if (isAnswered) {
+                    // Show correct answer and user's answer
+                    optionDiv.classList.add('disabled');
+                    if (optionIndex === correctOptionIndex) {
+                        optionDiv.classList.add('correct');
+                    } else if (optionIndex === userAnswers[currentQuestion]) {
+                        optionDiv.classList.add('wrong');
+                    }
+                } else {
+                    // Quiz in progress, check for unsubmitted selection
+                    if (userAnswers[currentQuestion] === optionIndex) {
+                        optionDiv.classList.add('selected');
+                    }
+                    optionDiv.addEventListener('click', () => selectOption(optionIndex));
                 }
                 
-                optionDiv.addEventListener('click', () => selectOption(index + 1));
                 optionsContainer.appendChild(optionDiv);
             });
             
             updateNavigationButtons();
         }
 
-        // Select option
-        function selectOption(optionIndex) {
-            const options = document.querySelectorAll('.option');
-            options.forEach(opt => opt.classList.remove('selected'));
+        // *** CHANGE 1 & 3: Score up on correct click, show wrong/correct feedback ***
+        function selectOption(selectedOptionIndex) {
+            if (answeredState[currentQuestion]) return; // Prevent double-clicking/answering
+
+            const q = questions[currentQuestion];
+            const correctOptionIndex = parseInt(q.correct_answer);
             
-            const selectedOption = document.querySelector(`[data-index="${optionIndex}"]`);
-            selectedOption.classList.add('selected');
-            
-            userAnswers[currentQuestion] = optionIndex;
+            userAnswers[currentQuestion] = selectedOptionIndex;
+            answeredState[currentQuestion] = true;
+
+            const allOptions = document.querySelectorAll('.option');
+            let isCorrect = (selectedOptionIndex === correctOptionIndex);
+
+            // Give immediate visual feedback
+            allOptions.forEach(opt => {
+                opt.classList.add('disabled');
+                const optionIndex = parseInt(opt.dataset.index);
+
+                if (optionIndex === correctOptionIndex) {
+                    // Mark the correct answer
+                    opt.classList.add('correct');
+                } else if (optionIndex === selectedOptionIndex) {
+                    // Mark the user's selected (wrong) answer
+                    opt.classList.add('wrong');
+                } else {
+                    // Clear the general selected class just in case
+                    opt.classList.remove('selected'); 
+                }
+            });
+
+            // Update score immediately if correct
+            if (isCorrect) {
+                score++;
+                document.getElementById('score').textContent = score;
+            }
+
+            // Update navigation (e.g., enable 'Next' if it wasn't already)
+            updateNavigationButtons();
         }
 
-        // Navigation
+        // --- Navigation Functions ---
+
         function updateNavigationButtons() {
+            // Prev is always available unless on the first question
             document.getElementById('prevBtn').disabled = currentQuestion === 0;
             
+            // Next is available only if answered, or if it's the last question
+            const nextBtn = document.getElementById('nextBtn');
+            const submitBtn = document.getElementById('submitBtn');
+
             if (currentQuestion === questions.length - 1) {
-                document.getElementById('nextBtn').classList.add('hidden');
-                document.getElementById('submitBtn').classList.remove('hidden');
+                nextBtn.classList.add('hidden');
+                submitBtn.classList.remove('hidden');
+                submitBtn.disabled = false; // Always allow submission on the last screen
             } else {
-                document.getElementById('nextBtn').classList.remove('hidden');
-                document.getElementById('submitBtn').classList.add('hidden');
+                nextBtn.classList.remove('hidden');
+                submitBtn.classList.add('hidden');
+                // Disable Next button until the user answers the current question
+                nextBtn.disabled = !answeredState[currentQuestion];
             }
         }
 
@@ -774,53 +854,57 @@
             }
         }
 
-        // Submit quiz
         function submitQuiz() {
-            score = 0;
+            // Score calculation is now done progressively in selectOption,
+            // but we can re-run it here just in case, or rely on the final score.
             
+            // Recalculate final score (good for robustness)
+            let finalScore = 0;
             for (let i = 0; i < questions.length; i++) {
-                if (userAnswers[i] === parseInt(questions[i].correct_answer)) {
-                    score++;
+                if (userAnswers[i] === parseInt(questions[i].correct_answer) && answeredState[i]) {
+                    finalScore++;
                 }
             }
+            score = finalScore;
             
             showResults();
         }
 
-        // Show results
         function showResults() {
             document.getElementById('quizScreen').classList.add('hidden');
             document.getElementById('resultScreen').classList.remove('hidden');
             
             const total = questions.length;
-            const wrong = total - score;
-            const percentage = ((score / total) * 100).toFixed(1);
+            const finalScore = score;
+            const wrong = total - finalScore; // This includes skipped questions (null answer)
+            const percentage = ((finalScore / total) * 100).toFixed(1);
             
-            document.getElementById('finalScore').textContent = `${score}/${total}`;
-            document.getElementById('correctAnswers').textContent = score;
+            document.getElementById('finalScore').textContent = `${finalScore}/${total}`;
+            document.getElementById('correctAnswers').textContent = finalScore;
             document.getElementById('wrongAnswers').textContent = wrong;
             document.getElementById('percentage').textContent = percentage + '%';
             
             let message = '';
             if (percentage >= 90) {
-                message = 'Outstanding! You are a true space expert!';
+                message = 'Outstanding! You are a true space expert, a Galactic Voyager!';
             } else if (percentage >= 75) {
-                message = 'Excellent work! Your knowledge is stellar!';
+                message = 'Excellent work! Your knowledge is stellar, a Cosmic Navigator!';
             } else if (percentage >= 60) {
-                message = 'Good job! Keep exploring the cosmos!';
+                message = 'Good job! Keep exploring the cosmos, a System Explorer!';
             } else if (percentage >= 40) {
-                message = 'Not bad! There is much more to discover!';
+                message = 'Not bad! There is much more to discover, a Planetary Cadet!';
             } else {
-                message = 'Keep learning! The universe awaits!';
+                message = 'Keep learning! The universe awaits, Future Astronaut!';
             }
             
             document.getElementById('resultMessage').textContent = message;
         }
 
-        // Restart quiz
         function restartQuiz() {
-            // Shuffle questions again on restart
+            // Re-initialize for next game
             questions = shuffleArray(questions);
+            userAnswers = [];
+            answeredState = [];
             
             document.getElementById('resultScreen').classList.add('hidden');
             document.getElementById('introScreen').classList.remove('hidden');
@@ -828,7 +912,7 @@
             document.getElementById('loadingText').textContent = 'Ready to start!';
         }
 
-        // Event listeners
+        // --- Event Listeners ---
         document.getElementById('startBtn').addEventListener('click', startQuiz);
         document.getElementById('nextBtn').addEventListener('click', nextQuestion);
         document.getElementById('prevBtn').addEventListener('click', prevQuestion);
@@ -841,4 +925,5 @@
     </script>
 </body>
 </html>
+
 
