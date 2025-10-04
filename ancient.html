@@ -586,7 +586,7 @@ function shuffleArray(array) {
 // Load questions from CSV file
 async function loadQuestions() {
     try {
-        const response = await fetch('nishaltrial.csv');
+        const response = await fetch('ancient.csv');
         const csvText = await response.text();
         
         // Parse CSV
@@ -932,3 +932,4 @@ loadQuestions();
 </script>
 </body>
 </html>
+
