@@ -237,6 +237,46 @@
             box-shadow: 0 8px 30px rgba(123, 47, 247, 0.8);
         }
 
+        .return-btn {
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            margin: 15px auto 0;
+            padding: 15px 30px;
+            font-size: 1.1em;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(45deg, #00d4ff, #7b2ff7);
+            border: 2px solid rgba(0, 212, 255, 0.5);
+            border-radius: 50px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0 5px 20px rgba(0, 212, 255, 0.5);
+            text-decoration: none;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .return-btn:before {
+            content: '🌍';
+            position: absolute;
+            left: 20px;
+            font-size: 1.2em;
+            animation: rotate 3s linear infinite;
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .return-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 30px rgba(0, 212, 255, 0.8);
+            background: linear-gradient(45deg, #7b2ff7, #00d4ff);
+        }
+
         .quiz-header {
             display: flex;
             justify-content: space-between;
@@ -470,7 +510,7 @@
     
     <div class="container">
         <div class="intro-screen" id="introScreen">
-            <h1>TimeQuest: Futuristic Space</h1>
+            <h1>SkyLore: Futuristic Space</h1>
             <p class="subtitle">Journey through 80 questions exploring humanity's future in the cosmos</p>
             
             <div class="stats">
@@ -490,6 +530,7 @@
             
             <div class="loading" id="loadingText">Loading Questions...</div>
             <button class="start-btn hidden" id="startBtn">Begin Your Journey</button>
+            <a href="SkyLore2025.github.io" class="return-btn">Return to SkyLore</a>
         </div>
 
         <div class="quiz-screen hidden" id="quizScreen">
@@ -534,6 +575,7 @@
             </div>
 
             <button class="start-btn" id="restartBtn">Take Quiz Again</button>
+            <a href="YOUR_GOOGLE_ADDRESS_HERE" class="return-btn">Return to Website</a>
         </div>
     </div>
 
@@ -641,11 +683,11 @@
                         document.getElementById('loadingText').textContent = 'Ready to start!';
                         document.getElementById('startBtn').classList.remove('hidden');
                     } else {
-                        document.getElementById('loadingText').textContent = 'Error loading questions. Please check questions.csv file.';
+                        document.getElementById('loadingText').textContent = 'Error loading questions. Please check future.csv file.';
                     }
                 },
                 error: function(error) {
-                    document.getElementById('loadingText').textContent = 'Error: Could not load questions.csv. Make sure the file is in the same directory.';
+                    document.getElementById('loadingText').textContent = 'Error: Could not load future.csv. Make sure the file is in the same directory.';
                     console.error('CSV Parse Error:', error);
                 }
             });
@@ -794,5 +836,5 @@
         loadQuestions();
     </script>
 </body>
-
 </html>
+
