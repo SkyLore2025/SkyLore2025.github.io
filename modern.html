@@ -1,0 +1,542 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Science Quiz - Explore the Universe</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: 
+                radial-gradient(ellipse at center, #1a1a4a 0%, #0b0b2d 70%, #000000 100%),
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 800 800"><g fill="white" opacity="0.3"><circle cx="100" cy="150" r="1"/><circle cx="300" cy="350" r="0.8"/><circle cx="500" cy="250" r="1.2"/><circle cx="200" cy="450" r="0.7"/><circle cx="600" cy="550" r="1"/><circle cx="400" cy="650" r="0.9"/><circle cx="700" cy="300" r="1.1"/><circle cx="150" cy="600" r="0.6"/><circle cx="350" cy="200" r="0.8"/><circle cx="650" cy="450" r="1"/></g></svg>'),
+                linear-gradient(45deg, #0f3460, #16213e, #1a1a2e, #0f3460);
+            background-size: 100% 100%, 200px 200px, 100% 100%;
+            color: white;
+            min-height: 100vh;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Animated stars */
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(2px 2px at 20% 30%, white 50%, transparent 100%),
+                radial-gradient(2px 2px at 40% 70%, white 50%, transparent 100%),
+                radial-gradient(1px 1px at 60% 20%, white 50%, transparent 100%),
+                radial-gradient(1px 1px at 80% 50%, white 50%, transparent 100%),
+                radial-gradient(2px 2px at 30% 80%, white 50%, transparent 100%),
+                radial-gradient(1px 1px at 70% 10%, white 50%, transparent 100%),
+                radial-gradient(2px 2px at 90% 40%, white 50%, transparent 100%),
+                radial-gradient(1px 1px at 10% 60%, white 50%, transparent 100%);
+            background-size: 300px 300px;
+            animation: twinkle 4s infinite alternate;
+            pointer-events: none;
+        }
+
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 0.8; }
+        }
+
+        /* Nebula effect */
+        body::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 60%;
+            height: 120%;
+            background: 
+                radial-gradient(ellipse at center, 
+                    rgba(79, 195, 247, 0.1) 0%, 
+                    rgba(233, 30, 99, 0.05) 30%, 
+                    transparent 70%);
+            border-radius: 50%;
+            filter: blur(40px);
+            animation: float 20s infinite ease-in-out;
+            pointer-events: none;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(180deg); }
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 40px;
+            backdrop-filter: blur(15px);
+            box-shadow: 
+                0 8px 32px rgba(0, 0, 0, 0.3),
+                inset 0 1px 0 rgba(255, 255, 255, 0.1),
+                inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+            z-index: 1;
+            max-height: 90vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, #4fc3f7, #e91e63);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+            text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .topic-tags {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+
+        .topic-tag {
+            background: rgba(79, 195, 247, 0.15);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            border: 1px solid rgba(79, 195, 247, 0.3);
+            backdrop-filter: blur(10px);
+        }
+
+        .screen {
+            display: none;
+            flex-direction: column;
+            flex: 1;
+        }
+
+        .active {
+            display: flex;
+        }
+
+        .start-btn, .next-btn, .restart-btn {
+            background: linear-gradient(45deg, #e91e63, #4fc3f7);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.1em;
+            border-radius: 10px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            transition: transform 0.3s;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(233, 30, 99, 0.3);
+        }
+
+        .start-btn:hover, .next-btn:hover, .restart-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(233, 30, 99, 0.4);
+        }
+
+        .question-container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .question-number {
+            font-size: 0.9em;
+            opacity: 0.8;
+            margin-bottom: 10px;
+        }
+
+        .question {
+            font-size: 1.3em;
+            margin-bottom: 20px;
+            line-height: 1.4;
+        }
+
+        .options {
+            display: grid;
+            gap: 12px;
+        }
+
+        .option {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 15px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(5px);
+        }
+
+        .option:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(79, 195, 247, 0.5);
+            transform: translateY(-2px);
+        }
+
+        .option.correct {
+            background: rgba(76, 175, 80, 0.2);
+            border-color: rgba(76, 175, 80, 0.5);
+        }
+
+        .option.incorrect {
+            background: rgba(244, 67, 54, 0.2);
+            border-color: rgba(244, 67, 54, 0.5);
+        }
+
+        .result-screen {
+            text-align: center;
+        }
+
+        .score {
+            font-size: 3em;
+            margin: 20px 0;
+            background: linear-gradient(45deg, #4caf50, #4fc3f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        #feedback-container {
+            max-height: 400px;
+            overflow-y: auto;
+            margin: 20px 0;
+            padding-right: 10px;
+            flex: 1;
+        }
+
+        /* Custom scrollbar for the feedback container */
+        #feedback-container::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        #feedback-container::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+
+        #feedback-container::-webkit-scrollbar-thumb {
+            background: linear-gradient(45deg, #4fc3f7, #e91e63);
+            border-radius: 10px;
+        }
+
+        #feedback-container::-webkit-scrollbar-thumb:hover {
+            background: linear-gradient(45deg, #e91e63, #4fc3f7);
+        }
+
+        .feedback {
+            margin: 15px 0;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: left;
+            border-left: 5px solid;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .feedback.correct {
+            background: rgba(76, 175, 80, 0.15);
+            border-left-color: #4caf50;
+            border: 1px solid rgba(76, 175, 80, 0.3);
+        }
+
+        .feedback.incorrect {
+            background: rgba(244, 67, 54, 0.15);
+            border-left-color: #f44336;
+            border: 1px solid rgba(244, 67, 54, 0.3);
+        }
+
+        .topic-highlight {
+            color: #4fc3f7;
+            font-weight: bold;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 5px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+            margin-bottom: 20px;
+            overflow: hidden;
+            backdrop-filter: blur(5px);
+        }
+
+        .progress {
+            height: 100%;
+            background: linear-gradient(45deg, #4fc3f7, #e91e63);
+            transition: width 0.3s;
+            width: 0%;
+        }
+
+        #start-screen {
+            text-align: center;
+        }
+
+        #start-screen header {
+            margin-bottom: 40px;
+        }
+
+        .answer-status {
+            font-weight: bold;
+            margin: 5px 0;
+        }
+
+        .correct-answer {
+            color: #4caf50;
+        }
+
+        .incorrect-answer {
+            color: #f44336;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen active">
+            <header>
+                <h1>?? Space Science Quiz</h1>
+                <p class="subtitle">Test your knowledge about the cosmos!</p>
+                <div class="topic-tags">
+                    <div class="topic-tag">Hubble Telescope</div>
+                    <div class="topic-tag">ISS</div>
+                    <div class="topic-tag">Mars Rovers</div>
+                    <div class="topic-tag">Exoplanets</div>
+                </div>
+            </header>
+            <button class="start-btn" onclick="startQuiz()">Start Quiz</button>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen">
+            <div class="progress-bar">
+                <div class="progress" id="progress-bar"></div>
+            </div>
+            <div class="question-container">
+                <div class="question-number" id="question-number">Question 1/8</div>
+                <div class="question" id="question"></div>
+                <div class="options" id="options"></div>
+            </div>
+            <button class="next-btn" onclick="nextQuestion()" id="next-btn" style="display: none;">Next Question</button>
+        </div>
+
+        <!-- Result Screen -->
+        <div id="result-screen" class="screen">
+            <header>
+                <h1>Quiz Complete! ??</h1>
+                <p class="subtitle">Here's how you did:</p>
+            </header>
+            <div class="score" id="final-score">0/8</div>
+            <div id="feedback-container"></div>
+            <button class="restart-btn" onclick="restartQuiz()">Take Quiz Again</button>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            {
+                topic: "Hubble Space Telescope",
+                question: "What year was the Hubble Space Telescope launched into orbit?",
+                options: ["1985", "1990", "1995", "2000"],
+                correct: 1,
+                fact: "Hubble was launched on April 24, 1990, aboard the Space Shuttle Discovery."
+            },
+            {
+                topic: "ISS",
+                question: "Approximately how fast does the International Space Station travel around Earth?",
+                options: ["7,600 mph", "17,500 mph", "25,000 mph", "35,000 mph"],
+                correct: 1,
+                fact: "The ISS travels at about 17,500 mph (28,000 km/h), completing an orbit every 90 minutes."
+            },
+            {
+                topic: "Mars Rovers",
+                question: "Which Mars rover discovered evidence of an ancient freshwater lake?",
+                options: ["Sojourner", "Spirit", "Opportunity", "Curiosity"],
+                correct: 3,
+                fact: "Curiosity rover found evidence that Mars' Gale Crater was once a freshwater lake that could have supported microbial life."
+            },
+            {
+                topic: "Exoplanets",
+                question: "What was the first confirmed exoplanet discovered orbiting a main-sequence star?",
+                options: ["TRAPPIST-1e", "Kepler-186f", "51 Pegasi b", "Proxima Centauri b"],
+                correct: 2,
+                fact: "51 Pegasi b, discovered in 1995, was the first confirmed exoplanet orbiting a Sun-like star."
+            },
+            {
+                topic: "Hubble Space Telescope",
+                question: "Which famous nebula did Hubble capture in its iconic 'Pillars of Creation' image?",
+                options: ["Orion Nebula", "Crab Nebula", "Eagle Nebula", "Helix Nebula"],
+                correct: 2,
+                fact: "The 'Pillars of Creation' shows star-forming regions in the Eagle Nebula, about 7,000 light-years away."
+            },
+            {
+                topic: "ISS",
+                question: "How many people typically live and work on the International Space Station?",
+                options: ["3", "6", "9", "12"],
+                correct: 1,
+                fact: "The ISS usually has a crew of 6 astronauts from various space agencies conducting scientific research."
+            },
+            {
+                topic: "Mars Rovers",
+                question: "What innovative power source does the Perseverance rover use?",
+                options: ["Solar Panels", "Nuclear Battery", "Wind Turbines", "Radioisotope Thermoelectric Generator"],
+                correct: 3,
+                fact: "Perseverance uses a Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) that converts heat from plutonium decay into electricity."
+            },
+            {
+                topic: "Exoplanets",
+                question: "What method has discovered the most exoplanets to date?",
+                options: ["Direct Imaging", "Radial Velocity", "Transit Method", "Gravitational Microlensing"],
+                correct: 2,
+                fact: "The transit method, which detects dips in starlight as planets pass in front of their stars, has found the majority of known exoplanets."
+            }
+        ];
+
+        let currentQuestion = 0;
+        let score = 0;
+        let userAnswers = [];
+
+        function startQuiz() {
+            document.getElementById('start-screen').classList.remove('active');
+            document.getElementById('quiz-screen').classList.add('active');
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const question = questions[currentQuestion];
+            document.getElementById('question-number').textContent = `Question ${currentQuestion + 1}/${questions.length}`;
+            document.getElementById('question').textContent = question.question;
+            
+            const optionsContainer = document.getElementById('options');
+            optionsContainer.innerHTML = '';
+            
+            question.options.forEach((option, index) => {
+                const optionElement = document.createElement('div');
+                optionElement.className = 'option';
+                optionElement.textContent = option;
+                optionElement.onclick = () => selectOption(index);
+                optionsContainer.appendChild(optionElement);
+            });
+            
+            document.getElementById('next-btn').style.display = 'none';
+            
+            const progress = ((currentQuestion) / questions.length) * 100;
+            document.getElementById('progress-bar').style.width = `${progress}%`;
+        }
+
+        function selectOption(selectedIndex) {
+            const question = questions[currentQuestion];
+            const options = document.querySelectorAll('.option');
+            
+            options.forEach(option => {
+                option.style.pointerEvents = 'none';
+            });
+            
+            options.forEach((option, index) => {
+                if (index === question.correct) {
+                    option.classList.add('correct');
+                } else if (index === selectedIndex && index !== question.correct) {
+                    option.classList.add('incorrect');
+                }
+            });
+            
+            const isCorrect = selectedIndex === question.correct;
+            if (isCorrect) {
+                score++;
+            }
+            
+            userAnswers.push({
+                question: question.question,
+                userAnswer: question.options[selectedIndex],
+                correctAnswer: question.options[question.correct],
+                isCorrect: isCorrect,
+                fact: question.fact,
+                topic: question.topic
+            });
+            
+            document.getElementById('next-btn').style.display = 'block';
+        }
+
+        function nextQuestion() {
+            currentQuestion++;
+            if (currentQuestion < questions.length) {
+                showQuestion();
+            } else {
+                showResults();
+            }
+        }
+
+        function showResults() {
+            document.getElementById('quiz-screen').classList.remove('active');
+            document.getElementById('result-screen').classList.add('active');
+            
+            document.getElementById('final-score').textContent = `${score}/${questions.length}`;
+            
+            const feedbackContainer = document.getElementById('feedback-container');
+            feedbackContainer.innerHTML = '';
+            
+            userAnswers.forEach((answer, index) => {
+                const feedback = document.createElement('div');
+                feedback.className = `feedback ${answer.isCorrect ? 'correct' : 'incorrect'}`;
+                
+                feedback.innerHTML = `
+                    <div class="answer-status ${answer.isCorrect ? 'correct-answer' : 'incorrect-answer'}">
+                        Question ${index + 1}: ${answer.isCorrect ? '? Correct' : '? Incorrect'}
+                    </div>
+                    <div style="margin: 10px 0;"><strong>${answer.question}</strong></div>
+                    <div>Your answer: ${answer.userAnswer}</div>
+                    ${!answer.isCorrect ? `<div>Correct answer: ${answer.correctAnswer}</div>` : ''}
+                    <div style="margin-top: 10px;">
+                        <span class="topic-highlight">[${answer.topic}]</span> ${answer.fact}
+                    </div>
+                `;
+                feedbackContainer.appendChild(feedback);
+            });
+        }
+
+        function restartQuiz() {
+            currentQuestion = 0;
+            score = 0;
+            userAnswers = [];
+            document.getElementById('result-screen').classList.remove('active');
+            document.getElementById('start-screen').classList.add('active');
+        }
+    </script>
+</body>
+</html>
