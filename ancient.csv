@@ -11,7 +11,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 10,In Norse mythology - what is Yggdrasil?,A god,A cosmic tree,A giant serpent,A celestial mountain,1,Cosmology in Mythology
 11,Astrology originally developed from which ancient science?,Mathematics,Astronomy,Philosophy,Alchemy,1,Astrology as Proto-Science
 12,Which ancient structure is famously aligned with the solstices?,Stonehenge,The Parthenon,The Colosseum,Machu Picchu,0,Sacred Geometry & Astronomy
-13,In many ancient cultures, comets were often seen as:,Good luck,Omens of disaster,Signs of harvest,Symbols of peace,1,Ancient Beliefs about Comets and Meteors
+13,In many ancient cultures- comets were often seen as:,Good luck,Omens of disaster,Signs of harvest,Symbols of peace,1,Ancient Beliefs about Comets and Meteors
 14,Stonehenge is primarily aligned with which celestial event?,Summer Solstice,Winter Solstice,Spring Equinox,Autumn Equinox,0,Stonehenge and Archaeoastronomy
 15,The Great Pyramid of Giza is aligned with which constellation according to the Orion Correlation Theory?,Orion,Ursa Major,Scorpius,Leo,0,Pyramids and Stellar Alignments
 16,Jantar Mantar in India was built by which ruler?,Maharaja Jai Singh II,Akbar,Shah Jahan,Chandragupta Maurya,0,Ancient Observatories
@@ -722,4 +722,5 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
 724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
 
