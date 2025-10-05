@@ -1,727 +1,707 @@
 id,question,option1,option2,option3,option4,correctAnswer,category
-1,Which ancient civilization is credited with creating the first known star catalog?,Babylonians,Egyptians,Greeks,Chinese,0,Star Catalogs
-2,Ancient Polynesian navigators memorized rising and setting positions of stars to steer their canoes. What is this method commonly called?,Star compass navigation,Stellar triangulation,Epicycle navigation,Lunar triangulation,0,Celestial Navigation
-3,Which civilization is credited with one of the earliest lunar calendars?,Sumerians,Romans,Greeks,Chinese,0,Lunar Calendars
-4,Which ancient civilization is credited with creating one of the earliest solar calendars?,Babylonians,Egyptians,Romans,Chinese,1,Solar Calendars
-5,Which civilization first systematically recorded planetary movements?,Greeks,Egyptians,Babylonians,Romans,2,Babylonian Astronomy
-6,What is the name of traditional Indian astronomy?,Jyotisha,Vedanga,Vastu,Nakshatra Shastra,0,Indian Vedic Astronomy
-7,Which Chinese dynasty is credited with some of the earliest astronomical records?,Tang,Han,Shang,Zhou,2,Ancient Chinese Astronomy
-8,Which planet was most sacred to the Maya and Aztecs?,Mars,Venus,Saturn,Jupiter,1,Mayan and Aztec Cosmology
-9,Who is known for formalizing the geocentric model of the universe?,Aristotle,Ptolemy,Copernicus,Galileo,1,Greek and Roman Theories
-10,In Norse mythology - what is Yggdrasil?,A god,A cosmic tree,A giant serpent,A celestial mountain,1,Cosmology in Mythology
-11,Astrology originally developed from which ancient science?,Mathematics,Astronomy,Philosophy,Alchemy,1,Astrology as Proto-Science
-12,Which ancient structure is famously aligned with the solstices?,Stonehenge,The Parthenon,The Colosseum,Machu Picchu,0,Sacred Geometry & Astronomy
-13,In many ancient cultures- comets were often seen as:,Good luck,Omens of disaster,Signs of harvest,Symbols of peace,1,Ancient Beliefs about Comets and Meteors
-14,Stonehenge is primarily aligned with which celestial event?,Summer Solstice,Winter Solstice,Spring Equinox,Autumn Equinox,0,Stonehenge and Archaeoastronomy
-15,The Great Pyramid of Giza is aligned with which constellation according to the Orion Correlation Theory?,Orion,Ursa Major,Scorpius,Leo,0,Pyramids and Stellar Alignments
-16,Jantar Mantar in India was built by which ruler?,Maharaja Jai Singh II,Akbar,Shah Jahan,Chandragupta Maurya,0,Ancient Observatories
-17,Which ancient civilization is credited with one of the earliest known star charts?,Babylonians,Egyptians,Greeks,Chinese,0,Ancient Star Charts
-18,What did ancient Babylonians call the planet Venus?,Ishtar,Marduk,Shamash,Sin,0,Planets
-19,Which device- developed by 9thâ€‘century Arab navigators measured the angle of the North Star above the horizon to estimate latitude?,Astrolabe,Sextant,Kamal,Quadrant,2,Celestial Navigation
-20,How many days are in a typical lunar month?,28,29,29.5,30,2,Lunar Calendars
-21,How many days were in the ancient Egyptian solar calendar?,360,364,365,366,2,Solar Calendars
-22,The Babylonian zodiac consisted of how many signs?,10,12,14,13,1,Babylonian Astronomy
-23,How many Nakshatras (lunar mansions) are used in Vedic astronomy?,12,24,27,30,2,Indian Vedic Astronomy
-24,Ancient Chinese astronomers primarily observed which celestial object?,Moon,Comets,Sun,Stars,1,Ancient Chinese Astronomy
-25,What is the name of the 260-day ritual calendar used by the Maya?,Tzolk'in,Haab',Tonalpohualli,Chilam Balam,0,Mayan and Aztec Cosmology
-26,What is the term for the Earth-centered universe?,Heliocentric,Geocentric,Anthropocentric,Geodynamic,1,Greek and Roman Theories
-27,Which Hindu text describes the creation of the universe through cosmic sound (Om)?,Vedas,Bhagavad Gita,Puranas,Mahabharata,0,Cosmology in Mythology
-28,Which civilization is credited with one of the earliest astrological systems?,Babylonian,Greek,Egyptian,Indian,0,Astrology as Proto-Science
-29,The Great Pyramid of Giza is aligned almost precisely with which direction?,North,South,East,West,0,Sacred Geometry & Astronomy
-30,Which ancient civilization recorded comet sightings on clay tablets?,Babylonian,Greek,Egyptian,Chinese,0,Ancient Beliefs about Comets and Meteors
-31,The Heel Stone at Stonehenge aligns with the sunrise on the:,Summer Solstice,Winter Solstice,Spring Equinox,Autumn Equinox,0,Stonehenge and Archaeoastronomy
-32,Who first proposed the Orion Correlation Theory linking pyramids and stars?,Robert Bauval,Howard Carter,Zahi Hawass,Jean-FranÃ§ois Champollion,0,Pyramids and Stellar Alignments
-33,The primary purpose of Jantar Mantar was to:,Observe celestial events,Serve as a temple,House royal archives,Be a fort,0,Ancient Observatories
-34,The 'Mul.Apin' tablets from Mesopotamia are examples of:,Star catalogs,Astronomical instruments,Religious texts,Calendars,0,Ancient Star Charts
-35,Who proposed the geocentric model of the universe?,Aristotle,Ptolemy,Both,Neither,2,Cosmic Models
-36,In Polynesian wayfinding the sky is divided into â€˜housesâ€™ where stars rise and set. How many starâ€‘houses are there in the Hawaiian star compass?,16,24,32,40,2,Celestial Navigation
-37,The Islamic calendar is based on what type of cycle?,Solar,Lunar,Lunisolar,Stellar,1,Lunar Calendars
-38,What was added to the Egyptian calendar to align it with the solar year?,Leap day,Extra week,5 epagomenal days,Intercalary month,2,Solar Calendars
-39,Which planet was associated with the Babylonian god Marduk?,Venus,Mercury,Jupiter,Saturn,2,Babylonian Astronomy
-40,Which Veda contains references to early astronomy?,Rigveda,Yajurveda,Samaveda,Atharvaveda,0,Indian Vedic Astronomy
-41,What is the name of the Chinese system dividing the sky into regions?,Zodiac,Nakshatra,Three Schools,Three Enclosures,3,Ancient Chinese Astronomy
-42,How many days were in the Haab' calendar?,260,360,365,400,2,Mayan and Aztec Cosmology
-43,Which ancient Greek astronomer first proposed a spherical Earth?,Aristotle,Anaximander,Pythagoras,Eratosthenes,0,Greek and Roman Theories
-44,According to Egyptian mythology- which god created the world from a cosmic mound?,Ra,Osiris,Atum,Horus,2,Cosmology in Mythology
-45,What is the term for the zodiac signs used in astrology?,Nakshatras,Constellations,Star Clusters,Horoscopes,3,Astrology as Proto-Science
-46,Which civilization built the temple complex at Chichen Itza with astronomical alignments?,Maya,Inca,Aztec,Olmec,0,Sacred Geometry & Astronomy
-47,The ancient Chinese believed comets were:,Dragons in the sky,Birds of the gods,Fires of the heavens,Messengers of doom,3,Ancient Beliefs about Comets and Meteors
-48,Which ancient culture is believed to have built Stonehenge?,Neolithic Britons,Roman Empire,Celts,Anglo-Saxons,0,Stonehenge and Archaeoastronomy
-49,The 'star shafts' in the Great Pyramid are believed to align with:,Orion and Sirius,Venus and Mars,Polaris and Betelgeuse,Andromeda and Vega,0,Pyramids and Stellar Alignments
+1,Which ancient civilization developed the earliest known star catalog, Egyptians, Babylonians, Greeks, Chinese, Babylonians, Ancient Civilizations and Astronomy
+2,What did the Maya use to track the movements of Venus, Observatories, Calendars, Star charts, Astrolabes, Calendars, Ancient Civilizations and Astronomy
+3,Which ancient civilization is famous for creating the Antikythera mechanism, Romans, Greeks, Egyptians, Babylonians, Greeks, Ancient Civilizations and Astronomy
+4,Who was the Greek astronomer known for proposing that Earth orbits the Sun, Ptolemy, Aristarchus, Hipparchus, Galileo, Aristarchus, Ancient Civilizations and Astronomy
+5,What was the main purpose of the ancient Egyptian sundial, Measure time during the day, Track star positions, Predict eclipses, Navigate the desert, Measure time during the day, Ancient Civilizations and Astronomy
+6,Which civilization built the Jantar Mantar observatories, Maya, Aztec, Indian, Inca, Indian, Ancient Civilizations and Astronomy
+7,Which celestial body was most important in ancient Egyptian religion, Mars, Venus, The Sun, Jupiter, The Sun, Ancient Civilizations and Astronomy
+8,What is the name of the Babylonian goddess of the stars, Ishtar, Tiamat, Anu, Ninhursag, Ishtar, Ancient Civilizations and Astronomy
+9,The ancient Chinese recorded the appearance of which famous comet, Hale-Bopp, Halley, Encke, Ikeya-Seki, Halley, Ancient Civilizations and Astronomy
+10,Which ancient culture is credited with the earliest known solar eclipse record, Greeks, Babylonians, Chinese, Egyptians, Babylonians, Ancient Civilizations and Astronomy
+11,Which tool did ancient astronomers use to measure the angle of stars above the horizon, Astrolabe, Compass, Telescope, Sextant, Astrolabe, Ancient Civilizations and Astronomy
+12,The Mayan Long Count calendar was primarily used to track which cycle, Solar year, Venus cycle, Lunar phases, Mars orbit, Solar year, Ancient Civilizations and Astronomy
+13,Which ancient civilization believed the Earth was a flat disk floating on water, Egyptians, Babylonians, Greeks, Norse, Egyptians, Ancient Civilizations and Astronomy
+14,Who wrote the influential astronomical text Almagest, Ptolemy, Hipparchus, Copernicus, Aristotle, Ptolemy, Ancient Civilizations and Astronomy
+15,Which ancient Greek philosopher first suggested a spherical Earth, Plato, Aristotle, Socrates, Pythagoras, Pythagoras, Ancient Civilizations and Astronomy
+16,Which ancient civilization created the first known star map on clay tablets, Egyptians, Babylonians, Greeks, Romans, Babylonians, Ancient Civilizations and Astronomy
+17,What phenomenon did the ancient Chinese call the 'guest star', Supernova, Comet, Meteor shower, Lunar eclipse, Supernova, Ancient Civilizations and Astronomy
+18,Which Egyptian structure is aligned with the cardinal points and celestial events, The Sphinx, Great Pyramid, Abu Simbel, Karnak Temple, Great Pyramid, Ancient Civilizations and Astronomy
+19,Which planet was associated with the Roman god of war, Mars, Venus, Jupiter, Saturn, Mars, Ancient Civilizations and Astronomy
+20,Which ancient civilization used a complex system of knots called quipu for recording information, Inca, Maya, Aztec, Egyptians, Inca, Ancient Civilizations and Astronomy
+21,Who is considered the father of modern astronomy from ancient Greece, Hipparchus, Ptolemy, Aristotle, Archimedes, Hipparchus, Ancient Civilizations and Astronomy
+22,What did ancient Mesopotamians primarily use astronomy for, Agriculture, Navigation, Warfare, Religion, Agriculture, Ancient Civilizations and Astronomy
+23,Which ancient civilization observed and documented the supernova that created the Crab Nebula, Chinese, Egyptians, Babylonians, Greeks, Chinese, Ancient Civilizations and Astronomy
+24,The Maya believed the Milky Way was a pathway for, Souls, Gods, Animals, Warriors, Souls, Ancient Civilizations and Astronomy
+25,Which ancient Greek astronomer cataloged over 850 stars, Ptolemy, Aristarchus, Hipparchus, Eratosthenes, Hipparchus, Ancient Civilizations and Astronomy
+26,Which ancient culture's calendar was more accurate than the Julian calendar, Maya, Romans, Greeks, Egyptians, Maya, Ancient Civilizations and Astronomy
+27,What instrument did the ancient Greeks use to predict eclipses, Gnomon, Astrolabe, Armillary Sphere, Celestial globe, Armillary Sphere, Ancient Civilizations and Astronomy
+28,Who was the Egyptian sun god often represented with a falcon head, Ra, Anubis, Osiris, Horus, Ra, Ancient Civilizations and Astronomy
+29,The Nebra sky disk is an artifact from which ancient culture, Germanic, Egyptian, Babylonian, Mayan, Germanic, Ancient Civilizations and Astronomy
+30,Which planet did the Babylonians associate with the god Marduk, Jupiter, Mars, Venus, Mercury, Jupiter, Ancient Civilizations and Astronomy
+31,Which ancient civilization believed in the zodiac constellations similar to modern ones, Babylonians, Greeks, Egyptians, Romans, Babylonians, Ancient Civilizations and Astronomy
+32,What does the word "planet" mean in ancient Greek, Wandering star, Bright star, Fixed star, Heavenly body, Wandering star, Ancient Civilizations and Astronomy
+33,Who was the first to propose a heliocentric model in ancient times, Aristarchus, Ptolemy, Hipparchus, Copernicus, Aristarchus, Ancient Civilizations and Astronomy
+34,Which ancient structure aligns with the rising of Sirius, Great Pyramid, Stonehenge, Machu Picchu, Chichen Itza, Great Pyramid, Ancient Civilizations and Astronomy
+35,What was the main use of the Babylonian Enuma Anu Enlil tablets, Predicting eclipses, Mapping stars, Calendar making, Weather forecasting, Predicting eclipses, Ancient Civilizations and Astronomy
+36,Which ancient astronomer discovered the precession of the equinoxes, Hipparchus, Ptolemy, Aristarchus, Eratosthenes, Hipparchus, Ancient Civilizations and Astronomy
+37,What ancient Greek term means "earth measurement", Geography, Astronomy, Astrology, Cosmology, Geography, Ancient Civilizations and Astronomy
+38,Which ancient Chinese instrument was used to measure star positions, Gnomon, Armillary sphere, Astrolabe, Sextant, Armillary sphere, Ancient Civilizations and Astronomy
+39,Which ancient civilization associated the planet Venus with the goddess Ix Chel, Aztec, Maya, Inca, Olmec, Maya, Ancient Civilizations and Astronomy
+40,What celestial event did the ancient Greeks call "phainomena", Appearances, Eclipses, Comets, Meteors, Appearances, Ancient Civilizations and Astronomy
+41,Which ancient Egyptian temple was aligned to the solstices, Abu Simbel, Karnak, Luxor, Giza, Abu Simbel, Ancient Civilizations and Astronomy
+42,The Rosetta Stone helped decipher which ancient civilization’s astronomical records, Egyptian, Babylonian, Greek, Roman, Egyptian, Ancient Civilizations and Astronomy
+43,Who was the chief Babylonian god of the sky, Anu, Marduk, Enlil, Tiamat, Anu, Ancient Civilizations and Astronomy
+44,Which ancient text contains detailed star charts and was used by the Babylonians, Mul.Apin, Almagest, Dead Sea Scrolls, Enuma Elish, Mul.Apin, Ancient Civilizations and Astronomy
+45,Which planet was associated with the Egyptian god Thoth, Mercury, Mars, Venus, Jupiter, Mercury, Ancient Civilizations and Astronomy
+46,Which civilization is credited with inventing the zodiac system, Babylonians, Greeks, Egyptians, Romans, Babylonians, Ancient Civilizations and Astronomy
+47,Which ancient astronomer measured the Earth's circumference, Eratosthenes, Hipparchus, Ptolemy, Aristarchus, Eratosthenes, Ancient Civilizations and Astronomy
+48,The "Star of Bethlehem" is believed to have been what kind of astronomical event, Nova, Comet, Planetary conjunction, Meteor, Planetary conjunction, Ancient Civilizations and Astronomy
+49,What is the name of the ancient Greek sphere representing celestial circles, Armillary Sphere, Astrolabe, Sextant, Globe, Armillary Sphere, Ancient Civilizations and Astronomy
+50,Which ancient civilization believed the sky was a giant dome supported by mountains, Egyptians, Babylonians, Norse, Greeks, Babylonians, Ancient Civilizations and Astronomy
+51,Which ancient city housed the famous observatory called the Tower of the Winds, Athens, Babylon, Alexandria, Rome, Athens, Ancient Civilizations and Astronomy
+52,Who was the first ancient astronomer to classify stars by brightness, Hipparchus, Ptolemy, Aristarchus, Galileo, Hipparchus, Ancient Civilizations and Astronomy
+53,Which ancient civilization used the heliacal rising of Sirius to mark the new year, Egyptians, Babylonians, Mayans, Greeks, Egyptians, Ancient Civilizations and Astronomy
+54,What is the name of the Egyptian god associated with the moon, Khonsu, Anubis, Osiris, Horus, Khonsu, Ancient Civilizations and Astronomy
+55,Which ancient civilization built Machu Picchu aligned with the sun, Inca, Maya, Aztec, Olmec, Inca, Ancient Civilizations and Astronomy
+56,Which Greek astronomer compiled star catalogs used for centuries, Ptolemy, Aristarchus, Hipparchus, Eratosthenes, Ptolemy, Ancient Civilizations and Astronomy
+57,Which ancient civilization considered eclipses as omens from the gods, Babylonians, Egyptians, Greeks, Romans, Babylonians, Ancient Civilizations and Astronomy
+58,Which planet was worshipped as the god Nergal by Babylonians, Mars, Venus, Jupiter, Mercury, Mars, Ancient Civilizations and Astronomy
+59,Which ancient culture made extensive records of meteor showers, Chinese, Babylonians, Greeks, Egyptians, Chinese, Ancient Civilizations and Astronomy
+60,What was the primary use of the ancient Greek gnomon, Measure time, Predict eclipses, Map stars, Measure distances, Measure time, Ancient Civilizations and Astronomy
+61,Which ancient civilization had a lunar calendar with 13 months, Maya, Romans, Greeks, Egyptians, Maya, Ancient Civilizations and Astronomy
+62,Which ancient Greek philosopher believed the universe was infinite, Anaximander, Aristotle, Plato, Socrates, Anaximander, Ancient Civilizations and Astronomy
+63,Which ancient culture associated the Pleiades star cluster with agriculture, Greeks, Babylonians, Egyptians, Japanese, Greeks, Ancient Civilizations and Astronomy
+64,Who was the Roman god of the sky and thunder, Jupiter, Mars, Mercury, Neptune, Jupiter, Ancient Civilizations and Astronomy
+65,Which ancient Greek scientist calculated the tilt of the Earth’s axis, Eratosthenes, Hipparchus, Ptolemy, Aristarchus, Hipparchus, Ancient Civilizations and Astronomy
+66,Which ancient civilization's calendar ended in a cycle called the baktun, Maya, Aztec, Inca, Egyptians, Maya, Ancient Civilizations and Astronomy
+67,Which ancient astronomer proposed that the moon shines by reflected sunlight, Aristarchus, Ptolemy, Hipparchus, Galileo, Aristarchus, Ancient Civilizations and Astronomy
+68,Which planet is named after the Roman goddess of love, Venus, Mars, Jupiter, Mercury, Venus, Ancient Civilizations and Astronomy
+69,Which ancient civilization believed the Milky Way was a river in the sky, Greeks, Babylonians, Egyptians, Norse, Greeks, Ancient Civilizations and Astronomy
+70,Who was the Egyptian goddess of the sky, Nut, Isis, Hathor, Sekhmet, Nut, Ancient Civilizations and Astronomy
+71,Which ancient astronomer created the first recorded star catalog, Hipparchus, Ptolemy, Aristarchus, Thales, Hipparchus, Ancient Civilizations and Astronomy
+72,Which ancient culture believed that comets were harbingers of doom, Chinese, Greeks, Romans, Babylonians, Romans, Ancient Civilizations and Astronomy
+73,Which ancient city is famous for its ancient library and astronomical texts, Alexandria, Athens, Babylon, Rome, Alexandria, Ancient Civilizations and Astronomy
+74,Which ancient instrument helped measure the altitude of celestial bodies, Sextant, Astrolabe, Compass, Telescope, Astrolabe, Ancient Civilizations and Astronomy
+75,Which ancient civilization used the planet Mercury to represent the god Nabu, Babylonians, Greeks, Romans, Egyptians, Babylonians, Ancient Civilizations and Astronomy
+76,Who was the Greek god associated with the constellation Orion, Apollo, Zeus, Artemis, Hermes, Artemis, Ancient Civilizations and Astronomy
+77,Which ancient civilization used star alignments to time agricultural activities, Babylonians, Egyptians, Greeks, Maya, Egyptians, Ancient Civilizations and Astronomy
+78,Which ancient philosopher suggested the Earth was round based on lunar eclipses, Aristotle, Plato, Socrates, Pythagoras, Aristotle, Ancient Civilizations and Astronomy
+79,Which ancient Chinese dynasty is known for detailed star charts, Han, Tang, Qin, Zhou, Han, Ancient Civilizations and Astronomy
+80,What is the name of the Babylonian moon god, Sin, Marduk, Anu, Enlil, Sin, Ancient Civilizations and Astronomy
+81,Which ancient civilization built the observatory at Chichen Itza, Maya, Aztec, Inca, Olmec, Maya, Ancient Civilizations and Astronomy
+82,Who is the Greek god of the stars and constellations, Astraeus, Zeus, Apollo, Hermes, Astraeus, Ancient Civilizations and Astronomy
+83,Which ancient Greek philosopher proposed the geocentric model of the universe, Ptolemy, Aristarchus, Hipparchus, Eratosthenes, Ptolemy, Ancient Civilizations and Astronomy
+84,Which ancient civilization used astronomy to create an accurate agricultural calendar, Maya, Babylonians, Egyptians, Greeks, Maya, Ancient Civilizations and Astronomy
+85,What was the main purpose of ancient Mesopotamian ziggurats, Religious observatories, Tombs, Palaces, Markets, Religious observatories, Ancient Civilizations and Astronomy
+86,Which ancient Greek astronomer discovered the concept of eccentricity in planetary orbits, Apollonius, Hipparchus, Ptolemy, Aristarchus, Hipparchus, Ancient Civilizations and Astronomy
+87,Which ancient Egyptian text includes references to stars and constellations, Book of the Dead, Pyramid Texts, Coffin Texts, Book of Gates, Pyramid Texts, Ancient Civilizations and Astronomy
+88,Which ancient civilization worshipped the sun god Inti, Maya, Inca, Aztec, Egyptians, Inca, Ancient Civilizations and Astronomy
+89,Who was the Babylonian god associated with the planet Venus, Ishtar, Marduk, Anu, Enlil, Ishtar, Ancient Civilizations and Astronomy
+90,Which ancient astronomer calculated the length of the solar year, Hipparchus, Ptolemy, Eratosthenes, Aristarchus, Hipparchus, Ancient Civilizations and Astronomy
+91,What does the term "heliacal rising" refer to, First visible rising of a star before sunrise, Sunset of a planet, Solar eclipse, Lunar eclipse, First visible rising of a star before sunrise, Ancient Civilizations and Astronomy
+92,Which ancient civilization believed the cosmos was divided into three levels, Babylonians, Egyptians, Greeks, Romans, Babylonians, Ancient Civilizations and Astronomy
+93,Which ancient Greek astronomer mapped the stars on a celestial sphere, Hipparchus, Ptolemy, Aristarchus, Eratosthenes, Hipparchus, Ancient Civilizations and Astronomy
+94,What was the name of the Babylonian lunar calendar, Calendar of Nisan, Mul.Apin, Enuma Anu Enlil, Dead Sea Scrolls, Calendar of Nisan, Ancient Civilizations and Astronomy
+95,Which ancient civilization used a 360-degree circle system, Babylonians, Greeks, Egyptians, Romans, Babylonians, Ancient Civilizations and Astronomy
+96,Who was the Greek goddess of the moon, Selene, Artemis, Hecate, Hera, Selene, Ancient Civilizations and Astronomy
+97,Which ancient civilization built the Nazca Lines aligned with celestial bodies, Nazca, Maya, Inca, Aztec, Nazca, Ancient Civilizations and Astronomy
+98,Which planet was known as Nabu in Babylonian mythology, Mercury, Mars, Venus, Jupiter, Mercury, Ancient Civilizations and Astronomy
+99,Who is considered the father of astrology, Babylonian priests, Greek philosophers, Egyptian priests, Roman priests, Babylonian priests, Ancient Civilizations and Astronomy
+100,Which ancient Greek philosopher believed Earth was the center of the universe, Aristotle, Plato, Socrates, Pythagoras, Aristotle, Ancient Civilizations and Astronomy
+101,In Greek mythology who is the god of the sun,Apollo,Zeus,Hades,Hermes,Apollo,Mythology and Space
+102,Which Norse god is associated with thunder and lightning,Thor,Odin,Loki,Freyr,Thor,Mythology and Space
+103,What creature in Greek mythology was said to have stars on its body,The Hydra,The Phoenix,The Pegasus,The Orion,The Hydra,Mythology and Space
+104,In Egyptian mythology who is the goddess of the sky,Nut,Isis,Hathor,Sekhmet,Nut,Mythology and Space
+105,Which Roman goddess is associated with the planet Venus,Aphrodite,Venus,Minerva,Juno,Venus,Mythology and Space
+106,What is the name of the giant wolf in Norse mythology that chases the sun and moon,Fenrir,Jormungandr,Sleipnir,Hel,Fenrir,Mythology and Space
+107,Who was the Greek titan responsible for holding up the sky,Atlas,Prometheus,Cronus,Oceanus,Atlas,Mythology and Space
+108,In Hindu mythology which god rides a chariot pulled by horses of the sun,Surya,Indra,Vishnu,Brahma,Surya,Mythology and Space
+109,Which creature in Greek mythology was reborn from ashes,Phoenix,Hydra,Chimera,Cerberus,Phoenix,Mythology and Space
+110,In Aztec mythology which god is associated with the sun,Huitzilopochtli,Quetzalcoatl,Tezcatlipoca,Tlaloc,Huitzilopochtli,Mythology and Space
+111,What is the name of the Greek goddess of the moon,Selene,Artemis,Hecate,Hera,Selene,Mythology and Space
+112,Which Egyptian god was believed to travel through the underworld by night,Ra,Anubis,Osiris,Horus,Ra,Mythology and Space
+113,In Greek mythology what is the name of the constellation representing a hunter,Orion,Perseus,Andromeda,Hercules,Orion,Mythology and Space
+114,Which Norse goddess is associated with the moon,Mani,Sol,Freyja,Skadi,Mani,Mythology and Space
+115,Who was the Roman god of the sky and thunder,Jupiter,Mars,Neptune,Saturn,Jupiter,Mythology and Space
+116,In Greek mythology which god is known as the messenger of the gods,Hermes,Apollo,Zeus,Hades,Hermes,Mythology and Space
+117,Which mythological figure stole fire from the gods to give to humans,Prometheus,Zeus,Hermes,Apollo,Prometheus,Mythology and Space
+118,In Japanese mythology which creature is said to live in the moon,Rabbit,Dragon,Phoenix,Tiger,Rabbit,Mythology and Space
+119,What is the name of the serpent that encircles the world in Norse mythology,Jormungandr,Fenrir,Sleipnir,Hel,Jormungandr,Mythology and Space
+120,Which Greek god ruled the underworld,Hades,Zeus,Poseidon,Ares,Hades,Mythology and Space
+121,In Egyptian mythology who is the god of the sun and creation,Ra,Anubis,Osiris,Horus,Ra,Mythology and Space
+122,Which creature in mythology has a body of a lion wings of an eagle and tail of a serpent,Chimera,Sphinx,Griffin,Hippogriff,Chimera,Mythology and Space
+123,Who was the goddess of the dawn in Greek mythology,Eos,Selene,Hecate,Aphrodite,Eos,Mythology and Space
+124,In Hindu mythology which goddess is associated with the moon,Chandra,Durga,Saraswati,Parvati,Chandra,Mythology and Space
+125,Which Norse god is known as the Allfather and ruler of the gods,Odin,Thor,Loki,Freyr,Odin,Mythology and Space
+126,What animal is often associated with the Greek god Hermes,Tortoise,Owl,Eagle,Snake,Tortoise,Mythology and Space
+127,In Greek mythology who is the goddess of the stars and night,Nyx,Hecate,Selene,Athena,Nyx,Mythology and Space
+128,Which Roman god is equivalent to the Greek god Hermes,Mercury,Jupiter,Mars,Neptune,Mercury,Mythology and Space
+129,In Egyptian mythology which goddess protects the dead,Isis,Sekhmet,Nut,Hathor,Isis,Mythology and Space
+130,What mythical bird is known for its ability to resurrect itself,Phoenix,Griffin,Siren,Harpy,Phoenix,Mythology and Space
+131,In Norse mythology who is the goddess of love and fertility,Freyja,Skadi,Hel,Idun,Freyja,Mythology and Space
+132,Who was the Greek god of war,Ares,Zeus,Hades,Hermes,Ares,Mythology and Space
+133,Which constellation is named after a queen from Greek mythology,Andromeda,Orion,Perseus,Hercules,Andromeda,Mythology and Space
+134,In Aztec mythology which creature represents the god Quetzalcoatl,Feathered serpent,Jaguar,Eagle,Cactus,Feathered serpent,Mythology and Space
+135,What was the role of Hel in Norse mythology,Ruler of the underworld,God of war,Goddess of love,God of thunder,Ruler of the underworld,Mythology and Space
+136,In Greek mythology which god was punished to hold the sky forever,Atlas,Prometheus,Cronus,Okeanos,Atlas,Mythology and Space
+137,Which goddess in Greek mythology is associated with the hunt and the moon,Artemis,Athena,Hera,Demeter,Artemis,Mythology and Space
+138,In Egyptian mythology what animal is associated with the god Anubis,Jackal,Crocodile,Cow,Falcon,Jackal,Mythology and Space
+139,Who was the Roman goddess of the harvest and agriculture,Ceres,Venus,Minerva,Juno,Ceres,Mythology and Space
+140,What mythical creature guards the gates of the underworld in Greek mythology,Cerberus,Hydra,Chimera,Sphinx,Cerberus,Mythology and Space
+141,Which goddess in Hindu mythology is considered the divine mother,Durga,Saraswati,Parvati,Lakshmi,Durga,Mythology and Space
+142,In Greek mythology who is the god of the sea,Poseidon,Zeus,Hades,Ares,Poseidon,Mythology and Space
+143,Which celestial body is associated with the goddess Venus,Aphrodite,Sun,Moon,Mars,Aphrodite,Mythology and Space
+144,In Norse mythology who is the trickster god,Loki,Odin,Thor,Freyr,Loki,Mythology and Space
+145,Who is the Greek god associated with fire and metalworking,Hephaestus,Ares,Zeus,Hades,Hephaestus,Mythology and Space
+146,In Egyptian mythology which god is the god of wisdom and writing,Thoth,Horus,Ra,Anubis,Thoth,Mythology and Space
+147,Which Greek hero was placed among the stars as a constellation,Heracles,Perseus,Orion,Hercules,Heracles,Mythology and Space
+148,What does the name "Pegasus" refer to in Greek mythology,A winged horse,A dragon,A giant,A sea monster,A winged horse,Mythology and Space
+149,In Hindu mythology which god is known as the preserver,Vishnu,Shiva,Brahma,Indra,Vishnu,Mythology and Space
+150,Which Norse goddess is associated with winter and hunting,Skadi,Freyja,Hel,Idun,Skadi,Mythology and Space
+151,What mythical creature has the head of a lion the body of a goat and tail of a serpent,Chimera,Griffin,Sphinx,Hippogriff,Chimera,Mythology and Space
+152,In Greek mythology who is the goddess of the underworld,Persephone,Hera,Athena,Artemis,Persephone,Mythology and Space
+153,Which Egyptian god is depicted with a falcon head,Horus,Anubis,Ra,Osiris,Horus,Mythology and Space
+154,Who was the Roman god of war,Mars,Neptune,Jupiter,Saturn,Mars,Mythology and Space
+155,In Greek mythology who is the goddess of wisdom,Athena,Hera,Artemis,Demeter,Athena,Mythology and Space
+156,Which creature in Greek mythology had snakes for hair,Medusa,Hydra,Chimera,Siren,Medusa,Mythology and Space
+157,Who was the goddess of love and beauty in Roman mythology,Venus,Aphrodite,Juno,Minerva,Venus,Mythology and Space
+158,Which Norse god rides an eight-legged horse,Sleipnir,Odin,Thor,Loki,Sleipnir,Mythology and Space
+159,In Egyptian mythology which god judges the dead,Anubis,Osiris,Ra,Horus,Anubis,Mythology and Space
+160,Which Greek hero slew the Hydra,Heracles,Perseus,Jason,Theseus,Heracles,Mythology and Space
+161,In Hindu mythology who is the destroyer god,Shiva,Vishnu,Brahma,Indra,Shiva,Mythology and Space
+162,What is the name of the Greek god of dreams,Morpheus,Hypnos,Ares,Zeus,Morpheus,Mythology and Space
+163,Which Roman goddess was the queen of the gods,Juno,Hera,Venus,Minerva,Juno,Mythology and Space
+164,Who was the Greek god of the forge,Hephaestus,Ares,Zeus,Hades,Hephaestus,Mythology and Space
+165,In Norse mythology what is Ragnarok,End of the world,A great feast,A festival,A sacred place,End of the world,Mythology and Space
+166,Which creature is known as the bird of fire in mythology,Phoenix,Griffin,Siren,Harpy,Phoenix,Mythology and Space
+167,Who was the Greek goddess of the harvest,Demeter,Athena,Hera,Artemis,Demeter,Mythology and Space
+168,In Egyptian mythology which goddess is associated with magic and healing,Isis,Nut,Hathor,Sekhmet,Isis,Mythology and Space
+169,Which Norse god is the god of fertility,Freyr,Odin,Thor,Loki,Freyr,Mythology and Space
+170,What is the name of the winged horse in Greek mythology,Pegasus,Griffin,Hippogriff,Chimera,Pegasus,Mythology and Space
+171,Who was the Greek god of the sky,Zeus,Hades,Poseidon,Ares,Zeus,Mythology and Space
+172,Which goddess in Roman mythology is equivalent to the Greek goddess Artemis,Diana,Hera,Venus,Minerva,Diana,Mythology and Space
+173,What is the name of the Norse goddess of youth and rejuvenation,Idun,Freyja,Skadi,Hel,Idun,Mythology and Space
+174,In Greek mythology who was the god of wine,Dionysus,Apollo,Zeus,Hades,Dionysus,Mythology and Space
+175,Which Egyptian god is the lord of the dead,Osiris,Anubis,Ra,Horus,Osiris,Mythology and Space
+176,Who is the goddess of wisdom and war in Roman mythology,Minerva,Athena,Juno,Venus,Minerva,Mythology and Space
+177,What animal is sacred to the Hindu god Ganesha,Mouse,Elephant,Snake,Lion,Mouse,Mythology and Space
+178,Which Norse god is the god of mischief,Loki,Odin,Thor,Freyr,Loki,Mythology and Space
+179,In Greek mythology who is the god of the sea,Poseidon,Zeus,Hades,Ares,Poseidon,Mythology and Space
+180,What is the name of the creature with a lion’s body and an eagle’s head,Griffin,Chimera,Sphinx,Hippogriff,Griffin,Mythology and Space
+181,Who was the goddess of the moon in Roman mythology,Luna,Selene,Hecate,Artemis,Luna,Mythology and Space
+182,In Hindu mythology what is the cosmic serpent called,Ananta,Vasuki,Naga,Shesha,Ananta,Mythology and Space
+183,Which Greek god is associated with the underworld,Hades,Zeus,Poseidon,Ares,Hades,Mythology and Space
+184,What is the name of the Norse end of the world battle,Ragnarok,Valhalla,Asgard,Midgard,Ragnarok,Mythology and Space
+185,Who was the Greek goddess of love and beauty,Aphrodite,Venus,Hera,Athena,Aphrodite,Mythology and Space
+186,In Egyptian mythology who is the god of the sky,Horus,Ra,Anubis,Osiris,Horus,Mythology and Space
+187,Which creature in Greek mythology has multiple heads,Hydra,Cerberus,Chimera,Sphinx,Hydra,Mythology and Space
+188,Who was the Greek god of war,Ares,Mars,Zeus,Hades,Ares,Mythology and Space
+189,What is the name of the goddess of dawn in Roman mythology,Aurora,Eos,Lux,Hecate,Aurora,Mythology and Space
+190,In Norse mythology who is the god of thunder,Thor,Odin,Loki,Freyr,Thor,Mythology and Space
+191,Which Greek hero defeated Medusa,Perseus,Heracles,Jason,Theseus,Perseus,Mythology and Space
+192,Who was the Roman god of the sea,Neptune,Poseidon,Zeus,Ares,Neptune,Mythology and Space
+193,What is the name of the mythical bird that symbolizes rebirth,Phoenix,Griffin,Siren,Harpy,Phoenix,Mythology and Space
+194,In Greek mythology who is the goddess of wisdom and war,Athena,Minerva,Hera,Aphrodite,Athena,Mythology and Space
+195,Which Egyptian goddess is known as the mother goddess,Isis,Hathor,Nut,Sekhmet,Isis,Mythology and Space
+196,Who was the god of the sun in Roman mythology,Sol,Helios,Apollo,Ra,Sol,Mythology and Space
+197,Which Norse god is the ruler of Asgard,Odin,Thor,Loki,Freyr,Odin,Mythology and Space
+198,In Hindu mythology who is the creator god,Brahma,Vishnu,Shiva,Indra,Brahma,Mythology and Space
+199,What creature in Greek mythology is part lion part goat part snake,Chimera,Sphinx,Griffin,Hippogriff,Chimera,Mythology and Space
+200,Who was the goddess of the hunt and the moon in Greek mythology,Artemis,Selene,Hecate,Athena,Artemis,Mythology and Space
+1,Who was the ancient Greek philosopher known as the father of astronomy,Aristotle,Plato,Aristarchus,Pythagoras,3,Ancient Space Science
+2,Which ancient civilization built the Antikythera mechanism to predict astronomical positions,Romans,Greeks,Mayans,Chinese,2,Ancient Space Science
+3,What did ancient Babylonians primarily use to track planetary movements,Astrolabe,Star charts,Cuneiform tablets,Obelisks,3,Ancient Space Science
+4,Which ancient astronomer proposed the heliocentric model before Copernicus,Aristarchus,Ptolemy,Hipparchus,Galen,1,Ancient Space Science
+5,The Mayans are known for creating which advanced astronomical tool,Observatories,Calendar system,Astrolabe,Sundials,2,Ancient Space Science
+6,Which ancient culture believed that the Earth was the center of the universe,Greeks,Romans,Egyptians,Chinese,1,Ancient Space Science
+7,The ancient Chinese used what device to observe the stars,Armillary sphere,Quadrant,Telescope,Sextant,1,Ancient Space Science
+8,Who cataloged over 850 stars in the ancient world,Hipparchus,Ptolemy,Aristotle,Galileo,1,Ancient Space Science
+9,Which ancient scientist wrote the Almagest,Aristotle,Hipparchus,Ptolemy,Copernicus,3,Ancient Space Science
+10,Which instrument did ancient Greeks use for measuring angles between celestial bodies,Astrolabe,Armillary sphere,Dioptra,Sextant,3,Ancient Space Science
+11,Which civilization aligned their temples with celestial bodies,Maya,Inca,Babylonian,Egyptian,4,Ancient Space Science
+12,Which ancient astronomer developed the geocentric model,Ptolemy,Aristotle,Archimedes,Hipparchus,1,Ancient Space Science
+13,What was the purpose of Stonehenge in astronomical terms,Solar calendar,Religious ritual,Star navigation,Planet observation,1,Ancient Space Science
+14,Which ancient Indian text contains astronomical calculations,Surya Siddhanta,Vedas,Upanishads,Puranas,1,Ancient Space Science
+15,Ancient Egyptians used which constellation for orientation,Orion,Pleiades,Ursa Major,Cygnus,1,Ancient Space Science
+16,Which ancient tool was used to tell time using the sun,Sundial,Astrolabe,Water clock,Armillary sphere,1,Ancient Space Science
+17,Which Greek astronomer estimated the size of the Earth,Eratosthenes,Plato,Anaximander,Hipparchus,1,Ancient Space Science
+18,What did the Mayans use to predict solar eclipses,Shadow books,Dresden codex,Sky stones,Sun calendar,2,Ancient Space Science
+19,Which civilization built observatories at high altitudes for clearer skies,Incas,Greeks,Babylonians,Chinese,1,Ancient Space Science
+20,Which device did ancient Arabs improve for astronomical use,Astrolabe,Compass,Telescope,Globe,1,Ancient Space Science
+21,What did ancient Hindu astronomers call the zodiac signs,Rashis,Gunas,Yugas,Karmas,1,Ancient Space Science
+22,What was the ancient name for the planet Saturn in Babylonian astronomy,Ninurta,Nabu,Marduk,Enki,1,Ancient Space Science
+23,Which ancient culture developed detailed lunar calendars,Hebrews,Mayans,Egyptians,Romans,2,Ancient Space Science
+24,What material was commonly used in ancient star charts,Parchment,Stone,Bronze,Wood,2,Ancient Space Science
+25,Who first suggested that Earth rotates on its axis,Aristarchus,Anaximander,Hipparchus,Philolaus,4,Ancient Space Science
+26,What kind of calendar did the ancient Egyptians develop,Lunar,Solar,Lunisolar,Stellar,2,Ancient Space Science
+27,Which Greek invented a mechanical planetarium,Archimedes,Heron,Eratosthenes,Anaxagoras,1,Ancient Space Science
+28,Which ancient civilization tracked Venus with great precision,Chinese,Maya,Greek,Egyptian,2,Ancient Space Science
+29,Which ancient culture linked astrology closely with medicine,Indian,Greek,Babylonian,Persian,3,Ancient Space Science
+30,Which ancient astronomical text was central to Chinese star mapping,Book of Changes,Book of Silk,Han Scrolls,Heavenly Codes,2,Ancient Space Science
+31,What name did the ancient Greeks give to the Milky Way,Galaxias,Ouranos,Aether,Astros,1,Ancient Space Science
+32,What was the purpose of the Ziggurats in astronomy,Observation towers,Temples,Graves,Schools,1,Ancient Space Science
+33,Which culture designed temples aligned with solstices,Egyptians,Romans,Mayans,Celts,3,Ancient Space Science
+34,Who calculated the length of the solar year with great accuracy in ancient India,Varahamihira,Brahmagupta,Aryabhata,Bhaskara,3,Ancient Space Science
+35,Which civilization used clepsydra for timekeeping,Chinese,Greek,Indian,Egyptian,4,Ancient Space Science
+36,What was the primary purpose of the ancient Chinese star maps,Astrology,Navigation,Rituals,Weather forecasting,1,Ancient Space Science
+37,What celestial event did the Mayans fear most,Eclipse,Comet,Supernova,Equinox,1,Ancient Space Science
+38,Which Greek philosopher believed stars were fixed on a crystal sphere,Plato,Aristotle,Socrates,Democritus,2,Ancient Space Science
+39,What was the purpose of the armillary sphere in ancient China,Tracking stars,Measuring time,Forecasting weather,Locating planets,1,Ancient Space Science
+40,Which ancient civilization aligned pyramids with stars,Egyptians,Aztecs,Romans,Babylonians,1,Ancient Space Science
+41,What does the term nakshatra refer to in Indian astronomy,Star cluster,Planet,Constellation,Moon mansion,4,Ancient Space Science
+42,What ancient device was used to simulate planetary motion,Antikythera mechanism,Astrolabe,Planetarium,Dioptra,1,Ancient Space Science
+43,Which ancient calendar was based on both moon and sun,Lunisolar,Lunar,Solar,Stellar,1,Ancient Space Science
+44,Which ancient text describes planetary motions in Sanskrit,Surya Siddhanta,Rigveda,Bhagavad Gita,Manusmriti,1,Ancient Space Science
+45,Which civilization carved astronomical records on bones,Chinese,Inca,Egyptians,Babylonians,1,Ancient Space Science
+46,Who proposed that comets are celestial and not atmospheric,Aristotle,Ptolemy,Seneca,Hipparchus,3,Ancient Space Science
+47,What was the main purpose of the Greek dioptra,Measure angles,Timekeeping,Navigation,Star cataloging,1,Ancient Space Science
+48,Which early astronomer introduced epicycles to explain motion,Ptolemy,Aristotle,Hipparchus,Copernicus,1,Ancient Space Science
+49,Which planet was known as the morning star in ancient cultures,Venus,Mars,Saturn,Jupiter,1,Ancient Space Science
+50,Which ancient observatory is located in India,Jantar Mantar,Stonehenge,Chichen Itza,Ziggurat,1,Ancient Space Science
+51,Which civilization used constellations to determine agricultural seasons,Egyptians,Babylonians,Mayans,Greeks,2,Ancient Space Science
+52,Which star was used for navigation by ancient sailors,Polaris,Sirius,Betelgeuse,Altair,1,Ancient Space Science
+53,Which planet was associated with the god Nabu in Babylonian culture,Mercury,Venus,Saturn,Mars,1,Ancient Space Science
+54,Which Greek philosopher believed in multiple worlds,Democritus,Plato,Aristotle,Thales,1,Ancient Space Science
+55,Which ancient civilization built pyramids aligned with Orion,Incas,Egyptians,Chinese,Sumerians,2,Ancient Space Science
+56,Who was the ancient Indian astronomer who stated Earth rotates,Aryabhata,Varahamihira,Brahmagupta,Bhaskara,1,Ancient Space Science
+57,Which civilization had a sky god named Horus,Egyptians,Greeks,Romans,Hittites,1,Ancient Space Science
+58,Which Roman author wrote about celestial phenomena,Pliny the Elder,Cicero,Virgil,Seneca,1,Ancient Space Science
+59,Which ancient culture saw eclipses as cosmic battles,Maya,Egyptian,Greek,Indian,1,Ancient Space Science
+60,What shape did ancient astronomers think planetary orbits were,Circles,Ellipses,Triangles,Hexagons,1,Ancient Space Science
+61,What kind of calendar was used by the Babylonians,Lunisolar,Lunar,Solar,Stellar,1,Ancient Space Science
+62,Which Indian mathematician used sine tables in astronomy,Aryabhata,Panini,Katyayana,Bhaskara,1,Ancient Space Science
+63,Which Greek philosopher said the universe is made of numbers,Pythagoras,Socrates,Plato,Aristotle,1,Ancient Space Science
+64,Which planet was associated with war in Roman and Greek culture,Mars,Venus,Saturn,Jupiter,1,Ancient Space Science
+65,Which ancient culture created the Dresden codex,Maya,Inca,Aztec,Olmec,1,Ancient Space Science
+66,Which ancient astronomical tool was handheld and portable,Astrolabe,Armillary sphere,Dioptra,Celestial globe,1,Ancient Space Science
+67,Which ancient civilization predicted lunar eclipses accurately,Babylonians,Egyptians,Greeks,Romans,1,Ancient Space Science
+68,What was the ancient term for the sun in Vedic texts,Surya,Chandra,Agni,Varuna,1,Ancient Space Science
+69,Which civilization created a calendar with 260 days,Maya,Chinese,Egyptians,Romans,1,Ancient Space Science
+70,Which Greek astronomer compiled a star catalog still used today,Hipparchus,Ptolemy,Anaximander,Thales,1,Ancient Space Science
+71,Who introduced the concept of precession of the equinoxes,Hipparchus,Ptolemy,Aristotle,Plato,1,Ancient Space Science
+72,Which culture built Machu Picchu as a solar observatory,Incas,Mayans,Aztecs,Egyptians,1,Ancient Space Science
+73,What did ancient Chinese astronomers believe about comets,Omen of disaster,Sign of gods,Good fortune,Normal star,1,Ancient Space Science
+74,Which ancient device used gears to model the heavens,Antikythera mechanism,Astrolabe,Celestial globe,Quadrant,1,Ancient Space Science
+75,Which Greek thinker proposed that the moon reflects sunlight,Anaxagoras,Aristotle,Plato,Democritus,1,Ancient Space Science
+76,Which ancient group used standing stones to track solstices,Celts,Egyptians,Romans,Incas,1,Ancient Space Science
+77,What did the term chandra represent in ancient Indian astronomy,Moon,Sun,Planet,Star,1,Ancient Space Science
+78,Which instrument used shadow to measure solar time,Gnomon,Dioptra,Astrolabe,Sundial,1,Ancient Space Science
+79,Which civilization believed stars were holes in a dome,Babylonians,Egyptians,Greeks,Romans,3,Ancient Space Science
+80,Who estimated the distance to the moon using geometry,Aristarchus,Eratosthenes,Hipparchus,Ptolemy,1,Ancient Space Science
+81,What was the use of obelisks in ancient Egypt,Timekeeping,Worship,Navigation,Astronomy,1,Ancient Space Science
+82,Which ancient culture worshipped the sun as a supreme deity,Incas,Egyptians,Greeks,Hindus,1,Ancient Space Science
+83,Which Indian astronomer wrote Brahmasphutasiddhanta,Brahmagupta,Aryabhata,Bhaskara,Varahamihira,1,Ancient Space Science
+84,Which civilization recorded astronomical data on oracle bones,Chinese,Maya,Greeks,Romans,1,Ancient Space Science
+85,Which ancient model of the cosmos used crystalline spheres,Greek,Indian,Chinese,Babylonian,1,Ancient Space Science
+86,Which astronomer created a map with latitude and longitude,Ptolemy,Eratosthenes,Anaximander,Hipparchus,1,Ancient Space Science
+87,Which star was sacred to ancient Egyptians,Sirius,Polaris,Betelgeuse,Altair,1,Ancient Space Science
+88,What was the ancient term for Mercury in Indian astronomy,Budha,Shani,Surya,Mangal,1,Ancient Space Science
+89,Which civilization created petroglyphs aligned to the stars,Nazca,Celts,Chinese,Babylonians,1,Ancient Space Science
+90,Which term means planetary retrograde motion in Sanskrit,Vakra,Chara,Dakshina,Uttara,1,Ancient Space Science
+91,Which Roman goddess was associated with the planet Venus,Venus,Minerva,Juno,Diana,1,Ancient Space Science
+92,Which Greek scientist built early celestial globes,Crates,Archimedes,Ptolemy,Hipparchus,1,Ancient Space Science
+93,What phenomenon was used to align ancient temples,Solar solstice,Lunar eclipse,Equinox,Meteor shower,1,Ancient Space Science
+94,What is the Indian term for eclipse,Grahan,Yoga,Kala,Rashi,1,Ancient Space Science
+95,Who described moon phases based on position to the sun,Anaxagoras,Plato,Aristotle,Hipparchus,1,Ancient Space Science
+96,What was the shape of ancient Chinese sky maps,Circular,Rectangular,Square,Hexagonal,1,Ancient Space Science
+97,Which culture created megaliths aligned with stars,Indian,Greek,Egyptian,Maya,1,Ancient Space Science
+98,Who is credited with early heliocentric ideas in India,Aryabhata,Brahmagupta,Bhaskara,Varahamihira,1,Ancient Space Science
+99,Which ancient device measured angular distance between stars,Dioptra,Astrolabe,Gnomon,Sextant,1,Ancient Space Science
+100,What term was used for the planets in ancient India,Grahas,Nakshatras,Yugas,Karmas,1,Ancient Space Science
+101,What did ancient Greeks believe the stars were,Holes in the sky,Spirits of the dead,Gods,Burning gas,1,Ancient Astronomical Beliefs
+102,What was the Milky Way thought to be in Greek mythology,Spilled milk of Hera,Path to the afterlife,Tears of gods,A celestial bridge,1,Ancient Astronomical Beliefs
+103,In Hindu mythology who rides the chariot of the sun,Surya,Agni,Indra,Yama,1,Ancient Astronomical Beliefs
+104,What did ancient Egyptians believe about Orion,It was Osiris,It was Ra,It was Anubis,It was Thoth,1,Ancient Astronomical Beliefs
+105,What celestial body was considered sacred to the goddess Isis,Sirius,Venus,Mars,Jupiter,1,Ancient Astronomical Beliefs
+106,What did the Chinese associate comets with,Bad omens,Good harvest,Victory in war,Rainfall,1,Ancient Astronomical Beliefs
+107,In Mesopotamian belief what was Venus associated with,Ishtar,Nergal,Marduk,Enlil,1,Ancient Astronomical Beliefs
+108,What did the Norse call the Milky Way,Path of the dead,Blood of Ymir,Bifrost,Giant's trail,3,Ancient Astronomical Beliefs
+109,Which planet was seen as a war bringer in multiple cultures,Mars,Jupiter,Venus,Saturn,1,Ancient Astronomical Beliefs
+110,In Mayan beliefs what did eclipses signify,Angry gods,End of time,Birth of heroes,Cleansing rituals,1,Ancient Astronomical Beliefs
+111,What did ancient Hindus consider the moon god,Chandra,Surya,Varuna,Agni,1,Ancient Astronomical Beliefs
+112,What was the function of celestial events in Inca culture,Timekeeping,Spiritual messages,Navigation,Agriculture,2,Ancient Astronomical Beliefs
+113,Which god was linked with the moon in Egyptian belief,Thoth,Ra,Osiris,Horus,1,Ancient Astronomical Beliefs
+114,What did Babylonians think the stars were,Fates of humans,Dust from gods,Eyes of spirits,Fire spirits,1,Ancient Astronomical Beliefs
+115,Which celestial body was feared during ancient Roman times,Comet,Eclipse,Supernova,Meteor,1,Ancient Astronomical Beliefs
+116,In ancient China what did a red moon represent,Disaster,Peace,Wealth,Harvest,1,Ancient Astronomical Beliefs
+117,What did the Dogon tribe believe about Sirius,It had an invisible companion,It controlled fate,It was a god,It brought fire,1,Ancient Astronomical Beliefs
+118,What was the sky considered in Maori culture,A woven mat,A celestial canoe,A sacred veil,A mountain of stars,2,Ancient Astronomical Beliefs
+119,Who was the Greek god of the sun,Helios,Hades,Zeus,Apollo,1,Ancient Astronomical Beliefs
+120,In Roman belief what was the moon goddess called,Luna,Minerva,Diana,Juno,1,Ancient Astronomical Beliefs
+121,What did ancient Persians associate eclipses with,Battles among gods,Love,Healing,Farming rituals,1,Ancient Astronomical Beliefs
+122,Which constellation was considered a hunter in Greek myths,Orion,Hercules,Draco,Perseus,1,Ancient Astronomical Beliefs
+123,How did ancient Aztecs view the sun god,Huitzilopochtli as a warrior,Huitzilopochtli as a farmer,Quetzalcoatl as a sun god,Tezcatlipoca as a scribe,1,Ancient Astronomical Beliefs
+124,What did ancient Hindus believe caused lunar eclipses,Rahu swallowing the moon,Surya fighting demons,Chandra sleeping,Agni blazing in the sky,1,Ancient Astronomical Beliefs
+125,What did the Norse think caused solar eclipses,Wolves chasing the sun,Dragons in the sky,Odin's wrath,A shattered shield,1,Ancient Astronomical Beliefs
+126,What role did Venus play in Mayan mythology,Herald of war,Queen of peace,Sun companion,Moon guardian,1,Ancient Astronomical Beliefs
+127,What was the night sky in Egyptian mythology,Nut the sky goddess,Horus the falcon,Bastet the cat,Nekhbet the vulture,1,Ancient Astronomical Beliefs
+128,Which planet was linked to time and karma in Hindu belief,Saturn,Jupiter,Mars,Venus,1,Ancient Astronomical Beliefs
+129,In Chinese myth what does the star Vega represent,Weaving girl,Fox spirit,Dragon pearl,River guardian,1,Ancient Astronomical Beliefs
+130,What was the spiritual role of Polaris for many cultures,Navigation to the afterlife,Watcher of the dead,Bear guardian,Night king,1,Ancient Astronomical Beliefs
+131,What did eclipses symbolize in Zoroastrianism,Disorder in creation,New beginning,Divine favor,Loss of truth,1,Ancient Astronomical Beliefs
+132,Who swallowed the sun in Hindu mythology,Rahu,Ketu,Indra,Agni,1,Ancient Astronomical Beliefs
+133,Which planet symbolized joy in ancient Chinese belief,Jupiter,Mars,Saturn,Venus,1,Ancient Astronomical Beliefs
+134,What was the sky called in ancient Mesopotamia,Anu,Ki,Lugal,Enki,1,Ancient Astronomical Beliefs
+135,In Mayan cosmology how many heavens were there,Thirteen,Nine,Seven,Twenty,1,Ancient Astronomical Beliefs
+136,What star system did ancient Egyptians align pyramids to,Orion's Belt,Pleiades,Big Dipper,Draco,1,Ancient Astronomical Beliefs
+137,What did shooting stars signify in many ancient cultures,Messages from gods,Angels falling,Bad omens,Time to harvest,1,Ancient Astronomical Beliefs
+138,Which god was seen as the planet Jupiter in Roman myth,Jupiter,Mars,Saturn,Neptune,1,Ancient Astronomical Beliefs
+139,What was the moon considered in Aztec belief,Face of a punished goddess,Symbol of wisdom,Warrior spirit,A place of dreams,1,Ancient Astronomical Beliefs
+140,Which heavenly body did the Greeks associate with Aphrodite,Venus,Moon,Sun,Mars,1,Ancient Astronomical Beliefs
+141,In which culture was the Pleiades linked with harvest time,Maya,Greek,Aboriginal,Inca,3,Ancient Astronomical Beliefs
+142,Which god was said to be born from a star in Zoroastrianism,Zoroaster,Ahura Mazda,Angra Mainyu,Spenta Armaiti,1,Ancient Astronomical Beliefs
+143,What star was used in Polynesian navigation,Canopus,Sirius,Polaris,Altair,1,Ancient Astronomical Beliefs
+144,What did ancient Persians use stars for,Zodiac readings,Ritual dances,Temple placements,Battle strategies,1,Ancient Astronomical Beliefs
+145,Who represented the moon in Japanese Shinto belief,Tsukuyomi,Amaterasu,Susanoo,Kagutsuchi,1,Ancient Astronomical Beliefs
+146,In ancient Egyptian belief what did the sun do at night,Travel through underworld,Die and be reborn,Sleep in the west,Hide behind stars,1,Ancient Astronomical Beliefs
+147,What did the Sumerians call the god of the moon,Nanna,Enlil,Marduk,Anu,1,Ancient Astronomical Beliefs
+148,How did ancient cultures interpret supernovae,Divine omens,End of time,Birth of kings,Astral warfare,1,Ancient Astronomical Beliefs
+149,In Hindu cosmology what is the churning of the ocean symbolic of,Creation of time,Planetary alignment,Motion of stars,Seasonal change,1,Ancient Astronomical Beliefs
+150,What did ancient Tibetans see the sky as,Heavenly mirror,Goddess womb,Wheel of light,Sea of peace,3,Ancient Astronomical Beliefs
+151,What was the primary use of the astrolabe in ancient times,Measure star positions,Weigh objects,Write scripts,Track animals,1,Ancient Astronomical Instruments
+152,What ancient tool used shadow to tell time,Gnomon,Astrolabe,Quadrant,Armillary sphere,1,Ancient Astronomical Instruments
+153,Which instrument was used by Greeks to measure angles between stars,Dioptra,Sundial,Compass,Sextant,1,Ancient Astronomical Instruments
+154,What was the Antikythera mechanism designed to track,Moon phases,Ocean tides,Solar eclipses,Planet positions,4,Ancient Astronomical Instruments
+155,Which ancient device represented the celestial sphere,Armillary sphere,Gnomon,Sun dial,Celestial disc,1,Ancient Astronomical Instruments
+156,What did ancient Chinese astronomers use to model the sky,Star maps,Armillary sphere,Wooden globes,Solar dials,2,Ancient Astronomical Instruments
+157,Which tool did ancient Arabs develop and refine for star navigation,Astrolabe,Water clock,Dioptra,Gnomon,1,Ancient Astronomical Instruments
+158,What was the purpose of the clepsydra,Measure time with water,Draw star charts,Track sun path,Create calendars,1,Ancient Astronomical Instruments
+159,What did the ancient Egyptians use obelisks for,Tell time by shadow,Track lunar cycles,Create maps,Align pyramids,1,Ancient Astronomical Instruments
+160,What ancient Greek device predicted eclipses,Antikythera mechanism,Dioptra,Quadrant,Gnomon,1,Ancient Astronomical Instruments
+161,What was used to determine equinoxes in ancient observatories,Solar alignment,Wind patterns,Rainfall cycles,Shadow angle,1,Ancient Astronomical Instruments
+162,What did the Mayans use to track celestial events,Observatories,Pyramids,Stone circles,Astrolabes,1,Ancient Astronomical Instruments
+163,Which ancient culture built observatories using large stones,Maya,Druids,Incas,Chinese,2,Ancient Astronomical Instruments
+164,What was a primary tool for Indian astronomers at Jantar Mantar,Huge sundials,Water clocks,Metal compasses,Dioptras,1,Ancient Astronomical Instruments
+165,Which tool was an early form of a sextant,Quadrant,Gnomon,Astrolabe,Compass,1,Ancient Astronomical Instruments
+166,How did the Incas align their temples,Using horizon markers,Using star maps,Using sand charts,Using stone compasses,1,Ancient Astronomical Instruments
+167,What was the use of the dioptra in astronomy,Measure celestial angles,Mark rituals,Map cities,Record winds,1,Ancient Astronomical Instruments
+168,Which instrument helped Greek astronomers chart the stars,Astrolabe,Dioptra,Gnomon,Clepsydra,1,Ancient Astronomical Instruments
+169,What did the ancient Persians use for stargazing,Tower observatories,Stone altars,Bronze discs,Metal lenses,1,Ancient Astronomical Instruments
+170,What was an armillary sphere composed of,Rings,Mirrors,Stones,Rods,1,Ancient Astronomical Instruments
+171,What did the ancient Chinese sky globe represent,Heavens with stars,Planet cores,Meteor paths,Earth’s magnetism,1,Ancient Astronomical Instruments
+172,What was the use of the Merkhet in ancient Egypt,Track stars,Control irrigation,Mark festivals,Measure rain,1,Ancient Astronomical Instruments
+173,What did Babylonian astronomers use to calculate time,Shadow clocks,Astrolabes,Sundials,Obelisks,1,Ancient Astronomical Instruments
+174,What was the use of shadow casting rods in ancient India,Gnomon for timekeeping,Weather prediction,Astral worship,Earthquake tracking,1,Ancient Astronomical Instruments
+175,What was a main function of ancient observatories,Track sun and stars,Harvest crops,Predict floods,Build temples,1,Ancient Astronomical Instruments
+176,What material were ancient star charts commonly made of,Stone,Clay,Metal,Wood,2,Ancient Astronomical Instruments
+177,Which Greek invented a mechanical planetarium,Archimedes,Plato,Ptolemy,Eratosthenes,1,Ancient Astronomical Instruments
+178,What device was used to simulate planetary motion,Antikythera mechanism,Celestial globe,Star pointer,Orb map,1,Ancient Astronomical Instruments
+179,What tool did the Chinese use to detect solar eclipses,Water clocks,Star calendars,Armillary sphere,Giant gongs,3,Ancient Astronomical Instruments
+180,Which civilization built solar alignments into temples,Egyptians,Romans,Persians,Greeks,1,Ancient Astronomical Instruments
+181,What was the primary material for Mayan observatories,Stone,Wood,Brick,Clay,1,Ancient Astronomical Instruments
+182,Which instrument was essential for determining latitude,Astrolabe,Compass,Gnomon,Quadrant,1,Ancient Astronomical Instruments
+183,What was one use of ancient star charts,Navigation,Agriculture,Warfare,Mining,1,Ancient Astronomical Instruments
+184,What helped Greeks map the constellations,Astrolabe,Dioptra,Clepsydra,Armillary sphere,4,Ancient Astronomical Instruments
+185,What tool did the Incas use to measure solstice shadows,Sun pillars,Stone dials,Cloud markers,Moon gauges,1,Ancient Astronomical Instruments
+186,What tool was common in early Chinese astronomy,Armillary sphere,Sun mirror,Moon dial,Earth disc,1,Ancient Astronomical Instruments
+187,What was used to align ancient structures with the stars,Star risings,Gnomon lines,Sun disks,Lunar maps,1,Ancient Astronomical Instruments
+188,What is one of the oldest known timekeeping tools,Gnomon,Compass,Clepsydra,Abacus,1,Ancient Astronomical Instruments
+189,What did Mayans use for observing Venus,Observatories,Pools,Sun disks,Cloud stones,1,Ancient Astronomical Instruments
+190,What measured star altitude in ancient Arab astronomy,Astrolabe,Quadrant,Gnomon,Sun ring,2,Ancient Astronomical Instruments
+191,What device helped track planetary retrograde motion,Antikythera mechanism,Celestial map,Lunar chart,Astrolabe,1,Ancient Astronomical Instruments
+192,Which ancient tool used gears to mimic celestial movements,Antikythera mechanism,Armillary sphere,Celestial globe,Gnomon,1,Ancient Astronomical Instruments
+193,What did Chinese astronomers use to chart sky patterns,Star maps,Sun wheels,Moon graphs,Tide boards,1,Ancient Astronomical Instruments
+194,What was used to align pyramids with cardinal directions,Stellar alignment,Gnomon tool,Shadow ring,Sun dial,1,Ancient Astronomical Instruments
+195,Which instrument had rotating rings for celestial modeling,Armillary sphere,Sun tracker,Dioptra,Circle grid,1,Ancient Astronomical Instruments
+196,What instrument used dripping water to measure hours,Clepsydra,Gnomon,Astrolabe,Quadrant,1,Ancient Astronomical Instruments
+197,What was an ancient method to measure solstice,Gnomon shadow,Astrolabe tilt,Sunrise angle,Star reflection,1,Ancient Astronomical Instruments
+198,What helped ancient astronomers chart moon phases,Lunar calendars,Sky mirrors,Star rods,Moon chimes,1,Ancient Astronomical Instruments
+199,What was the purpose of aligning temples with stars,Spiritual and observational,Trade routes,War rituals,Wind direction,1,Ancient Astronomical Instruments
+200,Which tool helped determine seasons in ancient Egypt,Obelisks,Astrolabes,Water clocks,Metal rods,1,Ancient Astronomical Instruments
+201,Which ancient civilization created a 365 day calendar,Egyptians,Maya,Romans,Babylonians,1,Ancient Calendars and Timekeeping
+202,What was the Mayan sacred calendar called,Tzolkin,Haab,Baktun,Uinal,1,Ancient Calendars and Timekeeping
+203,How many days were in the Mayan Haab calendar,365,260,360,400,1,Ancient Calendars and Timekeeping
+204,What calendar was based on lunar cycles,Islamic calendar,Gregorian calendar,Julian calendar,Aztec calendar,1,Ancient Calendars and Timekeeping
+205,What did the term Yuga represent in ancient Indian timekeeping,Cosmic age,Planet,Day of god,Calendar month,1,Ancient Calendars and Timekeeping
+206,Which ancient calendar was divided into 12 lunar months,Babylonian,Egyptian,Greek,Chinese,1,Ancient Calendars and Timekeeping
+207,What was the purpose of the Antikythera mechanism,Track calendars and eclipses,Measure weight,Predict rain,Calculate taxes,1,Ancient Calendars and Timekeeping
+208,What was the Roman calendar originally based on,Lunar cycles,Sun cycles,Star phases,Weather patterns,1,Ancient Calendars and Timekeeping
+209,Which civilization used a 13 month lunar calendar,Celts,Aztecs,Indians,Romans,1,Ancient Calendars and Timekeeping
+210,What was an intercalary month used for,Calendar alignment,Festival planning,Crop counting,Rituals,1,Ancient Calendars and Timekeeping
+211,What was the Egyptian calendar divided into,Three seasons,Four elements,Five cycles,Twelve planets,1,Ancient Calendars and Timekeeping
+212,What did the term Baktun represent in Mayan calendar,Time cycle,Star god,Planet year,Week system,1,Ancient Calendars and Timekeeping
+213,Which tool did Babylonians use to track time,Shadow clock,Sun ring,Wind dial,Metal rod,1,Ancient Calendars and Timekeeping
+214,What celestial body was key to ancient Chinese calendars,Moon,Sun,Polaris,Venus,1,Ancient Calendars and Timekeeping
+215,How many days in the Chinese traditional lunar year,354,360,365,366,1,Ancient Calendars and Timekeeping
+216,What was used to mark solstices in ancient sites,Stone alignments,Metal rods,Clay pots,Bronze disks,1,Ancient Calendars and Timekeeping
+217,Which calendar was adopted by Julius Caesar,Julian calendar,Gregorian calendar,Egyptian calendar,Greek calendar,1,Ancient Calendars and Timekeeping
+218,What was the Sothic cycle based on,Rising of Sirius,Full moon,Sunrise,Equinox,1,Ancient Calendars and Timekeeping
+219,What was a key reason to develop ancient calendars,Agriculture planning,Military orders,City layouts,Trade routes,1,Ancient Calendars and Timekeeping
+220,What calendar reform corrected lunar drift,Lunisolar calendar,Julian reform,Tzolkin system,Baktun reset,1,Ancient Calendars and Timekeeping
+221,What did Mayans use to align calendars with Venus,Venus table,Lunar ring,Solar pillar,Fire temple,1,Ancient Calendars and Timekeeping
+222,Which culture tracked time using star risings,Egyptians,Romans,Aztecs,Chinese,1,Ancient Calendars and Timekeeping
+223,Which ancient civilization had both solar and lunar calendars,Hindus,Babylonians,Egyptians,All of the above,4,Ancient Calendars and Timekeeping
+224,What was the Vedic system of time called,Kalachakra,Yuga,Maya,Kaala,1,Ancient Calendars and Timekeeping
+225,What was the Greek Metonic cycle used for,Lunar solar alignment,Star mapping,Eclipse prediction,Season calculation,1,Ancient Calendars and Timekeeping
+226,What did the Mayans call a 20 day period,Uinal,Baktun,Katun,Kin,1,Ancient Calendars and Timekeeping
+227,How did Incas track time,Shadow pillars,Star mirrors,Cloud readings,Animal paths,1,Ancient Calendars and Timekeeping
+228,Which device helped Greeks measure daylight,Clepsydra,Gnomon,Sundial,Astrolabe,3,Ancient Calendars and Timekeeping
+229,What was the Aztec calendar stone used for,Rituals and timekeeping,Navigation,Astronomy only,Agriculture,1,Ancient Calendars and Timekeeping
+230,Which culture used water clocks for hours,Babylonians,Egyptians,Maya,Romans,1,Ancient Calendars and Timekeeping
+231,How did Polynesians keep track of lunar cycles,Oral charts,Stone carvings,Bark calendars,Fire rituals,1,Ancient Calendars and Timekeeping
+232,What was the term Kin in Mayan calendar,Single day,Week,Month,Sun cycle,1,Ancient Calendars and Timekeeping
+233,What tool was used in Jantar Mantar for tracking time,Samrat Yantra,Yoga disk,Sun bowl,Moon grid,1,Ancient Calendars and Timekeeping
+234,What determined months in ancient Jewish calendar,Moon phases,Sunrise points,Star patterns,Wind flow,1,Ancient Calendars and Timekeeping
+235,Which calendar introduced leap years,Julian calendar,Gregorian calendar,Tzolkin calendar,Egyptian calendar,1,Ancient Calendars and Timekeeping
+236,What was a Katun in Mayan timekeeping,7200 days,260 days,365 days,4000 days,1,Ancient Calendars and Timekeeping
+237,What was used to adjust lunar calendars,Intercalary month,Solar backup,Rain chart,Equinox line,1,Ancient Calendars and Timekeeping
+238,Which culture tracked lunar eclipses for calendars,Chinese,Maya,Greek,All of the above,4,Ancient Calendars and Timekeeping
+239,Which time unit lasted 432000 years in Hinduism,Kali Yuga,Maha Yuga,Dvapara Yuga,Satya Yuga,1,Ancient Calendars and Timekeeping
+240,What was the name for solar calendar in India,Sauramana,Chandramana,Tithikana,Nakshatrika,1,Ancient Calendars and Timekeeping
+241,What calendar reform did Pope Gregory make,Leap year fix,Lunar conversion,Sun path change,Month reset,1,Ancient Calendars and Timekeeping
+242,How many months in early Roman calendar,10,12,13,8,1,Ancient Calendars and Timekeeping
+243,What was used to mark new years in ancient Egypt,Sirius rising,Winter solstice,Rain season,Sun height,1,Ancient Calendars and Timekeeping
+244,What instrument measured hours by water,Clepsydra,Astrolabe,Gnomon,Dioptra,1,Ancient Calendars and Timekeeping
+245,What was the term for lunar day in Hindu calendar,Tithi,Nakshatra,Yuga,Samvat,1,Ancient Calendars and Timekeeping
+246,Which calendar has 13 zodiac signs by sidereal method,Babylonian calendar,Hindu calendar,Chinese calendar,Aztec calendar,2,Ancient Calendars and Timekeeping
+247,What was the purpose of ancient calendars mostly,Agriculture and rituals,Warfare and peace,Travel and trade,Art and music,1,Ancient Calendars and Timekeeping
+248,What is a Samvatsara in Vedic calendar,One year,One month,One hour,One week,1,Ancient Calendars and Timekeeping
+249,What was the main function of solar observatories,Determine calendar dates,Create star maps,Build temples,Pray to gods,1,Ancient Calendars and Timekeeping
+250,What was the significance of equinox to calendars,Season marker,Planet alignment,Wind cycle,Ocean tide,1,Ancient Calendars and Timekeeping
+251,What did ancient Hindus believe the universe emerged from,Cosmic egg,Star fire,Sacred mountain,Ocean pearl,1,Ancient Cosmology and Worldviews
+252,How many realms did Norse mythology describe,Nine,Seven,Three,Twelve,1,Ancient Cosmology and Worldviews
+253,What did ancient Egyptians believe the sky was supported by,Shu the air god,Ra the sun god,Nut the sky goddess,Osiris the judge,1,Ancient Cosmology and Worldviews
+254,In ancient China what was the cosmos thought to be,Infinite void,Great circle,Square Earth round Heaven,Layered dome,3,Ancient Cosmology and Worldviews
+255,What shape did ancient Mesopotamians believe the Earth had,Flat disc,Round ball,Spinning top,Cube,1,Ancient Cosmology and Worldviews
+256,Which civilization believed the universe had three layers,Hindus,Greeks,Egyptians,All of the above,4,Ancient Cosmology and Worldviews
+257,What was the Norse world tree called,Yggdrasil,Mjolnir,Midgard,Bifrost,1,Ancient Cosmology and Worldviews
+258,What was the central mountain in Hindu cosmology,Mount Meru,Mount Kailash,Mount Soma,Mount Ganga,1,Ancient Cosmology and Worldviews
+259,How did the Greeks describe the heavens,Crystal spheres,Golden vaults,Light clouds,Silver domes,1,Ancient Cosmology and Worldviews
+260,What were the celestial beings in Hindu cosmology called,Devas,Asuras,Yogis,Nagas,1,Ancient Cosmology and Worldviews
+261,What did the Mayans believe supported the sky,Four sacred trees,Sun gods,Eagle wings,Star beams,1,Ancient Cosmology and Worldviews
+262,In ancient Chinese cosmology what did yin and yang represent,Balance of forces,Earth and moon,Night and eclipse,Fire and water,1,Ancient Cosmology and Worldviews
+263,Which civilization viewed the sky as a canopy,Mesopotamians,Egyptians,Romans,Maya,1,Ancient Cosmology and Worldviews
+264,How many Lokas or realms are in Hindu cosmology,Fourteen,Nine,Twelve,Seven,1,Ancient Cosmology and Worldviews
+265,What did ancient Persians believe about the stars,Fixed in a crystal sphere,Floating in dark sea,Resting on winds,Moving with fire,1,Ancient Cosmology and Worldviews
+266,Which culture believed in cosmic cycles of creation and destruction,Hindus,Greeks,Norse,Aztecs,1,Ancient Cosmology and Worldviews
+267,What was the universe made of in early Greek thought,Five elements,Three flames,Two winds,Seven stars,1,Ancient Cosmology and Worldviews
+268,What was the role of Nut in Egyptian cosmology,Sky goddess,Night spirit,Rain deity,Earth mother,1,Ancient Cosmology and Worldviews
+269,How did ancient Jews see the firmament,Solid dome above Earth,Invisible wind field,Sea of fire,Heavenly fabric,1,Ancient Cosmology and Worldviews
+270,What was the name of the underworld in Norse cosmology,Niflheim,Asgard,Helheim,Midgard,1,Ancient Cosmology and Worldviews
+271,How did Babylonians divide the heavens,Into three zones,Four quadrants,Nine layers,Seven circles,1,Ancient Cosmology and Worldviews
+272,What was at the center of Inca cosmology,Sun god Inti,Earth goddess,Star portal,Gold mountain,1,Ancient Cosmology and Worldviews
+273,Which ancient culture saw Earth as floating on water,Mesopotamians,Hindus,Maya,Norse,1,Ancient Cosmology and Worldviews
+274,What did Greeks believe caused celestial motion,Prime mover,Star wind,Planet breath,Sun chain,1,Ancient Cosmology and Worldviews
+275,What is the name of the cosmic ocean in Hindu cosmology,Kshira Sagara,Kalpa Samudra,Ganga Jal,Surya Tala,1,Ancient Cosmology and Worldviews
+276,What was the upper world in Mayan belief called,Heavens,Star house,Sun path,Skylands,1,Ancient Cosmology and Worldviews
+277,Which civilization had the concept of a world mountain,Multiple cultures,Romans only,Maya only,Celts only,1,Ancient Cosmology and Worldviews
+278,How many heavens were believed in Zoroastrian cosmology,Seven,Three,Nine,One,1,Ancient Cosmology and Worldviews
+279,What was the center of the universe in medieval Christian belief,Earth,Sun,Heaven,Hell,1,Ancient Cosmology and Worldviews
+280,What shape was the cosmos in Vedic cosmology,Lotus like,Triangular,Rectangular,Web shaped,1,Ancient Cosmology and Worldviews
+281,What held up the Earth in ancient Greek myth,Atlas,Zeus,Apollo,Gaia,1,Ancient Cosmology and Worldviews
+282,What did Chinese cosmology compare the universe to,Hen and egg,Pot and lid,Bell and hammer,Circle and square,2,Ancient Cosmology and Worldviews
+283,What was the Mayan term for the world tree,Wacah Chan,Cabaan,Balam,Itzamna,1,Ancient Cosmology and Worldviews
+284,In Hindu cosmology how many heads did Brahma have,Four,One,Seven,Twelve,1,Ancient Cosmology and Worldviews
+285,What were stars thought to be in Polynesian belief,Ancestors,Fire spirits,Floating fish,Crystals,1,Ancient Cosmology and Worldviews
+286,What was above the sky in Mesopotamian belief,Heavenly ocean,Field of fire,Gods palace,Dark space,1,Ancient Cosmology and Worldviews
+287,What did Mayans call the Earth,Turtle of the universe,Jaguar land,Feathered ground,Sky shell,1,Ancient Cosmology and Worldviews
+288,What was the role of Bifrost in Norse cosmology,Bridge between worlds,Star trail,Time passage,Sun path,1,Ancient Cosmology and Worldviews
+289,What cosmic part did the eagle represent in many tribes,Sky or sun,Wind,Earth,Rain,1,Ancient Cosmology and Worldviews
+290,What surrounded the flat Earth in ancient Hebrew belief,Waters,Mountains,Fire,Air,1,Ancient Cosmology and Worldviews
+291,What realm did the Greeks believe the gods lived in,Mount Olympus,Oceanus,Orion,Gaia,1,Ancient Cosmology and Worldviews
+292,What does the term cosmos originally mean,Order,Sun,Earth,Heaven,1,Ancient Cosmology and Worldviews
+293,What did ancient Africans often associate stars with,Ancestors,Animals,Wars,Storms,1,Ancient Cosmology and Worldviews
+294,In Hindu belief how long is one day of Brahma,4.32 billion years,1000 years,360000 years,Infinite,1,Ancient Cosmology and Worldviews
+295,What was a common symbol of the cosmos in many cultures,Tree,Snake,Hill,Bird,1,Ancient Cosmology and Worldviews
+296,What was believed to separate heavens and Earth in ancient myth,Sky dome,Fire belt,Wind path,Sun gate,1,Ancient Cosmology and Worldviews
+297,How did Greeks explain eclipses,Shadow of Earth or Moon,Gods fighting,Stars colliding,Clouds covering light,1,Ancient Cosmology and Worldviews
+298,What is the ancient idea of a multiverse called in Hindu texts,Ananta Brahmanda,Satya Lok,Vishva Mantra,Nakshatra Veda,1,Ancient Cosmology and Worldviews
+299,What role did Anu play in Sumerian cosmology,Father of heavens,Sun chariot rider,Ocean spirit,Time guardian,1,Ancient Cosmology and Worldviews
+300,What was the Mayan belief about cycles of creation,Repeated destruction and rebirth,One eternal timeline,Sun always ruled,Earth never changed,1,Ancient Cosmology and Worldviews
+301,Who proposed the heliocentric model in ancient Greece,Aristarchus,Ptolemy,Socrates,Plato,1,Famous Ancient Astronomers and Thinkers
+302,What is Ptolemy best known for,Geocentric theory,Heliocentric model,Gravity theory,Telescope design,1,Famous Ancient Astronomers and Thinkers
+303,Who calculated the circumference of the Earth,Eratosthenes,Aristotle,Archimedes,Pythagoras,1,Famous Ancient Astronomers and Thinkers
+304,Which Indian astronomer proposed a heliocentric model,Bhaskara,Aryabhata,Varahamihira,Brahmagupta,2,Famous Ancient Astronomers and Thinkers
+305,Who was a key astronomer in ancient Babylon,Berossus,Nebuchadnezzar,Gilgamesh,Enki,1,Famous Ancient Astronomers and Thinkers
+306,Who was the teacher of Alexander the Great,Aristotle,Plato,Socrates,Pythagoras,1,Famous Ancient Astronomers and Thinkers
+307,Which philosopher believed planets moved in perfect circles,Plato,Democritus,Anaximander,Thales,1,Famous Ancient Astronomers and Thinkers
+308,Who wrote Almagest,Ptolemy,Hipparchus,Aristarchus,Archimedes,1,Famous Ancient Astronomers and Thinkers
+309,Which ancient Greek developed a star catalog,Hipparchus,Ptolemy,Socrates,Eratosthenes,1,Famous Ancient Astronomers and Thinkers
+310,Who introduced the concept of epicycles,Ptolemy,Aristarchus,Plato,Anaximenes,1,Famous Ancient Astronomers and Thinkers
+311,What did Aryabhata suggest about the Earth,It rotates on axis,It is flat,It is center of cosmos,It floats on water,1,Famous Ancient Astronomers and Thinkers
+312,Who discovered precession of equinoxes,Hipparchus,Plato,Pythagoras,Aristotle,1,Famous Ancient Astronomers and Thinkers
+313,Which Greek philosopher believed in an infinite universe,Anaximander,Plato,Aristotle,Socrates,1,Famous Ancient Astronomers and Thinkers
+314,What did Pythagoras associate with celestial bodies,Harmony of spheres,Anger of gods,Fire and water,Seasons only,1,Famous Ancient Astronomers and Thinkers
+315,Who was a major astronomer in the Islamic golden age,Al Battani,Avicenna,Al Razi,Al Ghazali,1,Famous Ancient Astronomers and Thinkers
+316,Who used geometry to estimate Earth size,Eratosthenes,Hipparchus,Aristarchus,Plato,1,Famous Ancient Astronomers and Thinkers
+317,Who proposed the five elements theory,Aristotle,Plato,Archimedes,Democritus,1,Famous Ancient Astronomers and Thinkers
+318,Who built a famous observatory in Samarkand,Ulugh Beg,Al Tusi,Ibn Rushd,Al Farabi,1,Famous Ancient Astronomers and Thinkers
+319,What was Al Tusi known for,Tusi couple model,Moon calendar,Gravity theory,Telescope design,1,Famous Ancient Astronomers and Thinkers
+320,Who believed in celestial spheres made of ether,Aristotle,Ptolemy,Plato,Hipparchus,1,Famous Ancient Astronomers and Thinkers
+321,Who created detailed lunar eclipse charts,Al Battani,Al Farghani,Al Sufi,Al Razi,1,Famous Ancient Astronomers and Thinkers
+322,Who argued that stars are distant suns,Giordano Bruno,Ptolemy,Aristarchus,Hipparchus,1,Famous Ancient Astronomers and Thinkers
+323,Who mapped over one thousand stars,Al Sufi,Hipparchus,Al Tusi,Plato,1,Famous Ancient Astronomers and Thinkers
+324,Who explained phases of the moon in ancient India,Aryabhata,Brahmagupta,Bhaskara,Susruta,1,Famous Ancient Astronomers and Thinkers
+325,Who wrote Surya Siddhanta,Unknown ancient scholar,Aryabhata,Varahamihira,Brahmagupta,1,Famous Ancient Astronomers and Thinkers
+326,Who introduced trigonometry to astronomy,Hipparchus,Ptolemy,Aristotle,Plato,1,Famous Ancient Astronomers and Thinkers
+327,Who proposed the spherical shape of Earth,Pythagoras,Eratosthenes,Hipparchus,Plato,1,Famous Ancient Astronomers and Thinkers
+328,Who worked on planetary distances in ancient India,Bhaskara II,Aryabhata,Kanada,Varahamihira,1,Famous Ancient Astronomers and Thinkers
+329,Who said light travels in straight lines,Alhazen,Al Razi,Al Ghazali,Ibn Sina,1,Famous Ancient Astronomers and Thinkers
+330,Who created a calendar based on planetary motion,Maya astronomers,Roman priests,Egyptian farmers,Greek sailors,1,Famous Ancient Astronomers and Thinkers
+331,Who developed accurate solar tables,Al Battani,Al Sufi,Plato,Hipparchus,1,Famous Ancient Astronomers and Thinkers
+332,Who argued Earth was center of universe,Ptolemy,Aristarchus,Al Tusi,Eratosthenes,1,Famous Ancient Astronomers and Thinkers
+333,Who taught that Earth was a sphere floating in space,Pythagoras,Plato,Aristotle,Hipparchus,1,Famous Ancient Astronomers and Thinkers
+334,Who introduced the concept of time zones,Ancient Greeks,Chinese astronomers,Indians,Not known,4,Famous Ancient Astronomers and Thinkers
+335,Who believed in cosmos made of number and harmony,Pythagoras,Plato,Democritus,Anaximenes,1,Famous Ancient Astronomers and Thinkers
+336,Who gave rules for calculating eclipses,Aryabhata,Brahmagupta,Ptolemy,Al Tusi,1,Famous Ancient Astronomers and Thinkers
+337,Who corrected Ptolemaic planetary models,Al Tusi,Al Sufi,Ulugh Beg,Hipparchus,1,Famous Ancient Astronomers and Thinkers
+338,Who measured solstice angle at Alexandria,Eratosthenes,Plato,Aristarchus,Al Battani,1,Famous Ancient Astronomers and Thinkers
+339,Who refined star catalogs of earlier Greeks,Al Sufi,Aristarchus,Hipparchus,Al Tusi,1,Famous Ancient Astronomers and Thinkers
+340,Who proposed that planets moved in epicycles,Ptolemy,Hipparchus,Plato,Democritus,1,Famous Ancient Astronomers and Thinkers
+341,Who claimed the universe had no center,Giordano Bruno,Ptolemy,Plato,Hipparchus,1,Famous Ancient Astronomers and Thinkers
+342,Who said Earth rotates daily,Aryabhata,Aristarchus,Hipparchus,Ptolemy,1,Famous Ancient Astronomers and Thinkers
+343,Who contributed to Islamic cosmology and instruments,Al Farghani,Al Razi,Ibn Sina,Al Ghazali,1,Famous Ancient Astronomers and Thinkers
+344,Who believed all matter made of indivisible atoms,Democritus,Plato,Aristotle,Socrates,1,Famous Ancient Astronomers and Thinkers
+345,Who developed accurate lunar models,Al Battani,Al Sufi,Al Tusi,Ulugh Beg,1,Famous Ancient Astronomers and Thinkers
+346,Who combined Greek and Indian astronomy,Islamic astronomers,Romans,Mongols,Chinese,1,Famous Ancient Astronomers and Thinkers
+347,Who preserved ancient astronomy through translation,Islamic scholars,Greek monks,Persian travelers,Indian sages,1,Famous Ancient Astronomers and Thinkers
+348,Who inspired Copernicus with early heliocentric ideas,Aristarchus,Ptolemy,Hipparchus,Plato,1,Famous Ancient Astronomers and Thinkers
+349,Who built a large observatory with star catalog,Ulugh Beg,Al Battani,Al Sufi,Al Tusi,1,Famous Ancient Astronomers and Thinkers
+350,Who proposed invisible forces holding planets,Ancient Hindus,Ancient Chinese,Greek thinkers,All of the above,4,Famous Ancient Astronomers and Thinkers
+351,What did ancient Chinese believe caused eclipses,Dragon eating sun,Tiger chasing moon,Shadow cloud,Fire demon,1,Mythical Celestial Events and Beliefs
+352,What were comets often seen as in ancient times,Omens of disaster,Signals from gods,Stars in birth,Fallen angels,1,Mythical Celestial Events and Beliefs
+353,In Norse myth what caused solar eclipses,Wolf Skoll chasing sun,Eagle flying over,Ice giants attacking,Gods arguing,1,Mythical Celestial Events and Beliefs
+354,How did ancient Hindus explain eclipses,Rahu swallowing moon,Kala burning stars,Naga biting sun,Garuda flying past,1,Mythical Celestial Events and Beliefs
+355,What did ancient Romans believe about comets,Signals of doom,Messengers of Jupiter,Lost stars,Heavenly tears,1,Mythical Celestial Events and Beliefs
+356,In Maya belief what did eclipses symbolize,Disruption in cosmic order,Arrival of gods,Beginning of rains,Forgotten rituals,1,Mythical Celestial Events and Beliefs
+357,How did ancient Japanese interpret meteors,Spirit messages,Dragon sparks,Sun drops,Tears of moon,1,Mythical Celestial Events and Beliefs
+358,In Greek myth what was the Milky Way,Milk of Hera,Trail of Apollo,Dust of stars,Tears of Gaia,1,Mythical Celestial Events and Beliefs
+359,What were shooting stars believed to be in ancient Arabia,Angels chasing jinn,Stars breaking,Gods calling,Magic signs,1,Mythical Celestial Events and Beliefs
+360,What did ancient Africans believe about eclipses,Battle of sun and moon,Star festival,Rain prayers,Migration warning,1,Mythical Celestial Events and Beliefs
+361,In Babylonian culture what did lunar eclipses mean,King in danger,War coming,Star rebellion,Flood warning,1,Mythical Celestial Events and Beliefs
+362,What did Polynesians think falling stars were,Souls of dead,Starfish spirits,Rain bringers,Fire hunters,1,Mythical Celestial Events and Beliefs
+363,How did Aztecs interpret comets,Forewarning of change,Path of gods,Sun rebirth,Fertility signs,1,Mythical Celestial Events and Beliefs
+364,What did ancient Chinese bang drums during eclipses,To scare dragons,Call sun back,Calm people,Pray for light,1,Mythical Celestial Events and Beliefs
+365,What was the rainbow seen as in many myths,Bridge to heavens,Fire serpent,Sky crack,Heavenly dome,1,Mythical Celestial Events and Beliefs
+366,How were meteor showers seen in early Japan,Blessings from ancestors,Star farming,Lightning dance,Moon greetings,1,Mythical Celestial Events and Beliefs
+367,In Hindu myth what is Rahu,Head of demon that swallows sun,Moon god,Planet spirit,Shadow wind,1,Mythical Celestial Events and Beliefs
+368,What did comets represent in early China,Heavenly punishments,Pathways of souls,Sky ladders,Sunlight tears,1,Mythical Celestial Events and Beliefs
+369,What did Greeks believe about planet retrograde motion,Dance of gods,Angry sky spirits,Stars lost in time,Signals of fate,1,Mythical Celestial Events and Beliefs
+370,What was the sun chariot in Greek myth,Vehicle of Helios,Tool of Zeus,Gift from Apollo,Battle car,1,Mythical Celestial Events and Beliefs
+371,What did lightning represent in many cultures,Message from sky gods,Star weapons,Moon calling,Sun rising,1,Mythical Celestial Events and Beliefs
+372,What was an eclipse believed to steal in some African myths,Souls of people,Crops light,Stars magic,Wind energy,1,Mythical Celestial Events and Beliefs
+373,What did comets symbolize in ancient Japan,Divine punishment,Heaven path,Sun guard,Moon sorrow,1,Mythical Celestial Events and Beliefs
+374,In Mayan myth what was Venus considered,War god star,Water spirit,Night watcher,Healing god,1,Mythical Celestial Events and Beliefs
+375,What was the cause of an eclipse in Viking belief,Sky wolves hunting,Sun freezing,Moon bleeding,Gods hiding,1,Mythical Celestial Events and Beliefs
+376,What did ancient Celts think meteors were,Spirits of ancestors,Fallen druids,Night signs,Star flowers,1,Mythical Celestial Events and Beliefs
+377,In Egyptian myth what was solar eclipse seen as,Ra being swallowed,Osiris sleeping,Set rising,Sun boat hiding,1,Mythical Celestial Events and Beliefs
+378,What did falling stars mean in Roman culture,Soul departure,War omen,Peace sign,New emperor,1,Mythical Celestial Events and Beliefs
+379,In Chinese myths what did red moon signal,Anger of gods,Love season,Star eclipse,Rain blessing,1,Mythical Celestial Events and Beliefs
+380,What was moon eclipse in Inca belief,Celestial serpent biting moon,Night theft,Moon crying,Sun’s mirror,1,Mythical Celestial Events and Beliefs
+381,In Hindu cosmology what are Ketu and Rahu,Nodes causing eclipses,Lunar gods,Sky wheels,Fire orbs,1,Mythical Celestial Events and Beliefs
+382,What did early Persians think of comets,Star swords,Fire snakes,Death winds,Divine warning,1,Mythical Celestial Events and Beliefs
+383,How were auroras interpreted in Norse myths,Warrior souls fighting,Star tears,Ice gods dancing,Thunder gates,1,Mythical Celestial Events and Beliefs
+384,What did ancient Hawaiians believe shooting stars meant,Omen of death,Love blessing,Wave spirit,Battle sign,1,Mythical Celestial Events and Beliefs
+385,What did lunar eclipses mean to early Greeks,Divine messages,Goddess departure,Star loss,Ocean tides,1,Mythical Celestial Events and Beliefs
+386,In Indian folklore what is seen during lunar eclipse,Rahu swallowing moon,Indra falling,Night tiger,Sky gate opening,1,Mythical Celestial Events and Beliefs
+387,What did meteor showers indicate in Aztec beliefs,Time of sacrifice,New cycle,Wind change,Rain blessing,1,Mythical Celestial Events and Beliefs
+388,How were eclipses stopped in Vietnamese myth,Making loud noise,Drumming with bamboo,Calling sun,Lighting fire,1,Mythical Celestial Events and Beliefs
+389,What did ancient tribes think Venus brought,War and chaos,Peace and love,Rainfall,Plant growth,1,Mythical Celestial Events and Beliefs
+390,What was a solar eclipse believed to be in Korean myth,Sun being eaten by dogs,Sun sleeping,Sky war,Soul theft,1,Mythical Celestial Events and Beliefs
+391,What did Aboriginal Australians believe about falling stars,Souls traveling,Fire spirits,Storm signs,Night song,1,Mythical Celestial Events and Beliefs
+392,In Tibetan belief what are eclipses times for,Rituals and prayers,Dreams and silence,Storytelling,Fasting only,1,Mythical Celestial Events and Beliefs
+393,In ancient China what did auroras mean,Heavenly warnings,Star trails,Dragon fires,Night dances,1,Mythical Celestial Events and Beliefs
+394,What did the Hopi link with blue stars,End of age,New moon,Storm time,Sky gods,1,Mythical Celestial Events and Beliefs
+395,What did green comets mean in Incan culture,Change of season,War threat,Divine signal,Night peace,1,Mythical Celestial Events and Beliefs
+396,In Greek myth who drives sun across sky,Helios,Zeus,Apollo,Orion,1,Mythical Celestial Events and Beliefs
+397,What did falling stars signal in Sumerian myth,Heavenly anger,Star games,New ruler,Ocean rising,1,Mythical Celestial Events and Beliefs
+398,What celestial event did Vikings use to time attacks,Eclipses,Full moon,New moon,Shooting stars,1,Mythical Celestial Events and Beliefs
+399,What were northern lights in early Finland myth,Spirits in sky,Frozen fire,Ice whale breath,Night rainbow,1,Mythical Celestial Events and Beliefs
+400,How did ancient people try to stop eclipses,Make noise to scare beings,Dance around fire,Pray to stars,Bury objects,1,Mythical Celestial Events and Beliefsd,question,option1,option2,option3,option4,correctAnswer,category
+401,What structure aligns with solstices at Stonehenge,Stone circle,Sun dial,Moon gate,Star pool,1,Cultural Astronomy and Rituals
+402,What did ancient Egyptians use stars for,Timing Nile floods,Finding gold mines,Locating tombs,Marking war,1,Cultural Astronomy and Rituals
+403,What star was sacred in ancient Egypt,Sirius,Polaris,Betelgeuse,Canopus,1,Cultural Astronomy and Rituals
+404,What was the purpose of Mayan observatories,Track planets,Pray to gods,Watch birds,Store scrolls,1,Cultural Astronomy and Rituals
+405,What did the Inca use to mark solstices,Towers and pillars,Flags and drums,Clouds and birds,Rivers and stones,1,Cultural Astronomy and Rituals
+406,What aligned with stars in the Great Pyramid,Shafts from chambers,Stone tablets,Tombs and halls,Outer walls,1,Cultural Astronomy and Rituals
+407,What star did Polynesians use for navigation,Sirius,Altair,Polaris,Arcturus,3,Cultural Astronomy and Rituals
+408,What is Chichen Itza famous for during equinox,Shadow serpent appears,Stars twinkle fast,Moon glows red,Water reflects light,1,Cultural Astronomy and Rituals
+409,What sky event guided ancient planting,Ecliptic path,Phases of moon,Cloud shapes,Wind change,2,Cultural Astronomy and Rituals
+410,What was the role of astronomer priests in Mesopotamia,Predict omens,Lead armies,Control trade,Build canals,1,Cultural Astronomy and Rituals
+411,What celestial body did ancient Chinese track for calendar,Moon,Sun,Venus,Mars,1,Cultural Astronomy and Rituals
+412,What was the Mayan calendar based on,Celestial cycles,Ocean tides,Animal signs,Earth layers,1,Cultural Astronomy and Rituals
+413,What direction did most ancient temples face,East,North,West,South,1,Cultural Astronomy and Rituals
+414,What did ancient people mark with standing stones,Solstices and equinoxes,Animal births,Fire festivals,Rainy season,1,Cultural Astronomy and Rituals
+415,What were ziggurats sometimes used for,Sky observations,Food storage,Armory,Prison,1,Cultural Astronomy and Rituals
+416,How did Native Americans track time,Star positions,Tree rings,Wind patterns,Animal tracks,1,Cultural Astronomy and Rituals
+417,What shape did many ancient observatories have,Circular,Square,Hexagon,Triangle,1,Cultural Astronomy and Rituals
+418,Why was the North Star important for Egyptians,Aligned pyramids,Navigated boats,Timed harvests,Predicted war,1,Cultural Astronomy and Rituals
+419,What did the Ancestral Puebloans use sun daggers for,Mark solstices,Hunt deer,Track rain,Celebrate birth,1,Cultural Astronomy and Rituals
+420,What aligned with temples in ancient Cambodia,Planets and stars,Rivers and lakes,Trees and animals,Streets and walls,1,Cultural Astronomy and Rituals
+421,What calendar did the Romans use,Lunar and solar,Lunar only,Stellar only,Venus cycle,1,Cultural Astronomy and Rituals
+422,How did ancient Greeks name constellations,After myths,Weather signs,Animal shapes,Seasons,1,Cultural Astronomy and Rituals
+423,What were sky gods often associated with in rituals,Kingship,Rain only,War and fire,Trade and travel,1,Cultural Astronomy and Rituals
+424,What was the role of the moon in many festivals,Time keeper,Wind guide,River path,Earth spirit,1,Cultural Astronomy and Rituals
+425,Why did Egyptians observe Sirius,It signaled Nile floods,It burned crops,It showed Mars path,It calmed storms,1,Cultural Astronomy and Rituals
+426,What did ancient Indian rituals often align with,Lunar phases,Animal births,River currents,Wind flow,1,Cultural Astronomy and Rituals
+427,What did Chinese emperors use sky events for,Legitimacy,Trade,War,Gold finding,1,Cultural Astronomy and Rituals
+428,What did the Hopi calendar include,Solar and lunar cycles,Mountain shifts,Tree ages,Fish paths,1,Cultural Astronomy and Rituals
+429,How did Mayans track Venus,With detailed charts,With bells and fire,With clouds and sound,With mirrors,1,Cultural Astronomy and Rituals
+430,Why was the east direction sacred,Sun rises there,Wind blows there,Gods live there,Moon rests there,1,Cultural Astronomy and Rituals
+431,What was an oracle bone used for in China,Predict eclipses,Store seeds,Pray to animals,Capture rain,1,Cultural Astronomy and Rituals
+432,How did Aztecs mark sacred time,With celestial alignments,With drum beats,With animal cries,With stone circles,1,Cultural Astronomy and Rituals
+433,What did ancient Japanese observe for rice planting,Phases of moon,Shifts in stars,Color of sun,Height of clouds,1,Cultural Astronomy and Rituals
+434,What were fire festivals often linked to,Solar calendar,Comet appearances,New moon,Constellations,1,Cultural Astronomy and Rituals
+435,How did tribes in Africa celebrate solstices,Dances and sky chants,Stone carving,Animal painting,River bathing,1,Cultural Astronomy and Rituals
+436,What was used to track time in Egyptian temples,Light shafts,Water clocks,Sun feathers,Moon bells,1,Cultural Astronomy and Rituals
+437,What role did constellations play in Hindu rituals,Mark spiritual days,Guide battles,Name rivers,Find cities,1,Cultural Astronomy and Rituals
+438,How did ancient people relate time to stars,By their rising times,By color only,By their size,By their speed,1,Cultural Astronomy and Rituals
+439,What was the function of the Gnomon in ancient India,Measure sun shadow,Create star maps,Heat metal,Scare birds,1,Cultural Astronomy and Rituals
+440,What did ancient Persians believe the stars did,Guard the sky,Chase demons,Block comets,Speak truth,1,Cultural Astronomy and Rituals
+441,What did Aboriginal Australians use star stories for,Navigation and culture,Fishing only,Fighting spirit,Rainmaking,1,Cultural Astronomy and Rituals
+442,What did Greeks use the Antikythera device for,Astronomical calculations,Military strategy,Sea trade,Music tuning,1,Cultural Astronomy and Rituals
+443,What aligned with city plans in ancient China,Celestial directions,Wind flow,Rain patterns,Mountain shadows,1,Cultural Astronomy and Rituals
+444,How did the Etruscans observe the heavens,For divination,For tax timing,For fishing,For dancing,1,Cultural Astronomy and Rituals
+445,What did Native Alaskans use stars for,Hunting and storytelling,Seed planting,Ice measurement,Fire rituals,1,Cultural Astronomy and Rituals
+446,Why were mountains considered sacred in many cultures,Linked to stars,Used for war,Home of animals,Rain barriers,1,Cultural Astronomy and Rituals
+447,What was the function of sky windows in temples,Mark sun movement,Catch wind,Reflect moonlight,Trap stars,1,Cultural Astronomy and Rituals
+448,What was the meaning of constellation cycles in ancient farming,Season indicator,Wind change,Rainfall record,Birth sign,1,Cultural Astronomy and Rituals
+449,What did ancient rituals often begin with,Observation of sky,Digging earth,Animal painting,Cloud reading,1,Cultural Astronomy and Rituals
+450,Why were eclipses feared in rituals,Omen of imbalance,Sign of joy,Time to marry,Start of year,1,Cultural Astronomy and Rituals
+451,What was the primary purpose of the astrolabe,Measure star positions,Measure wind speed,Store water,Track animals,1,Ancient Astronomy Instruments and Observatories
+452,Which ancient civilization built the Jantar Mantar observatories,India,China,Egypt,Greece,1,Ancient Astronomy Instruments and Observatories
+453,What instrument did Greeks use to measure angles between stars,Dioptra,Compass,Quadrant,Astrolabe,1,Ancient Astronomy Instruments and Observatories
+454,What is the Antikythera mechanism believed to do,Calculate celestial events,Predict earthquakes,Measure tides,Track time,1,Ancient Astronomy Instruments and Observatories
+455,Which tool did ancient Chinese use to observe stars,Armillary sphere,Astrolabe,Telescope,Quadrant,1,Ancient Astronomy Instruments and Observatories
+456,What does an armillary sphere represent,Earth centered universe,Sun path,Moon phases,Star clusters,1,Ancient Astronomy Instruments and Observatories
+457,What was the gnomon used for in ancient times,Measure sun shadows,Calculate tides,Mark compass direction,Predict eclipses,1,Ancient Astronomy Instruments and Observatories
+458,Where is the famous ancient observatory of Uxmal located,Mexico,Egypt,India,China,1,Ancient Astronomy Instruments and Observatories
+459,What type of structure is the Caracol in Chichen Itza,Tower observatory,Temple,Palace,Market,1,Ancient Astronomy Instruments and Observatories
+460,What did ancient Egyptians use to align pyramids,Stars and shadows,Solar panels,Wind direction,Animal paths,1,Ancient Astronomy Instruments and Observatories
+461,What material were early astronomical instruments often made from,Bronze,Gold,Wood,Stone,1,Ancient Astronomy Instruments and Observatories
+462,What is the primary function of a quadrant,Measure angles in sky,Track stars speed,Record moon phases,Measure distance,1,Ancient Astronomy Instruments and Observatories
+463,Which civilization is credited with earliest known star catalog,Babylonians,Egyptians,Romans,Chinese,1,Ancient Astronomy Instruments and Observatories
+464,What ancient device helped Greeks predict eclipses,Metonic cycle,Astrolabe,Compass,Armillary sphere,1,Ancient Astronomy Instruments and Observatories
+465,What is the purpose of a celestial globe,Map stars and constellations,Measure time,Calculate tides,Mark direction,1,Ancient Astronomy Instruments and Observatories
+466,Which instrument did Islamic astronomers improve,Astrolabe,Telescope,Compass,Quadrant,1,Ancient Astronomy Instruments and Observatories
+467,What is a meridian line used for,Track sun position at noon,Measure star brightness,Calculate moon phase,Mark cardinal points,1,Ancient Astronomy Instruments and Observatories
+468,Where is the ancient observatory of Nabta Playa located,Egypt,Mexico,India,China,1,Ancient Astronomy Instruments and Observatories
+469,What did ancient Koreans use Cheomseongdae for,Astronomical observations,Water storage,Religious rituals,Trading post,1,Ancient Astronomy Instruments and Observatories
+470,What does the term "gnomon" mean,Part of sundial,Star map,Moon calendar,Wind vane,1,Ancient Astronomy Instruments and Observatories
+471,What was the purpose of sun daggers used by Puebloans,Mark solstices,Signal enemies,Measure rainfall,Count animals,1,Ancient Astronomy Instruments and Observatories
+472,What did the Mayans use codices for,Record astronomical data,Store food,Write laws,Draw maps,1,Ancient Astronomy Instruments and Observatories
+473,What is the function of an astronomical calendar,Track celestial events,Count days,Measure distances,Store seeds,1,Ancient Astronomy Instruments and Observatories
+474,Which ancient tool helped measure lunar eclipses,Dioptra,Gnomon,Armillary sphere,Astrolabe,2,Ancient Astronomy Instruments and Observatories
+475,What ancient culture developed the Zij star catalogues,Islamic,Greek,Chinese,Aztec,1,Ancient Astronomy Instruments and Observatories
+476,What was the main use of stone circles in Britain,Track solar events,Hold meetings,Store grain,Fight battles,1,Ancient Astronomy Instruments and Observatories
+477,What type of instrument is a sextant,Angle measurer,Timekeeper,Telescope,Star map,1,Ancient Astronomy Instruments and Observatories
+478,Who is credited with inventing the astrolabe,Hipparchus,Aristotle,Euclid,Archimedes,1,Ancient Astronomy Instruments and Observatories
+479,What did ancient Chinese use to observe eclipses,Armillary spheres,Gnomons,Sun dials,Telescope,1,Ancient Astronomy Instruments and Observatories
+480,What was a key feature of ancient Greek observatories,Open air design,Glass domes,Stone walls,Metal roofs,1,Ancient Astronomy Instruments and Observatories
+481,Which device shows positions of sun moon and planets,Armillary sphere,Astrolabe,Gnomon,Quadrant,1,Ancient Astronomy Instruments and Observatories
+482,What did the ancient Babylonians use to predict celestial events,Mathematical tables,Astrolabe,Sun dials,Armillary spheres,1,Ancient Astronomy Instruments and Observatories
+483,Where was the earliest known astronomical observatory located,Nabta Playa,Stonehenge,Chichen Itza,Uxmal,1,Ancient Astronomy Instruments and Observatories
+484,What ancient instrument helps determine latitude,Sextant,Gnomon,Astrolabe,Armillary sphere,1,Ancient Astronomy Instruments and Observatories
+485,What feature distinguishes the Caracol observatory,Spiral staircase,Tall walls,Glass roof,Water tanks,1,Ancient Astronomy Instruments and Observatories
+486,Which ancient empire had advanced observatories in South America,Inca,Maya,Aztec,Olmec,1,Ancient Astronomy Instruments and Observatories
+487,How did ancient people use meridian lines,To track solar noon,To mark stars,To guide sailors,To calculate tides,1,Ancient Astronomy Instruments and Observatories
+488,What does an astrolabe measure,Altitude of stars,Wind direction,Time of day,Distance to moon,1,Ancient Astronomy Instruments and Observatories
+489,What is a unique feature of the Jantar Mantar observatories,Giant stone instruments,Metal telescopes,Glass domes,Wooden platforms,1,Ancient Astronomy Instruments and Observatories
+490,What did ancient Indians call their astronomical texts,Zij,Manuscripts,Vedas,Shlokas,1,Ancient Astronomy Instruments and Observatories
+491,What does the word "astrolabe" mean,Star taker,Sun watcher,Time keeper,Moon measurer,1,Ancient Astronomy Instruments and Observatories
+492,What device did Islamic astronomers develop to measure the altitude of celestial bodies,Astrolabe,Quadrant,Sextant,Compass,1,Ancient Astronomy Instruments and Observatories
+493,What feature of Cheomseongdae observatory makes it unique,Oldest stone tower,Glass windows,Rotating roof,Metal dome,1,Ancient Astronomy Instruments and Observatories
+494,What was the main use of the ancient Chinese star maps,Track constellations,Mark festivals,Plan agriculture,Trade routes,1,Ancient Astronomy Instruments and Observatories
+495,Which ancient culture used Gnomons extensively,Sumerians,Egyptians,Greeks,Romans,2,Ancient Astronomy Instruments and Observatories
+496,What is the significance of Nabta Playa site,Earliest stone circle for astronomy,Oldest burial ground,First city ruins,Ancient marketplace,1,Ancient Astronomy Instruments and Observatories
+497,Which tool did ancient Arabs use to find the Qibla direction,Astrolabe,Compass,Sextant,Gnomon,1,Ancient Astronomy Instruments and Observatories
+498,What material was commonly used to make early astronomical instruments,Bronze,Silver,Iron,Wood,1,Ancient Astronomy Instruments and Observatories
+499,Which ancient observatory is considered one of the oldest in East Asia,Cheomseongdae,Uxmal,Stonehenge,Jantar Mantar,1,Ancient Astronomy Instruments and Observatories
+500,What was the main use of sun dials in ancient times,Telling time,Tracking stars,Marking seasons,Recording eclipses,1,Ancient Astronomy Instruments and Observatories
 
-51,Which ancient culture created the Denderah Zodiac an important celestial map?,Egyptians,Maya,Greeks,Romans,0,Ancient Star Charts
-52,What astronomical phenomenon did ancient Chinese astronomers record in 1054 CE?,Solar eclipse,Supernova,Comet,Meteor shower,1,Observations
-53,Which ancient civilization is credited with using the North Star for orientation in their river navigation?,Babylonians,Egyptians,Greeks,Chinese,1,Celestial Navigation
-54,What is the term for the first visible crescent moon that marks a new month in many lunar calendars?,Full Moon,Blue Moon,New Crescent,Harvest Moon,2,Lunar Calendars
-55,The ancient Roman calendar before Julius Caesar was primarily:,Solar,Lunar,Lunisolar,Stellar,2,Solar Calendars
-56,Babylonians divided the sky into how many equal sections?,12,24,36,30,0,Babylonian Astronomy
-57,Which planet is associated with the deity Shani in Vedic astrology?,Mars,Jupiter,Saturn,Venus,2,Indian Vedic Astronomy
-58,How many lunar mansions (xiu) are there in traditional Chinese astronomy?,12,24,28,36,2,Ancient Chinese Astronomy
-59,The Calendar Round is a combination of which two Mayan calendars?,Haab' and Long Count,Tzolk'in and Haab',Tzolk'in and Tonalpohualli,Long Count and Haab',1,Mayan and Aztec Cosmology
-60,Ptolemyâ€™s famous work on astronomy is called:,Almagest,Elements,De Revolutionibus,Timaeus,0,Greek and Roman Theories
-61,In Greek mythology, who was the primordial deity of the sky?,Uranus,Gaia,Chronos,Zeus,0,Cosmology in Mythology
-62,Which planet is traditionally associated with communication in astrology?,Mars,Venus,Mercury,Jupiter,2,Astrology as Proto-Science
-63,The term 'sacred geometry' primarily refers to:,Mathematical symbols,Geometric shapes with spiritual meaning,Geometry in nature,Geometry in art,1,Sacred Geometry & Astronomy
-64,Which Roman historian linked comets with the death of Julius Caesar?,Pliny Tacitus,Suetonius,Pliny the Elder,Aristotle,0,Ancient Beliefs about Comets and Meteors
-65,What is the purpose of the Station Stones at Stonehenge?,Mark lunar events,Mark solstices,Mark star positions,Mark seasons,0,Stonehenge and Archaeoastronomy
-66,What was the purpose of the star shafts in the pyramids?,Ventilation,Tomb passages,Alignment with stars,Secret escape routes,2,Pyramids and Stellar Alignments
-67,What is the shape of El Caracol observatory?,Circular,Rectangular,Square,Triangular,0,Ancient Observatories
-68,The Greeks are known for cataloging stars in which famous work?,Almagest,Geographia,Historia Naturalis,Metaphysics,0,Ancient Star Charts
-69,Which ancient structure is aligned with the summer solstice sunrise?,Stonehenge,Great Pyramid,Angkor Wat,Machu Picchu,0,Architecture
-70,What is the principle behind steering by a horizon star?,Follow a star as it crosses the meridian,Constantly adjust course toward the starâ€™s rising azimuth,Use starâ€™s angular height to measure distance,Use the moon to triangulate,1,Celestial Navigation
-71,Which ancient calendar adjusted the lunar cycle with intercalary months to align with the seasons?,Mayan calendar,Egyptian calendar,Hindu calendar,Gregorian calendar,2,Lunar Calendars
-72,Who reformed the Roman calendar into a solar-based system in 45 BCE?,Augustus,Marcus Aurelius,Julius Caesar,Nero,2,Solar Calendars
-73,What is the name of the Babylonian star catalog that recorded over 70 constellations?,Enuma Anu Enlil,Mul.Apin,Shulgi Tablets,Uruk Almanac,1,Babylonian Astronomy
-74,The term 'Nakshatra' refers to:,Solar zodiac,Constellation,Lunar mansion,Ecliptic point,2,Indian Vedic Astronomy
-75,Who is considered a key figure in early Chinese astronomical observations?,Confucius,Sima Qian,Gan De,Zhang Heng,2,Ancient Chinese Astronomy
-76,What is the length of one complete Calendar Round cycle?,52 years,260 years,365 years,104 years,0,Mayan and Aztec Cosmology
-77,In Ptolemaic astronomy planets move in small circles called:,Epicycles,Deferents,Eccentrics,Rings,0,Greek and Roman Theories
-78,What role does the serpent play in many ancient cosmologies?,Destroyer,Creator,World bearer,Chaos agent,3,Cosmology in Mythology
-79,What was the primary purpose of astrology in ancient societies?,Predict weather,Explain human fate,Calculate time,Map stars,1,Astrology as Proto-Science
-80,Which celestial event does the ancient monument Newgrange in Ireland mark?,Winter Solstice,Spring Equinox,Autumn Equinox,Summer Solstice,0,Sacred Geometry & Astronomy
-81,In Norse mythology meteors were believed to be:,Falling stars,Warriorsâ€™ swords,Odinâ€™s arrows,Lightning bolts,2,Ancient Beliefs about Comets and Meteors
-82,Stonehengeâ€™s layout is designed to track movements of:,The Sun,The Moon,Venus,All of the above,3,Stonehenge and Archaeoastronomy
-83,Which star is associated with the southern shaft of the Queenâ€™s Chamber?,Sirius,Orion,Polaris,Betelgeuse,0,Pyramids and Stellar Alignments
-84,Nabta Playa observatory is found on which continent?,Africa,Asia,South America,Europe,0,Ancient Observatories
-85,Ptolemyâ€™s star catalog was compiled in which century?,2nd century BCE,2nd century CE,1st century CE,4th century BCE,1,Ancient Star Charts
-86,Who first proposed that Earth rotates on its axis?,Aristarchus,Heraclides,Pythagoras,Anaxagoras,1,Earth's Motion
-87,Which instrument was used by Egyptians (with a plumb line) to align with decans and track night hours, also helping orient north?,Gnomon,Merkhet,Astrolabe,Sundial,1,Celestial Navigation
-88,The Hebrew calendar is what type of calendar?,Lunar,Solar,Lunisolar,Stellar,2,Lunar Calendars
-89,What is the name of the calendar Julius Caesar introduced?,Gregorian calendar,Julian calendar,Imperial calendar,Caesaric calendar,1,Solar Calendars
-90,Which heavenly body was associated with the goddess Ishtar?,Sun,Venus,Moon,Mars,1,Babylonian Astronomy
-91,Which celestial object is considered the â€˜Kingâ€™ among planets in Jyotisha?,Moon,Sun,Jupiter,Mars,1,Indian Vedic Astronomy
-92,Chinese astronomers were the first to record which type of celestial event?,Meteor showers,Lunar eclipses,Sunspots,Supernova,3,Ancient Chinese Astronomy
-93,The Mayan Long Count calendar begins in which year of the Gregorian calendar?,0 BCE,3114 BCE,2500 BCE,1000 BCE,1,Mayan and Aztec Cosmology
-94,What is the purpose of epicycles in Ptolemyâ€™s model?,To explain retrograde motion,To explain seasons,To calculate eclipses,To measure star distances,0,Greek and Roman Theories
-95,The cosmic egg is a symbol of creation in which culture?,Greek,Chinese,Indian,Mayan,2,Cosmology in Mythology
-96,Which ancient text is known for its astrological content in India?,Rigveda,Charaka Samhita,Brihat Samhita,Bhagavad Gita,2,Astrology as Proto-Science
-97,What is the main celestial body aligned with the Parthenon in Athens?,Sun,Moon,Venus,Mars,0,Sacred Geometry & Astronomy
-98,Which ancient culture associated meteors with souls or spirits?,Greek,Egyptian,Native American,Mesopotamian,2,Ancient Beliefs about Comets and Meteors
-99,Which lunar event is Stonehenge also thought to be aligned with?,Lunar standstill,New moon,Full moon,Lunar eclipse,0,Stonehenge and Archaeoastronomy
-100,The layout of the three main pyramids at Giza is thought to mirror the stars of:,Orionâ€™s Belt,The Pleiades,Cassiopeia,The Big Dipper,0,Pyramids and Stellar Alignments
-101,Which natural phenomenon did Nabta Playa help ancient people track?,Summer Solstice,Winter Solstice,Equinoxes,Lunar cycles,0,Ancient Observatories
-102,Which Greek astronomer is credited with creating the first comprehensive star catalog?,Hipparchus,Ptolemy,Aristotle,Eratosthenes,0,Ancient Star Charts
-103,What did ancient Greeks call the Milky Way?,Galaxias,Via Lactea,River of Heaven,Star Path,0,Celestial Objects
-104,Polynesian wayfinders often use ocean swells and stars in combination. Which of the following is *not* part of their toolkit?,Bird flight paths,Solar declination tables,Cloud formations,Star positions,1,Celestial Navigation
-105,How many months are there typically in a lunar year?,10,11,12,13,2,Lunar Calendars
-106,Which civilization tracked the heliacal rising of Sirius to predict the Nile flooding?,Greeks,Egyptians,Mesoamericans,Chinese,1,Solar Calendars
-107,Babylonians used which writing system for astronomical records?,Latin,Sanskrit,Cuneiform,Hieroglyphs,2,Babylonian Astronomy
-108,Which ancient text forms the basis of Vedic astronomical principles?,Surya Siddhanta,Vedanga Jyotisha,Brahmasphutasiddhanta,Pancha Siddhantika,1,Indian Vedic Astronomy
-109,Which book contains one of the oldest known Chinese star maps?,Book of Changes,Book of Songs,Dunhuang Star Chart,Book of Han,2,Ancient Chinese Astronomy
-110,Which number system did the Maya use for their calendar?,Binary,Decimal,Vigesimal (base-20),Hexadecimal,2,Mayan and Aztec Cosmology
-111,Which planet's retrograde motion was a key problem for early astronomers?,Mars,Venus,Jupiter,Saturn,0,Greek and Roman Theories
-112,In Mesopotamian myth which goddess represents the primordial waters?,Tiamat,Ishtar,Inanna,Ereshkigal,0,Cosmology in Mythology
-113,Who was the Greek philosopher that integrated astrology with astronomy?,Ptolemy,Aristotle,Plato,Democritus,0,Astrology as Proto-Science
-114,In ancient Egypt which star was associated with the goddess Isis and used for alignment?,Sirius,Polaris,Betelgeuse,Canopus,0,Sacred Geometry & Astronomy
-115,The appearance of Halley's Comet was historically linked with:,Battle outcomes,Plagues,Political change,All of the above,3,Ancient Beliefs about Comets and Meteors
-116,What type of stones were used for the inner circle at Stonehenge?,Bluestones,Granite,Marble,Limestone,0,Stonehenge and Archaeoastronomy
-117,Which ancient Egyptian god is associated with the Orion constellation?,Osiris,Ra,Anubis,Horus,0,Pyramids and Stellar Alignments
-118,Jantar Mantar has how many main instruments for astronomical observations?,Five,Seven,Ten,Four,1,Ancient Observatories
-119,The term 'constellation' comes from which language?,Greek,Latin,Arabic,Sanskrit,1,Ancient Star Charts
-120,Which ancient astronomer calculated Earth's circumference with remarkable accuracy?,Eratosthenes,Hipparchus,Ptolemy,Thales,0,Measurements
-121,Which of these cultures developed methods of celestial navigation that heavily influenced later Arab sailors?,Persians,Romans,Indians,Chinese,0,Celestial Navigation
-122,Which ancient Chinese calendar was based on lunar and solar cycles?,Zodiac calendar,Qing calendar,Yin-Yang calendar,Traditional Chinese calendar,3,Lunar Calendars
-123,The Mayan Haab' calendar is what type of calendar?,Lunar,Solar,Lunisolar,Stellar,1,Solar Calendars
-124,The 'Mul.Apin' texts are dated to which century BCE?,6th,9th,12th,14th,1,Babylonian Astronomy
-125,Which deity is associated with the planet Mars?,Agni,Indra,Skanda,Kartikeya,2,Indian Vedic Astronomy
-126,Ancient Chinese astronomy was closely tied to:,Astrology,Mathematics,Medicine,Politics,3,Ancient Chinese Astronomy
-127,The Aztecs called Venus the twin of which god?,Tezcatlipoca,Huitzilopochtli,Quetzalcoatl,Tlaloc,2,Mayan and Aztec Cosmology
-128,Who was the first to suggest a heliocentric model?,Copernicus,Ptolemy,Aristarchus,Kepler,2,Greek and Roman Theories
-129,Which Norse god is prophesied to bring about Ragnarok, the end of the world?,Thor,Loki,Odin,Freyr,1,Cosmology in Mythology
-130,The division of the sky into 12 equal parts in astrology corresponds to:,Months,Zodiac signs,Seasons,Planets,1,Astrology as Proto-Science
-131,The Nazca Lines in Peru are thought to have which astronomical purpose?,Align with constellations,Mark equinoxes,Track planetary movements,Signal rain,0,Sacred Geometry & Astronomy
-132,Which god was often blamed for sending comets as warnings?,Zeus,Odin,Ra,All of the above,3,Ancient Beliefs about Comets and Meteors
-133,Stonehenge is located in which modern-day country?,England,Scotland,Ireland,Wales,0,Stonehenge and Archaeoastronomy
-134,What is the approximate age of the Great Pyramid of Giza?,4500 years,3500 years,5500 years,2500 years,0,Pyramids and Stellar Alignments
-135,The Samrat Yantra at Jantar Mantar is used to measure:,Time,Temperature,Humidity,Wind speed,0,Ancient Observatories
-136,Which ancient culture divided the sky into 28 lunar mansions or nakshatras?,Indian,Chinese,Greek,Babylonian,0,Ancient Star Charts
-137,What astronomical tool did ancient Arabs perfect?,Telescope,Astrolabe,Quadrant,Sextant,1,Instruments
-138,What is the approximate maximum angular distance from the horizon at which a star can still be used for direction in Polynesian navigation?,10Â°,30â€“35Â°,60Â°,85Â°,1,Celestial Navigation
-139,In ancient Mesopotamia what event marked the start of a new month?,Full Moon,Eclipse,Sunrise,First crescent moon,3,Lunar Calendars
-140,How many days were in the Mayan Haab' year?,360,364,365,400,2,Solar Calendars
-141,Which planet was called 'Ninurta' in Babylonian astronomy?,Jupiter,Saturn,Mars,Mercury,1,Babylonian Astronomy
-142,What does 'sidereal time' measure?,Time based on Moon,Time based on Sun,Time based on stars,Time based on eclipses,2,Indian Vedic Astronomy
-143,Which dynasty created official astronomical observatories?,Qin,Zhou,Tang,Han,3,Ancient Chinese Astronomy
-144,What was the Mayan name for Venus?,Lamat,Chac,Itzamna,Ahau,0,Mayan and Aztec Cosmology
-145,Which Roman astronomer improved star catalogs in antiquity?,Ptolemy,Galen,Hipparchus,Pliny,2,Greek and Roman Theories
-146,What is the Hindu concept of 'Brahmanda'?,The cosmic egg,The creator god,The world ocean,The underworld,0,Cosmology in Mythology
-147,In Babylonian astrology what did the planet Venus symbolize?,Love and war,Peace and fertility,Death and rebirth,Wealth and power,0,Astrology as Proto-Science
-148,Which ancient Indian monument has architectural alignment with solstices?,Konark Sun Temple,Taj Mahal,Qutub Minar,Ajanta Caves,0,Sacred Geometry & Astronomy
-149,In ancient Egypt comets were often interpreted as:,Bad omens,Good harvest signs,Messages from ancestors,Spiritual cleansers,0,Ancient Beliefs about Comets and Meteors
-150,The solstice alignments at Stonehenge suggest it was used for:,Religious ceremonies,Astronomical observations,Social gatherings,All of the above,3,Stonehenge and Archaeoastronomy
-151,The alignment of the pyramids also correlates with the Nile River and what other feature?,Milky Way,Sirius,Bennu comet,The Sun,0,Pyramids and Stellar Alignments
-152,El Caracolâ€™s windows align with the rise and set of:,Venus,Mercury,Moon,Sirius,2,Ancient Observatories
-153,The earliest Chinese star maps date back to which dynasty?,Shang,Han,Qin,Zhou,0,Ancient Star Charts
-154,Which planet did ancient Romans associate with their god of war?,Mars,Jupiter,Venus,Mercury,0,Mythology
-155,Which famous voyaging canoe in HawaiÊ»i uses traditional wayfinding (stars, swells, etc.) instead of instruments?,Santa Maria,HÅkÅ«leÊ»a,NiÃ±a,Endeavour,1,Celestial Navigation
-156,Which civilization used a calendar based on the moon phases called the 'Metonic cycle'?,Babylonians,Greeks,Romans,Egyptians,1,Lunar Calendars
-157,Which two components made up the Mayan calendar system?,Tzolk'in and Long Count,Haab' and Gregorian,Tzolk'in and Haab',Julian and Aztec,2,Solar Calendars
-158,Babylonian astronomers recorded eclipses as part of which omen-based system?,Zij tables,Astrological wheels,Enuma Anu Enlil,Zodiacal catalogues,2,Babylonian Astronomy
-159,Which Nakshatra is associated with wealth and prosperity?,Ashwini,Bharani,Rohini,Pushya,3,Indian Vedic Astronomy
-160,What is the term for the Chinese cosmological cycle of 60 years?,Yin-Yang cycle,Zodiacal cycle,Sexagenary cycle,Lunar cycle,2,Ancient Chinese Astronomy
-161,How many days is Venus visible as a morning star before disappearing?,30,70,90,180,1,Mayan and Aztec Cosmology
-162,What is the name of the circular path around which an epicycle moves?,Deferent,Eccentric,Orbit,Axis,0,Greek and Roman Theories
-163,In the Mayan creation myth which god created humans from maize?,Itzamna,Tepeu,Hun Hunahpu,Ah Puch,1,Cosmology in Mythology
-164,The word 'horoscope' comes from Greek meaning:,Hour marker,Star watcher,Time observer,Sky watcher,0,Astrology as Proto-Science
-165,Which geometric shape is most commonly found in sacred architecture?,Circle,Triangle,Square,All of the above,3,Sacred Geometry & Astronomy
-166,The Maya recorded meteors in their codices as:,Stars falling,Gods descending,Fire arrows,Heavenly omens,0,Ancient Beliefs about Comets and Meteors
-167,The position of which star is thought to have influenced the Stonehenge design?,Polaris,Betelgeuse,Sirius,Orion,2,Stonehenge and Archaeoastronomy
-168,Which pyramid has star shafts aligned toward the star Thuban?,Great Pyramid of Giza,Step Pyramid,Bent Pyramid,Red Pyramid,0,Pyramids and Stellar Alignments
-169,The ancient observatory Nabta Playa is approximately how old?,7000 years,5000 years,3000 years,2000 years,0,Ancient Observatories
-170,Which celestial body was often excluded from early star charts due to its changing position?,Planets,Stars,Comets,Meteors,0,Ancient Star Charts
-171,What did Aristarchus of Samos propose in the 3rd century BCE?,Geocentric model,Heliocentric model,Flat Earth,Multiple suns,1,Cosmic Models
-172,Which Greek or Hellenistic astronomer compiled a catalog of stars that aided later navigators?,Aristotle,Hipparchus,Eratosthenes,Ptolemy,1,Celestial Navigation
-173,Which ancient festival in Judaism begins on the 15th day of the lunar month of Nisan?,Purim,Hanukkah,Passover,Rosh Hashanah,2,Lunar Calendars
-174,The solar calendar used by the Persians was known as:,Hijri calendar,Nowruz calendar,Khwarazmian calendar,Zoroastrian calendar,3,Solar Calendars
-175,What shape did Babylonians assume planetary orbits followed?,Circles,Ellipses,Straight lines,Zig-zags,0,Babylonian Astronomy
-176,The Indian zodiac is primarily:,Tropical,Sidereal,Lunar,Fixed,1,Indian Vedic Astronomy
-177,Which direction did Chinese star maps traditionally place at the top?,North,East,South,West,2,Ancient Chinese Astronomy
-178,What kind of events did Mayans schedule based on Venus's position?,Harvests,War campaigns,Rain dances,Marriages,1,Mayan and Aztec Cosmology
-179,Which instrument was used by Greek astronomers to measure angles between stars?,Astrolabe,Armillary sphere,Sextant,Quadrant,1,Greek and Roman Theories
-180,Which creature in Greek mythology holds up the sky?,Atlas,Prometheus,Zeus,Hermes,0,Cosmology in Mythology
-181,Which body was NOT traditionally included in ancient astrology?,The Moon,The Sun,The Earth,Mars,2,Astrology as Proto-Science
-182,What is an 'armillary sphere' used for?,Mapping stars,Measuring time,Predicting eclipses,Navigating seas,0,Sacred Geometry & Astronomy
-183,Which ancient Greek philosopher wrote about the nature of comets?,Aristotle,Plato,Socrates,Democritus,0,Ancient Beliefs about Comets and Meteors
-184,How many main stones form the outer circle of Stonehenge?,30,60,45,90,1,Stonehenge and Archaeoastronomy
-185,What is the significance of Thuban in pyramid alignment?,It was the North Star during pyramid construction,It was the brightest star,It marked the summer solstice,It was a constellationâ€™s brightest star,0,Pyramids and Stellar Alignments
-186,Jantar Mantar is located in which Indian city?,Jaipur,Delhi,Udaipur,Varanasi,0,Ancient Observatories
-187,The Greek star atlas 'Farnese Atlas' depicts the sky as seen in:,Ancient Greece,Rome,Mesopotamia,Egypt,1,Ancient Star Charts
-188,Which ancient civilization tracked Venus's cycles over 584 days?,Maya,Inca,Aztec,Olmec,0,Observations
-189,When using a kamal, what does the navigator align to measure latitude?,Horizon to celestial equator,North Star to southern cross,Starâ€™s cord to ruler edge,Starâ€™s angular height above horizon,3,Celestial Navigation
-190,Why did many ancient calendars struggle with accurate year lengths?,Ignored leap years,Only tracked moon,Didn't consider solar drift,Lacked math skills,2,Lunar Calendars
-191,Which calendar replaced the Julian calendar due to its solar inaccuracy?,Islamic calendar,Gothic calendar,Gregorian calendar,Babylonian calendar,2,Solar Calendars
-192,How did Babylonians represent the zodiac?,Star charts,Clay tablets with symbols,Wall carvings,Metal discs,1,Babylonian Astronomy
-193,What is the full set of Vedic planetary deities called?,Navagraha,Panchamahabhuta,Dashavatara,Ashta Vasus,0,Indian Vedic Astronomy
-194,What shape did the Chinese consider the Earth to be in early astronomy?,Sphere,Flat,Square,Oval,2,Ancient Chinese Astronomy
-195,What shape did Mayan temples often take to align with celestial cycles?,Pyramids,Circular domes,Flat platforms,Spirals,0,Mayan and Aztec Cosmology
-196,Hipparchus is credited with discovering which astronomical phenomenon?,Solar eclipse,Lunar eclipse,Precession of the equinoxes,Comet Halley,2,Greek and Roman Theories
-197,In Chinese mythology, who created the world by separating Yin and Yang?,Pangu,NÃ¼wa,Fuxi,Shennong,0,Cosmology in Mythology
-198,Which culture is known for combining astrology with medicine?,Babylonian,Egyptian,Greek,Indian,2,Astrology as Proto-Science
-199,The city of Teotihuacanâ€™s layout is aligned to which celestial body?,Sun,Moon,Venus,Stars,0,Sacred Geometry & Astronomy
-200,Comets were sometimes called 'hairy stars' because of:,Their tail,Color,Shape,Movement,0,Ancient Beliefs about Comets and Meteors
-201,Which other monument near Stonehenge aligns with it astronomically?,Avebury,Newgrange,Callanish,Carnac,0,Stonehenge and Archaeoastronomy
-202,The Orion Correlation Theory suggests pyramids represent the stars in Orionâ€™s Belt to symbolize:,Osiris's resurrection,Ra's journey,Isisâ€™s protection,Horusâ€™s power,0,Pyramids and Stellar Alignments
-203,Which celestial bodyâ€™s movements were primarily tracked by El Caracol?,Sun,Moon,Venus,Mars,2,Ancient Observatories
-204,What was the primary material used for Babylonian star charts?,Clay tablets,Stone walls,Parchment,Metal sheets,0,Ancient Star Charts
-205,What celestial event did ancient astronomers use to create calendars?,Moon phases,Solar cycles,Star positions,All of the above,3,Calendars
-206,Which direction did ancient sailors generally use the North Star (Polaris) for?,To find east,To find south,To find north,To find zenith,2,Celestial Navigation
-207,Which ancient Roman calendar began as a lunar calendar before Julian reforms?,Colossean calendar,Lunar Roman Calendar,Pre-Julian Calendar,Romulus Calendar,2,Lunar Calendars
-208,What event marks the beginning of the solar year in many ancient cultures?,Winter solstice,Spring equinox,Autumn equinox,Summer solstice,0,Solar Calendars
-209,The Babylonian calendar was primarily:,Solar,Lunar,Lunisolar,Stellar,2,Babylonian Astronomy
-210,Which Graha (planet) is associated with wisdom and learning?,Shukra,Budha,Guru,Chandra,2,Indian Vedic Astronomy
-211,Which star system was used to determine agricultural cycles?,Polaris,Big Dipper,Pleiades,Orion,1,Ancient Chinese Astronomy
-212,The Aztec Sun Stone tracks which calendar system?,Gregorian,Tzolk'in,Haab',Tonalpohualli,3,Mayan and Aztec Cosmology
-213,What was Aristotleâ€™s view on the composition of the heavens?,Made of fire,Made of aether,Made of water,Made of earth,1,Greek and Roman Theories
-214,The Hindu god Vishnu is often associated with which cosmic function?,Creation,Preservation,Destruction,Judgment,1,Cosmology in Mythology
-215,What did ancient astrologers believe planets influenced?,Earthquakes,Human affairs,Natural disasters,Animal behavior,1,Astrology as Proto-Science
-216,Which Greek mathematician is famous for early works in sacred geometry?,Pythagoras,Euclid,Archimedes,Plato,0,Sacred Geometry & Astronomy
-217,In many cultures, meteors were thought to be:,Angelic messengers,Demonic signs,Omens of death,Portals to other worlds,2,Ancient Beliefs about Comets and Meteors
-218,The Aubrey Holes at Stonehenge are believed to be related to:,Lunar cycles,Solar eclipses,Star tracking,Planetary positions,0,Stonehenge and Archaeoastronomy
-219,Which ancient Egyptian text references stars in relation to pyramids?,The Book of the Dead,The Pyramid Texts,The Coffin Texts,The Rosetta Stone,1,Pyramids and Stellar Alignments
-220,Nabta Playa contains stones aligned to track the position of which star?,Polaris,Sirius,Orionâ€™s Belt,Betelgeuse,1,Ancient Observatories
-221,Which constellation was important in Egyptian star charts and associated with Osiris?,Orion,Leo,Scorpio,Aquila,0,Ancient Star Charts
-222,Who created the first comprehensive star catalog with 850 stars?,Ptolemy,Hipparchus,Aristotle,Thales,1,Star Catalogs
-223,What disadvantage did celestial navigation have compared to modern methods?,Not working during cloudy nights,Too accurate beyond a few miles,Requires telescopes,Cannot find latitude,0,Celestial Navigation
-224,The Hindu lunisolar calendar divides each month into what two phases?,Dark and bright half,North and south,Day and night,Sunrise and sunset,0,Lunar Calendars
-225,The Gregorian calendar was introduced by which pope?,Pope Leo X,Pope Gregory XIII,Pope Innocent III,Pope Urban II,1,Solar Calendars
-226,Which Babylonian king is linked to the first astronomical observations?,Nebuchadnezzar II,Hammurabi,Nabonassar,Sargon,2,Babylonian Astronomy
-227,In Jyotisha, which planet governs communication and intellect?,Shukra,Budha,Guru,Rahu,1,Indian Vedic Astronomy
-228,What were comets often considered in ancient Chinese texts?,Good omens,Weather signs,Portents of disaster,Cosmic dust,2,Ancient Chinese Astronomy
-229,How many total glyphs are there on the Aztec Sun Stone?,20,52,260,365,0,Mayan and Aztec Cosmology
-230,Which of the following was NOT part of Ptolemyâ€™s planetary system?,Epicycles,Deferents,Heliocentric orbits,Equants,2,Greek and Roman Theories
-231,According to Egyptian myth, what is the 'Nun'?,Primordial chaos,The sun god,The afterlife,The sky goddess,0,Cosmology in Mythology
-232,Which planet is linked with expansion and luck in astrology?,Mars,Jupiter,Saturn,Venus,1,Astrology as Proto-Science
-233,What is the golden ratio often associated with in sacred architecture?,Harmony,Strength,Power,Speed,0,Sacred Geometry & Astronomy
-234,Which civilization believed comets signaled the wrath of their gods?,Babylonians,Romans,Aztecs,Chinese,1,Ancient Beliefs about Comets and Meteors
-235,Which method was used to date Stonehengeâ€™s construction?,Carbon dating,Dendrochronology,Thermoluminescence,Radiometric dating,0,Stonehenge and Archaeoastronomy
-236,Which pyramid is known as the first true pyramid built by the Egyptians?,Step Pyramid,Great Pyramid,Bent Pyramid,Red Pyramid,0,Pyramids and Stellar Alignments
-237,The purpose of ancient observatories like Jantar Mantar was to improve:,Calendar accuracy,Agricultural planning,Religious timing,All of the above,3,Ancient Observatories
-238,The ancient Polynesians used star charts primarily for:,Navigation,Farming,Religious rituals,Hunting,0,Ancient Star Charts
-239,What did ancient Egyptians align their pyramids with?,True north,Sunrise,Moon,Venus,0,Architecture
-240,Which seaâ€‘faring people are among the earliest recorded to use stars for openâ€‘sea navigation in the Mediterranean?,Phoenicians,Romans,Persians,Scythians,0,Celestial Navigation
-241,The ancient Egyptian calendar was primarily:,Lunar,Solar,Lunisolar,Mercurial,1,Lunar Calendars
-242,What was the key correction made in the Gregorian reform?,Added leap months,Changed week length,Adjusted leap year rule,Added extra days in August,2,Solar Calendars
-243,Babylonian astronomy was preserved through which later civilization?,Romans,Greeks,Egyptians,Indians,1,Babylonian Astronomy
-244,How many degrees does each Nakshatra span?,10Â°,13Â°20â€²,15Â°,30Â°,1,Indian Vedic Astronomy
-245,The Chinese division of the sky includes Four Symbols. What do they represent?,Months,Seasons,Planets,Elements,1,Ancient Chinese Astronomy
-246,What major city is home to the Pyramid of the Sun?,Tikal,Chichen Itza,Teotihuacan,Palenque,2,Mayan and Aztec Cosmology
-247,What did the 'equant' in Ptolemaic astronomy help to explain?,Variable planetary speed,Retrograde motion,Planetary brightness,Orbital eccentricity,0,Greek and Roman Theories
-248,Which Norse realm is home to humans?,Asgard,Midgard,Jotunheim,Niflheim,1,Cosmology in Mythology
-249,The term 'ascendant' in astrology refers to:,Rising sign,Planet position,Sun's location,Moon phase,0,Astrology as Proto-Science
-250,Which ancient templeâ€™s layout is thought to mimic the constellation Orion?,Great Pyramid of Giza,Stonehenge,Parthenon,Angkor Wat,0,Sacred Geometry & Astronomy
-251,What natural phenomenon did ancient people often confuse with comets?,Auroras,Meteors,Planets,Solar flares,1,Ancient Beliefs about Comets and Meteors
-252,The purpose of Stonehenge remains debated but primarily linked to:,Astronomy and ritual,Agriculture and trade,Defense and warfare,Navigation and travel,0,Stonehenge and Archaeoastronomy
-253,Star shafts are narrow passages found inside:,Pyramids,Tombs,Temples,Megaliths,0,Pyramids and Stellar Alignments
-254,El Caracol translates to which word in Spanish?,Snail,Star,Sun,Moon,0,Ancient Observatories
-255,Which constellation is known as the 'Great Bear' and appears in many ancient star charts?,Ursa Major,Orion,Leo,Draco,0,Ancient Star Charts
-256,Which ancient text contains detailed astronomical observations from Babylon?,Enuma Anu Enlil,Epic of Gilgamesh,Code of Hammurabi,Book of the Dead,0,Ancient Texts
-257,Which constellationâ€™s three stars (the Belt) are used in Polynesian navigation (as part of star lines)?,Scorpius,Orion,Lyra,Ursa Major,1,Celestial Navigation
-258,Which calendar system used by ancient Arabs was replaced by the Islamic lunar calendar?,Zoroastrian calendar,Pre-Islamic lunar calendar,Persian calendar,Babylonian calendar,1,Lunar Calendars
-259,Ancient solar calendars were primarily used for what?,Astrology,Weather prediction,Religious rituals,Agricultural planning,3,Solar Calendars
-260,What was the main goal of Babylonian planetary tracking?,Warfare,Navigation,Divination,Agriculture,2,Babylonian Astronomy
-261,Which mathematical concept was used in Indian astronomy?,Decimal system,Binary,Logarithms,Matrix algebra,0,Indian Vedic Astronomy
-262,Which direction is associated with the Azure Dragon in Chinese astronomy?,East,South,West,North,0,Ancient Chinese Astronomy
-263,The Long Count calendar tracks:,Eclipses,Moon phases,Historical dates,Seasonal shifts,2,Mayan and Aztec Cosmology
-264,Which city was the center of Hellenistic astronomy?,Athens,Alexandria,Rome,Delphi,1,Greek and Roman Theories
-265,In Greek mythology, Chaos is described as:,A void,A monster,A god,A place,0,Cosmology in Mythology
-266,Who introduced the idea of the '12 houses' in astrology?,Babylonians,Greeks,Egyptians,Romans,1,Astrology as Proto-Science
-267,The Mayan calendar is closely linked with which geometric shape?,Circle,Square,Triangle,Hexagon,0,Sacred Geometry & Astronomy
-268,In medieval Europe, comets were frequently seen as warnings of:,War,Plague,Famine,All of the above,3,Ancient Beliefs about Comets and Meteors
-269,Which nearby river flows close to Stonehenge?,Avon,Severn,Thames,Cam,0,Stonehenge and Archaeoastronomy
-270,Which star associated with the star shafts was linked to the afterlife?,Sirius,Orion,Betelgeuse,Polaris,0,Pyramids and Stellar Alignments
-271,Jantar Mantar was completed in which century?,18th century,17th century,16th century,19th century,0,Ancient Observatories
-272,In ancient Greek star maps, what symbol was commonly used to denote stars?,Dots,Lines,Circles,Triangles,0,Ancient Star Charts
-273,What did Anaxagoras correctly explain about the Moon?,Its phases,Its orbit,Its size,Its temperature,0,Moon Studies
-274,In celestial navigation, what is an â€œazimuthâ€?,Angular height of a star,Direction (compass bearing) to a celestial object,Angular distance between stars,Rate of rising/setting,1,Celestial Navigation
-275,A lunar month is also called a:,Solar period,Synodic month,Stellar phase,Epicyclic phase,1,Lunar Calendars
-276,Which ancient calendar used 12 months of 30 days plus 5 extra days?,Babylonian calendar,Gregorian calendar,Egyptian calendar,Chinese calendar,2,Solar Calendars
-277,Which number system did Babylonians use in astronomy?,Decimal,Binary,Sexagesimal,Duodecimal,2,Babylonian Astronomy
-278,Which ancient Indian astronomer wrote 'Surya Siddhanta'?,Aryabhata,Brahmagupta,Unknown,Lagadh Muni,2,Indian Vedic Astronomy
-279,The Chinese calendar is what type of calendar?,Lunar,Solar,Lunisolar,Sidereal,2,Ancient Chinese Astronomy
-280,Which culture built observatories such as El Caracol?,Olmec,Maya,Inca,Aztec,1,Mayan and Aztec Cosmology
-281,What geometric shape did Ptolemy assume for planetary orbits?,Ellipse,Circle,Parabola,Spiral,1,Greek and Roman Theories
-282,Who is the Hindu goddess that created the universe from her cosmic dance?,Lakshmi,Saraswati,Kali,Parvati,2,Cosmology in Mythology
-283,What is the primary difference between astronomy and astrology?,Methods,Goals,Instruments,Locations,1,Astrology as Proto-Science
-284,Which architectural feature often aligns with sunrise on equinoxes?,Doorways,Towers,Altars,Columns,0,Sacred Geometry & Astronomy
-285,Which comet is the most famous and historically significant?,Halley's Comet,Encke's Comet,Hale-Bopp,Hyakutake,0,Ancient Beliefs about Comets and Meteors
-286,Stonehenge is thought to have been built over a period of approximately how many years?,1500,500,2500,1000,0,Stonehenge and Archaeoastronomy
-287,The Great Pyramidâ€™s southern shaft points roughly to:,Sirius,Orionâ€™s belt,Polaris,Canopus,0,Pyramids and Stellar Alignments
-288,The Vedic calendar system benefited from observations at:,Jantar Mantar,El Caracol,Nabta Playa,All of the above,0,Ancient Observatories
-289,Which civilizationâ€™s star charts were inscribed on the Nebra Sky Disk?,Bronze Age Europeans,Mesopotamians,Egyptians,Maya,0,Ancient Star Charts
-290,Which constellation did ancient Greeks name after a hunter?,Orion,Perseus,Hercules,Sagittarius,0,Constellations
-291,Which tool was adapted for marine use (from astronomical instrument) to measure altitude at sea?,Crossâ€‘staff,Sundial,Astrolabe,Gnomon,2,Celestial Navigation
-292,Which Islamic festival marks the end of Ramadan, the 9th month of the Islamic lunar calendar?,Eid al-Fitr,Eid al-Adha,Muharram,Laylat al-Qadr,0,Lunar Calendars
-293,The Inca used a solar calendar closely tied to which activity?,War planning,Agriculture,Religion,Taxation,1,Solar Calendars
-294,Which Babylonian city was a major center for astronomical study?,Ur,Babylon,Nineveh,Assur,1,Babylonian Astronomy
-295,Which Graha is not a physical planet?,Rahu,Budha,Shani,Mangal,0,Indian Vedic Astronomy
-296,Which Chinese emperor commissioned the first complete celestial globe?,Qin Shi Huang,Emperor Wu of Han,Emperor Taizong,Zhao Tuo,1,Ancient Chinese Astronomy
-297,What does the term â€˜Katunâ€™ represent in the Long Count calendar?,20 years,52 years,100 years,400 years,0,Mayan and Aztec Cosmology
-298,Which philosopher argued against the heliocentric model for religious reasons?,Aristotle,Plato,St. Augustine,Ptolemy,3,Greek and Roman Theories
-299,Which celestial body is central to many creation myths worldwide?,The Sun,The Moon,Venus,The Earth,0,Cosmology in Mythology
-300,Which ancient civilization first recorded planetary movements for astrology?,Babylonian,Chinese,Greek,Indian,0,Astrology as Proto-Science
-301,In sacred geometry, the 'Flower of Life' is made up of:,Circles,Squares,Triangles,Stars,0,Sacred Geometry & Astronomy
-302,How did ancient astronomers distinguish between comets and planets?,Movement pattern,Color,Brightness,Size,0,Ancient Beliefs about Comets and Meteors
-303,Which famous astronomer studied Stonehengeâ€™s alignments in detail?,Gerald Hawkins,Tycho Brahe,Johannes Kepler,Edmond Halley,0,Stonehenge and Archaeoastronomy
-304,Which celestial phenomenon was crucial to the Egyptiansâ€™ religious beliefs reflected in pyramid alignments?,Star risings,Sunsets,Planetary conjunctions,Lunar eclipses,0,Pyramids and Stellar Alignments
-305,Nabta Playa is sometimes called the 'African':,Stonehenge,Pyramids,Temple,Calendar,0,Ancient Observatories
-306,Which ancient astronomer is known for identifying the precession of the equinoxes using star charts?,Hipparchus,Ptolemy,Galileo,Aristarchus,0,Ancient Star Charts
-307,What astronomical cycle is approximately 18.6 years?,Solar cycle,Lunar nodal cycle,Precession,Saros cycle,1,Cycles
-308,Which ocean did ancient Arabs and Indians use the kamal most extensively?,Atlantic Ocean,Indian Ocean,Pacific Ocean,Arctic Ocean,1,Celestial Navigation
-309,The Metonic cycle reconciles how many solar years with lunar months?,19 years with 235 lunar months,10 years with 120 lunar months,12 years with 144 lunar months,20 years with 240 lunar months,0,Lunar Calendars
-310,What monument is believed to mark solar alignments during solstices?,Great Wall of China,Stonehenge,Pyramids of Giza,Mount Olympus,1,Solar Calendars
-311,The Babylonian term for the ecliptic was:,Ziqpu,Mul,lulÃ»,Shamash,0,Babylonian Astronomy
-312,Which direction is associated with the Nakshatra Ashwini?,East,North,West,Northeast,0,Indian Vedic Astronomy
-313,What instrument was used for ancient Chinese solar observations?,Sextant,Water clock,Gnomon,Armillary sphere,2,Ancient Chinese Astronomy
-314,The Aztec capital Tenochtitlan was aligned to:,The Moon,Equinoxes,Venus rising,Cardinal directions,2,Mayan and Aztec Cosmology
-315,Which Roman scientist wrote 'Naturalis Historia', documenting astronomical knowledge?,Pliny the Elder,Seneca,Galen,Ptolemy,0,Greek and Roman Theories
-316,In Aztec mythology, which god sacrificed himself to create the sun?,Quetzalcoatl,Tezcatlipoca,Huitzilopochtli,Tlaloc,2,Cosmology in Mythology
-317,Which planet is considered the 'taskmaster' in astrology?,Mars,Jupiter,Saturn,Neptune,2,Astrology as Proto-Science
-318,Which ancient monument has chambers that illuminate only on solstice days?,Newgrange,Stonehenge,Chichen Itza,Teotihuacan,0,Sacred Geometry & Astronomy
-319,Which cultureâ€™s records helped modern astronomers track Halleyâ€™s Comet?,Chinese,Greek,Egyptian,Babylonian,0,Ancient Beliefs about Comets and Meteors
-320,Stonehengeâ€™s orientation is primarily along which compass direction?,Northeast-Southwest,Northwest-Southeast,East-West,South-North,0,Stonehenge and Archaeoastronomy
-321,Which ancient city is closest to the Giza pyramids?,Cairo,Memphis,Thebes,Alexandria,0,Pyramids and Stellar Alignments
-322,Which instrument at Jantar Mantar measures the altitude of stars?,Samrat Yantra,Rama Yantra,Jaiprakash Yantra,Chakra Yantra,2,Ancient Observatories
-323,The earliest known depiction of constellations comes from:,Lascaux Caves,Egypt,Mesopotamia,Greece,0,Ancient Star Charts
-324,Which ancient civilization created the zodiac?,Babylonians,Greeks,Egyptians,Chinese,0,Zodiac
-325,What is the term for the point directly overhead a navigator on Earth?,Azimuth,Zenith,Nadir,Meridian,1,Celestial Navigation
-326,The Mayans tracked lunar phases for what purpose?,War planning,Astronomy only,Religious festivals,Agricultural timing,2,Lunar Calendars
-327,Which Mesoamerican civilization had a solar calendar with 18 months?,Aztecs,Maya,Olmecs,Toltecs,0,Solar Calendars
-328,Which civilization inherited the Babylonian zodiac system?,Romans,Indians,Greeks,Chinese,2,Babylonian Astronomy
-329,What role do Nakshatras play in Indian astrology?,Predict war,Mark seasons,Timing rituals and births,Weather forecasting,2,Indian Vedic Astronomy
-330,Which Chinese philosopher contributed to astronomical cosmology?,Laozi,Confucius,Zhang Heng,Mozi,3,Ancient Chinese Astronomy
-331,The Venus cycle tracked by Mayans lasted approximately:,584 days,365 days,260 days,780 days,0,Mayan and Aztec Cosmology
-332,What was the main goal of Ptolemy's Almagest?,Catalog stars,Model planetary motion,Describe constellations,Explain eclipses,1,Greek and Roman Theories
-333,What is the cosmic purpose of the World Tree in many cultures?,Pathway to the heavens,Source of life,Center of the world,All of the above,3,Cosmology in Mythology
-334,Which sign of the zodiac is associated with water?,Leo,Capricorn,Scorpio,Aries,2,Astrology as Proto-Science
-335,Which culture believed the number '108' had cosmic significance?,Indian,Mayan,Egyptian,Greek,0,Sacred Geometry & Astronomy
-336,In Norse tales, the fiery sky serpents were thought to be:,Meteors,Comets,Shooting stars,Planets,1,Ancient Beliefs about Comets and Meteors
-337,Which type of calendar is Stonehenge often linked to?,Lunar calendar,Solar calendar,Lunisolar calendar,No calendar,1,Stonehenge and Archaeoastronomy
-338,The orientation of the pyramids is almost perfectly aligned with:,True north,Magnetic north,South,East,0,Pyramids and Stellar Alignments
-339,El Caracol is located near which famous Mayan city?,Chichen Itza,Tikal,Palenque,Copan,0,Ancient Observatories
-340,Which animal figure is prominent in many ancient star charts and myths?,Lion,Dragon,Eagle,Cow,0,Ancient Star Charts
-341,What did Thales of Miletus successfully predict in 585 BCE?,Lunar eclipse,Solar eclipse,Comet,Meteor shower,1,Predictions
-342,Which ancient culture used decans (star groups) to divide the night into segments for navigation?,Babylonians,Egyptians,Mayans,Chinese,1,Celestial Navigation
-343,In the Chinese calendar, the New Year is based on:,Winter solstice,First full moon of spring,First new moon between Jan 21 and Feb 20,March equinox,2,Lunar Calendars
-344,In ancient China, what was used to track the sunâ€™s path for calendar purposes?,Oracle bones,Water clocks,Gnomons,Astrolabes,2,Solar Calendars
-345,Which astronomical concept did Babylonians understand surprisingly well?,Precession,Lunar nodes,Planetary retrograde motion,Stellar parallax,2,Babylonian Astronomy
-346,Which Nakshatra is considered the 'birth star' of Lord Krishna?,Rohini,Pushya,Swati,Revati,0,Indian Vedic Astronomy
-347,What was the ancient Chinese term for supernovae?,Guest stars,Dragon stars,Bright omens,Fire stars,0,Ancient Chinese Astronomy
-348,How did the Maya likely observe celestial events?,Telescopes,Water clocks,Stone observatories,Naked eye,2,Mayan and Aztec Cosmology
-349,Which celestial body did Greeks believe to be perfect and unchanging?,Moon,Earth,Planets,Stars,3,Greek and Roman Theories
-350,In Hindu cosmology, what does 'Kala' represent?,Time,Space,Light,Darkness,0,Cosmology in Mythology
-351,In astrology, what element is associated with the sign Aries?,Fire,Water,Air,Earth,0,Astrology as Proto-Science
-352,Which architectural structure is known for its perfect east-west alignment?,Great Pyramid of Giza,Colosseum,Parthenon,Machu Picchu,0,Sacred Geometry & Astronomy
-353,Which ancient text describes comets as celestial warnings?,Rigveda,Bible,Book of Enoch,Epic of Gilgamesh,2,Ancient Beliefs about Comets and Meteors
-354,Which part of Stonehenge may have been used to predict eclipses?,Aubrey Holes,Heel Stone,Altar Stone,Station Stones,0,Stonehenge and Archaeoastronomy
-355,Which of these is NOT part of the Orion Correlation Theory?,Pyramids represent Orionâ€™s Belt,Star shafts point to specific stars,Pyramids were built to trap stars,Pyramids symbolize Osiris,2,Pyramids and Stellar Alignments
-356,The stones at Nabta Playa are arranged in a pattern representing:,The Big Dipper,The Summer Solstice sunrise,The Milky Way,The Moonâ€™s cycle,1,Ancient Observatories
-357,Ancient Chinese star charts often divided the sky into how many 'Three Enclosures'?,Three,Four,Five,Seven,0,Ancient Star Charts
-358,Which planet has the longest synodic period as observed from Earth?,Mars,Jupiter,Saturn,Venus,2,Planetary Motion
-359,What is one reason the Polynesian method divides the sky into star â€œfamiliesâ€ or lines?,To track planetary orbits,To reduce memorization burden,To adjust for precession,To bypass horizon stars,1,Celestial Navigation
-360,Which calendar includes months like Muharram and Safar?,Hebrew calendar,Chinese calendar,Hindu calendar,Islamic calendar,3,Lunar Calendars
-361,Which Roman festival marked the rebirth of the sun after winter solstice?,Saturnalia,Equinoxia,Lupercalia,Sol Invictus,3,Solar Calendars
-362,Which planet was often considered 'evil' in Babylonian omen texts?,Jupiter,Saturn,Mars,Venus,2,Babylonian Astronomy
-363,Which text divides the circle into 360 degrees and is used in Jyotisha?,Aryabhatiya,Brahmasphutasiddhanta,Surya Siddhanta,Lagna Sutra,2,Indian Vedic Astronomy
-364,How did Chinese astronomers catalog celestial events?,By brightness,By deity,By dynasty and date,By astrology house,2,Ancient Chinese Astronomy
-365,What role did Venus play in Mayan mythology?,God of wisdom,Messenger of the underworld,Warrior omen,Fertility sign,2,Mayan and Aztec Cosmology
-366,The term 'retrograde motion' means:,Forward movement,Backward movement,Stationary,Spiral movement,1,Greek and Roman Theories
-367,Which Greek Titan personifies time?,Cronus,Oceanus,Hyperion,Prometheus,0,Cosmology in Mythology
-368,The 'lunar nodes' in astrology are points where:,The Moon crosses the ecliptic,Planets align,Eclipses occur,Stars are brightest,0,Astrology as Proto-Science
-369,Sacred geometry often reflects which natural pattern?,Fibonacci sequence,Atomic structure,Weather patterns,Tectonic plates,0,Sacred Geometry & Astronomy
-370,The term 'meteor' comes from a Greek word meaning:,High in the air,Falling star,Fireball,Heavenly messenger,0,Ancient Beliefs about Comets and Meteors
-371,Stonehenge is classified as which type of monument?,Henge,Dolmen,Tumulus,Menhir,0,Stonehenge and Archaeoastronomy
-372,Who discovered the star shafts inside the Great Pyramid?,Howard Vyse,Giovanni Belzoni,Flinders Petrie,Zahi Hawass,0,Pyramids and Stellar Alignments
-373,Jantar Mantarâ€™s architectural design combines astronomy and:,Mathematics,Music,Religion,Philosophy,0,Ancient Observatories
-374,Which star is known as the 'Pole Star' and often appears in early star charts?,Polaris,Sirius,Betelgeuse,Vega,0,Ancient Star Charts
-375,What did ancient Indian astronomers call the ecliptic?,Rashichakra,Nakshatra,Graha,Bhachakra,0,Indian Astronomy
-376,Which method did ancient Mediterranean navigators use to stay on course at night?,Keep a star on the beam (side of ship),Use the moonâ€™s phases,Use cloud shadows,Use compass alone,0,Celestial Navigation
-377,Why do lunar calendars drift from the seasons?,Shorter lunar year,Longer lunar month,No leap years,Sun isnâ€™t tracked,0,Lunar Calendars
-378,How many days are there in the Gregorian solar year (on average)?,364.25,365,365.25,366,2,Solar Calendars
-379,Babylonians tracked the movements of how many visible planets?,5,6,7,8,0,Babylonian Astronomy
-380,Which planet is associated with devotion and spirituality in Vedic thought?,Mars,Venus,Saturn,Jupiter,3,Indian Vedic Astronomy
-381,Which dynasty's astronomers created a 365.25-day year calculation?,Qin,Zhou,Tang,Han,3,Ancient Chinese Astronomy
-382,The number 13 was sacred in Mayan cosmology because:,13 months of lunar calendar,13 layers of heaven,13 planetary cycles,13 gods of day,1,Mayan and Aztec Cosmology
-383,How did Ptolemy explain the changing brightness of planets?,Distance from Earth,Planet size,Eccentric orbits,Epicycles,3,Greek and Roman Theories
-384,In Chinese mythology, what does the goddess NÃ¼wa create to repair the sky?,Dragons,Stones,Serpents,Trees,1,Cosmology in Mythology
-385,Which planet rules the sign Taurus?,Venus,Mars,Jupiter,Saturn,0,Astrology as Proto-Science
-386,Which ancient civilization used a 360-degree circle for astronomy and geometry?,Babylonian,Egyptian,Greek,Chinese,0,Sacred Geometry & Astronomy
-387,Which celestial event did the Aztecs link to the god Tezcatlipoca?,Comet sighting,Solar eclipse,Lunar eclipse,Meteor shower,0,Ancient Beliefs about Comets and Meteors
-388,The term 'Archaeoastronomy' refers to:,Study of ancient astronomy,Study of stone monuments,Study of ancient rituals,Study of ancient calendars,0,Stonehenge and Archaeoastronomy
-389,The Red Pyramid is located at which ancient Egyptian site?,Dahshur,Giza,Saqqara,Abu Simbel,0,Pyramids and Stellar Alignments
-390,Which of these is NOT an instrument at Jantar Mantar?,Quadrant,Astrolabe,Sundial,Seismograph,3,Ancient Observatories
-391,The Babylonian zodiac was divided into how many signs?,12,10,15,16,0,Ancient Star Charts
-392,Who measured the angle of Earth's axial tilt?,Eratosthenes,Hipparchus,Ptolemy,Aristarchus,0,Measurements
-393,What did Vikings possibly use to locate the sun on cloudy days during navigation?,Magnetic compass,Astrolabe,Sunstone (polarizing crystal),GPS,2,Celestial Navigation
-394,What is the purpose of intercalation in lunisolar calendars?,Track eclipses,Align festivals,Add leap days,Adjust lunar months to match seasons,3,Lunar Calendars
-395,Why was the Julian calendar eventually replaced?,Too complex,Didnâ€™t track moon,Drifted from seasons,Religious reasons,2,Solar Calendars
-396,What did the Babylonians believe about celestial events?,They were random,They had no meaning,They were divine omens,They were weather signs,2,Babylonian Astronomy
-397,What does 'Kala' represent in Jyotisha?,Eclipse,Time,Star,Moon,1,Indian Vedic Astronomy
-398,The â€˜Purple Forbidden Enclosureâ€™ referred to:,A forbidden temple,The emperorâ€™s palace,The north circumpolar sky,A seasonal star group,2,Ancient Chinese Astronomy
-399,What were the 'Baktun' in Mayan calendars?,Lunar days,Time cycles of 144,Star charts,Seasons,1,Mayan and Aztec Cosmology
-400,Which philosopher taught Alexander the Great and influenced Greek astronomy?,Plato,Aristotle,Euclid,Anaximander,1,Greek and Roman Theories
-401,Which Norse god is associated with wisdom and knowledge?,Odin,Thor,Loki,Freyr,0,Cosmology in Mythology
-403,The use of right angles in ancient monuments symbolizes:,Order and stability,Chaos,Freedom,Randomness,0,Sacred Geometry & Astronomy
-404,Which European monarch reportedly died shortly after a comet was seen?,Henry VIII,Elizabeth I,Charles I,Queen Victoria,2,Ancient Beliefs about Comets and Meteors
-405,The term 'solstice' means:,Sun standing still,Sun moving fast,Sun eclipsed,Sun in shadow,0,Stonehenge and Archaeoastronomy
-406,The star Sirius was important to Egyptians because it:,Signaled the flooding of the Nile,Marked the new year,Represented the goddess Isis,All of the above,3,Pyramids and Stellar Alignments
-407,El Caracol was likely used to predict:,Eclipses,Solar flares,Comet appearances,Meteor showers,0,Ancient Observatories
-408,Ancient Greek star charts heavily influenced which medieval astronomical work?,Almagest,Book of Enoch,Sidereus Nuncius,Principia,0,Ancient Star Charts
-409,Which ancient observatory was built in Samarkand?,Ulugh Beg Observatory,Jantar Mantar,Tower of the Winds,Library of Alexandria,0,Observatories
-410,Which famous ancient instrument was widely refined in the Islamic world and used to find star altitudes for navigation?,Telescope,Quadrant,Astrolabe,Sextant,2,Celestial Navigation
-411,Which cultureâ€™s calendar inspired the Hebrew lunisolar system?,Chinese,Egyptian,Babylonian,Greek,2,Lunar Calendars
-412,The Egyptian solar calendar was closely tied to which star?,Betelgeuse,Polaris,Sirius,Rigel,2,Solar Calendars
-413,Babylonian astronomers often used what to calculate future positions?,Ephemerides,Trial and error,Mathematical models,Lunar charts,0,Babylonian Astronomy
-414,Which Vedic scholar authored 'Vedanga Jyotisha'?,Lagadha,Panini,Katyayana,Brahmagupta,0,Indian Vedic Astronomy
-415,Chinese star names were often associated with:,Numbers,Animals,Social and political roles,Mythology only,2,Ancient Chinese Astronomy
-416,Which deity was associated with time and calendars in Maya belief?,Itzamna,Chaac,Kinich Ahau,Quetzalcoatl,0,Mayan and Aztec Cosmology
-417,What did Eratosthenes famously calculate?,Distance to the Moon,Circumference of the Earth,Distance to the Sun,Length of a year,1,Greek and Roman Theories
-418,In Maya cosmology, the universe is often represented as:,A pyramid,A tree,A circle,A jaguar,1,Cosmology in Mythology
-419,Which Egyptian structure is aligned with the pole star?,Great Pyramid of Giza,Temple of Karnak,Sphinx,Valley of Kings,0,Sacred Geometry & Astronomy
-420,Ancient Chinese astronomers categorized comets based on their:,Shape,Color,Length,Speed,0,Ancient Beliefs about Comets and Meteors
-421,Which astronomical event does the winter solstice mark?,Shortest day of the year,Longest day of the year,Equinox,New year,0,Stonehenge and Archaeoastronomy
-422,The pyramidsâ€™ star alignments served primarily to aid:,The Pharaohâ€™s journey to the afterlife,Agricultural planning,Trade routes,Military navigation,0,Pyramids and Stellar Alignments
-423,Nabta Playaâ€™s discovery helped reshape ideas about:,Ancient African civilizations,Ancient Greek astronomy,Mesopotamian astronomy,Chinese astronomy,0,Ancient Observatories
-424,The term 'asterism' in star charts refers to:,A recognizable star pattern,An individual star,A planet,A comet,0,Ancient Star Charts
-425,What did ancient astronomers call 'wandering stars'?,Comets,Planets,Meteors,Asteroids,1,Terminology
-426,Which factor limits using stars for navigation close to the equator?,Stars never set,Stars rise perpendicular to horizon,Polaris becomes invisible,No constellations,2,Celestial Navigation
-427,What does the term 'lunation' refer to?,One eclipse cycle,One solar cycle,One lunar orbit,One cycle of moon phases,3,Lunar Calendars
-428,How often is a leap year added in the Gregorian calendar?,Every year,Every 2 years,Every 4 years,Every 5 years,2,Solar Calendars
-429,The Babylonian calendar had how many months?,10,12,13,14,1,Babylonian Astronomy
-430,How many degrees are there in the sidereal zodiac?,360,365,390,324,0,Indian Vedic Astronomy
-431,Which tool helped track star movement in ancient Chinese observatories?,Sundial,Astrolabe,Armillary sphere,Telescope,2,Ancient Chinese Astronomy
-432,Which Mesoamerican civilization predated the Maya and influenced their astronomy?,Inca,Olmec,Zapotec,Mixtec,1,Mayan and Aztec Cosmology
-433,The geocentric model places which body at the center?,Sun,Moon,Earth,Mars,2,Greek and Roman Theories
-434,Which ancient culture believed the world rested on a giant turtle?,Greek,Chinese,Hindu,Native American,3,Cosmology in Mythology
-435,The term 'axis mundi' refers to:,World axis,Star axis,Temple axis,Sun axis,0,Sacred Geometry & Astronomy
-436,What role did priests often play in comet sightings?,Recorders,Interpreters,Observers,All of the above,3,Ancient Beliefs about Comets and Meteors
-437,Stonehenge was likely used as a gathering place during:,Seasonal festivals,Daily worship,Ritual sacrifices,Market trading,0,Stonehenge and Archaeoastronomy
-438,Which of these stars was NOT linked with pyramid alignments?,Betelgeuse,Sirius,Polaris,Vega,3,Pyramids and Stellar Alignments
-439,Which feature of El Caracol aids in observing Venusâ€™ cycles?,Windows,Columns,Roof design,Altar,0,Ancient Observatories
-440,Which ancient civilization used the star Sirius as a marker for the Nile flood?,Egyptians,Babylonians,Greeks,Chinese,0,Ancient Star Charts
-441,Which constellation marks the celestial equator?,Orion,Virgo,Both,Neither,2,Constellations
-442,How did Polynesian navigators deal with cloudy nights when stars were obscured?,Wait until dawn,Use known star lines and estimate,Use sun positioning,Use echo soundings,1,Celestial Navigation
-443,What kind of calendar did Julius Caesar implement in 45 BCE?,Lunar,Lunisolar,Solar,Metonic,2,Lunar Calendars
-444,What structure did the Inca use to observe solar patterns?,Tikal,Stonehenge,Intihuatana,Chichen Itza,2,Solar Calendars
-445,The zodiac sign Aries corresponded with which Babylonian constellation?,Gu-anna,Gud-an-na,Mul-kak-si,Mul-gu,0,Babylonian Astronomy
-446,Which Nakshatra is ruled by the Moon?,Ashwini,Pushya,Rohini,Magha,2,Indian Vedic Astronomy
-447,In Chinese cosmology, what concept balanced the universe?,Heaven and Hell,Yin and Yang,Feng and Shui,Light and Dark,1,Ancient Chinese Astronomy
-448,What was used to align buildings with Venus's cycle?,Solar shadows,Star maps,Observation slits,Water mirrors,2,Mayan and Aztec Cosmology
-449,How did Greek astronomers measure the Earth's circumference?,Using shadows at different latitudes,Star positions,Sun eclipses,Planet brightness,0,Greek and Roman Theories
-450,What is the Hindu cosmic cycle called that describes the universe's birth and destruction?,Yuga,Moksha,Karma,Brahma,0,Cosmology in Mythology
-451,Which of these temples aligns with the rising sun on the equinox?,Konark Sun Temple,Angkor Wat,Machu Picchu,Parthenon,0,Sacred Geometry & Astronomy
-452,Which meteor shower was known to the ancient Greeks?,Perseids,Leonids,Orionids,Geminids,0,Ancient Beliefs about Comets and Meteors
-453,Which type of stone was transported from Wales to build part of Stonehenge?,Bluestone,Granite,Marble,Limestone,0,Stonehenge and Archaeoastronomy
-454,The design of pyramids suggests a sophisticated understanding of:,Astronomy,Mathematics,Engineering,All of the above,3,Pyramids and Stellar Alignments
-455,Jantar Mantarâ€™s instruments are primarily made from:,Stone and marble,Wood,Metal and glass,Clay,0,Ancient Observatories
-456,In ancient star charts, the Milky Way was often depicted as:,A river,A road,A tree,A snake,0,Ancient Star Charts
-457,What is the Saros cycle used to predict?,Seasons,Eclipses,Equinoxes,Solstices,1,Cycles
-458,Which body of water saw early use of celestial navigation by Egyptians and Greeks?,Atlantic Ocean,Persian Gulf,Mediterranean Sea,Indian Ocean,2,Celestial Navigation
-459,Which Buddhist traditions still use lunar calendars for festival dates?,Mahayana,TheravÄda,Vajrayana,All of the above,3,Lunar Calendars
-460,Which calendar is most widely used around the world today?,Julian,Hebrew,Gregorian,Lunar,2,Solar Calendars
-461,Babylonians were the first to notice the periodicity of which lunar cycle?,Tidal force,Synodic month,Saros cycle,Lunar standstill,2,Babylonian Astronomy
-462,What is the term for planetary conjunction in Jyotisha?,Yoga,Dosha,Ashtakavarga,Sandhi,0,Indian Vedic Astronomy
-463,What type of celestial chart was used at Dunhuang?,Clay tablets,Star scrolls,Painted wall charts,Papyrus maps,2,Ancient Chinese Astronomy
-464,Why was the number 260 significant in Mayan culture?,Days in a year,Days of war,Gestation cycle,Comet cycles,2,Mayan and Aztec Cosmology
-465,What was the shape of the Earth according to Greek astronomy?,Flat,Spherical,Cylindrical,Conical,1,Greek and Roman Theories
-466,In Egyptian mythology, the god Atum created the world by:,Speaking,Spitting,Breathing,Touching,1,Cosmology in Mythology
-467,Which mathematical constant is frequently found in sacred architecture?,Pi,Eulerâ€™s number,Gamma,Delta,0,Sacred Geometry & Astronomy
-468,In ancient times, the sudden appearance of a comet was called a:,Worm star,Hairy star,Fury star,Star of fire,1,Ancient Beliefs about Comets and Meteors
-469,Which of these is NOT a proposed purpose of Stonehenge?,Burial site,Astronomical observatory,Marketplace,Religious center,2,Stonehenge and Archaeoastronomy
-470,Which Pharaohâ€™s reign is most closely associated with the Great Pyramid?,Khufu,Khafre,Menkauure,Tutankhamun,0,Pyramids and Stellar Alignments
-471,The alignment of stones at Nabta Playa is evidence of:,Early astronomical knowledge,Ritualistic practices,Artistic expression,Agricultural use,0,Ancient Observatories
-472,Which constellation is associated with the myth of the hunter in many ancient cultures?,Orion,Leo,Scorpius,Draco,0,Ancient Star Charts
-473,Which ancient culture developed the Long Count calendar?,Maya,Aztec,Inca,Egyptian,0,Calendars
-474,What is a â€œstar lineâ€ in the Hawaiian star compass context?,A galaxy arm used for direction,A set of stars that rise and set along known bearings,Meteor shower path,Asterism crossing zenith,1,Celestial Navigation
-475,What caused the months in ancient lunar calendars to shift over years?,Precession,No solar correction,Earthquake cycles,Planetary motion,1,Lunar Calendars
-476,The Aztec solar calendar divided the year into how many months?,12,13,18,20,2,Solar Calendars
-477,What kind of eclipse records were common in Babylonian texts?,Solar only,Lunar only,Both solar and lunar,Only planetary eclipses,2,Babylonian Astronomy
-478,Rahu and Ketu represent:,Planets,Shadow planets,Luminaries,Stars,1,Indian Vedic Astronomy
-479,How many constellations were identified in traditional Chinese astronomy?,88,108,283,300,2,Ancient Chinese Astronomy
-480,Which Mayan city contains Venus alignment structures?,CopÃ¡n,Calakmul,Palenque,Uxmal,0,Mayan and Aztec Cosmology
-481,What was the Ptolemaic systemâ€™s main flaw?,Did not predict eclipses,Did not explain retrograde motion,Too complex,Did not accurately predict planetary positions,3,Greek and Roman Theories
-482,Which Norse figure is considered the world serpent?,Fenrir,Jormungandr,Loki,Odin,1,Cosmology in Mythology
-483,Which ancient monument's layout reflects the Milky Wayâ€™s position?,Teotihuacan,Machu Picchu,Stonehenge,Newgrange,0,Sacred Geometry & Astronomy
-484,The ancient Egyptians often associated meteors with:,The afterlife,The Nile floods,Raâ€™s journey,Osirisâ€™s death,2,Ancient Beliefs about Comets and Meteors
-485,What do the lintels of Stonehenge refer to?,Horizontal stones on top,Vertical stones on bottom,Entrance stones,Altar stones,0,Stonehenge and Archaeoastronomy
-486,The ancient Egyptians believed the Pharaohâ€™s soul would join which star after death?,Sirius,Orionâ€™s Belt,Polaris,Venus,1,Pyramids and Stellar Alignments
-487,El Caracol is unique among Mayan buildings due to its:,Astronomical function,Size,Decoration,Location,0,Ancient Observatories
-488,The star catalog 'Almagest' was written in which language?,Greek,Latin,Arabic,Hindi,0,Ancient Star Charts
-489,What phenomenon did ancient astronomers call 'retrograde motion'?,Eclipses,Apparent backward movement of planets,Moon phases,Star twinkling,1,Planetary Motion
-490,Which Arabic word refers to the simple starâ€‘latitude measuring device (kamal)?,Alhazen,Khashaba,Zij,Almanac,1,Celestial Navigation
-491,In Hindu calendars, 'Purnima' refers to:,New moon,Half moon,Full moon,Dark moon,2,Lunar Calendars
-492,In ancient India, which solar calendar was used in conjunction with the lunar calendar?,Saka calendar,Dravidian calendar,Julian calendar,Vikram Samvat,0,Solar Calendars
-493,What was the typical medium for Babylonian astronomical data?,Papyrus scrolls,Stone tablets,Clay tablets,Bronze plates,2,Babylonian Astronomy
-494,Jyotisha divides time into:,Ayanamsas,Dashas,Kaalams,Ritus,1,Indian Vedic Astronomy
-495,Who was Zhang Heng?,A poet,A physician,An astronomer and inventor,A mathematician,2,Ancient Chinese Astronomy
-496,The â€˜E-groupâ€™ structures were primarily used for:,Farming,Defense,Astronomical observation,Burial,2,Mayan and Aztec Cosmology
-497,What later astronomer improved on Ptolemyâ€™s epicycles with elliptical orbits?,Copernicus,Kepler,Galileo,Tycho Brahe,1,Greek and Roman Theories
-498,According to Greek mythology, who is the mother of the gods?,Rhea,Hera,Gaia,Demeter,2,Cosmology in Mythology
-499,What does the pentagram often symbolize in sacred geometry?,The five elements,The five planets,The five senses,The five seasons,0,Sacred Geometry & Astronomy
-500,Which ancient astronomer first suggested comets were atmospheric phenomena?,Aristotle,Ptolemy,Hipparchus,Thales,0,Ancient Beliefs about Comets and Meteors
-501,Stonehengeâ€™s design incorporates which ancient geometric shape?,Circle,Square,Triangle,Hexagon,0,Stonehenge and Archaeoastronomy
-502,What modern tool helped verify pyramid alignments with stars?,Satellite imaging,Telescope,GPS,All of the above,3,Pyramids and Stellar Alignments
-503,The design of Jantar Mantar influenced:,Modern observatories,Religious temples,Pyramids,Palaces,0,Ancient Observatories
-504,Early star charts often linked constellations to:,Mythology,Agriculture,Medicine,Architecture,0,Ancient Star Charts
-505,Who wrote the Almagest?,Ptolemy,Aristotle,Hipparchus,Euclid,0,Ancient Texts
-506,What is â€˜dead reckoningâ€™ in navigation, often used along with stars?,Using stars only,Estimating position by previous speed & heading,Using only the sun,Using magnetic variation charts,1,Celestial Navigation
-507,Which festival is celebrated on the 15th day of the 8th lunar month in Chinese culture?,Qingming Festival,Lantern Festival,Mid-Autumn Festival,Dragon Boat Festival,2,Lunar Calendars
-508,Which civilization created the first known 365-day calendar?,Romans,Egyptians,Greeks,Maya,1,Solar Calendars
-509,Which constellation was known to Babylonians as 'The Goat-Fish'?,Aquarius,Capricorn,Pisces,Sagittarius,1,Babylonian Astronomy
-510,Which planet is considered a benefic and associated with teachers?,Shani,Guru,Budha,Rahu,1,Indian Vedic Astronomy
-511,What natural event was often predicted using Chinese astronomy?,Earthquakes,Storms,Floods,Eclipses,3,Ancient Chinese Astronomy
-512,The Aztecs believed each cosmic era ended in:,Peace,Rebirth,Disaster,Ascension,2,Mayan and Aztec Cosmology
-513,Who was the first to create a comprehensive star catalog?,Hipparchus,Ptolemy,Aristotle,Pliny,0,Greek and Roman Theories
-514,In Hindu belief, what is the cosmic ocean called?,Samudra,Nila,Varuna,Vishnu,0,Cosmology in Mythology
-515,Which temple in Cambodia is renowned for its astronomical alignments?,Angkor Wat,Machu Picchu,Parthenon,Teotihuacan,0,Sacred Geometry & Astronomy
-516,In Mesopotamian culture, comets were linked with:,Kingship,Fertility,War,Harvest,2,Ancient Beliefs about Comets and Meteors
-517,Which celestial bodyâ€™s rising and setting was Stonehenge designed to observe?,Sun,Moon,Venus,Mars,0,Stonehenge and Archaeoastronomy
-518,Which ancient text helped decode star myths linked to the pyramids?,Rosetta Stone,Book of Thoth,Pyramid Texts,Book of the Dead,2,Pyramids and Stellar Alignments
-519,The discovery of Nabta Playa changed the timeline for:,Ancient astronomy in Africa,Ancient Egyptian history,Mayan calendar,Greek astronomy,0,Ancient Observatories
-520,Which culture is known for star charts that influenced the Islamic Golden Age?,Babylonian,Greek,Chinese,Indian,1,Ancient Star Charts
-521,What did ancient Chinese call the North Star?,Purple Star,Emperor Star,Heaven's Center,All of the above,3,Chinese Astronomy
-522,Which of these is *not* a celestial navigation technique?,Using moon for bearing,Using stars for azimuth,Using Polaris altitude,Using sun shadow for direction,0,Celestial Navigation
-523,Which empire used a lunisolar calendar but heavily based their months on moon phases?,Roman,Assyrian,Greek,Mayan,2,Lunar Calendars
-524,What did the Mayans call the five â€˜namelessâ€™ days at the end of their solar year?,Tzolkâ€™in,Wayebâ€™,Haabâ€™,Uayebâ€™,1,Solar Calendars
-525,Babylonian astronomy laid foundations for:,Modern physics,Astrology and ephemerides,Astronautics,Alchemy,1,Babylonian Astronomy
-526,What shape is assumed for orbits in traditional Indian astronomy?,Circular,Elliptical,Linear,Zig-zag,0,Indian Vedic Astronomy
-527,The Chinese 24 solar terms helped determine:,Festival dates,Rainfall,Time zones,Seasonal changes,3,Ancient Chinese Astronomy
-528,How many suns or ages did the Aztecs believe preceded the current one?,3,4,5,6,2,Mayan and Aztec Cosmology
-529,The Almagest was originally written in:,Latin,Greek,Arabic,Hebrew,1,Greek and Roman Theories
-530,The Aztec calendar was closely tied to which cosmological concept?,Ritual cycles,Sunâ€™s journey,Moon phases,Venus cycles,0,Cosmology in Mythology
-531,What is the significance of the number 7 in ancient astronomy and sacred geometry?,Days of the week,Planets known to ancients,Colors of the rainbow,All of the above,3,Sacred Geometry & Astronomy
-532,What was a common reaction to comet sightings in medieval Europe?,Celebration,Feasts,Fear and prayers,Ignorance,2,Ancient Beliefs about Comets and Meteors
-533,The summer solstice sunrise aligns with which part of Stonehenge?,The Heel Stone,The Altar Stone,The Station Stones,The Bluestones,0,Stonehenge and Archaeoastronomy
-534,The â€˜air shaftsâ€™ in the Great Pyramid were initially thought to be for:,Ventilation,Religious purposes,Star observation,Storage,0,Pyramids and Stellar Alignments
-535,Which Indian astronomer inspired the construction of Jantar Mantar?,Varahamihira,Brahmagupta,Aryabhata,Jai Singh II,3,Ancient Observatories
-536,The star charts from the Hellenistic period were influenced by:,Egyptian and Babylonian astronomy,Chinese and Indian astronomy,Greek and Roman mythology,Persian and Arab culture,0,Ancient Star Charts
-537,Which ancient Greek proposed that the Sun was at the center of the cosmos?,Aristarchus,Aristotle,Ptolemy,Plato,0,Cosmic Models
-538,Which navigational challenge remained unsolved until accurate marine chronometers, despite celestial methods?,Finding latitude,Measuring speed,Estimating longitude,Estimating declination,2,Celestial Navigation
-539,What was the Greek name for their lunar calendar months?,Kalends,Nymena,SelÄ“nÄ“,Dekas,1,Lunar Calendars
-540,What does 'heliacal rising' mean in ancient solar calendars?,First rising of moon,First rising of sun,Star rising just before sunrise,Star rising at midnight,2,Solar Calendars
-541,What did Babylonians call the moon god?,Sin,Shamash,Marduk,Nabu,0,Babylonian Astronomy
-542,Jyotisha is one of the six limbs of:,Ayurveda,Vedanga,Purana,Dharma Shastra,1,Indian Vedic Astronomy
-543,Which comet was recorded by the Chinese as early as 240 BCE?,Enckeâ€™s Comet,Halleyâ€™s Comet,Comet Hale-Bopp,Comet Swift-Tuttle,1,Ancient Chinese Astronomy
-544,The Mayan term 'Ahau' refers to:,Star,King,Sun,War,2,Mayan and Aztec Cosmology
-545,Which Roman astronomer supported the geocentric model in the Renaissance?,Ptolemy,Kepler,Galileo,Copernicus,0,Greek and Roman Theories
-546,Which Norse goddess is associated with the earth?,Frigg,Sif,Hel,Nerthus,1,Cosmology in Mythology
-547,Which culture used the term 'Mandala' for spiritual geometric designs?,Indian,Greek,Egyptian,Chinese,0,Sacred Geometry & Astronomy
-548,The 'Great Comet' of 1066 was famously linked to:,The Norman conquest,The Black Death,The fall of Rome,The discovery of America,0,Ancient Beliefs about Comets and Meteors
-549,What is the estimated age of Stonehenge?,Around 5000 years,Around 1000 years,Around 2000 years,Around 3000 years,3,Stonehenge and Archaeoastronomy
-550,The alignment of pyramids with stars is an example of:,Archaeoastronomy,Astrology,Mythology,Navigation,0,Pyramids and Stellar Alignments
-551,El Caracolâ€™s circular tower is believed to represent:,The cosmos,The sun,The earth,The moon,0,Ancient Observatories
-552,Which constellation is commonly depicted as a scorpion in ancient star charts?,Scorpius,Leo,Virgo,Taurus,0,Ancient Star Charts
-553,What astronomical unit did ancient Babylonians use?,Degree,Radian,Grad,Turn,0,Mathematics
-554,In Greek/Roman navigation, which star was used as a â€œsteering starâ€ on the left or right side of the ship?,Polaris,Dubhe,Antares,Regulus,1,Celestial Navigation
-555,What is the average length of a lunar year (in days)?,354,360,365,340,0,Lunar Calendars
-556,The solar calendar used by ancient Persians is still celebrated as which modern holiday?,Ramadan,Nowruz,Diwali,Passover,1,Solar Calendars
-557,The 'Venus Tablets' of Ammisaduqa recorded which planetâ€™s appearances?,Mercury,Mars,Venus,Jupiter,2,Babylonian Astronomy
-558,Which time unit in Jyotisha is equal to 48 minutes?,Ghatika,Muhurta,Yama,Kala,1,Indian Vedic Astronomy
-559,The earliest Chinese records of astronomical events were inscribed on:,Bronze bells,Silk scrolls,Bamboo slips,Oracle bones,3,Ancient Chinese Astronomy
-560,What was the significance of the ball game in Mayan cosmology?,Entertainment,Ritual sacrifice,Symbol of celestial struggle,Harvest game,2,Mayan and Aztec Cosmology
-561,What is an epicycle in simple terms?,A planetâ€™s main orbit,A small circle a planet moves on while orbiting Earth,A star's path,The orbit of the Moon,1,Greek and Roman Theories
-562,In Greek mythology, the primordial deities Gaia and Uranus represent:,Earth and Sky,Light and Darkness,Life and Death,Fire and Water,0,Cosmology in Mythology
-563,Which tool helped ancient astronomers study celestial alignments?,Gnomon,Astrolabe,Quadrant,All of the above,3,Sacred Geometry & Astronomy
-564,Which ancient culture created detailed star charts that included comets?,Chinese,Aztec,Greek,Inca,0,Ancient Beliefs about Comets and Meteors
-565,Which element of Stonehengeâ€™s architecture is unique among stone circles?,Mortise and tenon joints,Carvings,Lunar markings,Metal reinforcements,0,Stonehenge and Archaeoastronomy
-566,Which star constellation was most significant to ancient Egyptian cosmology?,Orion,Leo,Scorpius,Cassiopeia,0,Pyramids and Stellar Alignments
-567,Which astronomical event is especially marked by Nabta Playa stones?,Summer Solstice sunrise,Winter Solstice sunset,Lunar eclipse,Venus transit,0,Ancient Observatories
-568,The oldest known celestial globe was created in:,Ancient Greece,Ancient China,Ancient India,Ancient Egypt,0,Ancient Star Charts
-569,Which structure was the world's first astronomical observatory?,Stonehenge,Goseck Circle,Nabta Playa,Kokino,1,Observatories
-570,Which modern-day countryâ€™s ancient sailors used the kamal method in the Indian Ocean?,China,India,Greece,Rome,1,Celestial Navigation
-571,How many lunar months make up a lunar year?,12,13,14,11,0,Lunar Calendars
-572,What structure in Egypt is believed to be aligned with solar phenomena?,Obelisks,The Sphinx,Abu Simbel Temple,Karnak Temple,2,Solar Calendars
-573,Which planet's retrograde motion was most carefully tracked?,Venus,Saturn,Mars,Jupiter,2,Babylonian Astronomy
-574,Which festival aligns with Nakshatra Pushya?,Diwali,Holi,Guru Purnima,Makar Sankranti,2,Indian Vedic Astronomy
-575,Chinese astronomers considered the emperor the 'Son of':,Stars,Heaven,Earth,Dragon,1,Ancient Chinese Astronomy
-576,Which Mayan temple aligns with the setting sun on the equinox?,Temple of Inscriptions,Temple of KukulcÃ¡n,Temple of Warriors,Temple of the Jaguar,1,Mayan and Aztec Cosmology
-577,Which feature did the Greeks believe celestial spheres had?,Transparent,Solid,Invisible,Fluid,1,Greek and Roman Theories
-578,Which creature is often depicted as the cosmic serpent in Hindu myth?,Vritra,Naga,Garuda,Makara,1,Cosmology in Mythology
-579,What feature of Stonehenge aligns with the sunrise on the summer solstice?,Heel Stone,Altar Stone,Station Stones,Blue Stones,0,Sacred Geometry & Astronomy
-580,What is a common symbol used to represent meteors in ancient art?,Arrows,Fireballs,Serpents,Waves,1,Ancient Beliefs about Comets and Meteors
-581,Which modern-day event attracts thousands of people to Stonehenge annually?,Summer Solstice,Winter Solstice,Equinoxes,Harvest Festival,0,Stonehenge and Archaeoastronomy
-582,What feature of the pyramids helps study their star alignments today?,Star shafts,Hieroglyphs,Exterior stones,Underground chambers,0,Pyramids and Stellar Alignments
-583,Jantar Mantarâ€™s Yantras serve as:,Astronomical instruments,Religious idols,Water reservoirs,Defensive weapons,0,Ancient Observatories
-584,Which ancient civilization had star charts carved on stone tablets?,Babylonians,Romans,Greeks,Egyptians,0,Ancient Star Charts
-585,What did ancient astronomers use epicycles to explain?,Solar eclipses,Retrograde motion,Moon phases,Star positions,1,Cosmic Models
-586,What was the role of memorizing rising/setting bearings of stars in the night sky?,To predict eclipses,To maintain a constant heading,To find latitude numerically,To compute calendar dates,1,Celestial Navigation
-587,What is a blue moon in the lunar calendar context?,Second full moon in a calendar month,First moon after solstice,Eclipse month,First full moon of spring,0,Lunar Calendars
-588,Why did ancient civilizations switch from lunar to solar calendars?,More accurate for festivals,Easier math,Matched star charts,Aligned with agriculture,3,Solar Calendars
-589,Babylonian astronomers often worked in which profession?,Merchants,Clerics,Temple priests,Farmers,2,Babylonian Astronomy
-590,In Jyotisha, the term â€˜Grahaâ€™ literally means:,Planet,Star,Seizer,Orbit,2,Indian Vedic Astronomy
-591,What purpose did ancient Chinese astronomy often serve?,Myth writing,Calendar reform,Astrological fortune-telling,Imperial legitimacy,3,Ancient Chinese Astronomy
-592,What shape was the Mayan universe often represented as?,Circle,Square,Tree,Layered levels,3,Mayan and Aztec Cosmology
-593,How did Ptolemy's model affect astronomy for centuries?,It was quickly replaced,It was largely ignored,It was dominant,It was criticized,2,Greek and Roman Theories
-594,Which Hindu god is known as the 'Destroyer' in the cosmic cycle?,Brahma,Vishnu,Shiva,Indra,2,Cosmology in Mythology
-595,The geometric concept of 'sacred space' is based on:,Celestial alignments,Mathematical harmony,Religious symbolism,All of the above,3,Sacred Geometry & Astronomy
-596,In many cultures, meteors were believed to be:,Falling gods,Souls of the dead,Angelic beings,All of the above,3,Ancient Beliefs about Comets and Meteors
-597,Which other ancient structure shares similarities with Stonehengeâ€™s astronomical alignments?,Newgrange,Great Pyramid of Giza,Machu Picchu,Chichen Itza,0,Stonehenge and Archaeoastronomy
-598,Which famous pyramid has no star shafts?,Step Pyramid,Great Pyramid,Bent Pyramid,Red Pyramid,2,Pyramids and Stellar Alignments
-599,Which modern technology has helped study ancient observatories better?,Satellite imaging,Radio telescopes,X-ray scanning,3D printing,0,Ancient Observatories
-600,In early star charts, the zodiac signs were used primarily for:,Tracking planetary movements,Predicting weather,Marking seasons,Religious rituals,0,Ancient Star Charts
-601,Which planet did Babylonians associate with their chief god Marduk?,Jupiter,Saturn,Mars,Venus,0,Mythology
-602,Which factor does **not** influence the apparent rising azimuth of a star?,Observerâ€™s latitude,Precession over centuries,Local horizon shape,Time of year,3,Celestial Navigation
-603,Which ancient calendar used 12 lunar months and added a 13th month every few years?,Islamic calendar,Babylonian calendar,Mayan calendar,Egyptian calendar,1,Lunar Calendars
-604,What challenge did solar calendars help solve for early farmers?,Moon phases,Daylight prediction,Seasonal drift,Crop rotation,2,Solar Calendars
-605,What mathematical concept did Babylonians apply in astronomy?,Algebra,Geometry,Trigonometry,Logarithms,1,Babylonian Astronomy
-606,Which ancient Indian astronomer calculated the Earth's circumference?,Bhaskara I,Brahmagupta,Aryabhata,Varahamihira,2,Indian Vedic Astronomy
-607,Which of the following is a Chinese astronomical treatise?,Tianwen Lun,Book of Skies,Star Code of Qin,Tianjing,0,Ancient Chinese Astronomy
-608,Which god was associated with the planet Venus in Aztec belief?,Tlaloc,Quetzalcoatl,Huitzilopochtli,Mictlantecuhtli,1,Mayan and Aztec Cosmology
-609,What was the role of the 'deferent' in Ptolemy's model?,Main orbital path,Small circular motion,Axis tilt,Planetary brightness,0,Greek and Roman Theories
-610,The concept of multiple worlds or cycles of creation is called:,Samsara,Moksha,Yuga,Karma,0,Cosmology in Mythology
-611,Which ancient culture used geodesic domes in their architecture?,Maya,Egyptian,Greek,Inca,0,Sacred Geometry & Astronomy
-612,The appearance of a comet was sometimes interpreted as:,A call to arms,A warning to rulers,A sign of change,All of the above,3,Ancient Beliefs about Comets and Meteors
-613,What evidence supports Stonehengeâ€™s use as an astronomical observatory?,Alignments with solstices,Artifacts of star maps,Written records,All of the above,0,Stonehenge and Archaeoastronomy
-614,What material was primarily used to build the Great Pyramid?,Limestone,Granite,Marble,Basalt,0,Pyramids and Stellar Alignments
-615,El Caracolâ€™s alignment helped ancient Maya track:,Planetary movements,Lunar eclipses,Comet arrivals,Solar flares,0,Ancient Observatories
-616,Which constellation is linked to the goddess Artemis in Greek mythology?,Orion,Ursa Major,Leo,Virgo,0,Ancient Star Charts
-617,What was the primary purpose of Stonehenge according to astronomers?,Temple,Calendar,Observatory,All of the above,3,Architecture
-618,What is the opposite concept of a starâ€™s rising point?,Culmination,Setting point,Transit,Declination,1,Celestial Navigation
-619,What is the Hebrew intercalary month added 7 times every 19 years?,Adar,Adar II,Tishrei,Nisan,1,Lunar Calendars
-620,Which cultureâ€™s solar calendar included solar zenith days due to its equatorial location?,Chinese,Incan,Mayan,Egyptian,2,Solar Calendars
-621,Which god was linked to the sun in Babylonian belief?,Sin,Marduk,Shamash,Nabu,2,Babylonian Astronomy
-622,Which text explains solar and lunar eclipses using shadow planets?,Surya Siddhanta,Vedanga Jyotisha,Brahmasphutasiddhanta,Pancha Siddhantika,0,Indian Vedic Astronomy
-623,What was the color associated with the North and the Black Tortoise?,White,Green,Red,Black,3,Ancient Chinese Astronomy
-624,Which element was believed to be ruled by Venus?,Earth,Air,Fire,Water,2,Mayan and Aztec Cosmology
-625,The term 'Almagest' comes from which language?,Greek,Arabic,Latin,Hebrew,1,Greek and Roman Theories
-626,In many mythologies, what does the â€˜cosmic eggâ€™ symbolize?,Creation,Destruction,Chaos,Order,0,Cosmology in Mythology
-627,The 'vesica piscis' shape in sacred geometry is formed by:,Two overlapping circles,A triangle and a circle,A square and a circle,Two overlapping triangles,0,Sacred Geometry & Astronomy
-628,Which ancient astronomer differentiated between comets and planets?,Tycho Brahe,Galileo,Kepler,Copernicus,0,Ancient Beliefs about Comets and Meteors
-629,Which ancient society used Stonehenge before the Celts?,Neolithic farmers,Bronze Age warriors,Romans,Anglo-Saxons,0,Stonehenge and Archaeoastronomy
-630,Orionâ€™s Belt is made up of how many stars?,Three,Four,Five,Seven,0,Pyramids and Stellar Alignments
-631,Nabta Playaâ€™s stone circle is thought to be one of the earliest examples of:,Astronomical alignment,Astronomical instruments,Astronomy textbooks,Astronomical myths,0,Ancient Observatories
-632,The Chinese star chart known as the 'Star Manual of Master Gan' was created in which century?,6th century BCE,4th century CE,1st century BCE,3rd century CE,1,Ancient Star Charts
-633,Who discovered the precession of the equinoxes?,Hipparchus,Ptolemy,Aristotle,Pythagoras,0,Discoveries
-634,Which sea route in ancient times would most likely benefit from nocturnal star navigation?,Coastal river path,Crossâ€‘ocean route,Inland lake crossing,Desert caravan route,1,Celestial Navigation
-635,In ancient India, which system divided lunar months based on the full moonâ€™s position?,Nakshatra system,Solar rasi method,Purnimanta system,Amanta system,2,Lunar Calendars
-636,What device was used by ancient Greeks to measure solar time?,Clepsydra,Astrolabe,Sundial,Chronograph,2,Solar Calendars
-637,Which era is considered the golden age of Babylonian astronomy?,Old Babylonian,Neo-Assyrian,Neo-Babylonian,Akkadian,2,Babylonian Astronomy
-638,Which Nakshatra ends the zodiac cycle?,Ashwini,Bharani,Revati,Chitra,2,Indian Vedic Astronomy
-639,How were eclipses viewed in ancient Chinese society?,Scientific events,Omens of war,Natural phenomena,Religious signs,1,Ancient Chinese Astronomy
-640,How did the Maya mark time over thousands of years?,Star charts,Long Count calendar,Animal cycles,Eclipse records,1,Mayan and Aztec Cosmology
-641,Which object did ancient Greeks NOT consider a planet?,Moon,Venus,Mars,Saturn,0,Greek and Roman Theories
-642,Which Norse event marks the end of the world and its rebirth?,Ragnarok,Midsummer,Yule,Midwinter,0,Cosmology in Mythology
-643,Which star's heliacal rising was significant in Egyptian sacred geometry?,Sirius,Polaris,Betelgeuse,Vega,0,Sacred Geometry & Astronomy
-644,What was the general ancient belief about meteors and cometsâ€™ influence on humans?,No influence,Negative influence,Positive influence,Random influence,1,Ancient Beliefs about Comets and Meteors
-645,Which tool did researchers use to verify Stonehengeâ€™s alignments?,Laser scanning,Ruler,Compass,Astrolabe,0,Stonehenge and Archaeoastronomy
-646,The concept of aligning monuments with stars is part of which field?,Archaeoastronomy,Astrology,Astronomy,Mythology,0,Pyramids and Stellar Alignments
-647,Which of the following is NOT true about Jantar Mantar?,It is still operational,It is located in Rajasthan,It contains multiple instruments,It was built in the 20th century,3,Ancient Observatories
-648,Which star is the brightest in the night sky and featured in many ancient star charts?,Sirius,Canopus,Polaris,Vega,0,Ancient Star Charts
-649,What did ancient Arabs call Polaris?,Al Kiblah,Al Kutb,Al Thurayya,Al Nasr,1,Arabic Astronomy
-650,Which of these is true about using stars to navigate in the southern hemisphere (ancient times)?,Polaris was used there,They used Southern Cross & southern constellations,North Star was always above horizon,No stars visible,1,Celestial Navigation
-651,How did ancient Chinese determine the need for a leap month?,Position of sun and moon,Star positions,Lunar eclipses,Weather patterns,0,Lunar Calendars
-652,What was the main purpose of aligning temples and monuments with solstices?,Honor deities,Mark seasonal changes,Predict rain,Track constellations,1,Solar Calendars
-653,What is the significance of the Saros cycle in Babylonian astronomy?,Used to track eclipses,Used for agriculture,Used for worship,Used for calendars,0,Babylonian Astronomy
-654,Which Graha is considered most benefic in Jyotisha?,Rahu,Moon,Sun,Jupiter,3,Indian Vedic Astronomy
-655,Why were comet observations meticulously recorded?,Beauty of comets,Navigation aid,Believed to predict dynasty changes,Used for calendars,2,Ancient Chinese Astronomy
-656,Venus cycles were recorded in which famous codex?,Popol Vuh,Dresden Codex,Madrid Codex,Chilam Balam,1,Mayan and Aztec Cosmology
-657,Which planetâ€™s orbit was most complex to explain in the geocentric model?,Mercury,Mars,Venus,Jupiter,0,Greek and Roman Theories
-658,In Hindu cosmology, the universe is cyclically created and destroyed by which god?,Vishnu,Shiva,Brahma,Indra,2,Cosmology in Mythology
-659,The use of geometry in astronomy helped ancient cultures to:,Predict seasons,Plan religious ceremonies,Construct monuments,All of the above,3,Sacred Geometry & Astronomy
-660,Which planet was sometimes mistaken for a comet in ancient observations?,Venus,Mars,Jupiter,Saturn,0,Ancient Beliefs about Comets and Meteors
-661,Stonehengeâ€™s alignment helps mark the changing of:,Seasons,Months,Years,Days,0,Stonehenge and Archaeoastronomy
-662,Which ancient monument shares a similar star alignment concept with the Egyptian pyramids?,Machu Picchu,Stonehenge,Chichen Itza,Newgrange,1,Pyramids and Stellar Alignments
-663,The construction of Nabta Playaâ€™s observatory predates Stonehenge by approximately how many years?,1000 years,2000 years,3000 years,4000 years,1,Ancient Observatories
-664,Which tool was essential for ancient astronomers to create star charts?,Gnomon,Astrolabe,Telescope,Compass,1,Ancient Star Charts
-665,Which ancient civilization created a 365-day calendar?,Egyptian,Babylonian,Greek,Roman,0,Calendars
-666,What is the name of the traditional Polynesian navigation revival master who helped reestablish star wayfinding?,Christopher Columbus,James Cook,Mau Piailug,Magellan,2,Celestial Navigation
-667,In Mesopotamia, how many days did their typical lunar month have?,30,28,29 or 30 depending on observation,27,2,Lunar Calendars
-668,What celestial object did Anaxagoras claim was a hot rock?,Moon,Sun,Venus,Mars,1,Early Theories
-669,Which ancient navigational tool is a modification of the planispheric astrolabe adapted for use at sea?,Marinerâ€™s astrolabe,Cross staff,Backstaff,Sextant,0,Celestial Navigation
-670,Which calendar system replaced the Julian calendar due to solar drift?,Babylonian,Gregorian,Hebrew,Chinese,1,Lunar Calendars
-671,Which Indian astronomer proposed that Earth rotates on its axis?,Aryabhata,Brahmagupta,Bhaskara,Varahamihira,0,Indian Astronomy
-672,What is the main reason a starâ€™s altitude (angle above horizon) changes over a night?,Earthâ€™s rotation,Starâ€™s intrinsic motion,Earthâ€™s revolution around sun,Precession,0,Celestial Navigation
-673,Which culture celebrated lunar-based festivals like Imbolc and Samhain?,Greek,Indian,Celtic,Mayan,2,Lunar Calendars
-674,What is the approximate period of the Metonic cycle?,19 years,28 years,76 years,12 years,0,Cycles
-675,Which navigation method did ancient sailors sometimes combine with celestial navigation to improve accuracy?,Dead reckoning,Radio triangulation,Radar,Satellite GPS,0,Celestial Navigation
-676,Why are Islamic months not tied to seasons?,They don't use intercalary months,They use solar events,Calendar is fixed,They start each month with a full moon,0,Lunar Calendars
-677,Which planet appears brightest from Earth?,Venus,Jupiter,Mars,Saturn,0,Observations
-678,Which regionâ€™s ancient sailors mastered wayfinding over thousands of miles of open ocean using stars and nature?,Mediterranean,Indian Ocean,Polynesia,Baltic Sea,2,Celestial Navigation
-679,The term 'waxing moon' refers to:,Moon shrinking,New moon phase,Increasing visible moon,Full moon,2,Lunar Calendars
-680,What did Eudoxus create to explain planetary motion?,Epicycles,Spheres,Ellipses,Orbits,1,Cosmic Models
-681,What concept refers to the visible path a star traces across the sky during the night for navigators?,Ecliptic,Diurnal arc,Galactic plane,Meridian,1,Celestial Navigation
-682,Which phase is the moon in during a solar eclipse?,New moon,Full moon,Waning moon,Quarter moon,0,Lunar Calendars
-683,Which constellation contains the Pleiades star cluster?,Taurus,Orion,Perseus,Gemini,0,Constellations
-684,What is the benefit of having multiple stars rising in similar azimuths (star families)?,They confuse direction,They provide alternate backup bearings,They obscure the horizon,They cancel each other,1,Celestial Navigation
-685,Why did Babylonians use lunar calendars?,Agriculture,Religion,Astronomy,All of the above,3,Lunar Calendars
-686,What astronomical event marks the beginning of spring?,Vernal equinox,Summer solstice,Autumnal equinox,Winter solstice,0,Seasons
-687,Which of these was rarely used by ancient celestial navigators because it is difficult to measure at sea?,Star azimuth,Star altitude,Star parallax,Rising/setting azimuth,2,Celestial Navigation
-688,What instrument did ancient Chinese use to observe lunar phases?,Gnomon,Armillary sphere,Sextant,Calendar stick,1,Lunar Calendars
-689,Which ancient text describes the Hindu cosmology?,Rigveda,Surya Siddhanta,Vedanga Jyotisha,All of the above,3,Ancient Texts
-690,Which ancient civilization made early star catalogs that later aided navigation?,Babylonians,Romans,Aztecs,Incas,0,Celestial Navigation
-691,Which Mayan calendar tracked lunar and eclipse cycles?,Tzolk'in,Haab',Long Count,Lunar Series,3,Lunar Calendars
-692,What did Pythagoras believe about celestial bodies?,They made music,They were gods,They were illusions,They were alive,0,Philosophy
-693,What is the â€œstar compassâ€ in Polynesian navigation?,A physical compass instrument,A mental map of star azimuths,A sunâ€‘shadow device,A lunar calendar,1,Celestial Navigation
-694,Which civilization built temples aligned with lunar events and phases?,Inca,Chinese,Indian,Mayan,3,Lunar Calendars
-695,Which meteor shower did ancient Chinese record in 687 BCE?,Perseids,Leonids,Geminids,Quadrantids,1,Observations
-696,What did ancient Greeks call the morning appearance of Venus?,Phosphorus,Hesperus,Lucifer,Vesper,0,Terminology
-697,Which ancient monument aligns with the winter solstice?,Newgrange,Stonehenge,Both,Neither,2,Architecture
-698,Who proposed that moonlight is reflected sunlight?,Anaxagoras,Empedocles,Both,Neither,2,Moon Studies
-699,What is the zodiacal light?,Aurora,Scattered sunlight,Star glow,Planet reflection,1,Phenomena
-700,Which ancient culture used quipus for astronomical records?,Inca,Maya,Aztec,Toltec,0,Record Keeping
-701,What did Ptolemy add to the geocentric model?,Deferents,Epicycles,Equants,All of the above,3,Cosmic Models
-702,Which star did ancient Egyptians use for calendar alignment?,Sirius,Polaris,Vega,Arcturus,0,Egyptian Astronomy
-703,What astronomical cycle is 26,000 years?,Precession,Great Year,Both,Neither,2,Cycles
-704,Which ancient astronomer measured the Moon's distance?,Hipparchus,Aristarchus,Both,Neither,2,Measurements
-705,What did ancient Persians call astronomy?,Axtarshenasi,Setareshenas,Astronomia,Jyotisha,1,Persian Astronomy
-706,Which constellation represents a bull?,Taurus,Aries,Leo,Capricorn,0,Constellations
-707,What did Democritus propose about the Milky Way?,Made of stars,Milk of Hera,Cloud,River,0,Early Theories
-708,Which ancient observatory is located in India?,Jantar Mantar,Ulugh Beg,Maragheh,Al-Tusi,0,Observatories
-709,What celestial coordinate system did Hipparchus use?,Equatorial,Ecliptic,Horizontal,Galactic,1,Coordinates
-710,Which planet has the fastest apparent motion?,Mercury,Venus,Mars,Moon,0,Planetary Motion
-711,What did Al-Battani improve?,Astronomical tables,Astrolabe,Star catalog,All of the above,3,Arabic Astronomy
-712,Which ancient text contains the oldest eclipse records?,Babylonian tablets,Chinese chronicles,Egyptian papyri,Greek manuscripts,1,Ancient Texts
-713,What is the ecliptic?,Sun's apparent path,Moon's orbit,Earth's orbit,Zodiac band,0,Terminology
-714,Which ancient philosopher believed in a spherical Earth?,Pythagoras,Aristotle,Plato,All of the above,3,Earth's Shape
-715,What did ancient astronomers call fixed stars?,Unchanging stars,Background stars,Aplaneis,All of the above,3,Terminology
-716,Which culture developed the concept of nakshatras?,Indian,Chinese,Persian,Arab,0,Indian Astronomy
-717,What instrument did Tycho Brahe perfect before telescopes?,Quadrant,Sextant,Both,Neither,2,Instruments
-718,Which planet was known to ancient civilizations?,Uranus,Neptune,Saturn,Pluto,2,Planets
-719,What did ancient astronomers call the celestial sphere?,Ouranios,Caelestis,Sama,All of the above,3,Terminology
-720,Which Maya city had an observatory called El Caracol?,Chichen Itza,Tikal,Palenque,Copan,0,Observatories
-721,What is the analemma?,Sun's yearly path,Moon's nodes,Planet's retrograde,Star's motion,0,Solar Phenomena
-722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
-723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
-724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
+
 
 
 
