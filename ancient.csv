@@ -30,7 +30,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 29,The Nebra sky disk is an artifact from which ancient culture, Germanic, Egyptian, Babylonian, Mayan, Germanic, Ancient Civilizations and Astronomy
 30,Which planet did the Babylonians associate with the god Marduk, Jupiter, Mars, Venus, Mercury, Jupiter, Ancient Civilizations and Astronomy
 31,Which ancient civilization believed in the zodiac constellations similar to modern ones, Babylonians, Greeks, Egyptians, Romans, Babylonians, Ancient Civilizations and Astronomy
-32,What does the word "planet" mean in ancient Greek, Wandering star, Bright star, Fixed star, Heavenly body, Wandering star, Ancient Civilizations and Astronomy
+32,What does the word planet mean in ancient Greek, Wandering star, Bright star, Fixed star, Heavenly body, Wandering star, Ancient Civilizations and Astronomy
 33,Who was the first to propose a heliocentric model in ancient times, Aristarchus, Ptolemy, Hipparchus, Copernicus, Aristarchus, Ancient Civilizations and Astronomy
 34,Which ancient structure aligns with the rising of Sirius, Great Pyramid, Stonehenge, Machu Picchu, Chichen Itza, Great Pyramid, Ancient Civilizations and Astronomy
 35,What was the main use of the Babylonian Enuma Anu Enlil tablets, Predicting eclipses, Mapping stars, Calendar making, Weather forecasting, Predicting eclipses, Ancient Civilizations and Astronomy
@@ -699,6 +699,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 498,What material was commonly used to make early astronomical instruments,Bronze,Silver,Iron,Wood,1,Ancient Astronomy Instruments and Observatories
 499,Which ancient observatory is considered one of the oldest in East Asia,Cheomseongdae,Uxmal,Stonehenge,Jantar Mantar,1,Ancient Astronomy Instruments and Observatories
 500,What was the main use of sun dials in ancient times,Telling time,Tracking stars,Marking seasons,Recording eclipses,1,Ancient Astronomy Instruments and Observatories
+
 
 
 
