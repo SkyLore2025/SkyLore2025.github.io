@@ -84,7 +84,628 @@ Energy,What captures waste heat from spacecraft systems?,Thermal reclamation,Hea
 Defense,What protects colonies from micrometeorite impacts?,Whipple shield,Armor plating,Magnetic deflector,Particle beam,1
 Colonization,What grows food in Martian soil simulant?,Modified crops,Earth plants,Synthetic nutrients,Hydroponic systems,1
 Astronomy,What space telescope will succeed James Webb?,Nancy Grace Roman,Habitable Worlds Observatory,LUVOIR,All proposed,2
+category,question,option1,option2,option3,option4,correct_answer
+Space Travel & Propulsion,What is the proposed propulsion system using matter-antimatter reactions?,Fusion drive,Antimatter drive,Ion drive,Warp drive,2
+Space Travel & Propulsion,Which engine type uses electric fields to accelerate ions?,Chemical engine,Fusion engine,Antimatter engine,Ion engine,4
+Space Travel & Propulsion,What theoretical propulsion method involves folding space?,Ramjet,Warp drive,Photon sail,Nuclear pulse,2
+Space Travel & Propulsion,What is a major challenge with faster-than-light travel?,Fuel efficiency,Time dilation,Energy requirements,Gravity loss,3
+Space Travel & Propulsion,Which real-world engine was tested on NASA's Dawn mission?,Warp drive,Fusion drive,Ion engine,Photon drive,3
+Space Travel & Propulsion,Which propulsion concept uses large sails and laser beams?,Solar sail,Nuclear engine,Plasma thruster,Gravity drive,1
+Space Travel & Propulsion,What natural phenomenon could potentially be used for slingshot maneuvers?,Solar flares,Black holes,Gravity wells,Moon tides,3
+Space Travel & Propulsion,Which sci-fi concept allows instantaneous travel between two points?,Warp drive,Wormhole,Quantum tunnel,Hyperspace,2
+Space Travel & Propulsion,Which drive is fictional and bends spacetime to achieve travel?,Ion drive,Plasma drive,Warp drive,Magneto drive,3
+Space Travel & Propulsion,What is one benefit of nuclear thermal propulsion?,Low energy use,Near-infinite speed,High thrust-to-weight ratio,Low heat emission,3
+Space Travel & Propulsion,What propulsion system relies on fusion reactions?,Solar sail,Ion engine,Fusion drive,Photon sail,3
+Space Travel & Propulsion,What’s a limitation of chemical rockets?,Low gravity thrust,Limited range,Excessive speed,Noisy engines,2
+Space Travel & Propulsion,What is a plasma thruster used for?,Atmospheric flight,Interstellar travel,Orbital adjustments,Weapon systems,3
+Space Travel & Propulsion,What does VASIMR stand for?,Variable Atom Speed Ionized Rocket,Very Advanced Spacecraft Impulse Rocket,Variable Specific Impulse Magnetoplasma Rocket,Vacuum Accelerated Shuttle Ion Reactor,3
+Space Travel & Propulsion,Which theoretical method uses black holes as propulsion?,Gravitational slipstream,Black hole sling drive,Event horizon surfing,White hole engine,1
+Space Travel & Propulsion,Which concept uses pulsed nuclear explosions to propel a spacecraft?,Fusion beam,Orion drive,Solar sail,Nuclear chain push,2
+Space Travel & Propulsion,What kind of engine uses sunlight directly for propulsion?,Fusion sail,Photon sail,Solar flare jet,Ion beam sail,2
+Space Travel & Propulsion,What propulsion system might use magnetic fields and plasma?,Chemical engine,Antimatter core,Magnetoplasma drive,Hyperloop booster,3
+Space Travel & Propulsion,Which system uses no reaction mass and is highly controversial?,Ion drive,Fusion sail,EM Drive,Warp coil,3
+Space Travel & Propulsion,What term describes a gravity-based assist to increase speed?,Momentum leap,Speed trap,Gravity assist,Inertial sling,3
+Space Travel & Propulsion,What does the Alcubierre drive theorize?,Using solar sails,Slowing time,Compressing spacetime ahead of the ship,Orbiting black holes for speed,3
+Space Travel & Propulsion,Which starship engine uses explosions behind a pusher plate?,Orion drive,Helios booster,Ion burst engine,Antimatter jet,1
+Space Travel & Propulsion,What’s a key limitation of antimatter propulsion?,Too slow,Fuel abundance,Storage difficulty,Low thrust,3
+Space Travel & Propulsion,What can microthrusters be used for?,Deep space travel,Adjusting satellite position,Launching payloads,Planet landings,2
+Space Travel & Propulsion,Which propulsion system uses high-frequency waves?,Microwave sail,Fusion laser,Plasma injector,Photon booster,1
+Space Travel & Propulsion,What’s the function of a reaction control system?,Shield against radiation,Control spacecraft orientation,Power backup,Monitor fuel,2
+Space Travel & Propulsion,What causes ion thrusters to glow?,Chemical reactions,Magnetic resistance,Charged particles emitting light,Nuclear decay,3
+Space Travel & Propulsion,What is a hypothetical benefit of wormholes?,Infinite energy,Travel through time and space,Energy storage,Colonization,2
+Space Travel & Propulsion,What makes solar sails efficient for long-term travel?,Speed burst,No need for sunlight,Continuous acceleration,Manual control,3
+Space Travel & Propulsion,Why are chemical rockets still widely used?,Easier to build,Unlimited speed,Cheap fuel,Simple navigation,1
+Space Travel & Propulsion,What’s the exhaust velocity of most ion engines?,300 m/s,3,000 m/s,30,000 m/s,300,000 m/s,3
+Space Travel & Propulsion,What is Project Daedalus known for?,First Mars mission,Fusion-powered interstellar probe,EM propulsion test,Colonization plan,2
+Space Travel & Propulsion,Which engine might use hydrogen as fusion fuel?,Warp drive,Antimatter jet,Fusion engine,Solar sail,3
+Space Travel & Propulsion,What is the main function of an ablative shield?,Deflect lasers,Launch propulsion,Protect against re-entry heat,Produce thrust,3
+Space Travel & Propulsion,Why are antimatter rockets not yet viable?,Too expensive,They don't work,Too slow,Can't generate lift,1
+Space Travel & Propulsion,What is a scramjet?,Engine for deep space,A self-learning AI booster,Air-breathing hypersonic jet,Subsurface Mars probe,3
+Space Travel & Propulsion,Which propulsion method has no moving parts?,Ion drive,Plasma core,EM drive,Warp ring,3
+Space Travel & Propulsion,What is the goal of interstellar propulsion research?,Speed up communication,Launch military assets,Enable travel between stars,Build floating cities,3
+Space Travel & Propulsion,What is the energy source for a solar thermal rocket?,Hydrogen fusion,Stored electricity,Sunlight,Dark matter,3
+Space Travel & Propulsion,What limits spacecraft acceleration in human missions?,Engine type,Human tolerance to G-forces,Fuel supply,Electromagnetic radiation,2
+category,question,option1,option2,option3,option4,correct_answer
+Colonization & Habitats,What planet is currently considered most viable for colonization?,Venus,Mercury,Mars,Europa,3
+Colonization & Habitats,What is terraforming?,Creating a new galaxy,Mining asteroids,Altering a planet to support life,Launching colonies,3
+Colonization & Habitats,What structure simulates gravity by spinning?,Habitat dome,Ring station,Orbital tether,Gravity pod,2
+Colonization & Habitats,Which moon is believed to have a subsurface ocean?,Io,Europa,Titan,Phobos,2
+Colonization & Habitats,What gas is essential for human respiration?,Carbon dioxide,Oxygen,Nitrogen,Hydrogen,2
+Colonization & Habitats,What is a challenge of colonizing Mars?,Thick atmosphere,Overpopulation,Low gravity,Too much radiation,4
+Colonization & Habitats,What’s a common concept for Mars shelters?,Wooden huts,Dome cities,Open-air tents,Underwater bases,2
+Colonization & Habitats,Which material could shield colonies from cosmic rays?,Carbon,Glass,Water,Plastic,3
+Colonization & Habitats,What’s the role of a closed-loop life support system?,Communication,Life detection,Recycling air and water,Generating gravity,3
+Colonization & Habitats,Why is artificial gravity needed in long-term space missions?,To keep astronauts warm,For fun,To prevent muscle and bone loss,To power electronics,3
+Colonization & Habitats,Which planet has a surface temperature too high for human colonization?,Mars,Venus,Neptune,Ceres,2
+Colonization & Habitats,What is the Moon’s gravity compared to Earth?,25%,38%,50%,62%,2
+Colonization & Habitats,What kind of agriculture is likely in space?,Vertical farming,Flood irrigation,Pasture farming,Slash-and-burn,1
+Colonization & Habitats,What substance could be mined from lunar regolith?,Oxygen,Hydrogen,Lead,Chlorine,1
+Colonization & Habitats,Which celestial body has methane lakes?,Venus,Europa,Titan,Ganymede,3
+Colonization & Habitats,What are Bernal spheres used for?,Generating electricity,Colonizing oceans,Creating rotating habitats in space,Launching satellites,3
+Colonization & Habitats,What is the most dangerous space radiation?,Microwave radiation,UV rays,Cosmic rays,Gamma bursts,3
+Colonization & Habitats,What provides power in many proposed Martian colonies?,Coal,Nuclear power,Hydroelectric,Wind turbines,2
+Colonization & Habitats,Why are lava tubes considered for lunar habitats?,They have water,They provide insulation,They contain minerals,They emit light,2
+Colonization & Habitats,What kind of fuel could be made on Mars?,Petroleum,Hydrazine,Methane,Nitroglycerin,3
+Colonization & Habitats,Which technique would help terraform Mars?,Lowering surface pressure,Decreasing CO2,Increasing temperature and pressure,Adding sulfuric acid,3
+Colonization & Habitats,Why is Titan a target for future exploration?,Rich oxygen,Magnetic field,Methane atmosphere and lakes,Easy communication,3
+Colonization & Habitats,What is one risk of long-term weightlessness?,Improved memory,Stronger lungs,Bone loss,Better vision,3
+Colonization & Habitats,Which Earth feature is most similar to Mars?,Amazon rainforest,Sahara desert,Pacific ocean,Antarctic ice shelf,2
+Colonization & Habitats,What is a potential benefit of O’Neill cylinders?,Faster travel,Natural wildlife,Simulated Earth-like living,Microgravity workouts,3
+Colonization & Habitats,Why might mirrors be used on Mars?,To detect asteroids,To provide light and heat,To transmit signals,For decoration,2
+Colonization & Habitats,What substance might help produce breathable oxygen on Mars?,Helium,Iron oxide,Carbon dioxide,Neon,3
+Colonization & Habitats,Which of these is NOT a habitat concept?,Lunar dome,Rotating space station,Sky city,Asteroid cruiser,4
+Colonization & Habitats,What is regolith?,Space wind,Lunar or Martian soil,Type of plant,Dust storm,2
+Colonization & Habitats,Which material is useful for radiation shielding?,Ice,Iron,Plastic,Wood,1
+Colonization & Habitats,Why is Mars dust hazardous?,Too heavy,Electrically charged and toxic,Radioactive,Too cold,2
+Colonization & Habitats,What is a "biosphere" in space terms?,Open-air farm,Self-sustaining life environment,Satellite,Atmospheric dome,2
+Colonization & Habitats,Which of the following is needed to grow plants in space?,Strong wind,Natural soil,Controlled light and nutrients,Solar wind,3
+Colonization & Habitats,Why are hydroponics used in space?,Needs less light,Less water and soil,More color in plants,They’re aesthetic,2
+Colonization & Habitats,How is water recycled in space habitats?,Never recycled,Evaporation tunnels,Condensation and purification,Stored underground,3
+Colonization & Habitats,What is one way to simulate gravity?,Lasers,Centrifugal force,Heat radiation,Gas compression,2
+Colonization & Habitats,What is a main danger of living in space long-term?,Boredom,Overheating,Increased eyesight,Radiation exposure,4
+Colonization & Habitats,Why build underground bases on Mars?,Easier plumbing,Better internet,Radiation protection,Tourism,3
+Colonization & Habitats,What is an inflatable habitat?,A space balloon,A pressurized fabric structure,A floating colony,A gas trap,2
+Colonization & Habitats,What is the purpose of a Mars greenhouse?,Entertainment,Water storage,Oxygen generation and food production,Training soldiers,3
+category,question,option1,option2,option3,option4,correct_answer
+Advanced Robotics & AI,What is an android?,A flying drone,A human-like robot,A data processing chip,An AI software,2
+Advanced Robotics & AI,What is artificial general intelligence (AGI)?,A narrow AI,An AI specialized in one task,A self-aware, human-level AI,A mechanical robot,3
+Advanced Robotics & AI,What is the main function of machine learning?,Cleaning data,Manual programming,Learning from data,Building hardware,3
+Advanced Robotics & AI,What field studies human-machine integration?,Cybernetics,Genomics,Photonics,Hydraulics,1
+Advanced Robotics & AI,What powers most advanced AI systems today?,Coal,Nuclear power,Data centers and GPUs,Water turbines,3
+Advanced Robotics & AI,Which AI concept mimics the human brain?,Binary trees,Neural networks,Logic gates,Genetic code,2
+Advanced Robotics & AI,What is the Turing Test used for?,Measuring speed,Detecting humans,Testing AI intelligence,Programming syntax,3
+Advanced Robotics & AI,What is a concern with superintelligent AI?,Better smartphones,Smarter apps,Loss of human control,Faster vehicles,3
+Advanced Robotics & AI,Which company built the humanoid robot Atlas?,NASA,Google,Boston Dynamics,MIT,3
+Advanced Robotics & AI,What is an exoskeleton used for?,Space travel,Muscle enhancement,Medical scans,Robot building,2
+Advanced Robotics & AI,What do sensors allow robots to do?,Fly,Learn,See and feel,Speak languages,3
+Advanced Robotics & AI,What is a common material for flexible robot components?,Metal,Glass,Silicone,Carbon,3
+Advanced Robotics & AI,What is a "drone" in robotics?,A human clone,An AI chip,A flying autonomous vehicle,A data server,3
+Advanced Robotics & AI,What allows AI to learn without labeled data?,Supervised learning,Unsupervised learning,Deep search,Manual training,2
+Advanced Robotics & AI,What is a swarm robot system?,Giant robot,A military bot,Multiple robots working together,A cleaning robot,3
+Advanced Robotics & AI,What do actuators do in robots?,Process data,Control AI logic,Produce motion,Power batteries,3
+Advanced Robotics & AI,Which law set guidelines for robot behavior?,Murphy's Law,Ohm's Law,Asimov's Laws of Robotics,Hubble’s Law,3
+Advanced Robotics & AI,What is a chatbot?,A physical robot,An AI voice assistant,Text-based AI for communication,A learning module,3
+Advanced Robotics & AI,Which part of a robot processes information?,Battery,CPU/Processor,Wires,Actuator,2
+Advanced Robotics & AI,What does "autonomous" mean in robotics?,Remote controlled,Self-operating,Charged by solar,Wi-Fi required,2
+Advanced Robotics & AI,Which field combines biology and robotics?,Robogenetics,Biomechatronics,Biosynthesis,Hydroengineering,2
+Advanced Robotics & AI,What is computer vision?,Robot hearing,AI movement,Robot perception using cameras,AI speaking,3
+Advanced Robotics & AI,What’s the goal of reinforcement learning?,Rebuilding robots,Controlling AI limits,Learning via rewards and punishment,Making robots stronger,3
+Advanced Robotics & AI,What is a "soft robot"?,A robot that apologizes,A software-only AI,A robot made from flexible materials,A simulation,3
+Advanced Robotics & AI,What is the function of LIDAR in robotics?,Measuring temperature,Detecting sound,Mapping surroundings using lasers,Controlling motors,3
+Advanced Robotics & AI,What role does AI play in space exploration?,Launching rockets,Managing fuel,Autonomous decision-making,Carrying astronauts,3
+Advanced Robotics & AI,What is a neural network layer?,Physical robot part,Software error,A level of data processing in AI,A security layer,3
+Advanced Robotics & AI,Which of these is NOT a type of AI learning?,Supervised,Reinforced,Unsupervised,Overdriven,4
+Advanced Robotics & AI,What’s the goal of explainable AI?,Faster speed,Higher accuracy,Understanding how decisions are made,More data,3
+Advanced Robotics & AI,What is the Singularity in AI?,A black hole,A super app,When AI surpasses human intelligence,A space station AI,3
+Advanced Robotics & AI,What does NLP stand for?,Neural Layer Protocol,Natural Language Processing,Nanobot Logic Path,Normal Learning Program,2
+Advanced Robotics & AI,Which industry heavily uses robotic automation?,Hospitality,Accounting,Manufacturing,Education,3
+Advanced Robotics & AI,What is a limitation of current AI?,Always right,Self-repairing,Depends on data quality,Telepathic control,3
+Advanced Robotics & AI,What is a digital twin?,A robot sibling,A backup drive,A virtual replica of a physical object,An AI virus,3
+Advanced Robotics & AI,What role do ethics play in robotics?,Control wiring,Improve cooling,Guide responsible development,Enhance speed,3
+Advanced Robotics & AI,What is robotic vision used for?,Flying,Decision-making,Visual recognition tasks,Generating power,3
+Advanced Robotics & AI,Which robotic component allows walking?,CPU,Microphone,Joint actuators,Signal converter,3
+Advanced Robotics & AI,What makes an AI “narrow”?,It’s small in size,It’s slow,It’s trained for one task only,It’s still learning,3
+Advanced Robotics & AI,What AI technique allows recognizing faces?,Data sorting,Image scanning,Facial recognition,Pulse analysis,3
+Advanced Robotics & AI,Which AI model processes sequential data like text?,Decision tree,Support vector machine,Recurrent neural network,Static filter,3
+category,question,option1,option2,option3,option4,correct_answer
+Astrophysics & Cosmology,What is dark matter believed to do?,Emit bright light,Form stars,Account for missing mass in the universe,Cause supernovas,3
+Astrophysics & Cosmology,What is a black hole?,A dead star,A region with strong gravity that even light can't escape,A dark planet,A type of comet,2
+Astrophysics & Cosmology,What is a singularity?,A new planet,A type of telescope,A point of infinite density,A solar flare,3
+Astrophysics & Cosmology,What is the Big Bang?,A star explosion,The beginning of the universe,The end of time,Creation of black holes,2
+Astrophysics & Cosmology,What is cosmic microwave background radiation?,Sunlight,Noise from stars,Energy left from the Big Bang,Magnetic waves,3
+Astrophysics & Cosmology,What is a supernova?,A new planet,A galaxy birth,A dying star explosion,A massive meteor,3
+Astrophysics & Cosmology,What causes a black hole to form?,Star collision,Meteor impact,Collapse of a massive star,Planet explosion,3
+Astrophysics & Cosmology,What are quasars?,Dead planets,Radioactive asteroids,Extremely bright galactic cores powered by black holes,Collapsing stars,3
+Astrophysics & Cosmology,What does the Hubble Space Telescope do?,Tracks satellites,Explores Earth's core,Takes deep space images,Collects solar winds,3
+Astrophysics & Cosmology,What is redshift in astronomy?,A telescope mode,A change in light from approaching stars,A change in light from receding objects,An eclipse,3
+Astrophysics & Cosmology,What does general relativity describe?,Light refraction,Particle movement,Gravity and spacetime,Magnetic fields,3
+Astrophysics & Cosmology,What is a wormhole?,A space tunnel connecting distant points,A space station,A neutron star,A galactic ring,1
+Astrophysics & Cosmology,What does dark energy do?,Increases gravity,Cools the universe,Accelerates the expansion of the universe,Creates light,3
+Astrophysics & Cosmology,What is the observable universe?,Galaxies we’ve visited,The total known planets,The part of the universe we can detect,Only stars visible to the eye,3
+Astrophysics & Cosmology,What are gravitational waves?,Sound in space,Light particles,Ripples in spacetime,Magnetic shifts,3
+Astrophysics & Cosmology,What is a galaxy?,A black hole,Star system,A massive system of stars, dust, and gas bound by gravity,Comet tail,3
+Astrophysics & Cosmology,What is a light-year?,Time measurement,Speed of light,Distance light travels in a year,A planet’s age,3
+Astrophysics & Cosmology,What’s the closest star to Earth after the Sun?,Vega,Betelgeuse,Proxima Centauri,Andromeda,3
+Astrophysics & Cosmology,What is the Milky Way?,A type of star,A galaxy containing Earth,An asteroid field,A nebula,2
+Astrophysics & Cosmology,What is the theory of the multiverse?,The universe is a simulation,Multiple Earths exist,Multiple universes may exist beyond ours,Aliens built the universe,3
+Astrophysics & Cosmology,What is a neutron star?,A hot planet,A low-energy star,A star made mostly of neutrons,A gas cloud,3
+Astrophysics & Cosmology,What is a white dwarf?,A small moon,An early planet,A dense star remnant,An icy comet,3
+Astrophysics & Cosmology,What does a pulsar emit?,Light waves,X-rays,Radio waves at regular intervals,Heat pulses,3
+Astrophysics & Cosmology,Which force holds galaxies together?,Electromagnetism,Gravity,Dark energy,Nuclear force,2
+Astrophysics & Cosmology,What is an exoplanet?,A moon,Planet outside our solar system,A burning star,A black hole,2
+Astrophysics & Cosmology,What is an event horizon?,Light from a nova,Point of maximum mass,Boundary of a black hole where nothing escapes,Dark side of a planet,3
+Astrophysics & Cosmology,What causes seasons on Earth?,Tidal forces,Sun’s temperature,Earth’s axial tilt,Distance to the moon,3
+Astrophysics & Cosmology,What is the fate of the universe under heat death?,Infinite heat,Eternal stars,Freezing with max entropy,Time collapse,3
+Astrophysics & Cosmology,What does the Doppler effect explain in space?,Tidal changes,Star explosions,Light shift in moving stars,Earthquakes,3
+Astrophysics & Cosmology,What is a comet mainly made of?,Gas and dust,Ice and rock,Metal and lava,Liquid hydrogen,2
+Astrophysics & Cosmology,What is a black hole’s spin called?,Black swirl,Angular momentum,Gravitational resonance,Space twist,2
+Astrophysics & Cosmology,What is the sun mostly made of?,Oxygen,Helium,Hydrogen,Carbon,3
+Astrophysics & Cosmology,What forms the spiral arms of galaxies?,Gravity waves,Moving stars and dust,Radio signals,Alien ships,2
+Astrophysics & Cosmology,What is dark energy responsible for?,Star explosions,Black hole formation,Accelerating expansion of the universe,Wormhole creation,3
+Astrophysics & Cosmology,What is the James Webb Telescope designed to observe?,Earth’s weather,Radio signals,Infrared light from early galaxies,Mars terrain,3
+Astrophysics & Cosmology,What does E=mc² relate?,Electricity and mass,Energy and magnetism,Energy and mass equivalence,Entropy and motion,3
+Astrophysics & Cosmology,What is cosmic inflation?,Star growth,Planetary fusion,Rapid early expansion of the universe,Light creation,3
+Astrophysics & Cosmology,What is a binary star system?,Star and black hole,Two stars orbiting each other,Exploding star,White and red dwarf pair,2
+Astrophysics & Cosmology,What is parallax used for?,Measure moon gravity,Calculate light speed,Measure distances to stars,Detect aliens,3
+category,question,option1,option2,option3,option4,correct_answer
+Alien Biology & Evolution,What is a common trait expected in alien life?,Human-like faces,Photosynthesis,Adaptation to environment,Earth DNA,3
+Alien Biology & Evolution,Which molecule is key to Earth life and may exist elsewhere?,Chlorophyll,Silicon,Water,Ammonia,3
+Alien Biology & Evolution,What is xenobiology?,Study of alien plants,Study of extraterrestrial life forms,Alien languages,Space medicine,2
+Alien Biology & Evolution,Why might silicon be a basis for alien life?,It's liquid,It mimics light,It forms complex molecules,It's explosive,3
+Alien Biology & Evolution,Which environment is likely to host microbial alien life?,Oceans of Earth,Vacuum of space,Lava fields,Subsurface oceans of Europa,4
+Alien Biology & Evolution,What is extremophile?,A hostile alien species,A government group,A lifeform thriving in extreme conditions,A time traveler,3
+Alien Biology & Evolution,Which gas could indicate alien respiration?,Carbon dioxide,Oxygen,Ammonia,Methane,2
+Alien Biology & Evolution,What is bioluminescence?,Alien intelligence,Glow from life forms,Artificial gravity,Alien language,2
+Alien Biology & Evolution,Which planet's moon might have an alien ecosystem?,Io,Ganymede,Titan,Mercury,3
+Alien Biology & Evolution,What might alien photosynthesis use instead of sunlight?,Ultraviolet light,Radio signals,Black hole radiation,Chemical energy,4
+Alien Biology & Evolution,What could alien blood be based on?,Iron only,Sodium,Magnesium,Other metals like copper,4
+Alien Biology & Evolution,Why do we assume symmetry in alien forms?,It’s aesthetic,It's common in Earth life,Easier to draw,It protects from radiation,2
+Alien Biology & Evolution,What is a hive mind?,A planet-sized brain,A multi-armed alien,A group of minds acting as one,A robotic overlord,3
+Alien Biology & Evolution,How might alien communication differ from ours?,Only through radio,It wouldn't,Using colors, smells, or light pulses,They speak English,3
+Alien Biology & Evolution,What is a speculative sign of intelligence?,Building spaceships,Tool use,Music,All of the above,4
+Alien Biology & Evolution,What might zero-gravity creatures evolve?,Wings,Propulsion methods,Thick legs,Gills,2
+Alien Biology & Evolution,What would creatures on a high-gravity planet evolve?,Smaller, Stronger bodies,Long legs,Wider heads,Floatation sacks,1
+Alien Biology & Evolution,Which Earth lifeform inspires alien design?,Cats,Insects,Jellyfish,Frogs,2
+Alien Biology & Evolution,What is convergent evolution?,Random changes,Evolution by mutation,Different species evolving similar traits,Species going extinct,3
+Alien Biology & Evolution,What is a symbiotic relationship?,Parasitism,Predation,Mutual benefit between organisms,Mating,3
+Alien Biology & Evolution,What might alien ecosystems lack?,Food chains,Biodiversity,Light,Liquid medium,3
+Alien Biology & Evolution,Why is carbon preferred in theoretical alien biology?,Abundant and versatile,It glows,It reacts with water,It attracts light,1
+Alien Biology & Evolution,What would cold-environment aliens likely evolve?,Reflective shells,Fast metabolism,Anti-freeze biochemistry,Thin skin,3
+Alien Biology & Evolution,Which alien biology concept is often used in sci-fi?,Mind control,Blue blood,Shape-shifting,All of the above,4
+Alien Biology & Evolution,What is panspermia?,Alien brainwaves,Universal language,Life spreading via comets or asteroids,A type of space algae,3
+Alien Biology & Evolution,How might alien reproduction differ?,Same as humans,Asexual only,Completely unknown methods,Only cloning,3
+Alien Biology & Evolution,What could glowing skin in aliens indicate?,Camouflage,Attraction,Bioluminescent adaptation,Heat resistance,3
+Alien Biology & Evolution,What Earth animal is often compared to potential alien designs?,Sloths,Snakes,Octopuses,Dogs,3
+Alien Biology & Evolution,What would a methane-based alien breathe?,Oxygen,Carbon dioxide,Nitrogen,Methane or ammonia,4
+Alien Biology & Evolution,Why might alien life not be carbon-based?,Silicon alternatives,Better vision,Sound adaptation,Magnetic senses,1
+Alien Biology & Evolution,What is a megafauna alien?,Alien bacteria,Microscopic species,Large-sized life form,Space plant,3
+Alien Biology & Evolution,What kind of planet might support floating alien life?,Desert planet,Gas giant,Rocky moon,Comet,2
+Alien Biology & Evolution,Which of the following is a speculative alien adaptation?,Tentacles for tools,Quantum brains,Light-based communication,All of the above,4
+Alien Biology & Evolution,What role could radiation play in alien evolution?,Always harmful,Provides warmth,Drives mutation and adaptation,Prevents life,3
+Alien Biology & Evolution,What does “post-biological” alien mean?,Robotic or AI-based aliens,Aliens after extinction,Mutated aliens,Nano-sized aliens,1
+Alien Biology & Evolution,Could alien life be non-cellular?,No,All life is cellular,Yes, if based on different chemistry,Only on Earth,Only in fiction,2
+Alien Biology & Evolution,What color might alien vegetation be?,Always green,Purple,Red,Varies depending on star light,4
+Alien Biology & Evolution,How might alien senses differ?,They’d see like humans,They’d be colorblind,They might detect magnetic fields or radiation,They don’t have senses,3
+Alien Biology & Evolution,Could intelligent aliens evolve underwater?,No,Yes, but tool use is limited,Only if they grow legs,Only on Europa,2
+Alien Biology & Evolution,Which is a sign of advanced evolution?,Large brains,Tool use,Complex language,All of the above,4
+category,question,option1,option2,option3,option4,correct_answer
+Galactic History & Civilizations,What is the term for a vast empire spanning multiple star systems?,Solar Empire,Galactic Empire,Planetary Federation,Stellar Union,2
+Galactic History & Civilizations,What is a common theme in first contact scenarios?,Instant peace,Warfare and mistrust,Trade agreements,No communication,2
+Galactic History & Civilizations,Which fictional empire is famous for its rule in space?,Roman Empire,Galactic Empire from Star Wars,Ottoman Empire,Mongol Empire,2
+Galactic History & Civilizations,What is the Great Filter theory about?,Alien invasions,Barriers to advanced civilizations,Solar flares,Galaxy formation,2
+Galactic History & Civilizations,What might a “Dyson Sphere” indicate?,Alien habitat,Galactic capital,Planetary defense,Ancient weapon,1
+Galactic History & Civilizations,What defines a Type II civilization on the Kardashev scale?,Control of planet,Control of star,Control of galaxy,Control of universe,2
+Galactic History & Civilizations,What is a “prime directive” in sci-fi?,No contact policy,Universal language,Galactic trade rule,Warp speed limit,1
+Galactic History & Civilizations,Which event might cause galactic war?,Resource scarcity,Alien pandemics,Trade disputes,All of the above,4
+Galactic History & Civilizations,What is a megastructure?,Large space station,A planet,A massive artificial construction,Alien warship,3
+Galactic History & Civilizations,What is the Fermi Paradox?,Why haven’t we found aliens,Why stars burn bright,Why galaxies spin,Why black holes form,1
+Galactic History & Civilizations,What could “star lanes” refer to?,Trade routes between stars,Paths for solar winds,Alien migration routes,Navigation stars,1
+Galactic History & Civilizations,What is a space colony?,A mining station,A planet,A human settlement outside Earth,A satellite,3
+Galactic History & Civilizations,What might a galactic council do?,Control star travel,Set laws for space nations,Build spaceships,Train astronauts,2
+Galactic History & Civilizations,What is a common resource in space conflicts?,Water,Hydrogen fuel,Metals like titanium,All of the above,4
+Galactic History & Civilizations,Which galaxy is considered a neighbor to the Milky Way?,Andromeda,Sombrero,Whirlpool,Pinwheel,1
+Galactic History & Civilizations,What is a “rift war”?,War over black holes,War over star lanes,Civil war in a space station,Interstellar conflict involving wormholes,4
+Galactic History & Civilizations,What role do AI civilizations play in galactic history?,Builders of empires,Opponents or allies,Observers only,Nonexistent,2
+Galactic History & Civilizations,What is a “lost colony”?,A vanished space settlement,A failed space mission,A hidden asteroid,A black hole,1
+Galactic History & Civilizations,What is the typical cause of collapse of space empires?,Alien invasions,Internal corruption,Resource depletion,All of the above,4
+Galactic History & Civilizations,What does “terraforming” enable?,Space travel,Changing a planet to support life,Building starships,Mining asteroids,2
+Galactic History & Civilizations,Who might be called the “first contact team”?,Scientists and diplomats,Warriors,Spies,Engineers,1
+Galactic History & Civilizations,What is a spacefaring civilization?,One that travels in space,One that lives on Earth,One that studies stars,One that mines asteroids,1
+Galactic History & Civilizations,What is the term for secret galactic wars?,Shadow wars,Light wars,Silent wars,Black wars,1
+Galactic History & Civilizations,Which era marks the start of space exploration?,Industrial Age,Space Age,Galactic Age,Digital Age,2
+Galactic History & Civilizations,What is the likely fate of ancient space ruins?,Rediscovery by new civilizations,Destruction,Hidden forever,Alien control,1
+Galactic History & Civilizations,What might a “stellar beacon” be?,A navigational aid,A weapon,A communication device,A star,3
+Galactic History & Civilizations,What is a “civilization collapse”?,"End of a galactic empire, economic or social breakdown,Environmental disaster,Alien takeover",1
+Galactic History & Civilizations,What is an interstellar alliance?,Group of planets cooperating,Military group,A space pirate gang,Research lab,1
+Galactic History & Civilizations,What technology is key to galactic travel?,Warp drive,Quantum computers,Antimatter reactors,All of the above,4
+Galactic History & Civilizations,What is a “first contact protocol”?,Rules for meeting aliens,A space treaty,Military strategy,Language guide,1
+Galactic History & Civilizations,What is a “space pirate”?,Illegal space traveler,A trader,A soldier,A diplomat,1
+Galactic History & Civilizations,What could a galactic archive contain?,Historical records,Alien artifacts,Lost knowledge,All of the above,4
+Galactic History & Civilizations,What is a “stargate” concept?,A portal for instant travel,Space weapon,Alien robot,A star cluster,1
+Galactic History & Civilizations,What is a “civilization’s dark age”?,Technological regression,Cultural peak,A galactic holiday,Alien invasion,1
+Galactic History & Civilizations,Which is a famous sci-fi space empire?,Klingon Empire,French Empire,British Empire,Roman Empire,1
+Galactic History & Civilizations,What is a “galactic war”?,"Conflict spanning multiple star systems,Small battle,Political debate,Space race",1
+Galactic History & Civilizations,What might cause galactic peace?,Trade agreements,Common enemy,Shared culture,All of the above,4
+Galactic History & Civilizations,What is a “space relic”?,"Ancient artifact from past civilizations,New spaceship,Space debris,Alien weapon",1
+Galactic History & Civilizations,How might civilizations communicate across galaxies?,Radio waves,Quantum entanglement,Physical messengers,All of the above,4
+category,question,option1,option2,option3,option4,correct_answer
+Space Law & Politics,What is the primary international treaty governing space?,Outer Space Treaty,Moon Agreement,Mars Treaty,Space Arms Pact,1
+Space Law & Politics,What does the Outer Space Treaty prohibit?,Claiming celestial bodies as territory,Using satellites,Building space stations,Mining asteroids,1
+Space Law & Politics,Which organization coordinates space activities internationally?,UN Office for Outer Space Affairs,SpaceX,NASA,ESA,1
+Space Law & Politics,What is space piracy?,Stealing satellites,Illegal activities in space,Smuggling space goods,None of the above,2
+Space Law & Politics,Which rights are debated for AI in space?,Voting rights,Property rights,Legal personhood,All of the above,4
+Space Law & Politics,What is the Moon Agreement about?,Mining lunar resources,Protecting the Moon as the "common heritage of mankind,"Building bases on the Moon,Military use of the Moon,2
+Space Law & Politics,What might a "space blockade" involve?,Preventing access to an orbital station,Blocking satellite signals,Restricting moon landings,All of the above,1
+Space Law & Politics,What is "space sovereignty"?,Claiming stars as territory,Control over satellites,Control of planets or moons,Exclusive use of space resources,3
+Space Law & Politics,Which is a concern of space environmental law?,Space debris,Space radiation,Alien contamination,All of the above,1
+Space Law & Politics,What is the legal status of private companies in space?,No rights,Full sovereignty,Limited rights under Earth laws,No legal status,3
+Space Law & Politics,What might space treaties regulate?,Weapons in orbit,Mining rights,Communication channels,All of the above,4
+Space Law & Politics,What is the "Common Heritage of Mankind" principle?,Space belongs to all humanity,Only Earth governments control space,Private companies own space resources,Aliens control space,1
+Space Law & Politics,What are "space traffic regulations"?,Rules for rocket launches,Orbital traffic management,Space tourism laws,Starship speed limits,2
+Space Law & Politics,What is a potential issue with space mining?,Ownership rights,Environmental damage,Conflict over resources,All of the above,4
+Space Law & Politics,What might "space arms control" limit?,Laser weapons,Missiles in orbit,Nuclear weapons in space,All of the above,4
+Space Law & Politics,What does "non-appropriation" mean in space law?,No one can own celestial bodies,Space cannot be used for war,All countries share resources,Aliens can claim planets,1
+Space Law & Politics,Who enforces space law?,UN and member states,Private companies,Military only,None,1
+Space Law & Politics,What is "space diplomacy"?,Negotiating international space agreements,Trading satellites,Space tourism marketing,Space law enforcement,1
+Space Law & Politics,What is a major challenge for space governance?,Multiple jurisdictions,Technological change,Enforcement difficulties,All of the above,4
+Space Law & Politics,What is an asteroid "claim"?,Ownership of mining rights,Control of asteroid's orbit,Tracking an asteroid,Destroying an asteroid,1
+Space Law & Politics,What is "space traffic management"?,Satellite path coordination,Rocket launch rules,Space station docking,All of the above,4
+Space Law & Politics,What is a "space treaty"?,"An agreement between countries on space activities,A private contract,A patent,An alien treaty",1
+Space Law & Politics,What is a “space settlement”?,"A colony in space,Spaceport,Space hotel,A scientific lab",1
+Space Law & Politics,What does “jurisdiction” mean in space?,Which laws apply,Orbital mechanics,Space traffic routes,Communication protocols,1
+Space Law & Politics,What is a “space license”?,Permission to launch or operate spacecraft,Patent for technology,License for alien contact,Permission for mining,1
+Space Law & Politics,Why is space considered a “global commons”?,Shared by all humanity,Owned by the UN,Controlled by private companies,Unregulated,1
+Space Law & Politics,What is the “registration” of space objects?,Recording satellites with international bodies,Patent filing,Legal ownership,Insurance registration,1
+Space Law & Politics,What is a "space traffic collision"?,"Two satellites or objects crashing,Two planets colliding,A space war,A meteor impact",1
+Space Law & Politics,What is an “anti-satellite weapon”?,"A weapon designed to disable satellites,A satellite weapon,Alien technology,A communication device",1
+Space Law & Politics,What rights do astronauts have under international law?,Same as Earth citizens,Special protections,No rights,None,2
+Space Law & Politics,What is the principle of “due regard” in space?,Considering other users’ activities,Due payment for resources,Respect for aliens,None,1
+Space Law & Politics,What is the “peaceful use” principle in space?,No military use of space,No mining,No colonization,No satellites,1
+Space Law & Politics,What might cause “space disputes”?,Resource claims,Orbital slots,Satellite interference,All of the above,4
+Space Law & Politics,What is the “space debris” problem?,Accumulation of defunct satellites,Alien waste,Space mining leftovers,Asteroid belts,1
+Space Law & Politics,What are “space arms treaties”?,"Agreements limiting weapons in space,Space travel agreements,Trade agreements,Communication agreements",1
+Space Law & Politics,What is a “space rescue” agreement?,Helping stranded astronauts,Rescuing satellites,Alien aid protocol,Disaster relief,1
+Space Law & Politics,What is the status of Mars under current space law?,Unclaimed,Owned by US,Owned by China,Alien territory,1
+Space Law & Politics,What is a “space environmental impact assessment”?,Study of space effects on Earth,Analysis of space mission impacts on space environment,Alien ecosystem study,Space mining evaluation,2
+Space Law & Politics,Why is space law evolving?,New technologies,Private sector growth,International conflicts,All of the above,4
+category,question,option1,option2,option3,option4,correct_answer
+Futuristic Weapons & Warfare,What is the primary energy source for laser weapons?,Electricity,Antimatter,Fusion,Plasma,1
+Futuristic Weapons & Warfare,What is a railgun?,Magnetic projectile launcher,Plasma cannon,Energy sword,Missile system,1
+Futuristic Weapons & Warfare,What advantage do mech suits provide?,Invisibility,Enhanced strength and protection,Flight,Healing powers,2
+Futuristic Weapons & Warfare,What is orbital bombardment?,Attacking targets from space,Ground-based missile strike,Submarine warfare,Drone attack,1
+Futuristic Weapons & Warfare,Which weapon uses concentrated plasma beams?,Plasma rifle,Laser gun,Particle cannon,Ion blaster,1
+Futuristic Weapons & Warfare,What is a drone swarm?,A group of unmanned flying robots,A single giant robot,A laser system,A cybernetic organism,1
+Futuristic Weapons & Warfare,What is EMP used for?,Destroying electronics,Healing wounds,Powering ships,Enhancing weapons,1
+Futuristic Weapons & Warfare,Which is a potential defensive technology?,Energy shields,Stealth cloaks,Force fields,All of the above,4
+Futuristic Weapons & Warfare,What is the purpose of nanoweapons?,Self-replicating weapons,Microscopic missiles,Targeted assassinations,All of the above,4
+Futuristic Weapons & Warfare,What does “hypersonic” mean?,Faster than sound,Faster than light,Faster than orbit,Faster than light speed,1
+Futuristic Weapons & Warfare,What type of weapon uses antimatter?,Antimatter bomb,Plasma rifle,Laser sword,Ion cannon,1
+Futuristic Weapons & Warfare,What is cyber warfare?,Hacking and electronic attacks,Using robots in war,Space battles,Physical combat,1
+Futuristic Weapons & Warfare,What does cloaking technology do?,Makes objects invisible,Enhances speed,Boosts shields,Disrupts communications,1
+Futuristic Weapons & Warfare,What is a “mech suit”?,Powered exoskeleton,Alien armor,Spacecraft,Robot soldier,1
+Futuristic Weapons & Warfare,What is a particle cannon?,Weapon firing accelerated particles,Laser weapon,Plasma gun,Missile launcher,1
+Futuristic Weapons & Warfare,What are “smart missiles”?,Missiles with AI guidance,Manual missiles,Homing lasers,Plasma bolts,1
+Futuristic Weapons & Warfare,What is an energy shield?,A defensive barrier made of energy,A physical shield,A type of armor,A communication device,1
+Futuristic Weapons & Warfare,What is orbital defense?,Protecting planets from space attacks,Ground-based defenses,Air defense,Submarine defense,1
+Futuristic Weapons & Warfare,What is a “gravity bomb”?,Weapon manipulating gravity,Explosive bomb,Nuclear bomb,Plasma bomb,1
+Futuristic Weapons & Warfare,What is a “mech pilot”?,Operator of a mech suit,Pilot of a spaceship,Soldier on foot,Alien warrior,1
+Futuristic Weapons & Warfare,What role do AI play in futuristic warfare?,Commanders,Combatants,Strategists,All of the above,4
+Futuristic Weapons & Warfare,What is a “laser sword”?,Energy blade used in combat,Physical sword,Laser gun,Plasma cutter,1
+Futuristic Weapons & Warfare,What is the main threat of space weapons?,Collateral damage,Space debris,Escalation of wars,All of the above,4
+Futuristic Weapons & Warfare,What is “orbital strike”?,Attack from orbit,Attack from ground,Defense maneuver,Space defense system,1
+Futuristic Weapons & Warfare,What is a “nano drone”?,Microscopic robotic drone,Small fighter,AI agent,Sensor device,1
+Futuristic Weapons & Warfare,What is the use of exoskeletons in warfare?,Enhanced strength and endurance,Stealth,Flight,Healing,1
+Futuristic Weapons & Warfare,What is “electronic warfare”?,Using electronics to disrupt enemies,Using laser guns,Hacking satellites,All of the above,1
+Futuristic Weapons & Warfare,What is the main component of plasma weapons?,Ionized gas,Antimatter,Lasers,Metal projectiles,1
+Futuristic Weapons & Warfare,What is a “force field”?,Energy barrier,Physical shield,Weapon,Communication system,1
+Futuristic Weapons & Warfare,What is a “stealth suit”?,Armor that reduces visibility,Light armor,Combat suit,Flight suit,1
+Futuristic Weapons & Warfare,What is a “bio-weapon”?,Weapon using biological agents,Robot soldier,Nuclear bomb,Energy weapon,1
+Futuristic Weapons & Warfare,What is the advantage of AI in combat?,Faster decision making,Unbiased judgments,Remote operation,All of the above,4
+Futuristic Weapons & Warfare,What is a “quantum weapon”?,Weapon using quantum mechanics,Plasma gun,Laser cannon,Nuclear bomb,1
+Futuristic Weapons & Warfare,What is the risk of using antimatter weapons?,Massive explosions,Difficult to control,Radiation,All of the above,4
+Futuristic Weapons & Warfare,What is a “mech suit” typically used for?,Combat,Mining,Medical aid,Exploration,1
+Futuristic Weapons & Warfare,What is a “laser turret”?,Fixed-position laser defense system,Handheld weapon,Drone weapon,Spacecraft weapon,1
+Futuristic Weapons & Warfare,What is “orbital warfare”?,Combat taking place in space,Ground battles,Naval combat,Air combat,1
+Futuristic Weapons & Warfare,What is a “cybernetic enhancement” in warfare?,Integrating technology with soldiers,New weapon type,AI robot,Space armor,1
+Futuristic Weapons & Warfare,What is a “plasma grenade”?,Explosive device using plasma,Standard grenade,Laser bomb,Antimatter bomb,1
+category,question,option1,option2,option3,option4,correct_answer
+Alien Languages & Communication,What is xenolinguistics?,Study of alien languages,Study of animal sounds,Study of ancient Earth languages,Study of code breaking,1
+Alien Languages & Communication,What is a universal translator?,Device that translates alien languages,Code breaker,Alien dictionary,Language learning app,1
+Alien Languages & Communication,Which method might aliens use to communicate?,Radio signals,Light patterns,Telepathy,All of the above,4
+Alien Languages & Communication,What is the main challenge in decoding alien messages?,Lack of context,Different biology,No common language,All of the above,4
+Alien Languages & Communication,What is the "WOW! Signal" related to?,Possible alien radio signal,Earthquake signal,Satellite transmission,Solar flare,1
+Alien Languages & Communication,How do humans typically try to communicate with aliens?,Mathematics and patterns,Human language,Music,Visual art,1
+Alien Languages & Communication,What is the purpose of the Voyager Golden Record?,Send Earth sounds and images to space,Alien communication,Satellite guide,Space navigation,1
+Alien Languages & Communication,What is a “contact protocol”?,Rules for communicating with aliens,Military orders,Alien language guide,Space treaty,1
+Alien Languages & Communication,What type of language might aliens use?,Mathematical,Visual,Auditory,All of the above,4
+Alien Languages & Communication,What is a “linguistic universal”?,Common elements across all languages,Alien code,Earth dialect,Computer language,1
+Alien Languages & Communication,What technology aids in decoding alien languages?,AI and machine learning,Radio antennas,Space telescopes,Spacecraft,1
+Alien Languages & Communication,What is a cryptic signal?,An unknown or coded transmission,A clear message,A space beacon,A navigation signal,1
+Alien Languages & Communication,What is “pictographic language”?,Language using pictures,Spoken language,Written language,Code language,1
+Alien Languages & Communication,What might “telepathic communication” involve?,Direct thought transfer,Sound waves,Radio signals,Light pulses,1
+Alien Languages & Communication,What is an “alien alphabet”?,Set of symbols used by aliens,Human alphabet,Mathematical code,Music notes,1
+Alien Languages & Communication,What is “semiotics”?,Study of signs and symbols,Study of sounds,Study of languages,Study of aliens,1
+Alien Languages & Communication,What is a “communication barrier” with aliens?,Different biology or culture,Distance,Technology,Language,4
+Alien Languages & Communication,What role does mathematics play in alien communication?,Universal language,Alien language,Code,All of the above,1
+Alien Languages & Communication,What is “signal modulation”?,Changing a signal to carry information,Noise interference,Signal loss,Space weather,1
+Alien Languages & Communication,What is “pattern recognition” in decoding signals?,Finding repeated elements,Ignoring noise,Receiving signals,Translating messages,1
+Alien Languages & Communication,What is a “language matrix”?,Framework for organizing language,Alien dictionary,Translation device,Code key,1
+Alien Languages & Communication,What is “semantic meaning”?,Meaning of words or symbols,Sound frequency,Signal strength,Alien code,1
+Alien Languages & Communication,What is a “message beacon”?,Repeating signal to attract attention,A navigation light,A weapon,A satellite,1
+Alien Languages & Communication,What is “artificial language”?,"Created language for communication,Alien language,Human language,Natural language",1
+Alien Languages & Communication,What is a “lexicon”?,Vocabulary of a language,Code system,Mathematical formula,Alien message,1
+Alien Languages & Communication,What might “bioluminescence” in alien communication involve?,Light signals,Sound waves,Radio signals,Chemical signals,1
+Alien Languages & Communication,What is “frequency hopping” in communication?,Changing frequencies to avoid interference,Fixed frequency,Antenna movement,Signal loss,1
+Alien Languages & Communication,What is “contact fatigue”?,Difficulty maintaining communication,Alien attack,Signal loss,Language confusion,1
+Alien Languages & Communication,What is a “linguistic alienation”?,Inability to understand alien language,Human language barrier,Communication loss,Code failure,1
+Alien Languages & Communication,What might “vocalization” in aliens mean?,Sound-based communication,Visual signals,Written messages,Telepathy,1
+Alien Languages & Communication,What is a “signal-to-noise ratio”?,Strength of meaningful signal compared to background noise,Signal loss,Signal delay,Message length,1
+Alien Languages & Communication,What is “context” in communication?,Background information to interpret messages,Signal strength,Language code,Frequency,1
+Alien Languages & Communication,What is “phonetics”?,"Study of sounds in language,Study of written language,Study of symbols,Study of codes",1
+Alien Languages & Communication,What is “gesture language”?,Using body movements to communicate,Spoken language,Written language,Telepathic language,1
+Alien Languages & Communication,What is the challenge with “non-linear” alien languages?,Different structure from human languages,Hard to hear,Fast speech,No alphabet,1
+Alien Languages & Communication,What is a “universal code”?,"A code understood by all intelligent beings,Secret code,Military code,Computer code",1
+Alien Languages & Communication,What is a “modulation scheme”?,"Method of encoding information on signals,Language system,Alien writing,Sound wave type",1
+Alien Languages & Communication,What is the “SETI” project?,Search for Extraterrestrial Intelligence,Space Exploration and Technology Institute,Scientific Earth Testing Initiative,Satellite Engineering and Tracking,1
+Alien Languages & Communication,What is a “binary code”?,Language using 0s and 1s,Alien language,Mathematical formula,Sound waves,1
+Alien Languages & Communication,What is a “coded message”?,Message encoded to prevent easy understanding,Clear message,Signal,Beacon,1
+category,question,option1,option2,option3,option4,correct_answer
+Space Mythology & Religion,Which deity is often associated with the stars in ancient mythology?,Astrape,Zeus,Hera,Ares,1
+Space Mythology & Religion,What does the term "space pantheon" refer to?,Collection of space-related gods,Alien species,Space colonies,Star systems,1
+Space Mythology & Religion,Which ancient civilization worshipped the goddess Nut, associated with the sky?,Egyptians,Romans,Greeks,Aztecs,1
+Space Mythology & Religion,What is "cosmic spirituality"?,Belief in universal interconnectedness,Scientific space study,Space travel technology,Alien worship,1
+Space Mythology & Religion,What myth explains the origin of the universe?,Creation myth,Big Bang theory,Space colonization,Alien invasion,1
+Space Mythology & Religion,Which symbol is commonly used to represent the universe?,Circle,Triangle,Square,Hexagon,1
+Space Mythology & Religion,What is a "star cult"?,Group worshiping stars,Alien religion,Scientific society,Space explorers,1
+Space Mythology & Religion,Which planet was named after the Roman god of war?,Mars,Jupiter,Saturn,Venus,1
+Space Mythology & Religion,What does “astral projection” refer to?,Out-of-body experience,Space travel,Time travel,Communication with aliens,1
+Space Mythology & Religion,Which religion includes belief in celestial beings?,Zoroastrianism,Hinduism,Christianity,Islam,1
+Space Mythology & Religion,What is a “space shrine”?,Sacred place in space or on other planets,Space station,Alien temple,Space museum,1
+Space Mythology & Religion,What does “cosmology” study?,Origins and structure of the universe,Aliens,Space travel,Space law,1
+Space Mythology & Religion,What is “stellar worship”?,Reverence for stars,Space science,Space travel,Space law,1
+Space Mythology & Religion,What mythical creature is often linked to stars?,Dragon,Phoenix,Griffin,Unicorn,1
+Space Mythology & Religion,What is “astrotheology”?,Study of gods related to stars,Study of alien gods,Study of space travel,Study of space law,1
+Space Mythology & Religion,What is the “Milky Way” in mythology?,Pathway of souls,Galaxy,Star cluster,Space station,1
+Space Mythology & Religion,Which space myth involves a “celestial ladder”?,Jacob’s Ladder,Star Bridge,Space Elevator,Alien portal,1
+Space Mythology & Religion,What is a “cosmic ritual”?,Ceremony related to stars and universe,Alien greeting,Scientific experiment,Space treaty,1
+Space Mythology & Religion,Which religion views the cosmos as a living entity?,Animism,Buddhism,Christianity,Islam,1
+Space Mythology & Religion,What is “sacred astronomy”?,Study of celestial phenomena in religious contexts,Space navigation,Astrophysics,Alien study,1
+Space Mythology & Religion,What is a “star oracle”?,Device or person predicting future based on stars,Alien technology,Spacecraft,Science tool,1
+Space Mythology & Religion,What celestial event is often considered a spiritual sign?,Eclipse,Comet,Supernova,All of the above,4
+Space Mythology & Religion,What is “space mysticism”?,Spiritual experiences related to space,Science of space,Alien technology,Space travel,1
+Space Mythology & Religion,What does “planetary consciousness” mean?,Awareness of planets’ influence,Alien mind control,Spacecraft AI,Galactic politics,1
+Space Mythology & Religion,What is a “cosmic deity”?,God or goddess representing universe or stars,Alien ruler,Space explorer,Space scientist,1
+Space Mythology & Religion,What is “stellar mythology”?,Myths about stars and constellations,Space laws,Alien languages,Space travel,1
+Space Mythology & Religion,What is a “celestial being”?,Spirit or entity from space,Alien species,Human astronaut,Robot,1
+Space Mythology & Religion,Which planet is associated with love and beauty in mythology?,Venus,Mars,Jupiter,Saturn,1
+Space Mythology & Religion,What is a “space pilgrimage”?,Journey to a sacred space location,Space mission,Alien contact,Space tourism,1
+Space Mythology & Religion,What does “lunar worship” involve?,Reverence of the Moon,Space stations,Space suits,Starships,1
+Space Mythology & Religion,What is “astrognosy”?,Knowledge of stars in spiritual context,Astronomy,Astrophysics,Alien study,1
+Space Mythology & Religion,What is “cosmic balance” in mythology?,Harmony between universe forces,Space travel laws,Alien politics,Space technology,1
+Space Mythology & Religion,What is a “star temple”?,Place of worship related to stars,Space observatory,Space station,Alien base,1
+Space Mythology & Religion,Which element is often sacred in space mythologies?,Light,Water,Fire,Earth,1
+Space Mythology & Religion,What is “space shamanism”?,Spiritual practice related to space experiences,Science of space,Alien technology,Space law,1
+Space Mythology & Religion,What does “planetary guardianship” mean?,Protecting planets spiritually and physically,Alien invasion,Space mining,Space travel,1
+Space Mythology & Religion,What is “cosmic destiny”?,Belief in fate controlled by stars and universe,Science fact,Alien plan,Space mission,1
+Space Mythology & Religion,What is a “nebula” in mythology?,Celestial cloud often symbolizing mystery,Astronomical cloud,Space station,Alien habitat,1
+Space Mythology & Religion,What is “stellar fate”?,Destiny tied to stars,Alien future,Space politics,Space science,1
+Space Mythology & Religion,What is “astrokarma”?,Spiritual cause and effect related to stars,Space technology,Alien culture,Space law,1
+category,question,option1,option2,option3,option4,correct_answer
+Time Travel & Paradoxes,What is the “grandfather paradox”?,Killing your grandfather prevents your existence,Traveling to future,Changing past creates alternate reality,Infinite loop,1
+Time Travel & Paradoxes,What is time dilation?,Time passing slower at high speeds,Time travel to past,Parallel universe effect,Instant time travel,1
+Time Travel & Paradoxes,What is a causal loop?,Event causing itself in a cycle,Time travel device,Parallel timeline,Time freeze,1
+Time Travel & Paradoxes,Which theory suggests multiple timelines?,Many-worlds interpretation,Relativity,Quantum mechanics,String theory,1
+Time Travel & Paradoxes,What is the “butterfly effect”?,Small changes cause big future impact,Time freeze,Time travel,Parallel universe,1
+Time Travel & Paradoxes,What is a “closed timelike curve”?,Path allowing time travel to past,Time freeze,Future travel,Alternate reality,1
+Time Travel & Paradoxes,What does “chronology protection conjecture” suggest?,Time travel to past is impossible,Time travel to future is impossible,Multiple timelines exist,Time travel causes paradox,1
+Time Travel & Paradoxes,What is a “temporal paradox”?,Contradiction from time travel,Time freeze,Future event,Parallel universe,1
+Time Travel & Paradoxes,What is “retrocausality”?,Effect happening before cause,Normal causality,Future event,Parallel timeline,1
+Time Travel & Paradozes,What device is often used in sci-fi for time travel?,Time machine,Spaceship,Quantum computer,Warp drive,1
+Time Travel & Paradoxes,What is “wormhole” in time travel?,Shortcut through spacetime,Space station,Black hole,Alien portal,1
+Time Travel & Paradoxes,What is the “bootstrap paradox”?,Object or info exists without origin,Causal loop,Time freeze,Alternate reality,1
+Time Travel & Paradoxes,What is “time loop”?,Repeating the same period over and over,Instant travel,Future event,Alternate timeline,1
+Time Travel & Paradoxes,What is the effect of traveling near light speed on time?,Slows down time,Speeds up time,Stops time,Reverses time,1
+Time Travel & Paradoxes,What is “quantum tunneling”?,Particles passing barriers,Time travel method,Parallel universe creation,Energy transfer,1
+Time Travel & Paradoxes,What is “time slip”?,Sudden jump in time,Time freeze,Time travel device,Time paradox,1
+Time Travel & Paradoxes,What is “multiverse” theory?,Existence of many parallel universes,One universe,Time travel device,Black hole,1
+Time Travel & Paradoxes,What is a “temporal anomaly”?,Irregularity in time flow,Space event,Black hole,Alien signal,1
+Time Travel & Paradoxes,What is “chronon”?,Hypothetical quantum of time,Time machine,Time traveler,Time portal,1
+Time Travel & Paradoxes,What is “time freeze”?,Stopping time flow,Time travel,Parallel universe,Alternate timeline,1
+Time Travel & Paradoxes,What is “future shock”?,Disorientation from rapid change,Time travel sickness,Alien contact,Space travel sickness,1
+Time Travel & Paradoxes,What is “time remnant”?,Duplicate self from time travel,Time traveler,Time machine,Alternate reality,1
+Time Travel & Paradoxes,What is “temporal displacement”?,Moving through time,Moving through space,Parallel universe,Alternate timeline,1
+Time Travel & Paradoxes,What is “time traveler’s dilemma”?,Deciding whether to change past,Choosing future path,Encountering aliens,Traveling faster than light,1
+Time Travel & Paradoxes,What is a “parallel timeline”?,Alternate version of history,Same timeline,Different planet,Space colony,1
+Time Travel & Paradoxes,What is “future memory”?,Remembering events before they happen,Time travel,Alien ability,Psychic power,1
+Time Travel & Paradoxes,What is “retrograde motion” in time travel?,Movement backward in time,Forward motion,Stationary time,Time freeze,1
+Time Travel & Paradoxes,What is “time vortex”?,Spiral of time distortion,Black hole,Space portal,Alien weapon,1
+Time Travel & Paradoxes,What is “chrononaut”?,Time traveler,Space explorer,Alien visitor,Future human,1
+Time Travel & Paradoxes,What is “time paradox resolution”?,Ways to avoid contradictions,Time travel device,Time freeze,Alternate universe,1
+Time Travel & Paradoxes,What is “time ripple”?,Small disturbance in time,Black hole effect,Space wave,Alien signal,1
+Time Travel & Paradoxes,What is “retro time communication”?,Sending messages to past,Future messaging,Alien communication,Time travel,1
+Time Travel & Paradoxes,What is “time dilation effect”?,Slower time at high speed,Time freeze,Time travel,Space travel,1
+Time Travel & Paradoxes,What is “time anchor”?,Fixed point in time,Time travel device,Alien signal,Parallel universe,1
+Time Travel & Paradoxes,What is “temporal duplication”?,Creating copies via time travel,Time freeze,Alien cloning,Parallel universe,1
+Time Travel & Paradozes,What is “time fold”?,Bending time to travel faster,Space warp,Time freeze,Alien technology,1
+Time Travel & Paradoxes,What is “causality violation”?,Breaking cause-effect relationship,Time travel,Space travel,Alien contact,1
+Time Travel & Paradoxes,What is “chronological loop”?,Events repeating in time,Time freeze,Alien invasion,Space travel,1
+Time Travel & Paradozes,What is “time shift”?,Jumping between time periods,Time freeze,Space jump,Alien travel,1
+category,question,option1,option2,option3,option4,correct_answer
+Post-Humanism & Transcendence,What does “uploading consciousness” refer to?,Transferring mind to a computer,Genetic engineering,Teleportation,Time travel,1
+Post-Humanism & Transcendence,What is the “singularity” in futurism?,Point where AI surpasses humans,Human extinction,Space colonization,Time travel,1
+Post-Humanism & Transcendence,What is genetic engineering?,Modifying DNA to enhance traits,Alien biology,Space travel method,Robot creation,1
+Post-Humanism & Transcendence,What is a “cyborg”?,Human-machine hybrid,Alien species,Robot,AI,1
+Post-Humanism & Transcendence,What is “mind uploading”?,Digitizing human consciousness,Creating clones,Space travel,Time freezing,1
+Post-Humanism & Transcendence,What is “biohacking”?,Using tech to modify biology,Space travel,Alien contact,Robot programming,1
+Post-Humanism & Transcendence,What is “transhumanism”?,Movement to enhance humans with tech,Alien religion,Space law,Robotics,1
+Post-Humanism & Transcendence,What is “neural interface”?,Device connecting brain to computers,Space weapon,Alien communication,Time machine,1
+Post-Humanism & Transcendence,What is “genome editing”?,Changing DNA sequences,Alien mutation,Robot coding,Space engineering,1
+Post-Humanism & Transcendence,What is “digital immortality”?,Consciousness surviving in computers,Time travel,Alien life,Space colonization,1
+Post-Humanism & Transcendence,What is “cryonics”?,Freezing bodies for future revival,Space travel,Alien biology,Robot repair,1
+Post-Humanism & Transcendence,What is “singularity event”?,Moment AI exceeds human intelligence,Big Bang,Alien invasion,Space war,1
+Post-Humanism & Transcendence,What is “synthetic biology”?,Creating life through tech,Alien biology,Space travel,Robot creation,1
+Post-Humanism & Transcendence,What is a “post-human”?,Being with enhanced abilities beyond humans,Alien species,Robot,AI,1
+Post-Humanism & Transcendence,What is “mind uploading risk”?,Loss of self identity,Alien attack,Robot takeover,Space accident,1
+Post-Humanism & Transcendence,What is “brain-computer interface”?,Tech linking brain and computer,Space travel,Alien communication,Robot control,1
+Post-Humanism & Transcendence,What is “gene therapy”?,Treating diseases by modifying genes,Alien mutation,Robot programming,Space engineering,1
+Post-Humanism & Transcendence,What is “nanotechnology”?,Using tiny machines for biological tasks,Alien tech,Space weapons,Robot parts,1
+Post-Humanism & Transcendence,What is “artificial general intelligence”?,AI with human-like reasoning,Simple AI,Space robot,Alien AI,1
+Post-Humanism & Transcendence,What is “mind uploading method”?,Scanning brain and transferring data,Genetic editing,Space travel,Robot coding,1
+Post-Humanism & Transcendence,What does “genetic enhancement” aim to improve?,Physical and mental traits,Alien biology,Robot efficiency,Space travel,1
+Post-Humanism & Transcendence,What is “whole brain emulation”?,Creating a computer model of the brain,Alien cloning,Space AI,Robot control,1
+Post-Humanism & Transcendence,What ethical concern relates to genetic engineering?,Playing god,Space law,Alien rights,Robot ethics,1
+Post-Humanism & Transcendence,What is “post-human evolution”?,Humanity evolving through tech,Natural evolution,Alien evolution,Robot growth,1
+Post-Humanism & Transcendence,What is a “neural lace”?,Brain-computer interface implant,Space suit,Alien device,Robot part,1
+Post-Humanism & Transcendence,What is “digital consciousness”?,"Mind existing in digital form,Robot mind,Alien AI,Space computer",1
+Post-Humanism & Transcendence,What is the “technological singularity”?,"Point of runaway AI growth,Alien invasion,Space war,Human extinction",1
+Post-Humanism & Transcendence,What is “gene editing tool” widely used?,CRISPR,Thermometer,Space probe,Quantum computer,1
+Post-Humanism & Transcendence,What is “enhanced longevity” in post-humanism?,Extended lifespan,Alien biology,Robot upgrade,Time travel,1
+Post-Humanism & Transcendence,What is “mind transfer”?,"Moving consciousness between bodies or machines,Space travel,Alien communication,Time travel",1
+Post-Humanism & Transcendence,What is “cybernetic enhancement”?,Using machines to improve humans,Alien tech,Space travel,Robot parts,1
+Post-Humanism & Transcendence,What is a “digital soul”?,"Philosophical idea of consciousness in computers,Alien AI,Robot mind,Space entity",1
+Post-Humanism & Transcendence,What is “bioprinting”?,"3D printing of biological tissues,Robot manufacturing,Alien tech,Space suits",1
+Post-Humanism & Transcendence,What is “brain scan resolution” important for?,Uploading consciousness,Space travel,Alien communication,Robot control,1
+Post-Humanism & Transcendence,What is “human-machine symbiosis”?,Close cooperation between humans and machines,Alien alliance,Space travel,Robot war,1
+Post-Humanism & Transcendence,What is “genetic drift”?,Random changes in DNA over generations,Alien mutation,Robot coding,Space anomaly,1
+Post-Humanism & Transcendence,What is “synthetic neuron”?,"Artificial brain cell,Robot part,Alien cell,Space component",1
+Post-Humanism & Transcendence,What is “mind uploading challenge”?,Preserving identity and consciousness,Space travel,Alien invasion,Robot takeover,1
+Post-Humanism & Transcendence,What is “biological singularity”?,"Merging biology and tech beyond limits,Space war,Alien attack,Robot uprising",1
+Post-Humanism & Transcendence,What is “digital resurrection”?,Reviving consciousness digitally,Time travel,Alien contact,Space exploration,1
+Post-Humanism & Transcendence,What is “post-human ethics”?,Moral issues in human enhancement,Alien rights,Robot laws,Space treaties,1
+category,question,option1,option2,option3,option4,correct_answer
+Uncharted Worlds,What is a rogue planet?,A planet not orbiting any star,Earth-like planet,Gas giant,Alien homeworld,1
+Uncharted Worlds,Which moon is believed to have a subsurface ocean?,Europa,Mars,Titan,Phobos,1
+Uncharted Worlds,What is a brown dwarf?,Failed star between planet and star,Gas giant,Ice planet,Star cluster,1
+Uncharted Worlds,What is a “super-Earth”?,Exoplanet larger than Earth but smaller than Neptune,Gas giant,Habitable moon,Alien homeworld,1
+Uncharted Worlds,What defines a “habitable zone”?,Region where liquid water can exist,Area with stars,Gas giant orbit,Alien territory,1
+Uncharted Worlds,What is a “hot Jupiter”?,Large gas planet orbiting close to star,Small rocky planet,Ice giant,Star type,1
+Uncharted Worlds,What is a “tidal locking”?,Same side of planet always faces star,Planet rotation reversal,Planet with no orbit,Star explosion,1
+Uncharted Worlds,What is a “rogue moon”?,Moon not orbiting a planet,Alien base,Star,Comet,1
+Uncharted Worlds,What is a “circumbinary planet”?,Planet orbiting two stars,Planet with rings,Gas giant,Star cluster,1
+Uncharted Worlds,What is “terraforming”?,Modifying a planet to support life,Destroying a planet,Alien invasion,Mining operation,1
+Uncharted Worlds,Which planet is known for its extreme winds?,Neptune,Mars,Venus,Jupiter,1
+Uncharted Worlds,What is an “ocean world”?,Planet covered mostly by water,Mars-like planet,Desert planet,Gas giant,1
+Uncharted Worlds,What is a “planetary ring”?,Rings of debris orbiting a planet,Planet’s atmosphere,Ring-shaped star,Moon orbit,1
+Uncharted Worlds,What is a “supervolcano”?,Volcano capable of massive eruption,Small volcanic vent,Alien volcano,Space volcano,1
+Uncharted Worlds,What is an “ice giant”?,Planet composed mostly of ices like water and methane,Gas giant,Rocky planet,Star,1
+Uncharted Worlds,What is a “carbon planet”?,Planet rich in carbon compounds,Earth-like planet,Gas giant,Alien home,1
+Uncharted Worlds,What causes “planetary migration”?,Planets changing orbits over time,Alien attack,Star explosion,Space travel,1
+Uncharted Worlds,What is a “rogue star”?,Star not bound to galaxy,Gas giant,Alien sun,Planet,1
+Uncharted Worlds,What is a “contact binary”?,"Two stars orbiting closely,Planet with two moons,Alien spacecraft,Space station",1
+Uncharted Worlds,What is “exomoon”?,Moon orbiting an exoplanet,Alien base,Spacecraft,Star,1
+Uncharted Worlds,What is “biosignature”?,Signs of life on a planet,Gas presence,Star type,Planet size,1
+Uncharted Worlds,What is “planetary albedo”?,Reflectivity of a planet’s surface,Orbital speed,Mass,Size,1
+Uncharted Worlds,What is “lithosphere”?,Planet’s rigid outer shell,Atmosphere,Core,Mantle,1
+Uncharted Worlds,What is “magnetosphere”?,Magnetic field protecting a planet,Solar wind,Planet core,Star wind,1
+Uncharted Worlds,What is an “ice cap”?,Polar ice coverage on a planet,Desert area,Volcanic region,Oasis,1
+Uncharted Worlds,What is “cryovolcanism”?,Volcano erupting ice instead of lava,Lava eruption,Alien volcano,Space volcano,1
+Uncharted Worlds,What is a “planetary nebula”?,Cloud of gas from dying star,Planet,Star cluster,Alien structure,1
+Uncharted Worlds,What is “stellar parallax”?,Measurement of star distance,Planet orbit,Star size,Alien signal,1
+Uncharted Worlds,What is “exoplanet transit method”?,Detecting planets by star brightness dips,Space travel,Alien contact,Star explosion,1
+Uncharted Worlds,What is “tidal heating”?,Heat generated by gravitational forces,Sun radiation,Planet core,Alien energy,1
+Uncharted Worlds,What is “space weathering”?,Surface changes due to solar wind,Alien attack,Space radiation,Star explosion,1
+Uncharted Worlds,What is a “planetary core”?,Center part of a planet,Surface,Atmosphere,Moon,1
+Uncharted Worlds,What is “planetary eccentricity”?,Measure of orbit’s deviation from circle,Planet size,Star mass,Alien gravity,1
+Uncharted Worlds,What is a “habitable moon”?,Moon capable of supporting life,Alien base,Spacecraft,Star,1
+Uncharted Worlds,What is a “rogue asteroid”?,Asteroid not orbiting a star,Space rock,Comet,Planet,1
+Uncharted Worlds,What is a “planetary atmosphere”?,Gaseous envelope around a planet,Surface,Core,Moon,1
+Uncharted Worlds,What is “cryosphere”?,Frozen surface regions of a planet,Desert,Volcano,Lake,1
+Uncharted Worlds,What is a “space anomaly”?,Unexplained space phenomenon,Alien tech,Star,Planet,1
+category,question,option1,option2,option3,option4,correct_answer
+Astrobiology & Exoplanets,What defines the “habitable zone”?,Region where liquid water can exist,Area with intense radiation,Gas giant orbit,Alien territory,1
+Astrobiology & Exoplanets,What is a “biosignature”?,Chemical sign of life,Star brightness,Planet size,Space anomaly,1
+Astrobiology & Exoplanets,Which telescope discovered many exoplanets?,Kepler,Hubble,Spitzer,Chandra,1
+Astrobiology & Exoplanets,What is extremophile?,Organisms living in extreme conditions,Alien species,Space microbes,Robot bacteria,1
+Astrobiology & Exoplanets,What is panspermia?,Theory life came from space,Alien invasion,Planet creation,Robot evolution,1
+Astrobiology & Exoplanets,What element is essential for life as we know it?,Carbon,Hydrogen,Oxygen,Helium,1
+Astrobiology & Exoplanets,What is the “Great Filter” hypothesis?,Barrier to advanced civilizations,Alien attack,Space war,Time travel,1
+Astrobiology & Exoplanets,What is astrobiology?,Study of life in the universe,Star formation,Planet geology,Space law,1
+Astrobiology & Exoplanets,What is a “superhabitable” planet?,Better conditions for life than Earth,Gas giant,Desert planet,Alien base,1
+Astrobiology & Exoplanets,What molecule is a key biosignature?,Oxygen,Methane,Carbon dioxide,Water vapor,2
+Astrobiology & Exoplanets,What is a “red dwarf” star?,Small, cool star type,Large star,White dwarf,Neutron star,1
+Astrobiology & Exoplanets,Which gas indicates possible life in atmosphere?,Methane,Oxygen,Nitrogen,Hydrogen,1
+Astrobiology & Exoplanets,What is the Drake Equation?,Estimate of communicating civilizations,Planet size formula,Star mass formula,Alien contact code,1
+Astrobiology & Exoplanets,What is extremophile’s habitat?,Hot springs,Earth core,Space station,Alien planet,1
+Astrobiology & Exoplanets,What is a “biosphere”?,Region supporting life,Star cluster,Gas giant,Black hole,1
+Astrobiology & Exoplanets,What type of exoplanet is Kepler-452b?,Super-Earth,Gas giant,Ice giant,Hot Jupiter,1
+Astrobiology & Exoplanets,What is the “Fermi Paradox”?,Why we haven’t found aliens yet,Alien invasion,Space war,Time travel paradox,1
+Astrobiology & Exoplanets,What is “photosynthesis”?,"Process converting light into energy,Alien tech,Space mining,Robot function",1
+Astrobiology & Exoplanets,What is “astrochemistry”?,Study of molecules in space,Star formation,Planet geology,Alien biology,1
+Astrobiology & Exoplanets,What is “abiogenesis”?,"Life from non-living matter,Alien evolution,Robot creation,Space anomaly",1
+Astrobiology & Exoplanets,What is a “circumstellar habitable zone”?,Habitable zone around star,Planet surface,Alien base,Gas giant,1
+Astrobiology & Exoplanets,What is a “water world”?,Planet with global oceans,Desert planet,Gas giant,Ice planet,1
+Astrobiology & Exoplanets,Which molecule is a sign of volcanic activity?,Sulfur dioxide,Methane,Oxygen,Nitrogen,1
+Astrobiology & Exoplanets,What is “astrobiology mission”?,Space mission searching for life,Space mining,Alien contact,Robot war,1
+Astrobiology & Exoplanets,What is “exoplanet atmosphere study”?,Analyzing gases for life signs,Planet geology,Star mass,Alien signals,1
+Astrobiology & Exoplanets,What is a “biosignature gas”?,Gas produced by life,Methane,Oxygen,Carbon dioxide,All options,4
+Astrobiology & Exoplanets,What planet has the most Earth-like atmosphere discovered?,Kepler-22b,Mars,Venus,Jupiter,1
+Astrobiology & Exoplanets,What is a “tidal lock” effect?,One side always faces star,Planet rotation,Star explosion,Alien attack,1
+Astrobiology & Exoplanets,What is “planetary habitability”?,Ability to support life,Size,Mass,Gravity,1
+Astrobiology & Exoplanets,What is a “biosignature remote sensing”?,Detecting life from afar,Alien message,Robot signal,Space anomaly,1
+Astrobiology & Exoplanets,Which moon of Saturn may harbor life?,Enceladus,Mimas,Titan,Rhea,3
+Astrobiology & Exoplanets,What is “astroecology”?,Study of ecosystems in space,Alien biology,Space mining,Robot evolution,1
+Astrobiology & Exoplanets,What is “chemotroph”?,"Organism using chemicals for energy,Alien species,Robot bacteria,Space microbes",1
+Astrobiology & Exoplanets,What is “microbial life”?,"Single-celled life forms,Alien invasion,Robot,Space entity",1
+Astrobiology & Exoplanets,What is “red edge” in exoplanet study?,Vegetation signature in light spectrum,Alien signal,Star brightness,Planet size,1
+Astrobiology & Exoplanets,What is the main challenge of detecting life on exoplanets?,Distance and faint signals,Alien attack,Space war,Time travel,1
+Astrobiology & Exoplanets,What is “astrovirology”?,Study of viruses in space,Alien biology,Robot parts,Space weapons,1
+Astrobiology & Exoplanets,What does the term “habitable exomoon” mean?,Moon capable of supporting life,Planet,Star,Alien base,1
+Astrobiology & Exoplanets,What is “biosignature false positive”?,Non-biological process mimicking life signs,Alien signal,Robot error,Space anomaly,1
+Astrobiology & Exoplanets,What is “planetary protection”?,Preventing contamination of planets,Alien invasion,Robot war,Space mining,1
+category,question,option1,option2,option3,option4,correct_answer
+Cosmic Phenomena,What causes a supernova?,Exploding massive star,Colliding planets,Alien attack,Black hole,1
+Cosmic Phenomena,What are gamma-ray bursts?,Powerful cosmic explosions,Star twinkles,Planet storms,Alien signals,1
+Cosmic Phenomena,What is time dilation?,Time slowing near massive objects,Time travel,Time freeze,Alien communication,1
+Cosmic Phenomena,What is a black hole?,Region of space with strong gravity,Star cluster,Planet,Alien base,1
+Cosmic Phenomena,What is a neutron star?,Collapsed star with high density,Black hole,White dwarf,Alien ship,1
+Cosmic Phenomena,What is dark matter?,Invisible matter affecting gravity,Alien life,Dark energy,Space dust,1
+Cosmic Phenomena,What is cosmic microwave background?,Radiation leftover from Big Bang,Star light,Alien signal,Planet glow,1
+Cosmic Phenomena,What is Hawking radiation?,Emission from black holes,Star explosion,Alien tech,Space radiation,1
+Cosmic Phenomena,What is a quasar?,Active galactic nucleus emitting huge energy,Dying star,Alien beacon,Space station,1
+Cosmic Phenomena,What causes a pulsar?,Rapidly spinning neutron star,Black hole,Supernova,Alien ship,1
+Cosmic Phenomena,What is the event horizon?,Boundary of black hole,Planet edge,Star surface,Alien portal,1
+Cosmic Phenomena,What is cosmic inflation?,Rapid expansion after Big Bang,Alien invasion,Space war,Time travel,1
+Cosmic Phenomena,What is a white dwarf?,Dead star core remaining after supernova,Black hole,Planet,Alien base,1
+Cosmic Phenomena,What is gravitational lensing?,Light bending by gravity,Star explosion,Alien signal,Space distortion,1
+Cosmic Phenomena,What is dark energy?,Mysterious force accelerating universe expansion,Dark matter,Alien force,Space dust,1
+Cosmic Phenomena,What is a magnetar?,Neutron star with extremely strong magnetic field,Black hole,White dwarf,Alien tech,1
+Cosmic Phenomena,What is cosmic ray?,High-energy particles from space,Alien weapon,Star light,Planetary radiation,1
+Cosmic Phenomena,What is the shape of the Milky Way?,Spiral galaxy,Elliptical galaxy,Irregular galaxy,Globular cluster,1
+Cosmic Phenomena,What is a wormhole?,Hypothetical shortcut through spacetime,Black hole,Alien portal,Star cluster,1
+Cosmic Phenomena,What is a cosmic string?,Hypothetical 1D defect in spacetime,Alien technology,Star filament,Planet ring,1
+Cosmic Phenomena,What is an accretion disk?,Matter swirling around black hole,Star core,Planet atmosphere,Alien base,1
+Cosmic Phenomena,What is gravitational wave?,Ripples in spacetime from massive events,Alien signal,Star light,Planet orbit,1
+Cosmic Phenomena,What is a supercluster?,Large group of galaxy clusters,Star cluster,Planetary system,Alien base,1
+Cosmic Phenomena,What is the Big Bang?,Origin event of the universe,Alien invasion,Space war,Time travel,1
+Cosmic Phenomena,What is a red giant?,A late phase star swollen in size,Black hole,White dwarf,Alien star,1
+Cosmic Phenomena,What is a blue shift?,Light moving towards observer,Light moving away,Star explosion,Alien signal,1
+Cosmic Phenomena,What is an event horizon telescope?,Device imaging black holes,Star tracker,Alien scanner,Space probe,1
+Cosmic Phenomena,What is a cosmic void?,Large empty space between galaxy clusters,Dense star cluster,Planetary nebula,Alien territory,1
+Cosmic Phenomena,What is a tidal disruption event?,Star torn apart by black hole,Planet explosion,Alien attack,Space anomaly,1
+Cosmic Phenomena,What is a white hole?,Hypothetical opposite of black hole,Star,Planet,Alien tech,1
+Cosmic Phenomena,What is a kilonova?,Explosion from neutron star collision,Supernova,Alien attack,Star formation,1
+Cosmic Phenomena,What is gravitational redshift?,Light losing energy escaping gravity,Light gaining energy,Star explosion,Alien signal,1
+Cosmic Phenomena,What is cosmic horizon?,Limit of observable universe,Alien base,Space station,Star cluster,1
+Cosmic Phenomena,What is a galaxy cluster?,Group of galaxies bound by gravity,Star cluster,Planetary system,Alien territory,1
+Cosmic Phenomena,What is an interstellar medium?,Gas and dust between stars,Planet surface,Alien tech,Space station,1
+Cosmic Phenomena,What is cosmic censorship hypothesis?,Singularities hidden inside black holes,Alien invasion,Space war,Time travel,1
+Cosmic Phenomena,What is the fate of the universe?,Continued expansion or big crunch,Alien invasion,Space war,Time travel,1
+Cosmic Phenomena,What is a gamma-ray pulsar?,Pulsar emitting gamma rays,Black hole,White dwarf,Alien tech,1
+Cosmic Phenomena,What is the role of neutrinos in astrophysics?,Messengers from nuclear reactions,Alien weapons,Space dust,Planetary radiation,1
+category,question,option1,option2,option3,option4,correct_answer
+Cosmic Phenomena,What type of star collapses to form a neutron star?,Massive star,Small star,White dwarf,Red dwarf,1
+Cosmic Phenomena,What phenomenon causes the bending of light around massive objects?,Gravitational lensing,Magnetic field,Quantum tunneling,Dark matter,1
+Cosmic Phenomena,What are cosmic rays primarily composed of?,High-energy protons and atomic nuclei,Photons,Neutrinos,Electrons,1
+Cosmic Phenomena,Which telescope was the first to detect gravitational waves?,LIGO,Kepler,Hubble,Chandra,1
+Cosmic Phenomena,What is the Chandrasekhar limit?,Maximum mass for a white dwarf star,Maximum black hole mass,Minimum neutron star mass,Maximum planet mass,1
+Cosmic Phenomena,What is a Type Ia supernova?,Explosion of a white dwarf in a binary system,Massive star collapse,Neutron star collision,Black hole formation,1
+Cosmic Phenomena,What effect causes stars to appear redder as they move away from us?,Redshift,Blueshift,Gravitational lensing,Doppler effect,1
+Cosmic Phenomena,What is the primary cause of gamma-ray bursts?,Merging neutron stars or collapsing massive stars,Alien technology,Solar flares,Planetary explosions,1
+Cosmic Phenomena,What phenomenon causes time to slow down near a black hole?,Gravitational time dilation,Quantum entanglement,Dark energy,Magnetic reconnection,1
+Cosmic Phenomena,What is the main source of energy in quasars?,Supermassive black hole accretion disk,Nuclear fusion in stars,Dark matter annihilation,Alien power source,1
+
 Medicine,What treats muscle atrophy in microgravity?,Resistance training,Electrical stimulation,Medication,All of these,4
 Resources,What extracts water from lunar ice?,Thermal mining,Microwave extraction,Drilling,All of these,4
 Habitats,What provides Earth-normal pressure in space habitats?,Pressurized hull,Force field,Atmospheric dome,Sealed environment,1
+
 Engineering,What manufactures components in zero gravity?,3D printing,Microgravity foundry,Orbital factory,All of these,4
