@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -216,6 +217,13 @@
             margin-top: 30px;
         }
         
+        .quiz-header-controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
         .btn {
             padding: 12px 25px;
             background: linear-gradient(to right, #4facfe, #00f2fe);
@@ -228,6 +236,17 @@
             display: flex;
             align-items: center;
             gap: 8px;
+        }
+        
+        .btn-outline {
+            background: transparent;
+            border: 2px solid #4facfe;
+            color: #4facfe;
+        }
+        
+        .btn-outline:hover {
+            background: rgba(79, 172, 254, 0.1);
+            transform: scale(1.05);
         }
         
         .btn:hover:not(:disabled) {
@@ -307,6 +326,12 @@
                 gap: 15px;
             }
             
+            .quiz-header-controls {
+                flex-direction: column;
+                gap: 15px;
+                text-align: center;
+            }
+            
             .btn {
                 width: 100%;
                 justify-content: center;
@@ -374,11 +399,16 @@
         <!-- Quiz Page -->
         <div id="quiz-page" class="hidden">
             <div class="quiz-container">
+                <div class="quiz-header-controls">
+                    <button class="btn btn-outline" id="return-btn">
+                        <i class="fas fa-arrow-left"></i> Return to Skylore
+                    </button>
+                    <div class="question-counter" id="question-counter">Question 1 of 10</div>
+                </div>
+                
                 <div class="progress-bar">
                     <div class="progress" id="progress"></div>
                 </div>
-                
-                <div class="question-counter" id="question-counter">Question 1 of 10</div>
                 
                 <div id="quiz-content">
                     <div class="question" id="question">Loading question...</div>
@@ -403,7 +433,7 @@
                 </div>
                 
                 <div id="results" class="results-container hidden">
-                    <div class="celebrate" id="celebrate">🚀</div>
+                    <div class="celebrate" id="celebrate">??</div>
                     <h2>Quiz Completed!</h2>
                     <div class="score" id="score">0/10</div>
                     <div class="score-text" id="score-text">You're just starting your space journey!</div>
@@ -523,6 +553,7 @@
         const startPage = document.getElementById('start-page');
         const quizPage = document.getElementById('quiz-page');
         const startButton = document.getElementById('start-btn');
+        const returnButton = document.getElementById('return-btn');
         const questionCounter = document.getElementById('question-counter');
         const questionElement = document.getElementById('question');
         const optionsElement = document.getElementById('options');
@@ -699,23 +730,23 @@
             
             // Set score message
             let message = "";
-            let emoji = "🌍";
+            let emoji = "??";
             
             if (score === totalQuestions) {
                 message = "Perfect! You're a space exploration expert!";
-                emoji = "🚀";
+                emoji = "??";
             } else if (score >= totalQuestions * 0.8) {
                 message = "Excellent! You know your space history well!";
-                emoji = "⭐";
+                emoji = "?";
             } else if (score >= totalQuestions * 0.6) {
                 message = "Good job! You have solid space knowledge!";
-                emoji = "🛰️";
+                emoji = "???";
             } else if (score >= totalQuestions * 0.4) {
                 message = "Not bad! Keep learning about space exploration!";
-                emoji = "🌙";
+                emoji = "??";
             } else {
                 message = "You're just starting your space journey!";
-                emoji = "🔭";
+                emoji = "??";
             }
             
             scoreTextElement.textContent = message;
@@ -746,6 +777,17 @@
             quizPage.classList.add('hidden');
         }
 
+        // Return to Skylore
+        function returnToSkylore() {
+            if (confirm('Are you sure you want to return to Skylore? Your current progress will be lost.')) {
+                // Here you would typically redirect to Skylore
+                // For now, we'll just go back to the start page
+                goToStartPage();
+                // If Skylore is another page, you would use:
+                // window.location.href = 'skylore.html';
+            }
+        }
+
         // Start the quiz
         function startQuiz() {
             startPage.classList.add('hidden');
@@ -755,6 +797,7 @@
 
         // Event listeners
         startButton.addEventListener('click', startQuiz);
+        returnButton.addEventListener('click', returnToSkylore);
         prevButton.addEventListener('click', prevQuestion);
         nextButton.addEventListener('click', nextQuestion);
         submitButton.addEventListener('click', submitQuiz);
