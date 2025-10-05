@@ -153,10 +153,12 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            gap: 10px;
         }
         
         .nav-btn {
             padding: 12px 25px;
+            flex: 1;
         }
         
         .nav-btn:disabled {
@@ -169,8 +171,10 @@
         
         .return-btn {
             background: linear-gradient(to right, #ff6b6b, #ff8e8e);
-            padding: 12px 25px;
+            padding: 12px 20px;
             font-size: 1rem;
+            flex: 1;
+            max-width: 200px;
         }
         
         .return-btn:hover {
@@ -278,25 +282,45 @@
             padding: 10px 20px;
             font-size: 1rem;
         }
+
+        /* Responsive design for navigation */
+        @media (max-width: 600px) {
+            .navigation {
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            .nav-btn, .return-btn {
+                width: 100%;
+                max-width: none;
+            }
+            
+            button {
+                padding: 12px 25px;
+                font-size: 1rem;
+            }
+            
+            h1 {
+                font-size: 2.2rem;
+            }
+            
+            .question {
+                font-size: 1.2rem;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="start-screen" id="start-screen">
             <h1>Space Racers Quiz</h1>
-            <p class="subtitle">Test your knowledge about the cosmos with this 
-
-challenging space quiz! Answer 10 difficult questions about planets, stars, 
-
-space exploration, and more.</p>
+            <p class="subtitle">Test your knowledge about the cosmos with this challenging space quiz! Answer 10 difficult questions about planets, stars, space exploration, and more.</p>
             <button id="start-btn">Start Quiz</button>
         </div>
         
         <div class="quiz-container" id="quiz-container">
             <div class="quiz-header">
-                <div class="question-count">Question: <span id="current-
-
-question">1</span>/<span id="total-questions">10</span></div>
+                <div class="question-count">Question: <span id="current-question">1</span>/<span id="total-questions">10</span></div>
                 <div class="timer">Time: <span id="time">30</span>s</div>
             </div>
             
@@ -312,9 +336,7 @@ question">1</span>/<span id="total-questions">10</span></div>
             
             <div class="navigation">
                 <button class="nav-btn" id="prev-btn" disabled>Previous</button>
-                <button class="return-btn" id="return-btn">Return to 
-
-Skylore</button>
+                <button class="return-btn" id="return-btn">Return to Skylore</button>
                 <button class="nav-btn" id="next-btn">Next Question</button>
             </div>
         </div>
@@ -327,24 +349,16 @@ Skylore</button>
             
             <div class="results-header">
                 <h3>Your Answers:</h3>
-                <button class="show-answers-btn" id="toggle-answers">Show 
-
-Answers</button>
+                <button class="show-answers-btn" id="toggle-answers">Show Answers</button>
             </div>
             
-            <div class="answers-container" id="answers-container" style="display: 
-
-none;">
+            <div class="answers-container" id="answers-container" style="display: none;">
                 <!-- Answers will be inserted here by JavaScript -->
             </div>
             
-            <div style="margin-top: 30px; display: flex; gap: 15px; justify-content: 
-
-center;">
+            <div style="margin-top: 30px; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
                 <button id="restart-btn">Take Quiz Again</button>
-                <button class="return-btn" id="results-return-btn">Return to 
-
-Skylore</button>
+                <button class="return-btn" id="results-return-btn">Return to Skylore</button>
             </div>
         </div>
     </div>
@@ -355,155 +369,81 @@ Skylore</button>
             // Planets and Moons
             {
                 category: "planets",
-                question: "Which moon in our solar system has a retrograde orbit, 
-
-meaning it orbits in the opposite direction of its planet's rotation?",
+                question: "Which moon in our solar system has a retrograde orbit, meaning it orbits in the opposite direction of its planet's rotation?",
                 options: ["Titan", "Triton", "Europa", "Io"],
                 answer: 1,
-                explanation: "Triton, Neptune's largest moon, has a retrograde orbit, 
-
-which is unusual for a large moon. This suggests it may be a captured Kuiper 
-
-Belt object."
+                explanation: "Triton, Neptune's largest moon, has a retrograde orbit, which is unusual for a large moon. This suggests it may be a captured Kuiper Belt object."
             },
             {
                 category: "planets",
-                question: "What unique geological feature makes Venus the hottest 
-
-planet in our solar system, despite Mercury being closer to the Sun?",
-                options: ["Massive volcanic activity", "Extreme axial tilt", "Runaway 
-
-greenhouse effect", "Dense metallic core"],
+                question: "What unique geological feature makes Venus the hottest planet in our solar system, despite Mercury being closer to the Sun?",
+                options: ["Massive volcanic activity", "Extreme axial tilt", "Runaway greenhouse effect", "Dense metallic core"],
                 answer: 2,
-                explanation: "Venus has a runaway greenhouse effect with a thick 
-
-atmosphere of CO2, trapping heat and making it hotter than Mercury. Surface 
-
-temperatures can reach 462°C (864°F)."
+                explanation: "Venus has a runaway greenhouse effect with a thick atmosphere of CO2, trapping heat and making it hotter than Mercury. Surface temperatures can reach 462°C (864°F)."
             },
             
             // Stars and Galaxies
             {
                 category: "stars",
-                question: "What cosmic phenomenon occurs when a white dwarf star 
-
-accumulates enough mass from a companion star to exceed the 
-
-Chandrasekhar limit?",
-                options: ["Neutron star formation", "Type Ia supernova", "Black hole 
-
-formation", "Planetary nebula"],
+                question: "What cosmic phenomenon occurs when a white dwarf star accumulates enough mass from a companion star to exceed the Chandrasekhar limit?",
+                options: ["Neutron star formation", "Type Ia supernova", "Black hole formation", "Planetary nebula"],
                 answer: 1,
-                explanation: "Type Ia supernovae occur when a white dwarf exceeds 
-
-the Chandrasekhar limit (about 1.4 solar masses) and undergoes a 
-
-thermonuclear explosion. These supernovae are important 'standard candles' in 
-
-astronomy."
+                explanation: "Type Ia supernovae occur when a white dwarf exceeds the Chandrasekhar limit (about 1.4 solar masses) and undergoes a thermonuclear explosion. These supernovae are important 'standard candles' in astronomy."
             },
             {
                 category: "stars",
-                question: "Which galaxy is on a collision course with the Milky Way 
-
-and is expected to merge with it in about 4.5 billion years?",
-                options: ["Triangulum Galaxy", "Andromeda Galaxy", "Large Magellanic 
-
-Cloud", "Sombrero Galaxy"],
+                question: "Which galaxy is on a collision course with the Milky Way and is expected to merge with it in about 4.5 billion years?",
+                options: ["Triangulum Galaxy", "Andromeda Galaxy", "Large Magellanic Cloud", "Sombrero Galaxy"],
                 answer: 1,
-                explanation: "The Andromeda Galaxy is approaching the Milky Way at 
-
-about 110 km/s and is expected to merge with our galaxy in 4.5 billion years, 
-
-forming a new elliptical galaxy."
+                explanation: "The Andromeda Galaxy is approaching the Milky Way at about 110 km/s and is expected to merge with our galaxy in 4.5 billion years, forming a new elliptical galaxy."
             },
             
             // Space Exploration
             {
                 category: "exploration",
-                question: "Which space probe was the first to provide detailed 
-
-images of Pluto and its moons in 2015?",
+                question: "Which space probe was the first to provide detailed images of Pluto and its moons in 2015?",
                 options: ["Voyager 1", "New Horizons", "Cassini-Huygens", "Dawn"],
                 answer: 1,
-                explanation: "NASA's New Horizons spacecraft conducted a flyby of 
-
-Pluto in July 2015, providing the first high-resolution images of the dwarf planet 
-
-and revealing its complex geology."
+                explanation: "NASA's New Horizons spacecraft conducted a flyby of Pluto in July 2015, providing the first high-resolution images of the dwarf planet and revealing its complex geology."
             },
             {
                 category: "exploration",
-                question: "What is the name of the first reusable orbital-class rocket 
-
-successfully developed by SpaceX?",
+                question: "What is the name of the first reusable orbital-class rocket successfully developed by SpaceX?",
                 options: ["Falcon 1", "Falcon 9", "Starship", "Atlas V"],
                 answer: 1,
-                explanation: "SpaceX's Falcon 9 became the first reusable orbital-
-
-class rocket when its first stage successfully landed back on Earth in 2015, 
-
-revolutionizing space launch economics."
+                explanation: "SpaceX's Falcon 9 became the first reusable orbital-class rocket when its first stage successfully landed back on Earth in 2015, revolutionizing space launch economics."
             },
             
             // Astronauts and Missions
             {
                 category: "astronauts",
                 question: "Who was the first human to conduct a spacewalk?",
-                options: ["Yuri Gagarin", "Neil Armstrong", "Alexei Leonov", "John 
-
-Glenn"],
+                options: ["Yuri Gagarin", "Neil Armstrong", "Alexei Leonov", "John Glenn"],
                 answer: 2,
-                explanation: "Soviet cosmonaut Alexei Leonov performed the first 
-
-spacewalk on March 18, 1965, during the Voskhod 2 mission. His spacewalk 
-
-lasted 12 minutes."
+                explanation: "Soviet cosmonaut Alexei Leonov performed the first spacewalk on March 18, 1965, during the Voskhod 2 mission. His spacewalk lasted 12 minutes."
             },
             {
                 category: "astronauts",
-                question: "Which Apollo mission was the first to land humans on the 
-
-Moon?",
+                question: "Which Apollo mission was the first to land humans on the Moon?",
                 options: ["Apollo 10", "Apollo 11", "Apollo 12", "Apollo 13"],
                 answer: 1,
-                explanation: "Apollo 11, with astronauts Neil Armstrong, Buzz Aldrin, 
-
-and Michael Collins, successfully landed on the Moon on July 20, 1969. 
-
-Armstrong's famous words were 'That's one small step for man, one giant leap 
-
-for mankind.'"
+                explanation: "Apollo 11, with astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins, successfully landed on the Moon on July 20, 1969. Armstrong's famous words were 'That's one small step for man, one giant leap for mankind.'"
             },
             
             // Astronomy Facts
             {
                 category: "facts",
-                question: "What is the name of the supermassive black hole at the 
-
-center of our Milky Way galaxy?",
+                question: "What is the name of the supermassive black hole at the center of our Milky Way galaxy?",
                 options: ["Cygnus X-1", "Sagittarius A*", "M87", "Centaurus A"],
                 answer: 1,
-                explanation: "Sagittarius A* is the supermassive black hole at the 
-
-center of the Milky Way, with a mass of about 4 million suns. It was first directly 
-
-imaged in 2022."
+                explanation: "Sagittarius A* is the supermassive black hole at the center of the Milky Way, with a mass of about 4 million suns. It was first directly imaged in 2022."
             },
             {
                 category: "facts",
-                question: "What is the approximate age of the universe, according to 
-
-current cosmological models?",
-                options: ["8.7 billion years", "13.8 billion years", "17.2 billion years", 
-
-"22.5 billion years"],
+                question: "What is the approximate age of the universe, according to current cosmological models?",
+                options: ["8.7 billion years", "13.8 billion years", "17.2 billion years", "22.5 billion years"],
                 answer: 1,
-                explanation: "Based on measurements of the cosmic microwave 
-
-background and the expansion rate of the universe, scientists estimate the 
-
-universe is about 13.8 billion years old."
+                explanation: "Based on measurements of the cosmic microwave background and the expansion rate of the universe, scientists estimate the universe is about 13.8 billion years old."
             }
         ];
 
@@ -514,12 +454,8 @@ universe is about 13.8 billion years old."
         const resultsContainer = document.getElementById('results');
         const questionElement = document.getElementById('question');
         const optionsElement = document.getElementById('options');
-        const currentQuestionElement = document.getElementById('current-
-
-question');
-        const totalQuestionsElement = document.getElementById('total-
-
-questions');
+        const currentQuestionElement = document.getElementById('current-question');
+        const totalQuestionsElement = document.getElementById('total-questions');
         const progressElement = document.getElementById('progress');
         const nextBtn = document.getElementById('next-btn');
         const prevBtn = document.getElementById('prev-btn');
@@ -544,6 +480,8 @@ questions');
 
         // Initialize the quiz
         function initQuiz() {
+            console.log("Start button clicked - initializing quiz");
+            
             // Select 10 random questions
             currentQuestions = shuffleArray([...quizData]).slice(0, 10);
             
@@ -608,9 +546,7 @@ questions');
             
             // Update navigation buttons
             prevBtn.disabled = currentQuestionIndex === 0;
-            nextBtn.textContent = currentQuestionIndex === 
-
-currentQuestions.length - 1 ? 'Finish Quiz' : 'Next Question';
+            nextBtn.textContent = currentQuestionIndex === currentQuestions.length - 1 ? 'Finish Quiz' : 'Next Question';
             
             // Start timer for this question
             startTimer();
@@ -636,9 +572,7 @@ currentQuestions.length - 1 ? 'Finish Quiz' : 'Next Question';
 
         // Update progress bar
         function updateProgressBar() {
-            const progress = ((currentQuestionIndex + 1) / 
-
-currentQuestions.length) * 100;
+            const progress = ((currentQuestionIndex + 1) / currentQuestions.length) * 100;
             progressElement.style.width = `${progress}%`;
         }
 
@@ -702,9 +636,7 @@ currentQuestions.length) * 100;
         function toggleAnswers() {
             showAnswers = !showAnswers;
             answersContainer.style.display = showAnswers ? 'block' : 'none';
-            toggleAnswersBtn.textContent = showAnswers ? 'Hide Answers' : 
-
-'Show Answers';
+            toggleAnswersBtn.textContent = showAnswers ? 'Hide Answers' : 'Show Answers';
         }
 
         // Finish quiz and show results
@@ -741,9 +673,7 @@ currentQuestions.length) * 100;
                 message = "Not bad! Keep learning about space!";
                 celebrate = "???";
             } else {
-                message = "Keep exploring the cosmos! There's always more to 
-
-learn.";
+                message = "Keep exploring the cosmos! There's always more to learn.";
                 celebrate = "??";
             }
             
@@ -775,18 +705,14 @@ learn.";
                 userAnswerElement.classList.add(isCorrect ? 'correct' : 'wrong');
                 
                 if (userAnswerIndex !== null) {
-                    userAnswerElement.textContent = `Your answer: 
-
-${question.options[userAnswerIndex]}`;
+                    userAnswerElement.textContent = `Your answer: ${question.options[userAnswerIndex]}`;
                 } else {
                     userAnswerElement.textContent = `Your answer: Not answered`;
                 }
                 
                 const correctAnswerElement = document.createElement('div');
                 correctAnswerElement.classList.add('correct-answer');
-                correctAnswerElement.textContent = `Correct answer: 
-
-${question.options[question.answer]}`;
+                correctAnswerElement.textContent = `Correct answer: ${question.options[question.answer]}`;
                 
                 const explanationElement = document.createElement('div');
                 explanationElement.classList.add('explanation');
@@ -821,6 +747,12 @@ ${question.options[question.answer]}`;
         // Return to Skylore buttons
         returnBtn.addEventListener('click', returnToSkylore);
         resultsReturnBtn.addEventListener('click', returnToSkylore);
+
+        // Debug: Check if elements are properly loaded
+        console.log("DOM loaded successfully");
+        console.log("Start button:", startBtn);
+        console.log("Quiz container:", quizContainer);
+        console.log("Results container:", resultsContainer);
     </script>
 </body>
 </html>
