@@ -34,7 +34,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 33,The primary purpose of Jantar Mantar was to:,Observe celestial events,Serve as a temple,House royal archives,Be a fort,0,Ancient Observatories
 34,The 'Mul.Apin' tablets from Mesopotamia are examples of:,Star catalogs,Astronomical instruments,Religious texts,Calendars,0,Ancient Star Charts
 35,Who proposed the geocentric model of the universe?,Aristotle,Ptolemy,Both,Neither,2,Cosmic Models
-36,In Polynesian wayfinding, the sky is divided into â€˜housesâ€™ where stars rise and set. How many starâ€‘houses are there in the Hawaiian star compass?,16,24,32,40,2,Celestial Navigation
+36,In Polynesian wayfinding the sky is divided into â€˜housesâ€™ where stars rise and set. How many starâ€‘houses are there in the Hawaiian star compass?,16,24,32,40,2,Celestial Navigation
 37,The Islamic calendar is based on what type of cycle?,Solar,Lunar,Lunisolar,Stellar,1,Lunar Calendars
 38,What was added to the Egyptian calendar to align it with the solar year?,Leap day,Extra week,5 epagomenal days,Intercalary month,2,Solar Calendars
 39,Which planet was associated with the Babylonian god Marduk?,Venus,Mercury,Jupiter,Saturn,2,Babylonian Astronomy
@@ -42,7 +42,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 41,What is the name of the Chinese system dividing the sky into regions?,Zodiac,Nakshatra,Three Schools,Three Enclosures,3,Ancient Chinese Astronomy
 42,How many days were in the Haab' calendar?,260,360,365,400,2,Mayan and Aztec Cosmology
 43,Which ancient Greek astronomer first proposed a spherical Earth?,Aristotle,Anaximander,Pythagoras,Eratosthenes,0,Greek and Roman Theories
-44,According to Egyptian mythology, which god created the world from a cosmic mound?,Ra,Osiris,Atum,Horus,2,Cosmology in Mythology
+44,According to Egyptian mythology- which god created the world from a cosmic mound?,Ra,Osiris,Atum,Horus,2,Cosmology in Mythology
 45,What is the term for the zodiac signs used in astrology?,Nakshatras,Constellations,Star Clusters,Horoscopes,3,Astrology as Proto-Science
 46,Which civilization built the temple complex at Chichen Itza with astronomical alignments?,Maya,Inca,Aztec,Olmec,0,Sacred Geometry & Astronomy
 47,The ancient Chinese believed comets were:,Dragons in the sky,Birds of the gods,Fires of the heavens,Messengers of doom,3,Ancient Beliefs about Comets and Meteors
@@ -722,6 +722,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
 724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
 
 
 
