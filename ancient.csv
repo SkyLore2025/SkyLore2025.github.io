@@ -49,7 +49,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 48,Which ancient culture is believed to have built Stonehenge?,Neolithic Britons,Roman Empire,Celts,Anglo-Saxons,0,Stonehenge and Archaeoastronomy
 49,The 'star shafts' in the Great Pyramid are believed to align with:,Orion and Sirius,Venus and Mars,Polaris and Betelgeuse,Andromeda and Vega,0,Pyramids and Stellar Alignments
 
-51,Which ancient culture created the Denderah Zodiac, an important celestial map?,Egyptians,Maya,Greeks,Romans,0,Ancient Star Charts
+51,Which ancient culture created the Denderah Zodiac an important celestial map?,Egyptians,Maya,Greeks,Romans,0,Ancient Star Charts
 52,What astronomical phenomenon did ancient Chinese astronomers record in 1054 CE?,Solar eclipse,Supernova,Comet,Meteor shower,1,Observations
 53,Which ancient civilization is credited with using the North Star for orientation in their river navigation?,Babylonians,Egyptians,Greeks,Chinese,1,Celestial Navigation
 54,What is the term for the first visible crescent moon that marks a new month in many lunar calendars?,Full Moon,Blue Moon,New Crescent,Harvest Moon,2,Lunar Calendars
@@ -722,6 +722,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
 724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
 
 
 
