@@ -175,6 +175,7 @@
             margin-bottom: 20px;
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
         }
 
         .question-number {
@@ -324,6 +325,73 @@
         .incorrect-answer {
             color: #f44336;
         }
+
+        /* Voice Button Styles */
+        .voice-btn {
+            background: rgba(79, 195, 247, 0.2);
+            border: 1px solid rgba(79, 195, 247, 0.5);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1.2em;
+            margin-left: 10px;
+            transition: all 0.3s;
+            backdrop-filter: blur(10px);
+        }
+
+        .voice-btn:hover {
+            background: rgba(79, 195, 247, 0.4);
+            transform: scale(1.1);
+        }
+
+        .question-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+
+        .question-text-container {
+            display: flex;
+            align-items: center;
+            flex: 1;
+        }
+
+        /* Confetti container */
+        #confetti-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        .confetti {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background: #f00;
+            opacity: 0.8;
+        }
+
+        /* Better luck message */
+        .better-luck-message {
+            text-align: center;
+            font-size: 1.2em;
+            color: #ff6b6b;
+            margin: 10px 0;
+            font-weight: bold;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
     </style>
 </head>
 <body>
@@ -349,8 +417,14 @@
                 <div class="progress" id="progress-bar"></div>
             </div>
             <div class="question-container">
-                <div class="question-number" id="question-number">Question 1/8</div>
-                <div class="question" id="question"></div>
+                <div class="question-header">
+                    <div class="question-number" id="question-number">Question 1/8</div>
+                    <button class="voice-btn" onclick="readCurrentQuestion()" title="Read question aloud">??</button>
+                </div>
+                <div class="question-text-container">
+                    <div class="question" id="question"></div>
+                </div>
+                <div id="better-luck-container"></div>
                 <div class="options" id="options"></div>
             </div>
             <button class="next-btn" onclick="nextQuestion()" id="next-btn" style="display: none;">Next Question</button>
@@ -367,6 +441,9 @@
             <button class="restart-btn" onclick="restartQuiz()">Take Quiz Again</button>
         </div>
     </div>
+
+    <!-- Confetti Container -->
+    <div id="confetti-container"></div>
 
     <script>
         const questions = [
@@ -431,6 +508,7 @@
         let currentQuestion = 0;
         let score = 0;
         let userAnswers = [];
+        let speechSynth = window.speechSynthesis;
 
         function startQuiz() {
             document.getElementById('start-screen').classList.remove('active');
@@ -442,6 +520,9 @@
             const question = questions[currentQuestion];
             document.getElementById('question-number').textContent = `Question ${currentQuestion + 1}/${questions.length}`;
             document.getElementById('question').textContent = question.question;
+            
+            // Clear previous messages
+            document.getElementById('better-luck-container').innerHTML = '';
             
             const optionsContainer = document.getElementById('options');
             optionsContainer.innerHTML = '';
@@ -460,9 +541,56 @@
             document.getElementById('progress-bar').style.width = `${progress}%`;
         }
 
+        function readCurrentQuestion() {
+            // Stop any ongoing speech
+            speechSynth.cancel();
+            
+            const question = questions[currentQuestion];
+            const questionText = `Question ${currentQuestion + 1}: ${question.question}. Options: ${question.options.join(', ')}`;
+            
+            const utterance = new SpeechSynthesisUtterance(questionText);
+            utterance.rate = 0.9;
+            utterance.pitch = 1;
+            utterance.volume = 1;
+            
+            speechSynth.speak(utterance);
+        }
+
+        function createConfetti() {
+            const confettiContainer = document.getElementById('confetti-container');
+            confettiContainer.innerHTML = '';
+            
+            const colors = ['#ff0000', '#00ff00', '#0000ff', '#ffff00', '#ff00ff', '#00ffff', '#ffa500', '#ff69b4'];
+            
+            for (let i = 0; i < 150; i++) {
+                const confetti = document.createElement('div');
+                confetti.className = 'confetti';
+                confetti.style.left = Math.random() * 100 + 'vw';
+                confetti.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+                confetti.style.width = Math.random() * 10 + 5 + 'px';
+                confetti.style.height = Math.random() * 10 + 5 + 'px';
+                confetti.style.borderRadius = Math.random() > 0.5 ? '50%' : '0';
+                
+                const animation = confetti.animate([
+                    { transform: 'translateY(-100px) rotate(0deg)', opacity: 1 },
+                    { transform: `translateY(${window.innerHeight}px) rotate(${Math.random() * 720 - 360}deg)`, opacity: 0 }
+                ], {
+                    duration: Math.random() * 3000 + 2000,
+                    easing: 'cubic-bezier(0.1, 0.8, 0.2, 1)'
+                });
+                
+                confettiContainer.appendChild(confetti);
+                
+                animation.onfinish = () => {
+                    confetti.remove();
+                };
+            }
+        }
+
         function selectOption(selectedIndex) {
             const question = questions[currentQuestion];
             const options = document.querySelectorAll('.option');
+            const betterLuckContainer = document.getElementById('better-luck-container');
             
             options.forEach(option => {
                 option.style.pointerEvents = 'none';
@@ -477,8 +605,25 @@
             });
             
             const isCorrect = selectedIndex === question.correct;
+            
+            // Show celebration or better luck message
             if (isCorrect) {
                 score++;
+                createConfetti();
+                
+                // Speak congratulations
+                const utterance = new SpeechSynthesisUtterance("Correct! Well done!");
+                speechSynth.speak(utterance);
+            } else {
+                // Show better luck message
+                const betterLuckMessage = document.createElement('div');
+                betterLuckMessage.className = 'better-luck-message';
+                betterLuckMessage.textContent = "Better luck next time!";
+                betterLuckContainer.appendChild(betterLuckMessage);
+                
+                // Speak better luck message
+                const utterance = new SpeechSynthesisUtterance("Better luck next time!");
+                speechSynth.speak(utterance);
             }
             
             userAnswers.push({
@@ -494,6 +639,9 @@
         }
 
         function nextQuestion() {
+            // Stop any ongoing speech
+            speechSynth.cancel();
+            
             currentQuestion++;
             if (currentQuestion < questions.length) {
                 showQuestion();
@@ -531,6 +679,9 @@
         }
 
         function restartQuiz() {
+            // Stop any ongoing speech
+            speechSynth.cancel();
+            
             currentQuestion = 0;
             score = 0;
             userAnswers = [];
