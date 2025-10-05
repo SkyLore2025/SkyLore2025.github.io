@@ -17,7 +17,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 16,Jantar Mantar in India was built by which ruler?,Maharaja Jai Singh II,Akbar,Shah Jahan,Chandragupta Maurya,0,Ancient Observatories
 17,Which ancient civilization is credited with one of the earliest known star charts?,Babylonians,Egyptians,Greeks,Chinese,0,Ancient Star Charts
 18,What did ancient Babylonians call the planet Venus?,Ishtar,Marduk,Shamash,Sin,0,Planets
-19,Which device, developed by 9thâ€‘century Arab navigators, measured the angle of the North Star above the horizon to estimate latitude?,Astrolabe,Sextant,Kamal,Quadrant,2,Celestial Navigation
+19,Which device- developed by 9thâ€‘century Arab navigators, measured the angle of the North Star above the horizon to estimate latitude?,Astrolabe,Sextant,Kamal,Quadrant,2,Celestial Navigation
 20,How many days are in a typical lunar month?,28,29,29.5,30,2,Lunar Calendars
 21,How many days were in the ancient Egyptian solar calendar?,360,364,365,366,2,Solar Calendars
 22,The Babylonian zodiac consisted of how many signs?,10,12,14,13,1,Babylonian Astronomy
@@ -722,5 +722,6 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
 724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
 
 
