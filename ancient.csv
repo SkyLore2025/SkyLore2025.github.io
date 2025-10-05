@@ -75,11 +75,11 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 74,The term 'Nakshatra' refers to:,Solar zodiac,Constellation,Lunar mansion,Ecliptic point,2,Indian Vedic Astronomy
 75,Who is considered a key figure in early Chinese astronomical observations?,Confucius,Sima Qian,Gan De,Zhang Heng,2,Ancient Chinese Astronomy
 76,What is the length of one complete Calendar Round cycle?,52 years,260 years,365 years,104 years,0,Mayan and Aztec Cosmology
-77,In Ptolemaic astronomy, planets move in small circles called:,Epicycles,Deferents,Eccentrics,Rings,0,Greek and Roman Theories
+77,In Ptolemaic astronomy planets move in small circles called:,Epicycles,Deferents,Eccentrics,Rings,0,Greek and Roman Theories
 78,What role does the serpent play in many ancient cosmologies?,Destroyer,Creator,World bearer,Chaos agent,3,Cosmology in Mythology
 79,What was the primary purpose of astrology in ancient societies?,Predict weather,Explain human fate,Calculate time,Map stars,1,Astrology as Proto-Science
 80,Which celestial event does the ancient monument Newgrange in Ireland mark?,Winter Solstice,Spring Equinox,Autumn Equinox,Summer Solstice,0,Sacred Geometry & Astronomy
-81,In Norse mythology, meteors were believed to be:,Falling stars,Warriorsâ€™ swords,Odinâ€™s arrows,Lightning bolts,2,Ancient Beliefs about Comets and Meteors
+81,In Norse mythology meteors were believed to be:,Falling stars,Warriorsâ€™ swords,Odinâ€™s arrows,Lightning bolts,2,Ancient Beliefs about Comets and Meteors
 82,Stonehengeâ€™s layout is designed to track movements of:,The Sun,The Moon,Venus,All of the above,3,Stonehenge and Archaeoastronomy
 83,Which star is associated with the southern shaft of the Queenâ€™s Chamber?,Sirius,Orion,Polaris,Betelgeuse,0,Pyramids and Stellar Alignments
 84,Nabta Playa observatory is found on which continent?,Africa,Asia,South America,Europe,0,Ancient Observatories
@@ -110,9 +110,9 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 109,Which book contains one of the oldest known Chinese star maps?,Book of Changes,Book of Songs,Dunhuang Star Chart,Book of Han,2,Ancient Chinese Astronomy
 110,Which number system did the Maya use for their calendar?,Binary,Decimal,Vigesimal (base-20),Hexadecimal,2,Mayan and Aztec Cosmology
 111,Which planet's retrograde motion was a key problem for early astronomers?,Mars,Venus,Jupiter,Saturn,0,Greek and Roman Theories
-112,In Mesopotamian myth, which goddess represents the primordial waters?,Tiamat,Ishtar,Inanna,Ereshkigal,0,Cosmology in Mythology
+112,In Mesopotamian myth which goddess represents the primordial waters?,Tiamat,Ishtar,Inanna,Ereshkigal,0,Cosmology in Mythology
 113,Who was the Greek philosopher that integrated astrology with astronomy?,Ptolemy,Aristotle,Plato,Democritus,0,Astrology as Proto-Science
-114,In ancient Egypt, which star was associated with the goddess Isis and used for alignment?,Sirius,Polaris,Betelgeuse,Canopus,0,Sacred Geometry & Astronomy
+114,In ancient Egypt which star was associated with the goddess Isis and used for alignment?,Sirius,Polaris,Betelgeuse,Canopus,0,Sacred Geometry & Astronomy
 115,The appearance of Halley's Comet was historically linked with:,Battle outcomes,Plagues,Political change,All of the above,3,Ancient Beliefs about Comets and Meteors
 116,What type of stones were used for the inner circle at Stonehenge?,Bluestones,Granite,Marble,Limestone,0,Stonehenge and Archaeoastronomy
 117,Which ancient Egyptian god is associated with the Orion constellation?,Osiris,Ra,Anubis,Horus,0,Pyramids and Stellar Alignments
@@ -137,7 +137,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 136,Which ancient culture divided the sky into 28 lunar mansions or nakshatras?,Indian,Chinese,Greek,Babylonian,0,Ancient Star Charts
 137,What astronomical tool did ancient Arabs perfect?,Telescope,Astrolabe,Quadrant,Sextant,1,Instruments
 138,What is the approximate maximum angular distance from the horizon at which a star can still be used for direction in Polynesian navigation?,10Â°,30â€“35Â°,60Â°,85Â°,1,Celestial Navigation
-139,In ancient Mesopotamia, what event marked the start of a new month?,Full Moon,Eclipse,Sunrise,First crescent moon,3,Lunar Calendars
+139,In ancient Mesopotamia what event marked the start of a new month?,Full Moon,Eclipse,Sunrise,First crescent moon,3,Lunar Calendars
 140,How many days were in the Mayan Haab' year?,360,364,365,400,2,Solar Calendars
 141,Which planet was called 'Ninurta' in Babylonian astronomy?,Jupiter,Saturn,Mars,Mercury,1,Babylonian Astronomy
 142,What does 'sidereal time' measure?,Time based on Moon,Time based on Sun,Time based on stars,Time based on eclipses,2,Indian Vedic Astronomy
@@ -145,9 +145,9 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 144,What was the Mayan name for Venus?,Lamat,Chac,Itzamna,Ahau,0,Mayan and Aztec Cosmology
 145,Which Roman astronomer improved star catalogs in antiquity?,Ptolemy,Galen,Hipparchus,Pliny,2,Greek and Roman Theories
 146,What is the Hindu concept of 'Brahmanda'?,The cosmic egg,The creator god,The world ocean,The underworld,0,Cosmology in Mythology
-147,In Babylonian astrology, what did the planet Venus symbolize?,Love and war,Peace and fertility,Death and rebirth,Wealth and power,0,Astrology as Proto-Science
+147,In Babylonian astrology what did the planet Venus symbolize?,Love and war,Peace and fertility,Death and rebirth,Wealth and power,0,Astrology as Proto-Science
 148,Which ancient Indian monument has architectural alignment with solstices?,Konark Sun Temple,Taj Mahal,Qutub Minar,Ajanta Caves,0,Sacred Geometry & Astronomy
-149,In ancient Egypt, comets were often interpreted as:,Bad omens,Good harvest signs,Messages from ancestors,Spiritual cleansers,0,Ancient Beliefs about Comets and Meteors
+149,In ancient Egypt comets were often interpreted as:,Bad omens,Good harvest signs,Messages from ancestors,Spiritual cleansers,0,Ancient Beliefs about Comets and Meteors
 150,The solstice alignments at Stonehenge suggest it was used for:,Religious ceremonies,Astronomical observations,Social gatherings,All of the above,3,Stonehenge and Archaeoastronomy
 151,The alignment of the pyramids also correlates with the Nile River and what other feature?,Milky Way,Sirius,Bennu comet,The Sun,0,Pyramids and Stellar Alignments
 152,El Caracolâ€™s windows align with the rise and set of:,Venus,Mercury,Moon,Sirius,2,Ancient Observatories
@@ -161,7 +161,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 160,What is the term for the Chinese cosmological cycle of 60 years?,Yin-Yang cycle,Zodiacal cycle,Sexagenary cycle,Lunar cycle,2,Ancient Chinese Astronomy
 161,How many days is Venus visible as a morning star before disappearing?,30,70,90,180,1,Mayan and Aztec Cosmology
 162,What is the name of the circular path around which an epicycle moves?,Deferent,Eccentric,Orbit,Axis,0,Greek and Roman Theories
-163,In the Mayan creation myth, which god created humans from maize?,Itzamna,Tepeu,Hun Hunahpu,Ah Puch,1,Cosmology in Mythology
+163,In the Mayan creation myth which god created humans from maize?,Itzamna,Tepeu,Hun Hunahpu,Ah Puch,1,Cosmology in Mythology
 164,The word 'horoscope' comes from Greek meaning:,Hour marker,Star watcher,Time observer,Sky watcher,0,Astrology as Proto-Science
 165,Which geometric shape is most commonly found in sacred architecture?,Circle,Triangle,Square,All of the above,3,Sacred Geometry & Astronomy
 166,The Maya recorded meteors in their codices as:,Stars falling,Gods descending,Fire arrows,Heavenly omens,0,Ancient Beliefs about Comets and Meteors
@@ -722,6 +722,7 @@ id,question,option1,option2,option3,option4,correctAnswer,category
 722,Which ancient astronomer cataloged nebulae?,Ptolemy,Al-Sufi,Hipparchus,None,1,Star Catalogs
 723,What did ancient cultures call the band of the zodiac?,Ecliptic belt,Zodiacal circle,Both,Neither,2,Zodiac
 724,Which civilization first recorded Halley's Comet?,Chinese,Babylonian,Greek,Egyptian,0,Observations
+
 
 
 
